@@ -6,6 +6,25 @@ This repo contain the source data for the [country-region-selector](https://gith
 script. As I plan on creating multiple versions of this script (React, Polymer, X-Tags, etc), I've moved the source 
 data here so that each of the repos can pull from the single source. 
 
+See the `data.json` file for the data. It's of the form: 
+
+```javascript
+[
+  {
+    "countryName":"Ecuador",
+    "countryShortCode":"EC",
+    "regions":[
+      {
+        "name":"Azuay",
+        "shortCode":"A"
+      },
+      ...
+    }
+  },
+  ... 
+]
+```
+
 ### Contribute
 
 The state/prov abbreviations are not yet complete, so pull requests welcome! For more information, see:

@@ -4425,27 +4425,34 @@
   {
     "countryName":"Equatorial Guinea",
     "countryShortCode":"GQ",
-    "regions":[
+    "regions":[//provinces (subdivision level 2)
       {
-        "name":"Annobon"
+        "name":"Annobón",
+        "shortCode":"AN"
       },
       {
-        "name":"Bioko Norte"
+        "name":"Bioko Norte",
+        "shortCode":"BN"
       },
       {
-        "name":"Bioko Sur"
+        "name":"Bioko Sur",
+        "shortCode":"BS"
       },
       {
-        "name":"Centro Sur"
+        "name":"Centro Sur",
+        "shortCode":"CS"
       },
       {
-        "name":"Kie-Ntem"
+        "name":"Kié-Ntem",
+        "shortCode":"KN"
       },
       {
-        "name":"Litoral"
+        "name":"Litoral",
+        "shortCode":"LI"
       },
       {
-        "name":"Wele-Nzas"
+        "name":"Wele-Nzas",
+        "shortCode":"WN"
       }
     ]
   },

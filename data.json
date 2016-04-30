@@ -5299,13 +5299,20 @@
     "countryShortCode":"GL",
     "regions":[
       {
-        "name":"Avannaa (Nordgronland)"
+        "name":"Kommune Kujalleq",
+        "shortCode": "KU"
       },
       {
-        "name":"Kitaa (Vestgronland)"
+        "name":"Kommuneqarfik Sermersooq",
+        "shortCode": "SM"
       },
       {
-        "name":"Tunu (Ostgronland)"
+        "name":"Qaasuitsup Kommunia",
+        "shortCode": "QA"
+      },
+      {
+        "name": "Qeqqata Kommunia",
+        "shortCode": "QE"
       }
     ]
   },

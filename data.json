@@ -7530,52 +7530,72 @@
     "countryShortCode":"KR",
     "regions":[
       {
-        "name":"Ch'ungch'ong-bukto"
+        "name":"Ch'ungch'ongbuk-do",
+        "shortCode":"43"
       },
       {
-        "name":"Ch'ungch'ong-namdo"
+        "name":"Ch'ungch'ongnam-do",
+        "shortCode":"44"
       },
       {
-        "name":"Cheju-do"
+        "name":"Cheju-do",
+        "shortCode":"49"
       },
       {
-        "name":"Cholla-bukto"
+        "name":"Chollabuk-do",
+        "shortCode":"45"
       },
       {
-        "name":"Cholla-namdo"
+        "name":"Chollanam-do",
+        "shortCode":"46"
       },
       {
-        "name":"Inch'on-gwangyoksi"
+        "name":"Inch'on-Kwangyokhi",
+        "shortCode":"28"
       },
       {
-        "name":"Kangwon-do"
+        "name":"Kang-won-do",
+        "shortCode":"42"
       },
       {
-        "name":"Kwangju-gwangyoksi"
+        "name":"Kwangju-Kwangyokshi",
+        "shortCode":"28"
       },
       {
-        "name":"Kyonggi-do"
+        "name":"Kyonggi-do",
+        "shortCode":"41"
       },
       {
-        "name":"Kyongsang-bukto"
+        "name":"Kyongsangbuk-do",
+        "shortCode":"47"
       },
       {
-        "name":"Kyongsang-namdo"
+        "name":"Kyongsangnam-do",
+        "shortCode":"48"
       },
       {
-        "name":"Pusan-gwangyoksi"
+        "name":"Pusan-Kwangyokshi",
+        "shortCode":"26"
       },
       {
-        "name":"Soul-t'ukpyolsi"
+        "name":"Seoul-T'ukpyolshi",
+        "shortCode":"11"
       },
       {
-        "name":"Taegu-gwangyoksi"
+        "name":"Sejong",
+        "shortCode":"50"
       },
       {
-        "name":"Taejon-gwangyoksi"
+        "name":"Taegu-Kwangyokshi",
+        "shortCode":"27"
       },
       {
-        "name":"Ulsan-gwangyoksi"
+        "name":"Taejon-Kwangyokshi",
+        "shortCode":"30"
+      },
+      {
+        "name":"Ulsan-Kwangyokshi",
+        "shortCode":"31"
       }
     ]
   },

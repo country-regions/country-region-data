@@ -8406,79 +8406,92 @@
     "countryShortCode":"LY",
     "regions":[
       {
-        "name":"Ajdabiya"
+        "name":"Al Buţnān",
+        "shortCode":"BU"
       },
       {
-        "name":"Al 'Aziziyah"
+        "name":"Al Jabal al Akhḑar",
+        "shortCode":"JA"
       },
       {
-        "name":"Al Fatih"
+        "name":"Al Jabal al Gharbī",
+        "shortCode":"JG"
       },
       {
-        "name":"Al Jabal al Akhdar"
+        "name":"Al Jafārah",
+        "shortCode":"JA"
       },
       {
-        "name":"Al Jufrah"
+        "name":"Al Jufrah",
+        "shortCode":"JU"
       },
       {
-        "name":"Al Khums"
+        "name":"Al Kufrah",
+        "shortCode":"FK"
       },
       {
-        "name":"Al Kufrah"
+        "name":"Al Marj",
+        "shortCode":"MJ"
       },
       {
-        "name":"An Nuqat al Khams"
+        "name":"Al Marquab",
+        "shortCode":"MB"
       },
       {
-        "name":"Ash Shati'"
+        "name":"Al Wāḩāt",
+        "shortCode":"WA"
+      },,
+      {
+        "name":"An Nuqaţ al Khams",
+        "shortCode":"NQ"
+      }
+      {
+        "name":"Az Zāwiyah",
+        "shortCode":"ZA"
       },
       {
-        "name":"Awbari"
+        "name":"Banghāzī",
+        "shortCode":"BA"
       },
       {
-        "name":"Az Zawiyah"
+        "name":"Darnah",
+        "shortCode":"DR"
       },
       {
-        "name":"Banghazi"
+        "name":"Ghāt",
+        "shortCode":"GH"
       },
       {
-        "name":"Darnah"
+        "name":"  Mişrātah",
+        "shortCode":"MI"
       },
       {
-        "name":"Ghadamis"
+        "name":"Murzuq",
+        "shortCode":"MQ"
       },
       {
-        "name":"Gharyan"
+        "name":"Nālūt",
+        "shortCode":"NL"
       },
       {
-        "name":"Misratah"
+        "name":"Sabhā",
+        "shortCode":"SB"
       },
       {
-        "name":"Murzuq"
+        "name":"Surt",
+        "shortCode":"SR"
       },
       {
-        "name":"Sabha"
+        "name":"Ţarābulus",
+        "shortCode":"TB"
       },
       {
-        "name":"Sawfajjin"
+        "name":"Yafran",
+        "shortCode":"WD"
       },
       {
-        "name":"Surt"
-      },
-      {
-        "name":"Tarabulus"
-      },
-      {
-        "name":"Tarhunah"
-      },
-      {
-        "name":"Tubruq"
-      },
-      {
-        "name":"Yafran"
-      },
-      {
-        "name":"Zlitan"
+        "name":"Wādī ash Shāţiʾ",
+        "shortCode":"WS"
       }
     ]
   },

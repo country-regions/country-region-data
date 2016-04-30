@@ -5797,31 +5797,43 @@
     "countryShortCode":"HT",
     "regions":[
       {
-        "name":"Artibonite"
+        "name":"Artibonite",
+        "shortCode":"AR"
       },
       {
-        "name":"Centre"
+        "name":"Centre",
+        "shortCode":"CE"
       },
       {
-        "name":"Grand'Anse"
+        "name":"Grand'Anse",
+        "shortCode":"GA"
+      },
+      {  "name":"Nippes",
+         "shortCode":"NI"
+      }
+      {
+        "name":"Nord",
+        "shortCode":"ND"
       },
       {
-        "name":"Nord"
+        "name":"Nord-Est",
+        "shortCode":"NE"
       },
       {
-        "name":"Nord-Est"
+        "name":"Nord-Ouest",
+        "shortCode":"NO"
       },
       {
-        "name":"Nord-Ouest"
+        "name":"Ouest",
+        "shortCode":"OU"
       },
       {
-        "name":"Ouest"
+        "name":"Sud",
+        "shortCode":"SD"
       },
       {
-        "name":"Sud"
-      },
-      {
-        "name":"Sud-Est"
+        "name":"Sud-Est",
+        "shortCode":"SE"
       }
     ]
   },

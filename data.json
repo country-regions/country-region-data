@@ -4884,22 +4884,28 @@
     "countryShortCode":"GM",
     "regions":[
       {
-        "name":"Banjul"
+        "name":"Banjul",
+        "shortCode": "B"
       },
       {
-        "name":"Central River"
+        "name":"Central River",
+        "shortCode": "M"
       },
       {
-        "name":"Lower River"
+        "name":"Lower River",
+        "shortCode": "L"
       },
       {
-        "name":"North Bank"
+        "name":"North Bank",
+        "shortCode": "N"
       },
       {
-        "name":"Upper River"
+        "name":"Upper River",
+        "shortCode": "U"
       },
       {
-        "name":"Western"
+        "name":"Western",
+        "shortCode": "W"
       }
     ]
   },

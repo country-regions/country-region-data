@@ -6741,82 +6741,108 @@
     "countryShortCode":"IE",
     "regions":[
       {
-        "name":"Carlow"
+        "name":"Carlow",
+        "shortCode":"CW"
       },
       {
-        "name":"Cavan"
+        "name":"Cavan",
+        "shortCode":"CN"
       },
       {
-        "name":"Clare"
+        "name":"Clare",
+        "shortCode":"CE"
       },
       {
-        "name":"Cork"
+        "name":"Cork",
+        "shortCode":"CO"
       },
       {
-        "name":"Donegal"
+        "name":"Donegal",
+        "shortCode":"DL"
       },
       {
-        "name":"Dublin"
+        "name":"Dublin",
+        "shortCode":"D"
       },
       {
-        "name":"Galway"
+        "name":"Galway",
+        "shortCode":"G"
       },
       {
-        "name":"Kerry"
+        "name":"Kerry",
+        "shortCode":"KY"
       },
       {
-        "name":"Kildare"
+        "name":"Kildare",
+        "shortCode":"KE"
       },
       {
-        "name":"Kilkenny"
+        "name":"Kilkenny",
+        "shortCode":"KK"
       },
       {
-        "name":"Laois"
+        "name":"Laois",
+        "shortCode":"LS"
       },
       {
-        "name":"Leitrim"
+        "name":"Leitrim",
+        "shortCode":"LM"
       },
       {
-        "name":"Limerick"
+        "name":"Limerick",
+        "shortCode":"LK"
       },
       {
-        "name":"Longford"
+        "name":"Longford",
+        "shortCode":"LD"
       },
       {
-        "name":"Louth"
+        "name":"Louth",
+        "shortCode":"LH"
       },
       {
-        "name":"Mayo"
+        "name":"Mayo",
+        "shortCode":"MO"
       },
       {
-        "name":"Meath"
+        "name":"Meath",
+        "shortCode":"MH"
       },
       {
-        "name":"Monaghan"
+        "name":"Monaghan",
+        "shortCode":"MN"
       },
       {
-        "name":"Offaly"
+        "name":"Offaly",
+        "shortCode":"OY"
       },
       {
-        "name":"Roscommon"
+        "name":"Roscommon",
+        "shortCode":"RN"
       },
       {
-        "name":"Sligo"
+        "name":"Sligo",
+        "shortCode":"SO"
       },
       {
-        "name":"Tipperary"
+        "name":"Tipperary",
+        "shortCode":"TA"
       },
       {
-        "name":"Waterford"
+        "name":"Waterford",
+        "shortCode":"WD"
       },
       {
-        "name":"Westmeath"
+        "name":"Westmeath",
+        "shortCode":"WH"
       },
       {
-        "name":"Wexford"
+        "name":"Wexford",
+        "shortCode":"WX"
       },
       {
-        "name":"Wicklow"
+        "name":"Wicklow",
+        "shortCode":"WW"
       }
     ]
   },

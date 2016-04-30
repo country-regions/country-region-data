@@ -3699,67 +3699,88 @@
     "countryShortCode":"HR",
     "regions":[
       {
-        "name":"Bjelovarsko-Bilogorska Zupanija"
+        "name":"Bjelovarsko-Bilogorska Županija",
+        "shortCode": "07"
       },
       {
-        "name":"Brodsko-Posavska Zupanija"
+        "name":"Brodsko-Posavska Županija",
+        "shortCode": "12"
       },
       {
-        "name":"Dubrovacko-Neretvanska Zupanija"
+        "name":"Dubrovačko-Neretvanska Županija",
+        "shortCode": "19"
       },
       {
-        "name":"Istarska Zupanija"
+        "name":"Grad Zagreb",
+        "shortCode": "21"
       },
       {
-        "name":"Karlovacka Zupanija"
+        "name":"Istarska Županija",
+        "shortCode": "18"
       },
       {
-        "name":"Koprivnicko-Krizevacka Zupanija"
+        "name":"Karlovačka Županija",
+        "shortCode": "04"
       },
       {
-        "name":"Krapinsko-Zagorska Zupanija"
+        "name":"Koprivničko-Krizevačka Županija",
+        "shortCode": "06"
       },
       {
-        "name":"Licko-Senjska Zupanija"
+        "name":"Krapinsko-Zagorska Županija",
+        "shortCode": "02"
       },
       {
-        "name":"Medimurska Zupanija"
+        "name":"Ličko-Senjska Županija",
+        "shortCode": "09"
       },
       {
-        "name":"Osjecko-Baranjska Zupanija"
+        "name":"Međimurska Županija",
+        "shortCode": "20"
       },
       {
-        "name":"Pozesko-Slavonska Zupanija"
+        "name":"Osječko-Baranjska Županija",
+        "shortCode": "14"
       },
       {
-        "name":"Primorsko-Goranska Zupanija"
+        "name":"Požeško-Slavonska Županija",
+        "shortCode": "11"
       },
       {
-        "name":"Sibensko-Kninska Zupanija"
+        "name":"Primorsko-Goranska Županija",
+        "shortCode": "08"
       },
       {
-        "name":"Sisacko-Moslavacka Zupanija"
+        "name":"Sisačko-Moslavačka Županija",
+        "shortCode": "03"
       },
       {
-        "name":"Splitsko-Dalmatinska Zupanija"
+        "name":"Splitsko-Dalmatinska Županija",
+        "shortCode": "17"
       },
       {
-        "name":"Varazdinska Zupanija"
+        "name":"Sibensko-Kninska Županija",
+        "shortCode": "15"
       },
       {
-        "name":"Viroviticko-Podravska Zupanija"
+        "name":"Varaždinska Županija",
+        "shortCode": "05"
       },
       {
-        "name":"Vukovarsko-Srijemska Zupanija"
+        "name":"Virovitičko-Podravska Županija",
+        "shortCode": "10"
       },
       {
-        "name":"Zadarska Zupanija"
+        "name":"Vukovarsko-Srijemska Županija",
+        "shortCode": "16"
       },
       {
-        "name":"Zagreb"
+        "name":"Zadarska Županija",
+        "shortCode": "13"
       },
       {
-        "name":"Zagrebacka Zupanija"
+        "name":"Zagrebacka Zupanija",
+        "shortCode": "01"
       }
     ]
   },

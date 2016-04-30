@@ -8912,28 +8912,40 @@
     "countryShortCode":"ML",
     "regions":[
       {
-        "name":"Gao"
+        "name":"Bamako",
+        "shortCode":"BKO"
       },
       {
-        "name":"Kayes"
+        "name":"Gao",
+        "shortCode":"7"
       },
       {
-        "name":"Kidal"
+        "name":"Kayes",
+        "shortCode":"1"
       },
       {
-        "name":"Koulikoro"
+        "name":"Kidal",
+        "shortCode":"8"
       },
       {
-        "name":"Mopti"
+        "name":"Koulikoro",
+        "shortCode":"2"
       },
       {
-        "name":"Segou"
+        "name":"Mopti",
+        "shortCode":"5"
       },
       {
-        "name":"Sikasso"
+        "name":"Segou",
+        "shortCode":"4"
       },
       {
-        "name":"Tombouctou"
+        "name":"Sikasso",
+        "shortCode":"3"
+      },
+      {
+        "name":"Tombouctou",
+        "shortCode":"6"
       }
     ]
   },

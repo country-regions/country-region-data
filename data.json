@@ -4900,6 +4900,26 @@
       {
         "name":"Rhone-Alpes",
         "shortCode": "V"
+      },
+      {
+        "name":"Guadeloupe",
+        "shortCode": "GP"
+      },
+      {
+        "name":"Guyane",
+        "shortCode": "GF"
+      },
+      {
+        "name":"Martinique",
+        "shortCode": "MQ"
+      },
+      {
+        "name":"Mayotte",
+        "shortCode": "YT"
+      },
+      {
+        "name":"La Réunion",
+        "shortCode": "RE"
       }
     ]
   },

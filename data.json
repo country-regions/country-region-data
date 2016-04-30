@@ -8309,7 +8309,7 @@
     ]
   },
   {
-    "countryName":"Macedonia, Former Yugoslav Republic of",
+    "countryName":"Macedonia, Republic of",
     "countryShortCode":"MK",
     "regions":[
       {
@@ -8662,24 +8662,30 @@
   {
     "countryName":"Madagascar",
     "countryShortCode":"MG",
-    "regions":[
+    "regions":[//These region have not been updated in the ISO3166-2 despite being outdated since 2009
       {
-        "name":"Antananarivo"
+        "name":"Antananarivo",
+        "shortCode":"T"
       },
       {
-        "name":"Antsiranana"
+        "name":"Antsiranana",
+        "shortCode":"D"
       },
       {
-        "name":"Fianarantsoa"
+        "name":"Fianarantsoa",
+        "shortCode":"F"
       },
       {
-        "name":"Mahajanga"
+        "name":"Mahajanga",
+        "shortCode":"M"
       },
       {
-        "name":"Toamasina"
+        "name":"Toamasina",
+        "shortCode":"A"
       },
       {
-        "name":"Toliara"
+        "name":"Toliara",
+        "shortCode":"U"
       }
     ]
   },

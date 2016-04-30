@@ -7604,19 +7604,28 @@
     "countryShortCode":"KW",
     "regions":[
       {
-        "name":"Al 'Asimah"
+        "name":"Al Aḩmadi",
+        "shortCode":"AH"
       },
       {
-        "name":"Al Ahmadi"
+        "name":"Al Farwānīyah",
+        "shortCode":"FA"
       },
       {
-        "name":"Al Farwaniyah"
+        "name":"Al Jahrā’",
+        "shortCode":"JA"
       },
       {
-        "name":"Al Jahra'"
+        "name":"Al ‘Āşimah",
+        "shortCode":"KU"
       },
       {
-        "name":"Hawalli"
+        "name":"Ḩawallī",
+        "shortCode":"HA"
+      },
+      {
+        "name":"Mubārak al Kabir",
+        "shortCode":"MU"
       }
     ]
   },
@@ -7625,7 +7634,8 @@
     "countryShortCode":"KG",
     "regions":[
       {
-        "name":"Batken Oblasty"
+        "name":"Batken Oblasty",
+        "shortCode":""
       },
       {
         "name":"Bishkek Shaary"

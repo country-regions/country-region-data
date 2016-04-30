@@ -9813,34 +9813,48 @@
     "countryShortCode":"MZ",
     "regions":[
       {
-        "name":"Cabo Delgado"
+        "name":"Cabo Delgado",
+        "shortCode":"P"
       },
       {
-        "name":"Gaza"
+        "name":"Gaza",
+        "shortCode":"G"
       },
       {
-        "name":"Inhambane"
+        "name":"Inhambane",
+        "shortCode":"I"
       },
       {
-        "name":"Manica"
+        "name":"Manica",
+        "shortCode":"B"
       },
       {
-        "name":"Maputo"
+        "name":"Maputo",
+        "shortCode":"L"
       },
       {
-        "name":"Nampula"
+        "name":"Maputo (City)",
+        "shortCode":"MPM"
       },
       {
-        "name":"Niassa"
+        "name":"Nampula",
+        "shortCode":"N"
       },
       {
-        "name":"Sofala"
+        "name":"Niassa",
+        "shortCode":"A"
       },
       {
-        "name":"Tete"
+        "name":"Sofala",
+        "shortCode":"S"
       },
       {
-        "name":"Zambezia"
+        "name":"Tete",
+        "shortCode":"T"
+      },
+      {
+        "name":"Zambezia",
+        "shortCode":"Q"
       }
     ]
   },

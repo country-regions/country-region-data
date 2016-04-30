@@ -5948,124 +5948,178 @@
     "countryShortCode":"HU",
     "regions":[
       {
-        "name":"Bacs-Kiskun"
+        "name":"Bács-Kiskun",
+        "shortCode":"BK"
       },
       {
-        "name":"Baranya"
+        "name":"Baranya",
+        "shortCode":"BA"
       },
       {
-        "name":"Bekes"
+        "name":"Békés",
+        "shortCode":"BE"
       },
       {
-        "name":"Bekescsaba"
+        "name":"Békéscsaba",
+        "shortCode":"BC"
       },
       {
-        "name":"Borsod-Abauj-Zemplen"
+        "name":"Borsod-Abauj-Zemplen",
+        "shortCode":"BZ"
       },
       {
-        "name":"Budapest"
+        "name":"Budapest",
+        "shortCode":"BU"
       },
       {
-        "name":"Csongrad"
+        "name":"Csongrád",
+        "shortCode":"CS"
       },
       {
-        "name":"Debrecen"
+        "name":"Debrecen",
+        "shortCode":"DE"
       },
       {
-        "name":"Dunaujvaros"
+        "name":"Dunaújváros",
+        "shortCode":"DU"
       },
       {
-        "name":"Eger"
+        "name":"Eger",
+        "shortCode":"EG"
       },
       {
-        "name":"Fejer"
+        "name":"Érd",
+        "shortCode":"ER"
+      }
+      {
+        "name":"Fejér",
+        "shortCode":"FE"
       },
       {
-        "name":"Gyor"
+        "name":"Győr",
+        "shortCode":"GY"
       },
       {
-        "name":"Gyor-Moson-Sopron"
+        "name":"Győr-Moson-Sopron",
+        "shortCode":"GS"
       },
       {
-        "name":"Hajdu-Bihar"
+        "name":"Hajdú-Bihar",
+        "shortCode":"HB"
       },
       {
-        "name":"Heves"
+        "name":"Heves",
+        "shortCode":"HE"
       },
       {
-        "name":"Hodmezovasarhely"
+        "name":"Hódmezővásárhely",
+        "shortCode":""
       },
       {
-        "name":"Jasz-Nagykun-Szolnok"
+        "name":"Jász-Nagykun-Szolnok",
+        "shortCode":"N"
       },
       {
-        "name":"Kaposvar"
+        "name":"Kaposvár",
+        "shortCode":"KV"
       },
       {
-        "name":"Kecskemet"
+        "name":"Kecskemét",
+        "shortCode":"KM"
       },
       {
-        "name":"Komarom-Esztergom"
+        "name":"Komárom-Esztergom",
+        "shortCode":"KE"
       },
       {
-        "name":"Miskolc"
+        "name":"Miskolc",
+        "shortCode":"MI"
       },
       {
-        "name":"Nagykanizsa"
+        "name":"Nagykanizsa",
+        "shortCode":"NK"
       },
       {
-        "name":"Nograd"
+        "name":"Nógrád",
+        "shortCode":"NO"
       },
       {
-        "name":"Nyiregyhaza"
+        "name":"Nyíregyháza",
+        "shortCode":"NY"
       },
       {
-        "name":"Pecs"
+        "name":"Pécs",
+        "shortCode":"PS"
       },
       {
-        "name":"Pest"
+        "name":"Pest",
+        "shortCode":"PE"
+      },
+      { "name":"Salgótarján",
+        "shortCode":"ST"
+      }
+      {
+        "name":"Somogy",
+        "shortCode":"SO"
       },
       {
-        "name":"Somogy"
+        "name":"Sopron",
+        "shortCode":"SN"
       },
       {
-        "name":"Sopron"
+        "name":"Szabolcs-á-Bereg",
+        "shortCode":"SZ"
       },
       {
-        "name":"Szabolcs-Szatmar-Bereg"
+        "name":"Szeged",
+        "shortCode":"SD"
       },
       {
-        "name":"Szeged"
+        "name":"Székesfehérvár",
+        "shortCode":"SF"
+      },
+      { "name":"Szekszárd",
+        "shortCode":"SS"
       },
       {
-        "name":"Szekesfehervar"
+        "name":"Szolnok",
+        "shortCode":"SK"
       },
       {
-        "name":"Szolnok"
+        "name":"Szombathely",
+        "shortCode":"SH"
       },
       {
-        "name":"Szombathely"
+        "name":"Tatabánya",
+        "shortCode":"TB"
       },
       {
-        "name":"Tatabanya"
+        "name":"Tolna",
+        "shortCode":"TO"
       },
       {
-        "name":"Tolna"
+        "name":"Vas",
+        "shortCode":"VA"
       },
       {
-        "name":"Vas"
+        "name":"Veszprem",
+        "shortCode":""
       },
       {
-        "name":"Veszprem"
+        "name":"Veszprém",
+        "shortCode":"VE"
       },
       {
-        "name":"Veszprem"
+        "name":"Veszprém (City)",
+        "shortCode":"VM"
       },
       {
-        "name":"Zala"
+        "name":"Zala",
+        "shortCode":"ZA"
       },
       {
-        "name":"Zalaegerszeg"
+        "name":"Zalaegerszeg",
+        "shortCode":"ZE"
       }
     ]
   },

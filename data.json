@@ -7877,34 +7877,44 @@
     "countryShortCode":"LS",
     "regions":[
       {
-        "name":"Berea"
+        "name":"Berea",
+        "shortCode":"D"
       },
       {
-        "name":"Butha-Buthe"
+        "name":"Butha-Buthe",
+        "shortCode":"B"
       },
       {
-        "name":"Leribe"
+        "name":"Leribe",
+        "shortCode":"C"
       },
       {
-        "name":"Mafeteng"
+        "name":"Mafeteng",
+        "shortCode":"E"
       },
       {
-        "name":"Maseru"
+        "name":"Maseru",
+        "shortCode":"A"
       },
       {
-        "name":"Mohales Hoek"
+        "name":"Mohales Hoek",
+        "shortCode":"F"
       },
       {
-        "name":"Mokhotlong"
+        "name":"Mokhotlong",
+        "shortCode":"J"
       },
       {
-        "name":"Qacha's Nek"
+        "name":"Qacha's Nek",
+        "shortCode":"H"
       },
       {
-        "name":"Quthing"
+        "name":"Quthing",
+        "shortCode":"G"
       },
       {
-        "name":"Thaba-Tseka"
+        "name":"Thaba-Tseka",
+        "shortCode":"K"
       }
     ]
   },

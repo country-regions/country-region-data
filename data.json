@@ -8070,37 +8070,48 @@
     "countryShortCode":"LI",
     "regions":[
       {
-        "name":"Balzers"
+        "name":"Balzers",
+        "shortCode":"01"
       },
       {
-        "name":"Eschen"
+        "name":"Eschen",
+        "shortCode":"02"
       },
       {
-        "name":"Gamprin"
+        "name":"Gamprin",
+        "shortCode":"03"
       },
       {
-        "name":"Mauren"
+        "name":"Mauren",
+        "shortCode":"04"
       },
       {
-        "name":"Planken"
+        "name":"Planken",
+        "shortCode":"05"
       },
       {
-        "name":"Ruggell"
+        "name":"Ruggell",
+        "shortCode":"06"
       },
       {
-        "name":"Schaan"
+        "name":"Schaan",
+        "shortCode":"07"
       },
       {
-        "name":"Schellenberg"
+        "name":"Schellenberg",
+        "shortCode":"08"
       },
       {
-        "name":"Triesen"
+        "name":"Triesen",
+        "shortCode":"09"
       },
       {
-        "name":"Triesenberg"
+        "name":"Triesenberg",
+        "shortCode":"10"
       },
       {
-        "name":"Vaduz"
+        "name":"Vaduz",
+        "shortCode":"11"
       }
     ]
   },
@@ -8277,7 +8288,8 @@
     "countryShortCode":"LU",
     "regions":[
       {
-        "name":"Diekirch"
+        "name":"Diekirch",
+        "shortCode":""
       },
       {
         "name":"Grevenmacher"

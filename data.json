@@ -9497,64 +9497,84 @@
     "countryShortCode":"MN",
     "regions":[
       {
-        "name":"Arhangay"
+        "name":"Arhangay",
+        "shortCode":"073"
       },
       {
-        "name":"Bayan-Olgiy"
+        "name":"Bayan-Olgiy",
+        "shortCode":"071"
       },
       {
-        "name":"Bayanhongor"
+        "name":"Bayanhongor",
+        "shortCode":"069"
       },
       {
-        "name":"Bulgan"
+        "name":"Bulgan",
+        "shortCode":"067"
       },
       {
-        "name":"Darhan"
+        "name":"Darhan",
+        "shortCode":"037"
       },
       {
-        "name":"Dornod"
+        "name":"Dornod",
+        "shortCode":"061"
       },
       {
-        "name":"Dornogovi"
+        "name":"Dornogovi",
+        "shortCode":"063"
       },
       {
-        "name":"Dundgovi"
+        "name":"Dundgovi",
+        "shortCode":"059"
       },
       {
-        "name":"Dzavhan"
+        "name":"Dzavhan",
+        "shortCode":"065"
       },
       {
-        "name":"Erdenet"
+        "name":"Govi-Altay",
+        "shortCode":"065"
       },
       {
-        "name":"Govi-tiy"
+        "name":"Govi-Sumber",
+        "shortCode":"064"
       },
       {
-        "name":"Hovd"
+        "name":"Hovd",
+        "shortCode":"043"
       },
       {
-        "name":"Hovsgol"
+        "name":"Hovsgol",
+        "shortCode":"041"
       },
       {
-        "name":"Omnogovi"
+        "name":"Omnogovi",
+        "shortCode":"053"
       },
       {
-        "name":"Ovorhangay"
+        "name":"Ovorhangay",
+        "shortCode":"055"
       },
       {
-        "name":"Selenge"
+        "name":"Selenge",
+        "shortCode":"049"
       },
       {
-        "name":"Suhbaatar"
+        "name":"Suhbaatar",
+        "shortCode":"051"
       },
       {
-        "name":"Tov"
+        "name":"Tov",
+        "shortCode":"047"
       },
       {
-        "name":"Ulaanbaatar"
+        "name":"Ulaanbaatar",
+        "shortCode":"1"
       },
       {
-        "name":"Uvs"
+        "name":"Uvs",
+        "shortCode":"046"
       }
     ]
   },

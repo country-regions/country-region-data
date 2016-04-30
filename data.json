@@ -4365,46 +4365,60 @@
     "countryShortCode":"SV",
     "regions":[
       {
-        "name":"Ahuachapan"
+        "name":"Ahuachapán",
+        "shortCode":"AH"
       },
       {
-        "name":"Cabanas"
+        "name":"Cabañas",
+        "shortCode":"CA"
       },
       {
-        "name":"Chalatenango"
+        "name":"Cuscatlán",
+        "shortCode":"CU"
       },
       {
-        "name":"Cuscatlan"
+        "name":"Chalatenango",
+        "shortCode":"CH"
       },
       {
-        "name":"La Libertad"
+        "name":"La Libertad",
+        "shortCode":"LI"
       },
       {
-        "name":"La Paz"
+        "name":"La Paz",
+        "shortCode":"PA"
       },
       {
-        "name":"La Union"
+        "name":"La Unión",
+        "shortCode":"UN"
       },
       {
-        "name":"Morazan"
+        "name":"Morazán",
+        "shortCode":"MO"
       },
       {
-        "name":"San Miguel"
+        "name":"San Miguel",
+        "shortCode":"SM"
       },
       {
-        "name":"San Salvador"
+        "name":"San Salvador",
+        "shortCode":"SS"
       },
       {
-        "name":"San Vicente"
+        "name":"Santa Ana",
+        "shortCode":"SA"
       },
       {
-        "name":"Santa Ana"
+        "name":"San Vicente",
+        "shortCode":"SV"
       },
       {
-        "name":"Sonsonate"
+        "name":"Sonsonate",
+        "shortCode":"SO"
       },
       {
-        "name":"Usulutan"
+        "name":"Usulután",
+        "shortCode":"US"
       }
     ]
   },

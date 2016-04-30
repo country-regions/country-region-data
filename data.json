@@ -9863,49 +9863,64 @@
     "countryShortCode":"MM",
     "regions":[
       {
-        "name":"Ayeyarwady Region"
+        "name":"Ayeyarwady Region",
+        "shortCode":"07"
       },
       {
-        "name":"Bago Region"
+        "name":"Bago Region",
+        "shortCode":"02"
       },
       {
-        "name":"Chin State"
+        "name":"Chin State",
+        "shortCode":"14"
       },
       {
-        "name":"Kachin State"
+        "name":"Kachin State",
+        "shortCode":"11"
       },
       {
-        "name":"Kayah State"
+        "name":"Kayah State",
+        "shortCode":"12"
       },
       {
-        "name":"Kayin State"
+        "name":"Kayin State",
+        "shortCode":"13"
       },
       {
-        "name":"Magway Region"
+        "name":"Magway Region",
+        "shortCode":"03"
       },
       {
-        "name":"Mandalay Region"
+        "name":"Mandalay Region",
+        "shortCode":"04"
       },
       {
-        "name":"Mon State"
+        "name":"Mon State",
+        "shortCode":"15"
       },
       {
-        "name":"Rakhine State"
+        "name":"Rakhine State",
+        "shortCode":"16"
       },
       {
-        "name":"Shan State"
+        "name":"Shan State",
+        "shortCode":"17"
       },
       {
-        "name":"Sagaing Region"
+        "name":"Sagaing Region",
+        "shortCode":"01"
       },
       {
-        "name":"Tanintharyi Region"
+        "name":"Tanintharyi Region",
+        "shortCode":"05"
       },
       {
-        "name":"Yangon Region"
+        "name":"Yangon Region",
+        "shortCode":"06"
       },
       {
-        "name":"Naypyidaw Union Territory"
+        "name":"Naypyidaw Union Territory",
+        "shortCode":"18"
       },
       {
         "name":"Danu Self-Administered Zone"

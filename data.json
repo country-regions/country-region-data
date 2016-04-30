@@ -4842,31 +4842,40 @@
     "countryShortCode":"GA",
     "regions":[
       {
-        "name":"Estuaire"
+        "name":"Estuaire",
+        "shortCode": "1"
       },
       {
-        "name":"Haut-Ogooue"
+        "name":"Haut-Ogooué",
+        "shortCode": "2"
       },
       {
-        "name":"Moyen-Ogooue"
+        "name":"Moyen-Ogooué",
+        "shortCode": "3"
       },
       {
-        "name":"Ngounie"
+        "name":"Ngounié",
+        "shortCode": "4"
       },
       {
-        "name":"Nyanga"
+        "name":"Nyanga",
+        "shortCode": "5"
       },
       {
-        "name":"Ogooue-Ivindo"
+        "name":"Ogooué-Ivindo",
+        "shortCode": "6"
       },
       {
-        "name":"Ogooue-Lolo"
+        "name":"Ogooué-Lolo",
+        "shortCode": "7"
       },
       {
-        "name":"Ogooue-Maritime"
+        "name":"Ogooué-Maritime",
+        "shortCode": "8"
       },
       {
-        "name":"Woleu-Ntem"
+        "name":"Woleu-Ntem",
+        "shortCode": "9"
       }
     ]
   },

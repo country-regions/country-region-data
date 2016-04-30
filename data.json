@@ -9137,37 +9137,68 @@
     "countryShortCode":"MU",
     "regions":[
       {
-        "name":"Agalega Islands"
+        "name":"Agalega Islands",
+        "shortCode":"AG"
       },
       {
-        "name":"Black River"
+        "name":"Beau Bassin-Rose Hill",
+        "shortCode":"BR"
       },
       {
-        "name":"Cargados Carajos Shoals"
+        "name":"Black River",
+        "shortCode":"BL"
       },
       {
-        "name":"Flacq"
+        "name":"Cargados Carajos Shoals",
+        "shortCode":"CC"
       },
       {
-        "name":"Grand Port"
+        "name":"Curepipe",
+        "shortCode":"CU"
       },
       {
-        "name":"Moka"
+        "name":"Flacq",
+        "shortCode":"FL"
       },
       {
-        "name":"Pamplemousses"
+        "name":"Grand Port",
+        "shortCode":"GP"
       },
       {
-        "name":"Plaines Wilhems"
+        "name":"Moka",
+        "shortCode":"MO"
       },
       {
-        "name":"Port Louis"
+        "name":"Pamplemousses",
+        "shortCode":"PA"
       },
       {
-        "name":"Riviere du odrigues"
+        "name":"Plaines Wilhems",
+        "shortCode":"PW"
       },
       {
-        "name":"Savanne"
+        "name":"Port Louis (City)",
+        "shortCode":"PU"
+      },
+      {
+        "name":"Port Louis",
+        "shortCode":"PL"
+      },
+      {
+        "name":"Riviere du Rempart",
+        "shortCode":"RR"
+      },
+      {
+        "name":"Rodrigues Island",
+        "shortCode":"RO"
+      },
+      {
+        "name":"Savanne",
+        "shortCode":"SA"
+      },
+      {
+        "name":"Vacoas-Phoenix",
+        "shortCode":"CP"
       }
     ]
   },

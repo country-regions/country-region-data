@@ -8694,7 +8694,8 @@
     "countryShortCode":"MW",
     "regions":[
       {
-        "name":"Balaka"
+        "name":"Balaka",
+        "shortCode":""
       },
       {
         "name":"Blantyre"
@@ -8778,49 +8779,68 @@
     "countryShortCode":"MY",
     "regions":[
       {
-        "name":"Johor"
+        "name":"Johor",
+        "shortCode":"01"
       },
       {
-        "name":"Kedah"
+        "name":"Kedah",
+        "shortCode":"02"
       },
       {
-        "name":"Kelantan"
+        "name":"Kelantan",
+        "shortCode":"03"
       },
       {
-        "name":"Labuan"
+        "name":"Melaka",
+        "shortCode":"04"
       },
       {
-        "name":"Melaka"
+        "name":"Negeri Sembilan",
+        "shortCode":"05"
       },
       {
-        "name":"Negeri Sembilan"
+        "name":"Pahang",
+        "shortCode":"06"
       },
       {
-        "name":"Pahang"
+        "name":"Perak",
+        "shortCode":"08"
       },
       {
-        "name":"Perak"
+        "name":"Perlis",
+        "shortCode":"09"
       },
       {
-        "name":"Perlis"
+        "name":"Pulau Pinang",
+        "shortCode":"07"
       },
       {
-        "name":"Pulau Pinang"
+        "name":"Sabah",
+        "shortCode":"12"
       },
       {
-        "name":"Sabah"
+        "name":"Sarawak",
+        "shortCode":"13"
       },
       {
-        "name":"Sarawak"
+        "name":"Selangor",
+        "shortCode":"10"
       },
       {
-        "name":"Selangor"
+        "name":"Terengganu",
+        "shortCode":"11"
       },
       {
-        "name":"Terengganu"
+        "name":"Wilayah Persekutuan (Kuala Lumpur)",
+        "shortCode":"14"
       },
       {
-        "name":"Wilayah Persekutuan"
+        "name":"Wilayah Persekutuan (Labuan)",
+        "shortCode":"15"
+      },
+      {
+        "name":"Wilayah Persekutuan (Putrajaya)",
+        "shortCode":"16"
       }
     ]
   },

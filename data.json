@@ -7411,7 +7411,8 @@
         "name":"Central Gilberts"
       },
       {
-        "name":"Gilbert Islands"
+        "name":"Gilbert Islands",
+        "shortCode":"G"
       },
       {
         "name":"Kanton"
@@ -7423,10 +7424,8 @@
         "name":"Kuria"
       },
       {
-        "name":"Line Islands"
-      },
-      {
-        "name":"Line Islands"
+        "name":"Line Islands",
+        "shortCode":"L"
       },
       {
         "name":"Maiana"
@@ -7450,7 +7449,8 @@
         "name":"Onotoa"
       },
       {
-        "name":"Phoenix Islands"
+        "name":"Phoenix Islands",
+        "shortCode":"P"
       },
       {
         "name":"Southern Gilberts"

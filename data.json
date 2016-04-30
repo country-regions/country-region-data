@@ -5709,31 +5709,40 @@
     "countryShortCode":"GW",
     "regions":[
       {
-        "name":"Bafata"
+        "name":"Bafatá",
+        "shortCode":"BA"
       },
       {
-        "name":"Biombo"
+        "name":"Biombo",
+        "shortCode":"BM"
       },
       {
-        "name":"Bissau"
+        "name":"Bissau",
+        "shortCode":"BS"
       },
       {
-        "name":"Bolama-Bijagos"
+        "name":"Bolama-Bijagos",
+        "shortCode":"BL"
       },
       {
-        "name":"Cacheu"
+        "name":"Cacheu",
+        "shortCode":"CA"
       },
       {
-        "name":"Gabu"
+        "name":"Gabú",
+        "shortCode":"GA"
       },
       {
-        "name":"Oio"
+        "name":"Oio",
+        "shortCode":"OI"
       },
       {
-        "name":"Quinara"
+        "name":"Quinara",
+        "shortCode":"QU"
       },
       {
-        "name":"Tombali"
+        "name":"Tombali",
+        "shortCode":"TO"
       }
     ]
   },

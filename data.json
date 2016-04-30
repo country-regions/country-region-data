@@ -6133,88 +6133,36 @@
     "countryShortCode":"IR",
     "regions":[
       {
-        "name":"Ardabil"
+        "name":"Höfuðborgarsvæði utan Reykjavíkur",
+        "shortCode":"1"
       },
       {
-        "name":"Azarbayjan-e Gharbi"
+        "name":"Suðurnes",
+        "shortCode":"2"
       },
       {
-        "name":"Azarbayjan-e Sharqi"
+        "name":"Vesturland",
+        "shortCode":"3"
       },
       {
-        "name":"Bushehr"
+        "name":"Vestfirðir",
+        "shortCode":"4"
       },
       {
-        "name":"Chahar Mahall va Bakhtiari"
+        "name":"Norðurland vestra",
+        "shortCode":"5"
       },
       {
-        "name":"Esfahan"
+        "name":"Norðurland eystra",
+        "shortCode":"6"
       },
       {
-        "name":"Fars"
+        "name":"Austurland",
+        "shortCode":"7"
       },
       {
-        "name":"Gilan"
-      },
-      {
-        "name":"Golestan"
-      },
-      {
-        "name":"Hamadan"
-      },
-      {
-        "name":"Hormozgan"
-      },
-      {
-        "name":"Ilam"
-      },
-      {
-        "name":"Kerman"
-      },
-      {
-        "name":"Kermanshah"
-      },
-      {
-        "name":"Khorasan"
-      },
-      {
-        "name":"Khuzestan"
-      },
-      {
-        "name":"Kohgiluyeh va Buyer Ahmad"
-      },
-      {
-        "name":"Kordestan"
-      },
-      {
-        "name":"Lorestan"
-      },
-      {
-        "name":"Markazi"
-      },
-      {
-        "name":"Mazandaran"
-      },
-      {
-        "name":"Qazvin"
-      },
-      {
-        "name":"Qom"
-      },
-      {
-        "name":"Semnan"
-      },
-      {
-        "name":"Sistan va Baluchestan"
-      },
-      {
-        "name":"Tehran"
-      },
-      {
-        "name":"Yazd"
-      },
-      {
-        "name":"Zanjan"
+        "name":"Suðurland",
+        "shortCode":"8"
       }
     ]
   },

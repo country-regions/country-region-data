@@ -9583,73 +9583,96 @@
     "countryShortCode":"ME",
     "regions":[
       {
-        "name":"Andrijevica"
+        "name":"Andrijevica",
+        "shortCode":"01"
       },
       {
-        "name":"Bar"
+        "name":"Bar",
+        "shortCode":"02"
       },
       {
-        "name":"Berane"
+        "name":"Berane",
+        "shortCode":"03"
       },
       {
-        "name":"Bijelo Polje"
+        "name":"Bijelo Polje",
+        "shortCode":"04"
       },
       {
-        "name":"Budva"
+        "name":"Budva",
+        "shortCode":"05"
       },
       {
-        "name":"Cetinje"
+        "name":"Cetinje",
+        "shortCode":"06"
       },
       {
-        "name":"Danilovgrad"
+        "name":"Danilovgrad",
+        "shortCode":"07"
       },
       {
-        "name":"Herceg Novi"
+        "name":"Gusinje",
+        "shortCode":"22"
       },
       {
-        "name":"Kolašin"
+        "name":"Herceg Novi",
+        "shortCode":"08"
       },
       {
-        "name":"Kotor"
+        "name":"Kolašin",
+        "shortCode":"09"
       },
       {
-        "name":"Mojkovac"
+        "name":"Kotor",
+        "shortCode":"10"
       },
       {
-        "name":"Nikšić"
+        "name":"Mojkovac",
+        "shortCode":"11"
       },
       {
-        "name":"Plav"
+        "name":"Nikšić",
+        "shortCode":"12"
       },
       {
-        "name":"Plužine"
+        "name":"Petnica",
+        "shortCode":"23"
       },
       {
-        "name":"Pljevlja"
+        "name":"Plav",
+        "shortCode":"13"
       },
       {
-        "name":"Podgorica"
+        "name":"Plužine",
+        "shortCode":"14"
       },
       {
-        "name":"Golubovci"
+        "name":"Pljevlja",
+        "shortCode":"15"
       },
       {
-        "name":"Tuzi"
+        "name":"Podgorica",
+        "shortCode":"16"
       },
       {
-        "name":"Rožaje"
+        "name":"Rožaje",
+        "shortCode":"17"
       },
       {
-        "name":"Šavnik"
+        "name":"Šavnik",
+        "shortCode":"18"
       },
       {
-        "name":"Tivat"
+        "name":"Tivat",
+        "shortCode":"19"
       },
       {
-        "name":"Ulcinj"
+        "name":"Ulcinj",
+        "shortCode":"20"
       },
       {
-        "name":"Žablja"
+        "name":"Žabljak",
+        "shortCode":"21"
       }
     ]
   },

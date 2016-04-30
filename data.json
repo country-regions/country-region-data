@@ -5321,25 +5321,32 @@
     "countryShortCode":"GD",
     "regions":[
       {
-        "name":"Carriacou and Petit Martinique"
+        "name":"Saint Andrew",
+        "shortCode": "01"
       },
       {
-        "name":"Saint Andrew"
+        "name":"Saint David",
+        "shortCode": "02"
       },
       {
-        "name":"Saint David"
+        "name":"Saint George",
+        "shortCode": "03"
       },
       {
-        "name":"Saint George"
+        "name":"Saint John",
+        "shortCode": "04"
       },
       {
-        "name":"Saint John"
+        "name":"Saint Mark",
+        "shortCode": "05"
       },
       {
-        "name":"Saint Mark"
+        "name":"Saint Patrick",
+        "shortCode": "06"
       },
       {
-        "name":"Saint Patrick"
+        "name":"Southern Grenadine Islands",
+        "shortCode": "10"
       }
     ]
   },

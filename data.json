@@ -3461,25 +3461,16 @@
     "countryShortCode":"KM",
     "regions":[
       {
-        "name":"Anjouan (Nzwani)"
+        "name":"Mwali (Mohéli)",
+        "shortCode":"M"
       },
       {
-        "name":"Domoni"
+        "name":"Ndzuwani (Anjouan)",
+        "shortCode":"A"
       },
       {
-        "name":"Fomboni"
-      },
-      {
-        "name":"Grande Comore (Njazidja)"
-      },
-      {
-        "name":"Moheli (Mwali)"
-      },
-      {
-        "name":"Moroni"
-      },
-      {
-        "name":"Moutsamoudou"
+        "name":"Ngazidja (Grande Comore)",
+        "shortCode":"G"
       }
     ]
   },

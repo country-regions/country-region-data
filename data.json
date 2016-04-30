@@ -5237,160 +5237,60 @@
     "countryShortCode":"GR",
     "regions":[
       {
-        "name":"Aitolia kai Akarnania"
+        "name":"Anatolikí Makedonía kai Thráki",
+        "shortCode":"A"
       },
       {
-        "name":"Akhaia"
+        "name":"Attikḯ",
+        "shortCode":"I"
       },
       {
-        "name":"Argolis"
+        "name":"Dytikí Elláda",
+        "shortCode":"G"
       },
       {
-        "name":"Arkadhia"
+        "name":"Dytikí Makedonía",
+        "shortCode":"C"
       },
       {
-        "name":"Arta"
+        "name":"Ionía Nísia",
+        "shortCode":"F"
       },
       {
-        "name":"Attiki"
+        "name":"Kentrikí Makedonía",
+        "shortCode":"B"
       },
       {
-        "name":"Ayion Oros (Mt. Athos)"
+        "name":"Krítí",
+        "shortCode":"M"
       },
       {
-        "name":"Dhodhekanisos"
+        "name":"Notío Aigaío",
+        "shortCode":"L"
       },
       {
-        "name":"Drama"
+        "name":"Peloponnísos",
+        "shortCode":"J"
       },
       {
-        "name":"Evritania"
+        "name":"Stereá Elláda",
+        "shortCode":"H"
       },
       {
-        "name":"Evros"
+        "name":"Thessalía",
+        "shortCode":"E"
       },
       {
-        "name":"Evvoia"
+        "name":"Voreío Aigaío",
+        "shortCode":"K"
       },
       {
-        "name":"Florina"
+        "name":"Ípeiros",
+        "shortCode":"D"
       },
       {
-        "name":"Fokis"
-      },
-      {
-        "name":"Fthiotis"
-      },
-      {
-        "name":"Grevena"
-      },
-      {
-        "name":"Ilia"
-      },
-      {
-        "name":"Imathia"
-      },
-      {
-        "name":"Ioannina"
-      },
-      {
-        "name":"Irakleion"
-      },
-      {
-        "name":"Kardhitsa"
-      },
-      {
-        "name":"Kastoria"
-      },
-      {
-        "name":"Kavala"
-      },
-      {
-        "name":"Kefallinia"
-      },
-      {
-        "name":"Kerkyra"
-      },
-      {
-        "name":"Khalkidhiki"
-      },
-      {
-        "name":"Khania"
-      },
-      {
-        "name":"Khios"
-      },
-      {
-        "name":"Kikladhes"
-      },
-      {
-        "name":"Kilkis"
-      },
-      {
-        "name":"Korinthia"
-      },
-      {
-        "name":"Kozani"
-      },
-      {
-        "name":"Lakonia"
-      },
-      {
-        "name":"Larisa"
-      },
-      {
-        "name":"Lasithi"
-      },
-      {
-        "name":"Lesvos"
-      },
-      {
-        "name":"Levkas"
-      },
-      {
-        "name":"Magnisia"
-      },
-      {
-        "name":"Messinia"
-      },
-      {
-        "name":"Pella"
-      },
-      {
-        "name":"Pieria"
-      },
-      {
-        "name":"Preveza"
-      },
-      {
-        "name":"Rethimni"
-      },
-      {
-        "name":"Rodhopi"
-      },
-      {
-        "name":"Samos"
-      },
-      {
-        "name":"Serrai"
-      },
-      {
-        "name":"Thesprotia"
-      },
-      {
-        "name":"Thessaloniki"
-      },
-      {
-        "name":"Trikala"
-      },
-      {
-        "name":"Voiotia"
-      },
-      {
-        "name":"Xanthi"
-      },
-      {
-        "name":"Zakinthos"
+        "name":"Ágion Óros",
+        "shortCode": "69"
       }
     ]
   },

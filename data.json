@@ -5080,196 +5080,52 @@
     "countryShortCode":"GE",
     "regions":[
       {
-        "name":"Abashis"
+        "name":"Abkhazia (Sokhumi)",
+        "shortCode":"AB"
       },
       {
-        "name":"Abkhazia or Ap'khazet'is Avtonomiuri Respublika (Sokhumi)"
+        "name":"Ajaria (Bat'umi)",
+        "shortCode":"AJ"
       },
       {
-        "name":"Adigenis"
+        "name":"Guria",
+        "shortCode":"GU"
       },
       {
-        "name":"Ajaria or Acharis Avtonomiuri Respublika (Bat'umi)"
+        "name":"Imereti",
+        "shortCode":"IM"
       },
       {
-        "name":"Akhalgoris"
+        "name":"K'akheti",
+        "shortCode":"KA"
       },
       {
-        "name":"Akhalk'alak'is"
+        "name":"Kvemo Kartli",
+        "shortCode":"KK"
       },
       {
-        "name":"Akhalts'ikhis"
+        "name":"Mtshkheta-Mtianeti",
+        "shortCode":"MM"
       },
       {
-        "name":"Akhmetis"
+        "name":"Rach'a-Lexhkumi-KvemoSvaneti",
+        "shortCode":"RL"
       },
       {
-        "name":"Ambrolauris"
+        "name":"Samegrelo-Zemo Svaneti",
+        "shortCode":"SZ"
       },
       {
-        "name":"Aspindzis"
+        "name":"Samtskhe-Javakheti",
+        "shortCode":"SJ"
       },
       {
-        "name":"Baghdat'is"
+        "name":"Shida Kartli",
+        "shortCode":"SK"
       },
       {
-        "name":"Bolnisis"
-      },
-      {
-        "name":"Borjomis"
-      },
-      {
-        "name":"Ch'khorotsqus"
-      },
-      {
-        "name":"Ch'okhatauris"
-      },
-      {
-        "name":"Chiat'ura"
-      },
-      {
-        "name":"Dedop'listsqaros"
-      },
-      {
-        "name":"Dmanisis"
-      },
-      {
-        "name":"Dushet'is"
-      },
-      {
-        "name":"Gardabanis"
-      },
-      {
-        "name":"Gori"
-      },
-      {
-        "name":"Goris"
-      },
-      {
-        "name":"Gurjaanis"
-      },
-      {
-        "name":"Javis"
-      },
-      {
-        "name":"K'arelis"
-      },
-      {
-        "name":"K'ut'aisi"
-      },
-      {
-        "name":"Kaspis"
-      },
-      {
-        "name":"Kharagaulis"
-      },
-      {
-        "name":"Khashuris"
-      },
-      {
-        "name":"Khobis"
-      },
-      {
-        "name":"Khonis"
-      },
-      {
-        "name":"Lagodekhis"
-      },
-      {
-        "name":"Lanch'khut'is"
-      },
-      {
-        "name":"Lentekhis"
-      },
-      {
-        "name":"Marneulis"
-      },
-      {
-        "name":"Martvilis"
-      },
-      {
-        "name":"Mestiis"
-      },
-      {
-        "name":"Mts'khet'is"
-      },
-      {
-        "name":"Ninotsmindis"
-      },
-      {
-        "name":"Onis"
-      },
-      {
-        "name":"Ozurget'is"
-      },
-      {
-        "name":"P'ot'i"
-      },
-      {
-        "name":"Qazbegis"
-      },
-      {
-        "name":"Qvarlis"
-      },
-      {
-        "name":"Rust'avi"
-      },
-      {
-        "name":"Sach'kheris"
-      },
-      {
-        "name":"Sagarejos"
-      },
-      {
-        "name":"Samtrediis"
-      },
-      {
-        "name":"Senakis"
-      },
-      {
-        "name":"Sighnaghis"
-      },
-      {
-        "name":"T'bilisi"
-      },
-      {
-        "name":"T'elavis"
-      },
-      {
-        "name":"T'erjolis"
-      },
-      {
-        "name":"T'et'ritsqaros"
-      },
-      {
-        "name":"T'ianet'is"
-      },
-      {
-        "name":"Tqibuli"
-      },
-      {
-        "name":"Ts'ageris"
-      },
-      {
-        "name":"Tsalenjikhis"
-      },
-      {
-        "name":"Tsalkis"
-      },
-      {
-        "name":"Tsqaltubo"
-      },
-      {
-        "name":"Vanis"
-      },
-      {
-        "name":"Zestap'onis"
-      },
-      {
-        "name":"Zugdidi"
-      },
-      {
-        "name":"Zugdidis"
+        "name":"Tbilisi",
+        "shortCode":"TB"
       }
     ]
   },

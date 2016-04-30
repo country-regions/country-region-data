@@ -6245,109 +6245,148 @@
     "countryShortCode":"IN",
     "regions":[
       {
-        "name":"Andaman and Nicobar Islands"
+        "name":"Andaman and Nicobar Islands",
+        "shortCode":"AN"
       },
       {
-        "name":"Andhra Pradesh"
+        "name":"Andhra Pradesh",
+        "shortCode":"AP"
       },
       {
-        "name":"Arunachal Pradesh"
+        "name":"Arunachal Pradesh",
+        "shortCode":"AR"
       },
       {
-        "name":"Assam"
+        "name":"Assam",
+        "shortCode":"AS"
       },
       {
-        "name":"Bihar"
+        "name":"Bihar",
+        "shortCode":"BR"
       },
       {
-        "name":"Chandigarh"
+        "name":"Chandigarh",
+        "shortCode":"CH"
       },
       {
-        "name":"Chhattisgarh"
+        "name":"Chhattisgarh",
+        "shortCode":"CT"
       },
       {
-        "name":"Dadra and Nagar Haveli"
+        "name":"Dadra and Nagar Haveli",
+        "shortCode":"DN"
       },
       {
-        "name":"Daman and Diu"
+        "name":"Daman and Diu",
+        "shortCode":"DD"
       },
       {
-        "name":"Delhi"
+        "name":"Delhi",
+        "shortCode":"DL"
       },
       {
-        "name":"Goa"
+        "name":"Goa",
+        "shortCode":"GA"
       },
       {
-        "name":"Gujarat"
+        "name":"Gujarat",
+        "shortCode":"GJ"
       },
       {
-        "name":"Haryana"
+        "name":"Haryana",
+        "shortCode":"HR"
       },
       {
-        "name":"Himachal Pradesh"
+        "name":"Himachal Pradesh",
+        "shortCode":"HP"
       },
       {
-        "name":"Jammu and Kashmir"
+        "name":"Jammu and Kashmir",
+        "shortCode":"JK"
       },
       {
-        "name":"Jharkhand"
+        "name":"Jharkhand",
+        "shortCode":"JH"
       },
       {
-        "name":"Karnataka"
+        "name":"Karnataka",
+        "shortCode":"KA"
       },
       {
-        "name":"Kerala"
+        "name":"Kerala",
+        "shortCode":"KL"
       },
       {
-        "name":"Lakshadweep"
+        "name":"Lakshadweep",
+        "shortCode":"LD"
       },
       {
-        "name":"Madhya Pradesh"
+        "name":"Madhya Pradesh",
+        "shortCode":"MP"
       },
       {
-        "name":"Maharashtra"
+        "name":"Maharashtra",
+        "shortCode":"MH"
       },
       {
-        "name":"Manipur"
+        "name":"Manipur",
+        "shortCode":"MN"
       },
       {
-        "name":"Meghalaya"
+        "name":"Meghalaya",
+        "shortCode":"ML"
       },
       {
-        "name":"Mizoram"
+        "name":"Mizoram",
+        "shortCode":"MZ"
       },
       {
-        "name":"Nagaland"
+        "name":"Nagaland",
+        "shortCode":"NL"
       },
       {
-        "name":"Orissa"
+        "name":"Odisha",
+        "shortCode":"OR"
       },
       {
-        "name":"Pondicherry"
+        "name":"Puducherry",
+        "shortCode":"PY"
       },
       {
-        "name":"Punjab"
+        "name":"Punjab",
+        "shortCode":"PB"
       },
       {
-        "name":"Rajasthan"
+        "name":"Rajasthan",
+        "shortCode":"RJ"
       },
       {
-        "name":"Sikkim"
+        "name":"Sikkim",
+        "shortCode":"WK"
       },
       {
-        "name":"Tamil Nadu"
+        "name":"Tamil Nadu",
+        "shortCode":"TN"
       },
       {
-        "name":"Tripura"
+        "name":"Telangana",
+        "shortCode":"TG"
       },
       {
-        "name":"Uttar Pradesh"
+        "name":"Tripura",
+        "shortCode":"TR"
       },
       {
-        "name":"Uttaranchal"
+        "name":"Uttarakhand",
+        "shortCode":"UT"
       },
       {
-        "name":"West Bengal"
+        "name":"Uttar Pradesh",
+        "shortCode":"UP"
+      },
+      {
+        "name":"West Bengal",
+        "shortCode":"WB"
       }
     ]
   },

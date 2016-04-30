@@ -2581,76 +2581,104 @@
     "countryShortCode":"KH",
     "regions":[
       {
-        "name":"Banteay Mean Cheay"
+        "name":"Baat Dambang",
+        "shortCode": "2"
       },
       {
-        "name":"Batdambang"
+        "name":"Banteay Mean Cheay",
+        "shortCode": "1"
       },
       {
-        "name":"Kampong Cham"
+        "name":"Kampong Chaam",
+        "shortCode": "3"
       },
       {
-        "name":"Kampong Chhnang"
+        "name":"Kampong Chhnang",
+        "shortCode": "4"
       },
       {
-        "name":"Kampong Spoe"
+        "name":"Kampong Spueu",
+        "shortCode": "5"
       },
       {
-        "name":"Kampong Thum"
+        "name":"Kampong Thum",
+        "shortCode": "6"
       },
       {
-        "name":"Kampot"
+        "name":"Kampot",
+        "shortCode": "7"
       },
       {
-        "name":"Kandal"
+        "name":"Kandaal",
+        "shortCode": "8"
       },
       {
-        "name":"Kaoh Kong"
+        "name":"Kaoh Kong",
+        "shortCode": "9"
       },
       {
-        "name":"Keb"
+        "name":"Kracheh",
+        "shortCode": "10"
       },
       {
-        "name":"Kracheh"
+        "name":"Krong Kaeb",
+        "shortCode": "23"
       },
       {
-        "name":"Mondol Kiri"
+        "name":"Krong Pailin",
+        "shortCode": "24"
       },
       {
-        "name":"Otdar Mean Cheay"
+        "name":"Krong Preah Sihanouk",
+        "shortCode": "18"
       },
       {
-        "name":"Pailin"
+        "name":"Mondol Kiri",
+        "shortCode": "11"
       },
       {
-        "name":"Phnum Penh"
+        "name":"Otdar Mean Cheay",
+        "shortCode": "22"
       },
       {
-        "name":"Pouthisat"
+        "name":"Phnom Penh",
+        "shortCode": "12"
       },
       {
-        "name":"Preah Seihanu (Sihanoukville)"
+        "name":"Pousaat",
+        "shortCode": "15"
       },
       {
-        "name":"Preah Vihear"
+        "name":"Preah Vihear",
+        "shortCode": "13"
       },
       {
-        "name":"Prey Veng"
+        "name":"Prey Veaeng",
+        "shortCode": "14"
       },
       {
-        "name":"Rotanah Kiri"
+        "name":"Rotanah Kiri",
+        "shortCode": "16"
       },
       {
-        "name":"Siem Reab"
+        "name":"Siem Reab",
+        "shortCode": "17"
       },
       {
-        "name":"Stoeng Treng"
+        "name":"Stueng Treng",
+        "shortCode": "19"
       },
       {
-        "name":"Svay Rieng"
+        "name":"Svaay Rieng",
+        "shortCode": "20"
       },
       {
-        "name":"Takev"
+        "name":"Taakaev",
+        "shortCode": "21"
+      },
+      {
+        "name":"Tbong Khmum",
+        "shortCode": "25"
       }
     ]
   },

@@ -9281,100 +9281,132 @@
     "countryShortCode":"MX",
     "regions":[
       {
-        "name":"Aguascalientes"
+        "name":"Aguascalientes",
+        "shortCode":"AGU"
       },
       {
-        "name":"Baja California"
+        "name":"Baja California",
+        "shortCode":"BCN"
       },
       {
-        "name":"Baja California Sur"
+        "name":"Baja California Sur",
+        "shortCode":"BCS"
       },
       {
-        "name":"Campeche"
+        "name":"Campeche",
+        "shortCode":"CAM"
       },
       {
-        "name":"Chiapas"
+        "name":"Chiapas",
+        "shortCode":"CHP"
       },
       {
-        "name":"Chihuahua"
+        "name":"Chihuahua",
+        "shortCode":"CHH"
       },
       {
-        "name":"Coahuila de Zaragoza"
+        "name":"Coahuila de Zaragoza",
+        "shortCode":"COA"
       },
       {
-        "name":"Colima"
+        "name":"Colima",
+        "shortCode":"COL"
       },
       {
-        "name":"Distrito Federal"
+        "name":"Distrito Federal",
+        "shortCode":"DIF"
       },
       {
-        "name":"Durango"
+        "name":"Durango",
+        "shortCode":"DUR"
       },
       {
-        "name":"Guanajuato"
+        "name":"Guanajuato",
+        "shortCode":"GUA"
       },
       {
-        "name":"Guerrero"
+        "name":"Guerrero",
+        "shortCode":"GRO"
       },
       {
-        "name":"Hidalgo"
+        "name":"Hidalgo",
+        "shortCode":"HID"
       },
       {
-        "name":"Jalisco"
+        "name":"Jalisco",
+        "shortCode":"JAL"
       },
       {
-        "name":"Mexico"
+        "name":"Mexico",
+        "shortCode":"MEX"
       },
       {
-        "name":"Michoacan de Ocampo"
+        "name":"Michoacan de Ocampo",
+        "shortCode":"MIC"
       },
       {
-        "name":"Morelos"
+        "name":"Morelos",
+        "shortCode":"MOR"
       },
       {
-        "name":"Nayarit"
+        "name":"Nayarit",
+        "shortCode":"NAY"
       },
       {
-        "name":"Nuevo Leon"
+        "name":"Nuevo Leon",
+        "shortCode":"NLE"
       },
       {
-        "name":"Oaxaca"
+        "name":"Oaxaca",
+        "shortCode":"OAX"
       },
       {
-        "name":"Puebla"
+        "name":"Puebla",
+        "shortCode":"PUE"
       },
       {
-        "name":"Queretaro de Arteaga"
+        "name":"Queretaro de Arteaga",
+        "shortCode":"QUE"
       },
       {
-        "name":"Quintana Roo"
+        "name":"Quintana Roo",
+        "shortCode":"ROO"
       },
       {
-        "name":"San si"
+        "name":"San Luis Potosi",
+        "shortCode":"SLP"
       },
       {
-        "name":"Sinaloa"
+        "name":"Sinaloa",
+        "shortCode":"SIN"
       },
       {
-        "name":"Sonora"
+        "name":"Sonora",
+        "shortCode":"SON"
       },
       {
-        "name":"Tabasco"
+        "name":"Tabasco",
+        "shortCode":"TAB"
       },
       {
-        "name":"Tamaulipas"
+        "name":"Tamaulipas",
+        "shortCode":"TAM"
       },
       {
-        "name":"Tlaxcala"
+        "name":"Tlaxcala",
+        "shortCode":"TLA"
       },
       {
-        "name":"Veracruz-Llave"
+        "name":"Veracruz-Llave",
+        "shortCode":"VER"
       },
       {
-        "name":"Yucatan"
+        "name":"Yucatan",
+        "shortCode":"YUC"
       },
       {
-        "name":"Zacatecas"
+        "name":"Zacatecas",
+        "shortCode":"ZAC"
       }
     ]
   },

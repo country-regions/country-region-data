@@ -7032,145 +7032,192 @@
     "countryShortCode":"JP",
     "regions":[
       {
-        "name":"Aichi"
+        "name":"Aichi",
+        "shortCode":"23"
       },
       {
-        "name":"Akita"
+        "name":"Akita",
+        "shortCode":"05"
       },
       {
-        "name":"Aomori"
+        "name":"Aomori",
+        "shortCode":"02"
       },
       {
-        "name":"Chiba"
+        "name":"Chiba",
+        "shortCode":"12"
       },
       {
-        "name":"Ehime"
+        "name":"Ehime",
+        "shortCode":"38"
       },
       {
-        "name":"Fukui"
+        "name":"Fukui",
+        "shortCode":"18"
       },
       {
-        "name":"Fukuoka"
+        "name":"Fukuoka",
+        "shortCode":"40"
       },
       {
-        "name":"Fukushima"
+        "name":"Fukushima",
+        "shortCode":"07"
       },
       {
-        "name":"Gifu"
+        "name":"Gifu",
+        "shortCode":"21"
       },
       {
-        "name":"Gumma"
+        "name":"Gunma",
+        "shortCode":"10"
       },
       {
-        "name":"Hiroshima"
+        "name":"Hiroshima",
+        "shortCode":"34"
       },
       {
-        "name":"Hokkaido"
+        "name":"Hokkaido",
+        "shortCode":"04"
       },
       {
-        "name":"Hyogo"
+        "name":"Hyogo",
+        "shortCode":"28"
       },
       {
-        "name":"Ibaraki"
+        "name":"Ibaraki",
+        "shortCode":"08"
       },
       {
-        "name":"Ishikawa"
+        "name":"Ishikawa",
+        "shortCode":"17"
       },
       {
-        "name":"Iwate"
+        "name":"Iwate",
+        "shortCode":"03"
       },
       {
-        "name":"Kagawa"
+        "name":"Kagawa",
+        "shortCode":"37"
       },
       {
-        "name":"Kagoshima"
+        "name":"Kagoshima",
+        "shortCode":"46"
       },
       {
-        "name":"Kanagawa"
+        "name":"Kanagawa",
+        "shortCode":"14"
       },
       {
-        "name":"Kochi"
+        "name":"Kochi",
+        "shortCode":"39"
       },
       {
-        "name":"Kumamoto"
+        "name":"Kumamoto",
+        "shortCode":"43"
       },
       {
-        "name":"Kyoto"
+        "name":"Kyoto",
+        "shortCode":"26"
       },
       {
-        "name":"Mie"
+        "name":"Mie",
+        "shortCode":"24"
       },
       {
-        "name":"Miyagi"
+        "name":"Miyagi",
+        "shortCode":"04"
       },
       {
-        "name":"Miyazaki"
+        "name":"Miyazaki",
+        "shortCode":"45"
       },
       {
-        "name":"Nagano"
+        "name":"Nagano",
+        "shortCode":"20"
       },
       {
-        "name":"Nagasaki"
+        "name":"Nagasaki",
+        "shortCode":"42"
       },
       {
-        "name":"Nara"
+        "name":"Nara",
+        "shortCode":"29"
       },
       {
-        "name":"Niigata"
+        "name":"Niigata",
+        "shortCode":"15"
       },
       {
-        "name":"Oita"
+        "name":"Oita",
+        "shortCode":"44"
       },
       {
-        "name":"Okayama"
+        "name":"Okayama",
+        "shortCode":"33"
       },
       {
-        "name":"Okinawa"
+        "name":"Okinawa",
+        "shortCode":"47"
       },
       {
-        "name":"Osaka"
+        "name":"Osaka",
+        "shortCode":"27"
       },
       {
-        "name":"Saga"
+        "name":"Saga",
+        "shortCode":"41"
       },
       {
-        "name":"Saitama"
+        "name":"Saitama",
+        "shortCode":"11"
       },
       {
-        "name":"Shiga"
+        "name":"Shiga",
+        "shortCode":"25"
       },
       {
-        "name":"Shimane"
+        "name":"Shimane",
+        "shortCode":"32"
       },
       {
-        "name":"Shizuoka"
+        "name":"Shizuoka",
+        "shortCode":"22"
       },
       {
-        "name":"Tochigi"
+        "name":"Tochigi",
+        "shortCode":"09"
       },
       {
-        "name":"Tokushima"
+        "name":"Tokushima",
+        "shortCode":"36"
       },
       {
-        "name":"Tokyo"
+        "name":"Tokyo",
+        "shortCode":"13"
       },
       {
-        "name":"Tottori"
+        "name":"Tottori",
+        "shortCode":"31"
       },
       {
-        "name":"Toyama"
+        "name":"Toyama",
+        "shortCode":"16"
       },
       {
-        "name":"Wakayama"
+        "name":"Wakayama",
+        "shortCode":"30"
       },
       {
-        "name":"Yamagata"
+        "name":"Yamagata",
+        "shortCode":"06"
       },
       {
-        "name":"Yamaguchi"
+        "name":"Yamaguchi",
+        "shortCode":"35"
       },
       {
-        "name":"Yamanashi"
+        "name":"Yamanashi",
+        "shortCode":"19"
       }
     ]
   },

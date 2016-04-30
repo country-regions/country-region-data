@@ -9071,43 +9071,64 @@
     "countryShortCode":"MR",
     "regions":[
       {
-        "name":"Adrar"
+        "name":"Adrar",
+        "shortCode":"07"
       },
       {
-        "name":"Assaba"
+        "name":"Assaba",
+        "shortCode":"03"
       },
       {
-        "name":"Brakna"
+        "name":"Brakna",
+        "shortCode":"05"
       },
       {
-        "name":"Dakhlet Nouadhibou"
+        "name":"Dakhlet Nouadhibou",
+        "shortCode":"08"
       },
       {
-        "name":"Gorgol"
+        "name":"Gorgol",
+        "shortCode":"04"
       },
       {
-        "name":"Guidimaka"
+        "name":"Guidimaka",
+        "shortCode":"10"
       },
       {
-        "name":"Hodh Ech Chargui"
+        "name":"Hodh Ech Chargui",
+        "shortCode":"01"
       },
       {
-        "name":"Hodh El Gharbi"
+        "name":"Hodh El Gharbi",
+        "shortCode":"02"
       },
       {
-        "name":"Inchiri"
+        "name":"Inchiri",
+        "shortCode":""
       },
       {
-        "name":"Nouakchott"
+        "name":"Nouakchott Nord",
+        "shortCode":"14"
       },
       {
-        "name":"Tagant"
+        "name":"Nouakchott Ouest",
+        "shortCode":"13"
       },
       {
-        "name":"Tiris Zemmour"
+        "name":"Nouakchott Sud",
+        "shortCode":"15"
       },
       {
-        "name":"Trarza"
+        "name":"Tagant",
+        "shortCode":"09"
+      },
+      {
+        "name":"Tiris Zemmour",
+        "shortCode":"11"
+      },
+      {
+        "name":"Trarza",
+        "shortCode":"06"
       }
     ]
   },

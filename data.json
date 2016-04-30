@@ -8596,13 +8596,52 @@
     "countryShortCode":"LU",
     "regions":[
       {
-        "name":"Diekirch"
+        "name":"Capellen",
+        "shortCode":"CA"
       },
       {
-        "name":"Grevenmacher"
+        "name":"Clevaux",
+        "shortCode":"CL"
       },
       {
-        "name":"Luxembourg"
+        "name":"Diekirch",
+        "shortCode":"DI"
+      },
+      {
+        "name":"Echternach",
+        "shortCode":"EC"
+      },
+      {
+        "name":"Esch-sur-Alzette",
+        "shortCode":"ES"
+      },
+      {
+        "name":"Grevenmacher",
+        "shortCode":"GR"
+      },
+      {
+        "name":"Luxembourg",
+        "shortCode":"LU"
+      },
+      {
+        "name":"Mersch",
+        "shortCode":"ME"
+      },
+      {
+        "name":"Redange",
+        "shortCode":"RD"
+      },
+      {
+        "name":"Remich",
+        "shortCode":"RM"
+      },
+      {
+        "name":"Vianden",
+        "shortCode":"VD"
+      },
+      {
+        "name":"Wiltz",
+        "shortCode":"WI"
       }
     ]
   },

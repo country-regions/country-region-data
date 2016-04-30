@@ -8256,19 +8256,36 @@
     "countryShortCode":"LB",
     "regions":[
       {
-        "name":"Beyrouth"
+        "name": "Aakkâr",
+        "shortCode": "AK"
       },
       {
-        "name":"Ech Chimal"
+        "name":"Baalbelk-Hermel",
+        "shortCode":"BH"
       },
       {
-        "name":"Ej Jnoub"
+        "name":"Béqaa",
+        "shortCode":"BI"
       },
       {
-        "name":"El Bekaa"
+        "name":"Beyrouth",
+        "shortCode":"BA"
       },
       {
-        "name":"Jabal Loubnane"
+        "name":"Liban-Nord",
+        "shortCode":"AS"
+      },
+      {
+        "name":"Liban-Sud",
+        "shortCode":"JA"
+      },
+      {
+        "name":"Mont-Liban",
+        "shortCode":"JL"
+      },
+      {
+        "name":"Nabatîyé",
+        "shortCode":"NA"
       }
     ]
   },

@@ -8550,166 +8550,44 @@
     "countryShortCode":"LT",
     "regions":[
       {
-        "name":"Akmenes Rajonas"
+        "name":"Alytaus",
+        "shortCode":"AL"
       },
       {
-        "name":"Alytaus Rajonas"
+        "name":"Kauno",
+        "shortCode":"KU"
       },
       {
-        "name":"Alytus"
+        "name":"Klaipėdos",
+        "shortCode":"KL"
       },
       {
-        "name":"Anyksciu Rajonas"
+        "name":"Marijampolės",
+        "shortCode":"MR"
       },
       {
-        "name":"Birstonas"
+        "name":"Panevėžio",
+        "shortCode":"PN"
       },
       {
-        "name":"Birzu Rajonas"
+        "name":"Šiaulių",
+        "shortCode":"SA"
       },
       {
-        "name":"Druskininkai"
+        "name":"Tauragės",
+        "shortCode":"TA"
       },
       {
-        "name":"Ignalinos Rajonas"
+        "name":"Telšių",
+        "shortCode":"TE"
       },
       {
-        "name":"Jonavos Rajonas"
+        "name":"Utenos",
+        "shortCode":"UT"
       },
       {
-        "name":"Joniskio Rajonas"
-      },
-      {
-        "name":"Jurbarko Rajonas"
-      },
-      {
-        "name":"Kaisiadoriu Rajonas"
-      },
-      {
-        "name":"Kaunas"
-      },
-      {
-        "name":"Kauno Rajonas"
-      },
-      {
-        "name":"Kedainiu Rajonas"
-      },
-      {
-        "name":"Kelmes Rajonas"
-      },
-      {
-        "name":"Klaipeda"
-      },
-      {
-        "name":"Klaipedos Rajonas"
-      },
-      {
-        "name":"Kretingos Rajonas"
-      },
-      {
-        "name":"Kupiskio Rajonas"
-      },
-      {
-        "name":"Lazdiju Rajonas"
-      },
-      {
-        "name":"Marijampole"
-      },
-      {
-        "name":"Marijampoles Rajonas"
-      },
-      {
-        "name":"Mazeikiu Rajonas"
-      },
-      {
-        "name":"Moletu Rajonas"
-      },
-      {
-        "name":"Neringa Pakruojo Rajonas"
-      },
-      {
-        "name":"Palanga"
-      },
-      {
-        "name":"Panevezio Rajonas"
-      },
-      {
-        "name":"Panevezys"
-      },
-      {
-        "name":"Pasvalio Rajonas"
-      },
-      {
-        "name":"Plunges Rajonas"
-      },
-      {
-        "name":"Prienu Rajonas"
-      },
-      {
-        "name":"Radviliskio Rajonas"
-      },
-      {
-        "name":"Raseiniu Rajonas"
-      },
-      {
-        "name":"Rokiskio Rajonas"
-      },
-      {
-        "name":"Sakiu Rajonas"
-      },
-      {
-        "name":"Salcininku Rajonas"
-      },
-      {
-        "name":"Siauliai"
-      },
-      {
-        "name":"Siauliu Rajonas"
-      },
-      {
-        "name":"Silales Rajonas"
-      },
-      {
-        "name":"Silutes Rajonas"
-      },
-      {
-        "name":"Sirvintu Rajonas"
-      },
-      {
-        "name":"Skuodo Rajonas"
-      },
-      {
-        "name":"Svencioniu Rajonas"
-      },
-      {
-        "name":"Taurages Rajonas"
-      },
-      {
-        "name":"Telsiu Rajonas"
-      },
-      {
-        "name":"Traku Rajonas"
-      },
-      {
-        "name":"Ukmerges Rajonas"
-      },
-      {
-        "name":"Utenos Rajonas"
-      },
-      {
-        "name":"Varenos Rajonas"
-      },
-      {
-        "name":"Vilkaviskio Rajonas"
-      },
-      {
-        "name":"Vilniaus Rajonas"
-      },
-      {
-        "name":"Vilnius"
-      },
-      {
-        "name":"Zarasu Rajonas"
+        "name":"Vilniaus",
+        "shortCode":"VL"
       }
     ]
   },

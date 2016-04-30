@@ -9415,16 +9415,20 @@
     "countryShortCode":"FM",
     "regions":[
       {
-        "name":"Chuuk (Truk)"
+        "name":"Chuuk (Truk)",
+        "shortCode":"TRK"
       },
       {
-        "name":"Kosrae"
+        "name":"Kosrae",
+        "shortCode":"KSA"
       },
       {
-        "name":"Pohnpei"
+        "name":"Pohnpei",
+        "shortCode":"PNI"
       },
       {
-        "name":"Yap"
+        "name":"Yap",
+        "shortCode":"YAP"
       }
     ]
   },

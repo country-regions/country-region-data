@@ -4698,72 +4698,94 @@
   {
     "countryName":"France",
     "countryShortCode":"FR",
-    "regions":[
+    "regions":[//These have been changed (2016/01/01) since ISO3166-2 last defined them 
       {
-        "name":"Alsace"
+        "name":"Alsace",
+        "shortCode": "A"
       },
       {
-        "name":"Aquitaine"
+        "name":"Aquitaine",
+        "shortCode": "B"
       },
       {
-        "name":"Auvergne"
+        "name":"Auvergne",
+        "shortCode": "C"
       },
       {
-        "name":"Basse-Normandie"
+        "name":"Basse-Normandie",
+        "shortCode": "P"
       },
       {
-        "name":"Bourgogne"
+        "name":"Bourgogne",
+        "shortCode": "D"
       },
       {
-        "name":"Bretagne"
+        "name":"Bretagne",
+        "shortCode": "E"
       },
       {
-        "name":"Centre"
+        "name":"Centre",
+        "shortCode": "F"
       },
       {
-        "name":"Champagne-Ardenne"
+        "name":"Champagne-Ardenne",
+        "shortCode": "G"
       },
       {
-        "name":"Corse"
+        "name":"Corse",
+        "shortCode": "H"
       },
       {
-        "name":"Franche-Comte"
+        "name":"Franche-Comté",
+        "shortCode": "I"
       },
       {
-        "name":"Haute-Normandie"
+        "name":"Haute-Normandie",
+        "shortCode": "Q"
       },
       {
-        "name":"Ile-de-France"
+        "name":"Île-de-France",
+        "shortCode": "J"
       },
       {
-        "name":"Languedoc-Roussillon"
+        "name":"Languedoc-Roussillon",
+        "shortCode": "K"
       },
       {
-        "name":"Limousin"
+        "name":"Limousin",
+        "shortCode": "L"
       },
       {
-        "name":"Lorraine"
+        "name":"Lorraine",
+        "shortCode": "M"
       },
       {
-        "name":"Midi-Pyrenees"
+        "name":"Midi-Pyrénées",
+        "shortCode": "N"
       },
       {
-        "name":"Nord-Pas-de-Calais"
+        "name":"Nord-Pas-de-Calais",
+        "shortCode": "O"
       },
       {
-        "name":"Pays de la Loire"
+        "name":"Pays de la Loire",
+        "shortCode": "R"
       },
       {
-        "name":"Picardie"
+        "name":"Picardie",
+        "shortCode": "S"
       },
       {
-        "name":"Poitou-Charentes"
+        "name":"Poitou-Charentes",
+        "shortCode": "T"
       },
       {
-        "name":"Provence-Alpes-Cote d'Azur"
+        "name":"Provence-Alpes-Cote d'Azur",
+        "shortCode": "U"
       },
       {
-        "name":"Rhone-Alpes"
+        "name":"Rhone-Alpes",
+        "shortCode": "V"
       }
     ]
   },

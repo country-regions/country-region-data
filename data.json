@@ -7476,44 +7476,52 @@
     ]
   },
   {
-    "countryName":"Korea, Democratic People's Republic of",
+    "countryName":"Korea, Democratic People's Republic of",//North Korea
     "countryShortCode":"KP",
     "regions":[
       {
-        "name":"Chagang-do (Chagang Province)"
+        "name":"Chagang-do (Chagang Province)",
+        "shortCode":"04"
       },
       {
-        "name":"Hamgyong-bukto (North Hamgyong Province)"
+        "name":"Hamgyong-bukto (North Hamgyong Province)",
+        "shortCode":"09"
       },
       {
-        "name":"Hamgyong-namdo (South Hamgyong Province)"
+        "name":"Hamgyong-namdo (South Hamgyong Province)",
+        "shortCode":"08"
       },
       {
-        "name":"Hwanghae-bukto (North Hwanghae Province)"
+        "name":"Hwanghae-bukto (North Hwanghae Province)",
+        "shortCode":"06"
       },
       {
-        "name":"Hwanghae-namdo (South Hwanghae Province)"
+        "name":"Hwanghae-namdo (South Hwanghae Province)",
+        "shortCode":"05"
       },
       {
-        "name":"Kaesong-si (Kaesong City)"
+        "name":"Kangwon-do (Kangwon Province)",
+        "shortCode":"07"
       },
       {
-        "name":"Kangwon-do (Kangwon Province)"
+        "name":"Nasŏn (Najin-Sŏnbong)",
+        "shortCode":"13"
       },
       {
-        "name":"Namp'o-si (Namp'o City)"
+        "name":"P'yongan-bukto (North P'yongan Province)",
+        "shortCode":"03"
       },
       {
-        "name":"P'yongan-bukto (North P'yongan Province)"
+        "name":"P'yongan-namdo (South P'yongan Province)",
+        "shortCode":"02"
       },
       {
-        "name":"P'yongan-namdo (South P'yongan Province)"
+        "name":"P'yongyang-si (P'yongyang City)",
+        "shortCode":"01"
       },
       {
-        "name":"P'yongyang-si (P'yongyang City)"
-      },
-      {
-        "name":"Yanggang-do (Yanggang Province)"
+        "name":"Yanggang-do (Yanggang Province)",
+        "shortCode":"10"
       }
     ]
   },

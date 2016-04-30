@@ -6013,7 +6013,7 @@
       },
       {
         "name":"Hódmezővásárhely",
-        "shortCode":""
+        "shortCode":"HV"
       },
       {
         "name":"Jász-Nagykun-Szolnok",
@@ -6100,10 +6100,6 @@
       {
         "name":"Vas",
         "shortCode":"VA"
-      },
-      {
-        "name":"Veszprem",
-        "shortCode":""
       },
       {
         "name":"Veszprém",
@@ -6578,7 +6574,7 @@
       },
       {
         "name":"Hormozgān",
-        "shortCode":""
+        "shortCode":"23"
       },
       {
         "name":"Īlām",

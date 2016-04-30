@@ -7285,52 +7285,67 @@
     "countryShortCode":"KZ",
     "regions":[
       {
-        "name":"Almaty"
+        "name":"Almaty",
+        "shortCode":"ALA"
       },
       {
-        "name":"Aqmola"
+        "name":"Aqmola",
+        "shortCode":"AKM"
       },
       {
-        "name":"Aqtobe"
+        "name":"Aqtobe",
+        "shortCode":"AKT"
       },
       {
-        "name":"Astana"
+        "name":"Astana",
+        "shortCode":"AST"
       },
       {
-        "name":"Atyrau"
+        "name":"Atyrau",
+        "shortCode":"ATY"
       },
       {
-        "name":"Batys Qazaqstan"
+        "name":"Batys Qazaqstan",
+        "shortCode":"ZAP"
       },
       {
         "name":"Bayqongyr"
       },
       {
-        "name":"Mangghystau"
+        "name":"Mangghystau",
+        "shortCode":"MAN"
       },
       {
-        "name":"Ongtustik Qazaqstan"
+        "name":"Ongtustik Qazaqstan",
+        "shortCode":"YUZ"
       },
       {
-        "name":"Pavlodar"
+        "name":"Pavlodar",
+        "shortCode":"PAV"
       },
       {
-        "name":"Qaraghandy"
+        "name":"Qaraghandy",
+        "shortCode":"KAR"
       },
       {
-        "name":"Qostanay"
+        "name":"Qostanay",
+        "shortCode":"KUS"
       },
       {
-        "name":"Qyzylorda"
+        "name":"Qyzylorda",
+        "shortCode":"KZY"
       },
       {
-        "name":"Shyghys Qazaqstan"
+        "name":"Shyghys Qazaqstan",
+        "shortCode":"VOS"
       },
       {
-        "name":"Soltustik Qazaqstan"
+        "name":"Soltustik Qazaqstan",
+        "shortCode":"SEV"
       },
       {
-        "name":"Zhambyl"
+        "name":"Zhambyl",
+        "shortCode":"ZHA"
       }
     ]
   },

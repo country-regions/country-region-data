@@ -6970,46 +6970,60 @@
     "countryShortCode":"JM",
     "regions":[
       {
-        "name":"Clarendon"
+        "name":"Clarendon",
+        "shortCode":"13"
       },
       {
-        "name":"Hanover"
+        "name":"Hanover",
+        "shortCode":"09"
       },
       {
-        "name":"Kingston"
+        "name":"Kingston",
+        "shortCode":"01"
       },
       {
-        "name":"Manchester"
+        "name":"Manchester",
+        "shortCode":"12"
       },
       {
-        "name":"Portland"
+        "name":"Portland",
+        "shortCode":"04"
       },
       {
-        "name":"Saint Andrew"
+        "name":"Saint Andrew",
+        "shortCode":"02"
       },
       {
-        "name":"Saint Ann"
+        "name":"Saint Ann",
+        "shortCode":"06"
       },
       {
-        "name":"Saint Catherine"
+        "name":"Saint Catherine",
+        "shortCode":"14"
       },
       {
-        "name":"Saint Elizabeth"
+        "name":"Saint Elizabeth",
+        "shortCode":"11"
       },
       {
-        "name":"Saint James"
+        "name":"Saint James",
+        "shortCode":"08"
       },
       {
-        "name":"Saint Mary"
+        "name":"Saint Mary",
+        "shortCode":"05"
       },
       {
-        "name":"Saint Thomas"
+        "name":"Saint Thomas",
+        "shortCode":"03"
       },
       {
-        "name":"Trelawny"
+        "name":"Trelawny",
+        "shortCode":"07"
       },
       {
-        "name":"Westmoreland"
+        "name":"Westmoreland",
+        "shortCode":"10"
       }
     ]
   },

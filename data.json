@@ -7235,40 +7235,52 @@
     "countryShortCode":"JO",
     "regions":[
       {
-        "name":"'Amman"
+        "name":"‘Ajlūn",
+        "shortCode":"AJ"
       },
       {
-        "name":"Ajlun"
+        "name":"Al 'Aqabah",
+        "shortCode":"AQ"
       },
       {
-        "name":"Al 'Aqabah"
+        "name":"Al Balqā’",
+        "shortCode":"BA"
       },
       {
-        "name":"Al Balqa'"
+        "name":"Al Karak",
+        "shortCode":"KA"
       },
       {
-        "name":"Al Karak"
+        "name":"Al Mafraq",
+        "shortCode":"MA"
       },
       {
-        "name":"Al Mafraq"
+        "name":"Al ‘A̅şimah",
+        "shortCode":"AM"
       },
       {
-        "name":"At Tafilah"
+        "name":"Aţ Ţafīlah",
+        "shortCode":"AT"
       },
       {
-        "name":"Az Zarqa'"
+        "name":"Az Zarqā’",
+        "shortCode":"AZ"
       },
       {
-        "name":"Irbid"
+        "name":"Irbid",
+        "shortCode":"IR"
       },
       {
-        "name":"Jarash"
+        "name":"Jarash",
+        "shortCode":"JA"
       },
       {
-        "name":"Ma'an"
+        "name":"Ma‘ān",
+        "shortCode":"MN"
       },
       {
-        "name":"Madaba"
+        "name":"Mādabā",
+        "shortCode":"MD"
       }
     ]
   },

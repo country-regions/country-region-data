@@ -6710,22 +6710,28 @@
     "countryShortCode":"IL",
     "regions":[
       {
-        "name":"Central"
+        "name":"HaDarom",
+        "shortCode":"D"
       },
       {
-        "name":"Haifa"
+        "name":"HaMerkaz",
+        "shortCode":"M"
       },
       {
-        "name":"Jerusalem"
+        "name":"HaTsafon",
+        "shortCode":"Z"
       },
       {
-        "name":"Northern"
+        "name":"H̱efa",
+        "shortCode":"HA"
       },
       {
-        "name":"Southern"
+        "name":"Tel-Aviv",
+        "shortCode":"TA"
       },
       {
-        "name":"Tel Aviv"
+        "name":"Yerushalayim",
+        "shortCode":"JM"
       }
     ]
   },

@@ -5751,34 +5751,44 @@
     "countryShortCode":"GY",
     "regions":[
       {
-        "name":"Barima-Waini"
+        "name":"Barima-Waini",
+        "shortCode":"BA"
       },
       {
-        "name":"Cuyuni-Mazaruni"
+        "name":"Cuyuni-Mazaruni",
+        "shortCode":"CU"
       },
       {
-        "name":"Demerara-Mahaica"
+        "name":"Demerara-Mahaica",
+        "shortCode":"DE"
       },
       {
-        "name":"East Berbice-Corentyne"
+        "name":"East Berbice-Corentyne",
+        "shortCode":"EB"
       },
       {
-        "name":"Essequibo Islands-West Demerara"
+        "name":"Essequibo Islands-West Demerara",
+        "shortCode":"ES"
       },
       {
-        "name":"Mahaica-Berbice"
+        "name":"Mahaica-Berbice",
+        "shortCode":"MA"
       },
       {
-        "name":"Pomeroon-Supenaam"
+        "name":"Pomeroon-Supenaam",
+        "shortCode":"PM"
       },
       {
-        "name":"Potaro-Siparuni"
+        "name":"Potaro-Siparuni",
+        "shortCode":"PT"
       },
       {
-        "name":"Upper Demerara-Berbice"
+        "name":"Upper Demerara-Berbice",
+        "shortCode":"UD"
       },
       {
-        "name":"Upper Takutu-Upper Essequibo"
+        "name":"Upper Takutu-Upper Essequibo",
+        "shortCode":"UT"
       }
     ]
   },

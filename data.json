@@ -6884,64 +6884,84 @@
     "countryShortCode":"IT",
     "regions":[
       {
-        "name":"Abruzzo"
+        "name":"Abruzzo",
+        "shortCode":"65"
       },
       {
-        "name":"Basilicata"
+        "name":"Basilicata",
+        "shortCode":"77"
       },
       {
-        "name":"Calabria"
+        "name":"Calabria",
+        "shortCode":"78"
       },
       {
-        "name":"Campania"
+        "name":"Campania",
+        "shortCode":"72"
       },
       {
-        "name":"Emilia-Romagna"
+        "name":"Emilia-Romagna",
+        "shortCode":"45"
       },
       {
-        "name":"Friuli-Venezia Giulia"
+        "name":"Friuli-Venezia Giulia",
+        "shortCode":"36"
       },
       {
-        "name":"Lazio"
+        "name":"Lazio",
+        "shortCode":"62"
       },
       {
-        "name":"Liguria"
+        "name":"Liguria",
+        "shortCode":"42"
       },
       {
-        "name":"Lombardia"
+        "name":"Lombardia",
+        "shortCode":"25"
       },
       {
-        "name":"Marche"
+        "name":"Marche",
+        "shortCode":"57"
       },
       {
-        "name":"Molise"
+        "name":"Molise",
+        "shortCode":"67"
       },
       {
-        "name":"Piemonte"
+        "name":"Piemonte",
+        "shortCode":"21"
       },
       {
-        "name":"Puglia"
+        "name":"Puglia",
+        "shortCode":"75"
       },
       {
-        "name":"Sardegna"
+        "name":"Sardegna",
+        "shortCode":"88"
       },
       {
-        "name":"Sicilia"
+        "name":"Sicilia",
+        "shortCode":"82"
       },
       {
-        "name":"Toscana"
+        "name":"Toscana",
+        "shortCode":"52"
       },
       {
-        "name":"Trentino-Alto Adige"
+        "name":"Trentino-Alto Adige",
+        "shortCode":"32"
       },
       {
-        "name":"Umbria"
+        "name":"Umbria",
+        "shortCode":"55"
       },
       {
-        "name":"Valle d'Aosta"
+        "name":"Valle d'Aosta",
+        "shortCode":"23"
       },
       {
-        "name":"Veneto"
+        "name":"Veneto",
+        "shortCode":"34"
       }
     ]
   },

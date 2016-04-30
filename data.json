@@ -6663,58 +6663,76 @@
     "countryShortCode":"IQ",
     "regions":[
       {
-        "name":"Al Anbar"
+        "name":"Al Anbār",
+        "shortCode":"AN"
       },
       {
-        "name":"Al Basrah"
+        "name":"Al Başrah",
+        "shortCode":"BA"
       },
       {
-        "name":"Al Muthanna"
+        "name":"Al Muthanná",
+        "shortCode":"MU"
       },
       {
-        "name":"Al Qadisiyah"
+        "name":"Al Qādisīyah",
+        "shortCode":"QA"
       },
       {
-        "name":"An Najaf"
+        "name":"An Najaf",
+        "shortCode":"NA"
       },
       {
-        "name":"Arbil"
+        "name":"Arbīl",
+        "shortCode":"AR"
       },
       {
-        "name":"As Sulaymaniyah"
+        "name":"As Sulaymānīyah",
+        "shortCode":"SU"
       },
       {
-        "name":"At Ta'mim"
+        "name":"Bābil",
+        "shortCode":"BB"
       },
       {
-        "name":"Babil"
+        "name":"Baghdād",
+        "shortCode":"BG"
       },
       {
-        "name":"Baghdad"
+        "name":"Dohuk",
+        "shortCode":"DA"
       },
       {
-        "name":"Dahuk"
+        "name":"Dhī Qār",
+        "shortCode":"DQ"
       },
       {
-        "name":"Dhi Qar"
+        "name":"Diyālá",
+        "shortCode":"DI"
       },
       {
-        "name":"Diyala"
+        "name":"Karbalā'",
+        "shortCode":"KA"
       },
       {
-        "name":"Karbala'"
+        "name":"Kirkuk",
+        "shortCode":"KI"
       },
       {
-        "name":"Maysan"
+        "name":"Maysān",
+        "shortCode":"MA"
       },
       {
-        "name":"Ninawa"
+        "name":"Nīnawá",
+        "shortCode":"NI"
       },
       {
-        "name":"Salah ad Din"
+        "name":"Şalāḩ ad Dīn",
+        "shortCode":"SD"
       },
       {
-        "name":"Wasit"
+        "name":"Wāsiţ",
+        "shortCode":"WA"
       }
     ]
   },

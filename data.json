@@ -5103,34 +5103,44 @@
     "countryShortCode":"GH",
     "regions":[
       {
-        "name":"Ashanti"
+        "name":"Ashanti",
+        "shortCode":"AH"
       },
       {
-        "name":"Brong-Ahafo"
+        "name":"Brong-Ahafo",
+        "shortCode":"BA"
       },
       {
-        "name":"Central"
+        "name":"Central",
+        "shortCode":"CP"
       },
       {
-        "name":"Eastern"
+        "name":"Eastern",
+        "shortCode":"EP"
       },
       {
-        "name":"Greater Accra"
+        "name":"Greater Accra",
+        "shortCode":"AA"
       },
       {
-        "name":"Northern"
+        "name":"Northern",
+        "shortCode":"NP"
       },
       {
-        "name":"Upper East"
+        "name":"Upper East",
+        "shortCode":"UE"
       },
       {
-        "name":"Upper West"
+        "name":"Upper West",
+        "shortCode":"UW"
       },
       {
-        "name":"Volta"
+        "name":"Volta",
+        "shortCode":"TV"
       },
       {
-        "name":"Western"
+        "name":"Western",
+        "shortCode":"WP"
       }
     ]
   },

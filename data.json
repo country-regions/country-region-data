@@ -7923,43 +7923,64 @@
     "countryShortCode":"LR",
     "regions":[
       {
-        "name":"Bomi"
+        "name":"Bomi",
+        "shortCode":"BM"
       },
       {
-        "name":"Bong"
+        "name":"Bong",
+        "shortCode":"BG"
       },
       {
-        "name":"Grand Bassa"
+        "name":"Gbarpolu",
+        "shortCode":"GP"
       },
       {
-        "name":"Grand Cape Mount"
+        "name":"Grand Bassa",
+        "shortCode":"GB"
       },
       {
-        "name":"Grand Gedeh"
+        "name":"Grand Cape Mount",
+        "shortCode":"CM"
       },
       {
-        "name":"Grand Kru"
+        "name":"Grand Gedeh",
+        "shortCode":"GG"
       },
       {
-        "name":"Lofa"
+        "name":"Grand Kru",
+        "shortCode":"GK"
       },
       {
-        "name":"Margibi"
+        "name":"Lofa",
+        "shortCode":"LO"
       },
       {
-        "name":"Maryland"
+        "name":"Margibi",
+        "shortCode":"MG"
       },
       {
-        "name":"Montserrado"
+        "name":"Maryland",
+        "shortCode":"MY"
       },
       {
-        "name":"Nimba"
+        "name":"Montserrado",
+        "shortCode":"MO"
       },
       {
-        "name":"River Cess"
+        "name":"Nimba",
+        "shortCode":"NI"
       },
       {
-        "name":"Sinoe"
+        "name":"River Cess",
+        "shortCode":"RI"
+      },
+      {
+        "name":"River Geee",
+        "shortCode":"RG"
+      },
+      {
+        "name":"Sinoe",
+        "shortCode":"SI"
       }
     ]
   },

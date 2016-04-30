@@ -2977,46 +2977,96 @@
     "countryShortCode":"TD",
     "regions":[
       {
-        "name":"Batha"
+        "name":"Bahr el Ghazal",
+        "shortCode": "BG"
       },
       {
-        "name":"Biltine"
+        "name":"Batha",
+        "shortCode": "BA"
       },
       {
-        "name":"Borkou-Ennedi-Tibesti"
+        "name":"Borkou",
+        "shortCode": "BO"
       },
       {
-        "name":"Chari-Baguirmi"
+        "name":"Chari-Baguirmi",
+        "shortCode": "CB"
       },
       {
-        "name":"Guera"
+        "name":"Ennedi-Est",
+        "shortCode": "EE"
       },
       {
-        "name":"Kanem"
+        "name":"Ennedi-Ouest",
+        "shortCode": "EO"
       },
       {
-        "name":"Lac"
+        "name":"Guéra",
+        "shortCode": "GR"
       },
       {
-        "name":"Logone Occidental"
+        "name":"Hadjer Lamis",
+        "shortCode": "HL"
       },
       {
-        "name":"Logone Oriental"
+        "name":"Kanem",
+        "shortCode": "KA"
       },
       {
-        "name":"Mayo-Kebbi"
+        "name":"Lac",
+        "shortCode": "LC"
       },
       {
-        "name":"Moyen-Chari"
+        "name":"Logone Occidental",
+        "shortCode": "LO"
       },
       {
-        "name":"Ouaddai"
+        "name":"Logone Oriental",
+        "shortCode": "LR"
       },
       {
-        "name":"Salamat"
+        "name":"Mondoul",
+        "shortCode": "MA"
       },
       {
-        "name":"Tandjile"
+        "name":"Mayo-Kébbi-Est",
+        "shortCode": "ME"
+      },
+      {
+        "name":"Mayo-Kébbi-Est",
+        "shortCode": "ME"
+      },
+      {
+        "name":"Moyen-Chari",
+        "shortCode": "MC"
+      },
+      {
+        "name":"Ouaddai",
+        "shortCode": "OD"
+      },
+      {
+        "name":"Salamat",
+        "shortCode": "SA"
+      },
+      {
+        "name":"Sila",
+        "shortCode": "SI"
+      },
+      {
+        "name":"Tandjilé",
+        "shortCode": "TA"
+      },
+      {
+        "name":"Tibesti",
+        "shortCode": "TI"
+      },
+      {
+        "name":"Ville de Ndjamena",
+        "shortCode": "ND"
+      },
+      {
+        "name":"Wadi Fira",
+        "shortCode": "WF"
       }
     ]
   },

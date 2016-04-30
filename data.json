@@ -6533,88 +6533,128 @@
     "countryShortCode":"IR",
     "regions":[
       {
-        "name":"Ardabil"
+        "name":"Alborz",
+        "shortCode":"32"
       },
       {
-        "name":"Azarbayjan-e Gharbi"
+        "name":"Ardabīl",
+        "shortCode":"03"
       },
       {
-        "name":"Azarbayjan-e Sharqi"
+        "name":"Āz̄arbāyjān-e Gharbī",
+        "shortCode":"02"
       },
       {
-        "name":"Bushehr"
+        "name":"Āz̄arbāyjān-e Sharqī",
+        "shortCode":"01"
       },
       {
-        "name":"Chahar Mahall va Bakhtiari"
+        "name":"Būshehr",
+        "shortCode":"06"
       },
       {
-        "name":"Esfahan"
+        "name":"Chahār Maḩāl va Bakhtīārī",
+        "shortCode":"08"
       },
       {
-        "name":"Fars"
+        "name":"Eşfahān",
+        "shortCode":"04"
       },
       {
-        "name":"Gilan"
+        "name":"Fārs",
+        "shortCode":"14"
       },
       {
-        "name":"Golestan"
+        "name":"Gīlān",
+        "shortCode":"19"
       },
       {
-        "name":"Hamadan"
+        "name":"Golestān",
+        "shortCode":"27"
       },
       {
-        "name":"Hormozgan"
+        "name":"Hamadān",
+        "shortCode":"24"
       },
       {
-        "name":"Ilam"
+        "name":"Hormozgān",
+        "shortCode":""
       },
       {
-        "name":"Kerman"
+        "name":"Īlām",
+        "shortCode":"05"
       },
       {
-        "name":"Kermanshah"
+        "name":"Kermān",
+        "shortCode":"15"
       },
       {
-        "name":"Khorasan"
+        "name":"Kermānshāh",
+        "shortCode":"17"
       },
       {
-        "name":"Khuzestan"
+        "name":"Khorāsān-e Jonūbī",
+        "shortCode":"29"
       },
       {
-        "name":"Kohgiluyeh va Buyer Ahmad"
+        "name":"Khorāsān-e Raẕavī",
+        "shortCode":"30"
       },
       {
-        "name":"Kordestan"
+        "name":"Khorāsān-e Shomālī",
+        "shortCode":"61"
       },
       {
-        "name":"Lorestan"
+        "name":"Khūzestān",
+        "shortCode":"10"
       },
       {
-        "name":"Markazi"
+        "name":"Kohgīlūyeh va Bowyer Aḩmad",
+        "shortCode":"18"
       },
       {
-        "name":"Mazandaran"
+        "name":"Kordestān",
+        "shortCode":"16"
       },
       {
-        "name":"Qazvin"
+        "name":"Lorestān",
+        "shortCode":"20"
       },
       {
-        "name":"Qom"
+        "name":"Markazi",
+        "shortCode":"22"
       },
       {
-        "name":"Semnan"
+        "name":"Māzandarān",
+        "shortCode":"21"
       },
       {
-        "name":"Sistan va Baluchestan"
+        "name":"Qazvīn",
+        "shortCode":"28"
       },
       {
-        "name":"Tehran"
+        "name":"Qom",
+        "shortCode":"26"
       },
       {
-        "name":"Yazd"
+        "name":"Semnān",
+        "shortCode":"12"
       },
       {
-        "name":"Zanjan"
+        "name":"Sīstān va Balūchestān",
+        "shortCode":"13"
+      },
+      {
+        "name":"Tehrān",
+        "shortCode":"07"
+      },
+      {
+        "name":"Yazd",
+        "shortCode":"25"
+      },
+      {
+        "name":"Zanjān",
+        "shortCode":"11"
       }
     ]
   },

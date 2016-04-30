@@ -4860,6 +4860,10 @@
         "shortCode": "V"
       },
       {
+        "name":"Clipperton",
+        "shortCode": "CP"
+      },
+      {
         "name":"Guadeloupe",
         "shortCode": "GP"
       },
@@ -4876,8 +4880,36 @@
         "shortCode": "YT"
       },
       {
-        "name":"La Réunion",
+        "name":"Novelle-Calédonie",
+        "shortCode": "NC"
+      },
+      {
+        "name":"Polynésie",
+        "shortCode": "PF"
+      },
+      {
+        "name":"Saint-Pierre-et-Miquelon",
+        "shortCode": "PM"
+      },
+      {
+        "name":"Saint Barthélemy",
+        "shortCode": "BL"
+      },
+      {
+        "name":"Saint Martin",
+        "shortCode": "MF"
+      },
+      {
+        "name":"Réunion",
         "shortCode": "RE"
+      },
+      {
+        "name":"Terres Australes Françaises",
+        "shortCode": "TF"
+      },
+      {
+        "name":"Wallis-et-Futuna",
+        "shortCode": "WF"
       }
     ]
   },

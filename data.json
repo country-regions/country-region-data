@@ -7750,8 +7750,7 @@
     "countryShortCode":"LV",
     "regions":[
       {
-        "name":"Aizkraukles Rajons",
-        "shortCode":""
+        "name":"Aizkraukles Rajons"
       },
       {
         "name":"Aluksnes Rajons"
@@ -8288,8 +8287,7 @@
     "countryShortCode":"LU",
     "regions":[
       {
-        "name":"Diekirch",
-        "shortCode":""
+        "name":"Diekirch"
       },
       {
         "name":"Grevenmacher"
@@ -8694,8 +8692,7 @@
     "countryShortCode":"MW",
     "regions":[
       {
-        "name":"Balaka",
-        "shortCode":""
+        "name":"Balaka"
       },
       {
         "name":"Blantyre"
@@ -9104,7 +9101,7 @@
       },
       {
         "name":"Inchiri",
-        "shortCode":""
+        "shortCode":"12"
       },
       {
         "name":"Nouakchott Nord",

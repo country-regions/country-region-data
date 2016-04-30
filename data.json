@@ -4674,21 +4674,66 @@
   {
     "countryName":"Fiji",
     "countryShortCode":"FJ",
-    "regions":[
+    "regions":[//provinces and dependency
       {
-        "name":"Central"
+        "name":"Ba",
+        "shortCode":"01"
       },
       {
-        "name":"Eastern"
+        "name":"Bua",
+        "shortCode":"01"
       },
       {
-        "name":"Northern"
+        "name":"Cakaudrove",
+        "shortCode":"03"
       },
       {
-        "name":"Rotuma"
+        "name":"Kadavu",
+        "shortCode":"04"
       },
       {
-        "name":"Western"
+        "name":"Lau",
+        "shortCode":"05"
+      },
+      {
+        "name":"Lomaiviti",
+        "shortCode":"06"
+      },
+      {
+        "name":"Macuata",
+        "shortCode":"07"
+      },
+      {
+        "name":"Nadroga and Navosa",
+        "shortCode":"08"
+      },
+      {
+        "name":"Naitasiri",
+        "shortCode":"09"
+      },
+      {
+        "name":"Namosi",
+        "shortCode":"10"
+      },
+      {
+        "name":"Ra",
+        "shortCode":"011"
+      },
+      {
+        "name":"Rewa",
+        "shortCode":"12"
+      },
+      {
+        "name":"Rotuma",
+        "shortCode":"R"
+      },
+      {
+        "name":"Serua",
+        "shortCode":"12"
+      },
+      {
+        "name":"Tailevu",
+        "shortCode":"14"
       }
     ]
   },

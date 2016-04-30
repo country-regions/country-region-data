@@ -5861,58 +5861,76 @@
     "countryShortCode":"HN",
     "regions":[
       {
-        "name":"Atlantida"
+        "name":"Atlántida",
+        "shortCode":"AT"
       },
       {
-        "name":"Choluteca"
+        "name":"Choluteca",
+        "shortCode":"CH"
       },
       {
-        "name":"Colon"
+        "name":"Colón",
+        "shortCode":"CL"
       },
       {
-        "name":"Comayagua"
+        "name":"Comayagua",
+        "shortCode":"CM"
       },
       {
-        "name":"Copan"
+        "name":"Copán",
+        "shortCode":"CP"
       },
       {
-        "name":"Cortes"
+        "name":"Cortés",
+        "shortCode":"CR"
       },
       {
-        "name":"El Paraiso"
+        "name":"El Paraíso",
+        "shortCode":"EP"
       },
       {
-        "name":"Francisco Morazan"
+        "name":"Francisco Morazan",
+        "shortCode":"FM"
       },
       {
-        "name":"Gracias a Dios"
+        "name":"Gracias a Dios",
+        "shortCode":"GD"
       },
       {
-        "name":"Intibuca"
+        "name":"Intibucá",
+        "shortCode":"IN"
       },
       {
-        "name":"Islas de la Bahia"
+        "name":"Islas de la Bahía",
+        "shortCode":"IB"
       },
       {
-        "name":"La Paz"
+        "name":"La Paz",
+        "shortCode":"LP"
       },
       {
-        "name":"Lempira"
+        "name":"Lempira",
+        "shortCode":"LE"
       },
       {
-        "name":"Ocotepeque"
+        "name":"Ocotepeque",
+        "shortCode":"OC"
       },
       {
-        "name":"Olancho"
+        "name":"Olancho",
+        "shortCode":"OL"
       },
       {
-        "name":"Santa Barbara"
+        "name":"Santa Bárbara",
+        "shortCode":"SB"
       },
       {
-        "name":"Valle"
+        "name":"Valle",
+        "shortCode":"VA"
       },
       {
-        "name":"Yoro"
+        "name":"Yoro",
+        "shortCode":"YO"
       }
     ]
   },

@@ -5471,70 +5471,92 @@
     "countryShortCode":"GT",
     "regions":[
       {
-        "name":"Alta Verapaz"
+        "name":"Alta Verapaz",
+        "shortCode": "AV"
       },
       {
-        "name":"Baja Verapaz"
+        "name":"Baja Verapaz",
+        "shortCode": "BV"
       },
       {
-        "name":"Chimaltenango"
+        "name":"Chimaltenango",
+        "shortCode": "CM"
       },
       {
-        "name":"Chiquimula"
+        "name":"Chiquimula",
+        "shortCode": "CQ"
       },
       {
-        "name":"El Progreso"
+        "name":"El Progreso",
+        "shortCode": "PR"
       },
       {
-        "name":"Escuintla"
+        "name":"Escuintla",
+        "shortCode": "ES"
       },
       {
-        "name":"Guatemala"
+        "name":"Guatemala",
+        "shortCode": "GU"
       },
       {
-        "name":"Huehuetenango"
+        "name":"Huehuetenango",
+        "shortCode": "HU"
       },
       {
-        "name":"Izabal"
+        "name":"Izabal",
+        "shortCode": "IZ"
       },
       {
-        "name":"Jalapa"
+        "name":"Jalapa",
+        "shortCode": "JA"
       },
       {
-        "name":"Jutiapa"
+        "name":"Jutiapa",
+        "shortCode": "JU"
       },
       {
-        "name":"Peten"
+        "name":"Petén",
+        "shortCode": "PE"
       },
       {
-        "name":"Quetzaltenango"
+        "name":"Quetzaltenango",
+        "shortCode": "QZ"
       },
       {
-        "name":"Quiche"
+        "name":"Quiché",
+        "shortCode": "QC"
       },
       {
-        "name":"Retalhuleu"
+        "name":"Retalhuleu",
+        "shortCode": "Re"
       },
       {
-        "name":"Sacatepequez"
+        "name":"Sacatepéquez",
+        "shortCode": "SA"
       },
       {
-        "name":"San Marcos"
+        "name":"San Marcos",
+        "shortCode": "SM"
       },
       {
-        "name":"Santa Rosa"
+        "name":"Santa Rosa",
+        "shortCode": "SR"
       },
       {
-        "name":"Solola"
+        "name":"Sololá",
+        "shortCode": "SO"
       },
       {
-        "name":"Suchitepequez"
+        "name":"Suchitepéquez",
+        "shortCode": "SU"
       },
       {
-        "name":"Totonicapan"
+        "name":"Totonicapán",
+        "shortCode": "TO"
       },
       {
-        "name":"Zacapa"
+        "name":"Zacapa",
+        "shortCode": "ZA"
       }
     ]
   },

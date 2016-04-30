@@ -5446,106 +5446,36 @@
     "countryShortCode":"GN",
     "regions":[
       {
-        "name":"Beyla"
+        "name":"Boké",
+        "shortCode": "B"
       },
       {
-        "name":"Boffa"
+        "name":"Conakry",
+        "shortCode": "C"
       },
       {
-        "name":"Boke"
+        "name":"Faranah",
+        "shortCode": "F"
       },
       {
-        "name":"Conakry"
+        "name":"Kankan",
+        "shortCode": "K"
       },
       {
-        "name":"Coyah"
+        "name":"Kindia",
+        "shortCode": "D"
       },
       {
-        "name":"Dabola"
+        "name":"Labé",
+        "shortCode": "L"
       },
       {
-        "name":"Dalaba"
+        "name":"Mamou",
+        "shortCode": "M"
       },
       {
-        "name":"Dinguiraye"
-      },
-      {
-        "name":"Dubreka"
-      },
-      {
-        "name":"Faranah"
-      },
-      {
-        "name":"Forecariah"
-      },
-      {
-        "name":"Fria"
-      },
-      {
-        "name":"Gaoual"
-      },
-      {
-        "name":"Gueckedou"
-      },
-      {
-        "name":"Kankan"
-      },
-      {
-        "name":"Kerouane"
-      },
-      {
-        "name":"Kindia"
-      },
-      {
-        "name":"Kissidougou"
-      },
-      {
-        "name":"Koubia"
-      },
-      {
-        "name":"Koundara"
-      },
-      {
-        "name":"Kouroussa"
-      },
-      {
-        "name":"Labe"
-      },
-      {
-        "name":"Lelouma"
-      },
-      {
-        "name":"Lola"
-      },
-      {
-        "name":"Macenta"
-      },
-      {
-        "name":"Mali"
-      },
-      {
-        "name":"Mamou"
-      },
-      {
-        "name":"Mandiana"
-      },
-      {
-        "name":"Nzerekore"
-      },
-      {
-        "name":"Pita"
-      },
-      {
-        "name":"Siguiri"
-      },
-      {
-        "name":"Telimele"
-      },
-      {
-        "name":"Tougue"
-      },
-      {
-        "name":"Yomou"
+        "name":"Nzérékoré",
+        "shortCode": "N"
       }
     ]
   },

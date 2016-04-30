@@ -7214,28 +7214,192 @@
     "countryShortCode":"KE",
     "regions":[
       {
-        "name":"Central"
+        "name":"Baringo",
+        "shortCode":"01"
       },
       {
-        "name":"Coast"
+        "name":"Bomet",
+        "shortCode":"02"
       },
       {
-        "name":"Eastern"
+        "name":"Bungoma",
+        "shortCode":"03"
       },
       {
-        "name":"Nairobi Area"
+        "name":"Busia",
+        "shortCode":"04"
       },
       {
-        "name":"North Eastern"
+        "name":"Eleyo/Marakwet",
+        "shortCode":"05"
       },
       {
-        "name":"Nyanza"
+        "name":"Embu",
+        "shortCode":"06"
       },
       {
-        "name":"Rift Valley"
+        "name":"Garissa",
+        "shortCode":"07"
       },
       {
-        "name":"Western"
+        "name":"Homa Bay",
+        "shortCode":"08"
+      },
+      {
+        "name":"Isiolo",
+        "shortCode":"09"
+      },
+      {
+        "name":"Kajiado",
+        "shortCode":"10"
+      },
+      {
+        "name":"Kakamega",
+        "shortCode":"11"
+      },
+      {
+        "name":"Kericho",
+        "shortCode":"12"
+      },
+      {
+        "name":"Kiambu",
+        "shortCode":"13"
+      },
+      {
+        "name":"Kilifi",
+        "shortCode":"14"
+      },
+      {
+        "name":"Kirinyaga",
+        "shortCode":"15"
+      },
+      {
+        "name":"Kisii",
+        "shortCode":"16"
+      },
+      {
+        "name":"Kisumu",
+        "shortCode":"17"
+      },
+      {
+        "name":"Kitui",
+        "shortCode":"18"
+      },
+      {
+        "name":"Kwale",
+        "shortCode":"19"
+      },
+      {
+        "name":"Laikipia",
+        "shortCode":"20"
+      },
+      {
+        "name":"Lamu",
+        "shortCode":"21"
+      },
+      {
+        "name":"Machakos",
+        "shortCode":"22"
+      },
+      {
+        "name":"Makueni",
+        "shortCode":"23"
+      },
+      {
+        "name":"Mandera",
+        "shortCode":"24"
+      },
+      {
+        "name":"Marsabit",
+        "shortCode":"25"
+      },
+      {
+        "name":"Meru",
+        "shortCode":"26"
+      },
+      {
+        "name":"Migori",
+        "shortCode":"27"
+      },
+      {
+        "name":"Mombasa",
+        "shortCode":"28"
+      },
+      {
+        "name":"Murang'a",
+        "shortCode":"29"
+      },
+      {
+        "name":"Nairobi City",
+        "shortCode":"30"
+      },
+      {
+        "name":"Nakuru",
+        "shortCode":"31"
+      },
+      {
+        "name":"Nandi",
+        "shortCode":"32"
+      },
+      {
+        "name":"Narok",
+        "shortCode":"33"
+      },
+      {
+        "name":"Nyamira",
+        "shortCode":"34"
+      },
+      {
+        "name":"Nyandarua",
+        "shortCode":"35"
+      },
+      {
+        "name":"Nyeri",
+        "shortCode":"36"
+      },
+      {
+        "name":"Samburu",
+        "shortCode":"37"
+      },
+      {
+        "name":"Siaya",
+        "shortCode":"38"
+      },
+      {
+        "name":"Taita/Taveta",
+        "shortCode":"39"
+      },
+      {
+        "name":"Tana River",
+        "shortCode":"40"
+      },
+      {
+        "name":"Tharaka-Nithi",
+        "shortCode":"41"
+      },
+      {
+        "name":"Trans Nzoia",
+        "shortCode":"42"
+      },
+      {
+        "name":"Turkana",
+        "shortCode":"43"
+      },
+      {
+        "name":"Uasin Gishu",
+        "shortCode":"44"
+      },
+      {
+        "name":"Vihiga",
+        "shortCode":"45"
+      },
+      {
+        "name":"Wajir",
+        "shortCode":"46"
+      },
+      {
+        "name":"West Pokot",
+        "shortCode":"47"
       }
     ]
   },

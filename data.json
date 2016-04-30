@@ -6395,103 +6395,136 @@
     "countryShortCode":"ID",
     "regions":[
       {
-        "name":"Aceh"
+        "name":"Aceh",
+        "shortCode":"AC"
       },
       {
-        "name":"Bali"
+        "name":"Bali",
+        "shortCode":"BA"
       },
       {
-        "name":"Banten"
+        "name":"Bangka Belitung",
+        "shortCode":"BB"
       },
       {
-        "name":"Bengkulu"
+        "name":"Banten",
+        "shortCode":"BT"
       },
       {
-        "name":"East Timor"
+        "name":"Bengkulu",
+        "shortCode":"BE"
       },
       {
-        "name":"Gorontalo"
+        "name":"Gorontalo",
+        "shortCode":"GO"
       },
       {
-        "name":"Jakarta Raya"
+        "name":"Jakarta Raya",
+        "shortCode":"JK"
       },
       {
-        "name":"Jambi"
+        "name":"Jambi",
+        "shortCode":"JA"
       },
       {
-        "name":"Jawa Barat"
+        "name":"Jawa Barat",
+        "shortCode":"JB"
       },
       {
-        "name":"Jawa Tengah"
+        "name":"Jawa Tengah",
+        "shortCode":"JT"
       },
       {
-        "name":"Jawa Timur"
+        "name":"Jawa Timur",
+        "shortCode":"JI"
       },
       {
-        "name":"Kalimantan Barat"
+        "name":"Kalimantan Barat",
+        "shortCode":"KB"
       },
       {
-        "name":"Kalimantan Selatan"
+        "name":"Kalimantan Selatan",
+        "shortCode":"KS"
       },
       {
-        "name":"Kalimantan Tengah"
+        "name":"Kalimantan Tengah",
+        "shortCode":"KT"
       },
       {
-        "name":"Kalimantan Timur"
+        "name":"Kalimantan Timur",
+        "shortCode":"KI"
       },
       {
-        "name":"Kepulauan Bangka Belitung"
+        "name":"Kalimantan Utara",
+        "shortCode":"KU"
       },
       {
-        "name":"Kepulauan Riau"
+        "name":"Kepulauan Riau",
+        "shortCode":"KR"
       },
       {
-        "name":"Lampung"
+        "name":"Lampung",
+        "shortCode":"LA"
       },
       {
-        "name":"Maluku"
+        "name":"Maluku",
+        "shortCode":"MA"
       },
       {
-        "name":"Maluku Utara"
+        "name":"Maluku Utara",
+        "shortCode":"MU"
       },
       {
-        "name":"Nusa Tenggara Barat"
+        "name":"Nusa Tenggara Barat",
+        "shortCode":"NB"
       },
       {
-        "name":"Nusa Tenggara Timur"
+        "name":"Nusa Tenggara Timur",
+        "shortCode":"NT"
       },
       {
-        "name":"Papua"
+        "name":"Papua",
+        "shortCode":"PA"
       },
       {
-        "name":"Papua Barat"
+        "name":"Papua Barat",
+        "shortCode":"PB"
       },
       {
-        "name":"Riau"
+        "name":"Riau",
+        "shortCode":"RI"
       },
       {
-        "name":"Sulawesi Selatan"
+        "name":"Sulawesi Selatan",
+        "shortCode":"SR"
       },
       {
-        "name":"Sulawesi Tengah"
+        "name":"Sulawesi Tengah",
+        "shortCode":"ST"
       },
       {
-        "name":"Sulawesi Tenggara"
+        "name":"Sulawesi Tenggara",
+        "shortCode":"SG"
       },
       {
-        "name":"Sulawesi Utara"
+        "name":"Sulawesi Utara",
+        "shortCode":"SA"
       },
       {
-        "name":"Sumatera Barat"
+        "name":"Sumatera Barat",
+        "shortCode":"SB"
       },
       {
-        "name":"Sumatera Selatan"
+        "name":"Sumatera Selatan",
+        "shortCode":"SS"
       },
       {
-        "name":"Sumatera Utara"
+        "name":"Sumatera Utara",
+        "shortCode":"SU"
       },
       {
-        "name":"Yogyakarta"
+        "name":"Yogyakarta",
+        "shortCode":"YO"
       }
     ]
   },

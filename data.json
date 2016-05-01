@@ -4425,7 +4425,7 @@
   {
     "countryName":"Equatorial Guinea",
     "countryShortCode":"GQ",
-    "regions":[//provinces (subdivision level 2)
+    "regions":[
       {
         "name":"Annobón",
         "shortCode":"AN"
@@ -4698,7 +4698,7 @@
   {
     "countryName":"France",
     "countryShortCode":"FR",
-    "regions":[//These have been changed (2016/01/01) since ISO3166-2 last defined them 
+    "regions":[
       {
         "name":"Alsace",
         "shortCode": "A"
@@ -5809,8 +5809,8 @@
         "shortCode":"GA"
       },
       {  "name":"Nippes",
-         "shortCode":"NI"
-      }
+        "shortCode":"NI"
+      },
       {
         "name":"Nord",
         "shortCode":"ND"
@@ -5990,7 +5990,7 @@
       {
         "name":"Érd",
         "shortCode":"ER"
-      }
+      },
       {
         "name":"Fejér",
         "shortCode":"FE"
@@ -6057,7 +6057,7 @@
       },
       { "name":"Salgótarján",
         "shortCode":"ST"
-      }
+      },
       {
         "name":"Somogy",
         "shortCode":"SO"
@@ -7476,7 +7476,7 @@
     ]
   },
   {
-    "countryName":"Korea, Democratic People's Republic of",//North Korea
+    "countryName":"Korea, Democratic People's Republic of",
     "countryShortCode":"KP",
     "regions":[
       {
@@ -8660,7 +8660,7 @@
   {
     "countryName":"Madagascar",
     "countryShortCode":"MG",
-    "regions":[//These region have not been updated in the ISO3166-2 despite being outdated since 2009
+    "regions":[
       {
         "name":"Antananarivo",
         "shortCode":"T"

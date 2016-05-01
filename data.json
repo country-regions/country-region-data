@@ -5951,115 +5951,36 @@
     "countryShortCode":"IS",
     "regions":[
       {
-        "name":"Akranes"
+        "name":"Austurland",
+        "shortCode":"7"
       },
       {
-        "name":"Akureyri"
+        "name":"Höfuðborgarsvæði utan Reykjavíkur",
+        "shortCode":"1"
       },
       {
-        "name":"Arnessysla"
+        "name":"Norðurland eystra",
+        "shortCode":"6"
       },
       {
-        "name":"Austur-Bardhastrandarsysla"
+        "name":"Norðurland vestra",
+        "shortCode":"5"
       },
       {
-        "name":"Austur-Hunavatnssysla"
+        "name":"Suðurland",
+        "shortCode":"8"
       },
       {
-        "name":"Austur-Skaftafellssysla"
+        "name":"Suðurnes",
+        "shortCode":"2"
       },
       {
-        "name":"Borgarfjardharsysla"
+        "name":"Vestfirðir",
+        "shortCode":"4"
       },
       {
-        "name":"Dalasysla"
-      },
-      {
-        "name":"Eyjafjardharsysla"
-      },
-      {
-        "name":"Gullbringusysla"
-      },
-      {
-        "name":"Hafnarfjordhur"
-      },
-      {
-        "name":"Husavik"
-      },
-      {
-        "name":"Isafjordhur"
-      },
-      {
-        "name":"Keflavik"
-      },
-      {
-        "name":"Kjosarsysla"
-      },
-      {
-        "name":"Kopavogur"
-      },
-      {
-        "name":"Myrasysla"
-      },
-      {
-        "name":"Neskaupstadhur"
-      },
-      {
-        "name":"Nordhur-Isafjardharsysla"
-      },
-      {
-        "name":"Nordhur-Mulasys-la"
-      },
-      {
-        "name":"Nordhur-Thingeyjarsysla"
-      },
-      {
-        "name":"Olafsfjordhur"
-      },
-      {
-        "name":"Rangarvallasysla"
-      },
-      {
-        "name":"Reykjavik"
-      },
-      {
-        "name":"Saudharkrokur"
-      },
-      {
-        "name":"Seydhisfjordhur"
-      },
-      {
-        "name":"Siglufjordhur"
-      },
-      {
-        "name":"Skagafjardharsysla"
-      },
-      {
-        "name":"Snaefellsnes-og Hnappadalssysla"
-      },
-      {
-        "name":"Strandasysla"
-      },
-      {
-        "name":"Sudhur-Mulasysla"
-      },
-      {
-        "name":"Sudhur-Thingeyjarsysla"
-      },
-      {
-        "name":"Vesttmannaeyjar"
-      },
-      {
-        "name":"Vestur-Bardhastrandarsysla"
-      },
-      {
-        "name":"Vestur-Hunavatnssysla"
-      },
-      {
-        "name":"Vestur-Isafjardharsysla"
-      },
-      {
-        "name":"Vestur-Skaftafellssysla"
+        "name":"Vesturland",
+        "shortCode":"3"
       }
     ]
   },

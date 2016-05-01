@@ -9936,40 +9936,152 @@
     "countryShortCode":"MD",
     "regions":[
       {
-        "name":"Balti"
+        "name":"Aenii Noi",
+        "shortCode":"AN"
       },
       {
-        "name":"Cahul"
+        "name":"Basarabeasca",
+        "shortCode":"BS"
       },
       {
-        "name":"Chisinau"
+        "name":"Bălți",
+        "shortCode":"BA"
       },
       {
-        "name":"Chisinau"
+        "name":"Bender",
+        "shortCode":"BD"
       },
       {
-        "name":"Dubasari"
+        "name":"Briceni",
+        "shortCode":"BR"
       },
       {
-        "name":"Edinet"
+        "name":"Cahul",
+        "shortCode":"CA"
       },
       {
-        "name":"Gagauzia"
+        "name":"Cantemir",
+        "shortCode":"CT"
       },
       {
-        "name":"Lapusna"
+        "name":"Călărași",
+        "shortCode":"CL"
       },
       {
-        "name":"Orhei"
+        "name":"Căușeni",
+        "shortCode":"CS"
       },
       {
-        "name":"Soroca"
+        "name":"Chișinău",
+        "shortCode":"CU"
       },
       {
-        "name":"Tighina"
+        "name":"Cimișlia",
+        "shortCode":"CM"
       },
       {
-        "name":"Ungheni"
+        "name":"Criuleni",
+        "shortCode":"CR"
+      },
+      {
+        "name":"Dondușeni",
+        "shortCode":"DO"
+      },
+      {
+        "name":"Drochia",
+        "shortCode":"DR"
+      },
+      {
+        "name":"Dubăsari",
+        "shortCode":"DU"
+      },
+      {
+        "name":"  Edineț",
+        "shortCode":"ED"
+      },
+      {
+        "name":"Fălești",
+        "shortCode":"FA"
+      },
+      {
+        "name":"Florești",
+        "shortCode":"FL"
+      },
+      {
+        "name":"Găgăuzia",
+        "shortCode":"GA"
+      },
+      {
+        "name":"Glodeni",
+        "shortCode":"GL"
+      },
+      {
+        "name":"Hîncești",
+        "shortCode":"HI"
+      },
+      {
+        "name":"Ialoveni",
+        "shortCode":"IA"
+      },
+      {
+        "name":"Leova",
+        "shortCode":"LE"
+      },
+      {
+        "name":"Nisporeni",
+        "shortCode":"NI"
+      },
+      {
+        "name":"Ocnița",
+        "shortCode":"OC"
+      },
+      {
+        "name":"Orhei",
+        "shortCode":"OR"
+      },
+      {
+        "name":"Rezina",
+        "shortCode":"RE"
+      },
+      {
+        "name":"Rîșcani",
+        "shortCode":"RI"
+      },
+      {
+        "name":"Sîngerei",
+        "shortCode":"SI"
+      },
+      {
+        "name":"Soroca",
+        "shortCode":"SO"
+      },
+      {
+        "name":"Stînga Nistrului",
+        "shortCode":"SN"
+      },
+      {
+        "name":"Strășeni",
+        "shortCode":"ST"
+      },
+      {
+        "name":"Șoldănești",
+        "shortCode":"SD"
+      },
+      {
+        "name":"Ștefan Vodă",
+        "shortCode":"SV"
+      },
+      {
+        "name":"Taraclia",
+        "shortCode":"TA"
+      },
+      {
+        "name":"Telenești",
+        "shortCode":"TE"
+      },
+      {
+        "name":"Ungheni",
+        "shortCode":"UN"
       }
     ]
   },

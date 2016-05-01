@@ -8692,82 +8692,112 @@
     "countryShortCode":"MW",
     "regions":[
       {
-        "name":"Balaka"
+        "name":"Balaka",
+        "shortCode":"BA"
       },
       {
-        "name":"Blantyre"
+        "name":"Blantyre",
+        "shortCode":"BL"
       },
       {
-        "name":"Chikwawa"
+        "name":"Chikwawa",
+        "shortCode":"CK"
       },
       {
-        "name":"Chiradzulu"
+        "name":"Chiradzulu",
+        "shortCode":"CR"
       },
       {
-        "name":"Chitipa"
+        "name":"Chitipa",
+        "shortCode":"CT"
       },
       {
-        "name":"Dedza"
+        "name":"Dedza",
+        "shortCode":"DE"
       },
       {
-        "name":"Dowa"
+        "name":"Dowa",
+        "shortCode":"DO"
       },
       {
-        "name":"Karonga"
+        "name":"Karonga",
+        "shortCode":"KR"
       },
       {
-        "name":"Kasungu"
+        "name":"Kasungu",
+        "shortCode":"KS"
       },
       {
-        "name":"Likoma"
+        "name":"Likoma",
+        "shortCode":"LK"
       },
       {
-        "name":"Lilongwe"
+        "name":"Lilongwe",
+        "shortCode":"LI"
       },
       {
-        "name":"Machinga (Kasupe)"
+        "name":"Machinga",
+        "shortCode":"MH"
       },
       {
-        "name":"Mchinji"
+        "name":"Mangochi",
+        "shortCode":"MG"
       },
       {
-        "name":"Mulanje"
+        "name":"Mchinji",
+        "shortCode":"MC"
       },
       {
-        "name":"Mwanza"
+        "name":"Mulanje",
+        "shortCode":"MU"
       },
       {
-        "name":"Mzimba"
+        "name":"Mwanza",
+        "shortCode":"MW"
       },
       {
-        "name":"Nkhata Bay"
+        "name":"Mzimba",
+        "shortCode":"MZ"
       },
       {
-        "name":"Nkhotakota"
+        "name":"Nkhata Bay",
+        "shortCode":"NE"
       },
       {
-        "name":"Nsanje"
+        "name":"Nkhotakota",
+        "shortCode":"NB"
       },
       {
-        "name":"Ntcheu"
+        "name":"Nsanje",
+        "shortCode":"NS"
       },
       {
-        "name":"Ntchisi"
+        "name":"Ntcheu",
+        "shortCode":"NU"
       },
       {
-        "name":"Phalombe"
+        "name":"Ntchisi",
+        "shortCode":"NI"
       },
       {
-        "name":"Rumphi"
+        "name":"Phalombe",
+        "shortCode":"PH"
       },
       {
-        "name":"Salima"
+        "name":"Rumphi",
+        "shortCode":"RU"
       },
       {
-        "name":"Thyolo"
+        "name":"Salima",
+        "shortCode":"SA"
       },
       {
-        "name":"Zomba"
+        "name":"Thyolo",
+        "shortCode":"TH"
+      },
+      {
+        "name":"Zomba",
+        "shortCode":"ZO"
       }
     ]
   },

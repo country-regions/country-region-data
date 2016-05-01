@@ -10363,115 +10363,64 @@
     "countryShortCode":"MA",
     "regions":[
       {
-        "name":"Agadir"
+        "name":"Chaouia-Ouardigha",
+        "shortCode":"09"
       },
       {
-        "name":"Al Hoceima"
+        "name":"Doukhala-Abda",
+        "shortCode":"10"
       },
       {
-        "name":"Azilal"
+        "name":"Fès-Boulemane",
+        "shortCode":"05"
       },
       {
-        "name":"Ben Slimane"
+        "name":"Gharb-Chrarda-Beni Hssen",
+        "shortCode":"02"
       },
       {
-        "name":"Beni Mellal"
+        "name":"Grand Casablanca",
+        "shortCode":"08"
       },
       {
-        "name":"Boulemane"
+        "name":"Guelmim-Es Semara",
+        "shortCode":"14"
       },
       {
-        "name":"Casablanca"
+        "name":"Laâyoune-Boujdour-Sakia el Hamra",
+        "shortCode":"15"
       },
       {
-        "name":"Chaouen"
+        "name":"Marrakech-Tensift-Al Haouz",
+        "shortCode":"11"
       },
       {
-        "name":"El Jadida"
+        "name":"Meknès-Tafilalet",
+        "shortCode":"06"
       },
       {
-        "name":"El Kelaa des Srarhna"
+        "name":"Oriental",
+        "shortCode":"04"
+      }
+      {
+        "name":"Oued ed Dahab-Lagouira",
+        "shortCode":"16"
       },
       {
-        "name":"Er Essaouira"
+        "name":"Souss-Massa-Drâa",
+        "shortCode":"13"
       },
       {
-        "name":"Fes"
+        "name":"Tadla-Azilal",
+        "shortCode":"12"
       },
       {
-        "name":"Figuig"
+        "name":"Tanger-Tétouan",
+        "shortCode":"01"
       },
       {
-        "name":"Guelmim"
-      },
-      {
-        "name":"Ifrane"
-      },
-      {
-        "name":"Kenitra"
-      },
-      {
-        "name":"Khemisset"
-      },
-      {
-        "name":"Khenifra"
-      },
-      {
-        "name":"Khouribga"
-      },
-      {
-        "name":"Laayoune"
-      },
-      {
-        "name":"Larache"
-      },
-      {
-        "name":"Marrakech"
-      },
-      {
-        "name":"Meknes"
-      },
-      {
-        "name":"Nador"
-      },
-      {
-        "name":"Ouarzazate"
-      },
-      {
-        "name":"Oujda"
-      },
-      {
-        "name":"Rabat-"
-      },
-      {
-        "name":"Settat"
-      },
-      {
-        "name":"Sidi Kacem"
-      },
-      {
-        "name":"Tan-Tan"
-      },
-      {
-        "name":"Tanger"
-      },
-      {
-        "name":"Taounate"
-      },
-      {
-        "name":"Taroudannt"
-      },
-      {
-        "name":"Tata"
-      },
-      {
-        "name":"Taza"
-      },
-      {
-        "name":"Tetouan"
-      },
-      {
-        "name":"Tiznit"
+        "name":"Taza-Al Hoceima-Taounate",
+        "shortCode":"03"
       }
     ]
   },

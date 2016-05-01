@@ -4494,7 +4494,7 @@
   {
     "countryName":"Equatorial Guinea",
     "countryShortCode":"GQ",
-    "regions":[//provinces (subdivision level 2)
+    "regions":[
       {
         "name":"Annobón",
         "shortCode":"AN"
@@ -4716,7 +4716,7 @@
   {
     "countryName":"Fiji",
     "countryShortCode":"FJ",
-    "regions":[//provinces and dependency
+    "regions":[
       {
         "name":"Ba",
         "shortCode":"01"
@@ -4812,7 +4812,7 @@
   {
     "countryName":"France",
     "countryShortCode":"FR",
-    "regions":[//These have been changed (2016/01/01) since ISO3166-2 last defined them 
+    "regions":[
       {
         "name":"Alsace",
         "shortCode": "A"
@@ -5664,7 +5664,7 @@
       },
       {  "name":"Nippes",
          "shortCode":"NI"
-      }
+      },
       {
         "name":"Nord",
         "shortCode":"ND"
@@ -5844,7 +5844,7 @@
       {
         "name":"Érd",
         "shortCode":"ER"
-      }
+      },
       {
         "name":"Fejér",
         "shortCode":"FE"
@@ -5911,7 +5911,7 @@
       },
       { "name":"Salgótarján",
         "shortCode":"ST"
-      }
+      },
       {
         "name":"Somogy",
         "shortCode":"SO"
@@ -7500,7 +7500,7 @@
     ]
   },
   {
-    "countryName":"Korea, Democratic People's Republic of",//North Korea
+    "countryName":"Korea, Democratic People's Republic of",
     "countryShortCode":"KP",
     "regions":[
       {
@@ -7904,8 +7904,8 @@
       {
         "name":"Grobiņa",
         "shortCode":"032"
-      },
-      {
+  },
+  {
         "name":"Gulbene",
         "shortCode":"033"
       },
@@ -7928,8 +7928,8 @@
       {
         "name":"Jaunjelgava",
         "shortCode":"038"
-      },
-      {
+  },
+  {
         "name":"Jaunpiebalga",
         "shortCode":"039"
       },
@@ -7972,8 +7972,8 @@
       {
         "name":"Koknese",
         "shortCode":"046"
-      },
-      {
+  },
+  {
         "name":"Krāslava",
         "shortCode":"047"
       },
@@ -8036,8 +8036,8 @@
       {
         "name":"Mālpils",
         "shortCode":"061"
-      },
-      {
+  },
+  {
         "name":"Mārupe",
         "shortCode":"062"
       },
@@ -8140,8 +8140,8 @@
       {
         "name":"Sala",
         "shortCode":"085"
-      },
-      {
+  },
+  {
         "name":"Salacgrīva",
         "shortCode":"086"
       },
@@ -8188,8 +8188,8 @@
       {
         "name":"Talsi",
         "shortCode":"097"
-      },
-      {
+  },
+  {
         "name":"Tērvete",
         "shortCode":"098"
       },
@@ -8250,8 +8250,8 @@
         "shortCode":"110",
       }
     ]
-  },
-  {
+      },
+      {
     "countryName":"Lebanon",
     "countryShortCode":"LB",
     "regions":[
@@ -8288,8 +8288,8 @@
         "shortCode":"NA"
       }
     ]
-  },
-  {
+      },
+      {
     "countryName":"Lesotho",
     "countryShortCode":"LS",
     "regions":[
@@ -8334,8 +8334,8 @@
         "shortCode":"K"
       }
     ]
-  },
-  {
+      },
+      {
     "countryName":"Liberia",
     "countryShortCode":"LR",
     "regions":[
@@ -8400,8 +8400,8 @@
         "shortCode":"SI"
       }
     ]
-  },
-  {
+      },
+      {
     "countryName":"Libya",
     "countryShortCode":"LY",
     "regions":[
@@ -8424,8 +8424,8 @@
       {
         "name":"Al Jufrah",
         "shortCode":"JU"
-      },
-      {
+  },
+  {
         "name":"Al Kufrah",
         "shortCode":"FK"
       },
@@ -8436,8 +8436,8 @@
       {
         "name":"Al Marquab",
         "shortCode":"MB"
-      },
-      {
+  },
+  {
         "name":"Al Wāḩāt",
         "shortCode":"WA"
       },,
@@ -8448,8 +8448,8 @@
       {
         "name":"Az Zāwiyah",
         "shortCode":"ZA"
-      },
-      {
+  },
+  {
         "name":"Banghāzī",
         "shortCode":"BA"
       },
@@ -8494,8 +8494,8 @@
         "shortCode":"WS"
       }
     ]
-  },
-  {
+      },
+      {
     "countryName":"Liechtenstein",
     "countryShortCode":"LI",
     "regions":[
@@ -8544,8 +8544,8 @@
         "shortCode":"11"
       }
     ]
-  },
-  {
+      },
+      {
     "countryName":"Lithuania",
     "countryShortCode":"LT",
     "regions":[
@@ -8590,8 +8590,8 @@
         "shortCode":"VL"
       }
     ]
-  },
-  {
+      },
+      {
     "countryName":"Luxembourg",
     "countryShortCode":"LU",
     "regions":[
@@ -8644,8 +8644,8 @@
         "shortCode":"WI"
       }
     ]
-  },
-  {
+      },
+      {
     "countryName":"Macao",
     "countryShortCode":"MO",
     "regions":[
@@ -8653,8 +8653,8 @@
         "name":"Macao"
       }
     ]
-  },
-  {
+      },
+      {
     "countryName":"Macedonia, Republic of",
     "countryShortCode":"MK",
     "regions":[
@@ -8947,7 +8947,7 @@
   {
     "countryName":"Madagascar",
     "countryShortCode":"MG",
-    "regions":[//These region have not been updated in the ISO3166-2 despite being outdated since 2009
+    "regions":[
       {
         "name":"Antananarivo",
         "shortCode":"T"

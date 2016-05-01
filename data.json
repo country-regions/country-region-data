@@ -8873,82 +8873,112 @@
     "countryShortCode":"MW",
     "regions":[
       {
-        "name":"Balaka"
+        "name":"Balaka",
+        "shortCode":"BA"
       },
       {
-        "name":"Blantyre"
+        "name":"Blantyre",
+        "shortCode":"BL"
       },
       {
-        "name":"Chikwawa"
+        "name":"Chikwawa",
+        "shortCode":"CK"
       },
       {
-        "name":"Chiradzulu"
+        "name":"Chiradzulu",
+        "shortCode":"CR"
       },
       {
-        "name":"Chitipa"
+        "name":"Chitipa",
+        "shortCode":"CT"
       },
       {
-        "name":"Dedza"
+        "name":"Dedza",
+        "shortCode":"DE"
       },
       {
-        "name":"Dowa"
+        "name":"Dowa",
+        "shortCode":"DO"
       },
       {
-        "name":"Karonga"
+        "name":"Karonga",
+        "shortCode":"KR"
       },
       {
-        "name":"Kasungu"
+        "name":"Kasungu",
+        "shortCode":"KS"
       },
       {
-        "name":"Likoma"
+        "name":"Likoma",
+        "shortCode":"LK"
       },
       {
-        "name":"Lilongwe"
+        "name":"Lilongwe",
+        "shortCode":"LI"
       },
       {
-        "name":"Machinga (Kasupe)"
+        "name":"Machinga",
+        "shortCode":"MH"
       },
       {
-        "name":"Mchinji"
+        "name":"Mangochi",
+        "shortCode":"MG"
       },
       {
-        "name":"Mulanje"
+        "name":"Mchinji",
+        "shortCode":"MC"
       },
       {
-        "name":"Mwanza"
+        "name":"Mulanje",
+        "shortCode":"MU"
       },
       {
-        "name":"Mzimba"
+        "name":"Mwanza",
+        "shortCode":"MW"
       },
       {
-        "name":"Nkhata Bay"
+        "name":"Mzimba",
+        "shortCode":"MZ"
       },
       {
-        "name":"Nkhotakota"
+        "name":"Nkhata Bay",
+        "shortCode":"NE"
       },
       {
-        "name":"Nsanje"
+        "name":"Nkhotakota",
+        "shortCode":"NB"
       },
       {
-        "name":"Ntcheu"
+        "name":"Nsanje",
+        "shortCode":"NS"
       },
       {
-        "name":"Ntchisi"
+        "name":"Ntcheu",
+        "shortCode":"NU"
       },
       {
-        "name":"Phalombe"
+        "name":"Ntchisi",
+        "shortCode":"NI"
       },
       {
-        "name":"Rumphi"
+        "name":"Phalombe",
+        "shortCode":"PH"
       },
       {
-        "name":"Salima"
+        "name":"Rumphi",
+        "shortCode":"RU"
       },
       {
-        "name":"Thyolo"
+        "name":"Salima",
+        "shortCode":"SA"
       },
       {
-        "name":"Zomba"
+        "name":"Thyolo",
+        "shortCode":"TH"
+      },
+      {
+        "name":"Zomba",
+        "shortCode":"ZO"
       }
     ]
   },
@@ -9027,61 +9057,88 @@
     "countryShortCode":"MV",
     "regions":[
       {
-        "name":"Alifu"
+        "name":"Alifu Alifu",
+        "shortCode":"02"
       },
       {
-        "name":"Baa"
+        "name":"Alifu Dhaalu",
+        "shortCode":"00"
       },
       {
-        "name":"Dhaalu"
+        "name":"Baa",
+        "shortCode":"20"
       },
       {
-        "name":"Faafu"
+        "name":"Dhaalu",
+        "shortCode":"17"
       },
       {
-        "name":"Gaafu Alifu"
+        "name":"Faafu",
+        "shortCode":"14"
       },
       {
-        "name":"Gaafu Dhaalu"
+        "name":"Gaafu Alifu",
+        "shortCode":"27"
       },
       {
-        "name":"Gnaviyani"
+        "name":"Gaafu Dhaalu",
+        "shortCode":"28"
       },
       {
-        "name":"Haa Alifu"
+        "name":"Gnaviyani",
+        "shortCode":"29"
       },
       {
-        "name":"Haa afu"
+        "name":"Haa Alifu",
+        "shortCode":"07"
       },
       {
-        "name":"Laamu"
+        "name":"Haa Dhaalu",
+        "shortCode":"23"
       },
       {
-        "name":"Lhaviyani"
+        "name":"Kaafu",
+        "shortCode":"29"
       },
       {
-        "name":"Maale"
+        "name":"Laamu",
+        "shortCode":"05"
       },
       {
-        "name":"Meemu"
+        "name":"Lhaviyani",
+        "shortCode":"03"
       },
       {
-        "name":"Noonu"
+        "name":"Malé",
+        "shortCode":"MLE"
       },
       {
-        "name":"Raa"
+        "name":"Meemu",
+        "shortCode":"12"
       },
       {
-        "name":"Seenu"
+        "name":"Noonu",
+        "shortCode":"25"
       },
       {
-        "name":"Shaviyani"
+        "name":"Raa",
+        "shortCode":"13"
       },
       {
-        "name":"Thaa"
+        "name":"Seenu",
+        "shortCode":"01"
       },
       {
-        "name":"Vaavu"
+        "name":"Shaviyani",
+        "shortCode":"24"
+      },
+      {
+        "name":"Thaa",
+        "shortCode":"08"
+      },
+      {
+        "name":"Vaavu",
+        "shortCode":"04"
       }
     ]
   },

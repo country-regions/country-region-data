@@ -3583,67 +3583,40 @@
     "countryShortCode":"CK",
     "regions":[
       {
-        "name":"Aitutaki",
-        "shortCode":"01"
+        "name":"Aitutaki"
       },
       {
-        "name":"Atiu",
-        "shortCode":"02"
+        "name":"Atiu"
       },
       {
         "name":"Avarua"
       },
       {
-        "name":"Mangaia",
-        "shortCode":"03"
+        "name":"Mangaia"
       },
       {
-        "name":"Manihiki",
-        "shortCode":"04"
+        "name":"Manihiki"
       },
       {
-        "name":"Manuae",
-        "shortCode":"05"
+        "name":"Ma'uke"
       },
       {
-        "name":"Mauke",
-        "shortCode":"06"
+        "name":"Mitiaro"
       },
       {
-        "name":"Mitiaro",
-        "shortCode":"07"
+        "name":"Nassau"
       },
       {
-        "name":"Nassau Island",
-        "shortCode":"08"
+        "name":"Palmerston"
       },
       {
-        "name":"Palmerston",
-        "shortCode":"09"
+        "name":"Penrhyn"
       },
       {
-        "name":"Penrhyn",
-        "shortCode":"10"
+        "name":"Pukapuka"
       },
       {
-        "name":"Pukapuka",
-        "shortCode":"11"
-      },
-      {
-        "name":"Rakahanga",
-        "shortCode":"12"
-      },
-      {
-        "name":"Rarotonga",
-        "shortCode":"13"
-      },
-      {
-        "name":"Suwarrow",
-        "shortCode":"14"
-      },
-      {
-        "name":"Takutea",
-        "shortCode":"15"
+        "name":"Rakahanga"
       }
     ]
   },

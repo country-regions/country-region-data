@@ -9467,97 +9467,92 @@
     "countryShortCode":"MH",
     "regions":[
       {
-        "name":"Ailinginae"
+        "name":"Ailinglaplap",
+        "shortCode":"ALL"
       },
       {
-        "name":"Ailinglaplap"
+        "name":"Ailuk",
+        "shortCode":"ALK"
       },
       {
-        "name":"Ailuk"
+        "name":"Arno",
+        "shortCode":"ARN"
       },
       {
-        "name":"Arno"
+        "name":"Aur",
+        "shortCode":"AUR"
       },
       {
-        "name":"Aur"
+        "name":"Bikini and Kili",
+        "shortCode":"KIL"
       },
       {
-        "name":"Bikar"
+        "name":"Ebon",
+        "shortCode":"EBO"
       },
       {
-        "name":"Bikini"
+        "name":"Jabat",
+        "shortCode":"JAB"
       },
       {
-        "name":"Bokak"
+        "name":"Jaluit",
+        "shortCode":"JAL"
       },
       {
-        "name":"Ebon"
+        "name":"Kwajalein",
+        "shortCode":"KWA"
       },
       {
-        "name":"Enewetak"
+        "name":"Lae",
+        "shortCode":"LAE"
       },
       {
-        "name":"Erikub"
+        "name":"Lib",
+        "shortCode":"LIB"
       },
       {
-        "name":"Jabat"
+        "name":"Likiep",
+        "shortCode":"LIK"
       },
       {
-        "name":"Jaluit"
+        "name":"Majuro",
+        "shortCode":"MAJ"
       },
       {
-        "name":"Jemo"
+        "name":"Maloelap",
+        "shortCode":"MAL"
       },
       {
-        "name":"Kili"
+        "name":"Mejit",
+        "shortCode":"MEJ"
       },
       {
-        "name":"Kwajalein"
+        "name":"Namdrik",
+        "shortCode":"NMK"
       },
       {
-        "name":"Lae"
+        "name":"Namu",
+        "shortCode":"NMU"
       },
       {
-        "name":"Lib"
+        "name":"Rongelap",
+        "shortCode":"RON"
       },
       {
-        "name":"Likiep"
+        "name":"Ujae",
+        "shortCode":"UJA"
       },
       {
-        "name":"Majuro"
+        "name":"Utrik",
+        "shortCode":"UTI"
       },
       {
-        "name":"Maloelap"
+        "name":"Wotho",
+        "shortCode":"WTH"
       },
       {
-        "name":"Mejitorik"
-      },
-      {
-        "name":"Namu"
-      },
-      {
-        "name":"Rongelap"
-      },
-      {
-        "name":"Rongrik"
-      },
-      {
-        "name":"Toke"
-      },
-      {
-        "name":"Ujae"
-      },
-      {
-        "name":"Ujelang"
-      },
-      {
-        "name":"Utirik"
-      },
-      {
-        "name":"Wotho"
-      },
-      {
-        "name":"Wotje"
+        "name":"Wotje",
+        "shortCode":"WTJ"
       }
     ]
   },

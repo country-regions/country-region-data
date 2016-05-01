@@ -10090,16 +10090,72 @@
     "countryShortCode":"MC",
     "regions":[
       {
-        "name":"Fontvieille"
+        "name":"Colle",
+        "shortCode":"CL"
+      }
+      {
+        "name":"Condamine",
+        "shortCode":"CO"
       },
       {
-        "name":"La Condamine"
+        "name":"Fontvieille",
+        "shortCode":"FO"
       },
       {
-        "name":"Monaco-Ville"
+        "name":"Gare",
+        "shortCode":"GA"
       },
       {
-        "name":"Monte-Carlo"
+        "name":"Jardin Exotique",
+        "shortCode":"JE"
+      },
+      {
+        "name":"Larvotto",
+        "shortCode":"LA"
+      },
+      {
+        "name":"Malbousquet",
+        "shortCode":"MA"
+      },
+      {
+        "name":"Monaco-Ville",
+        "shortCode":"MO"
+      },
+      {
+        "name":"Moneghetti",
+        "shortCode":"MG"
+      },
+      {
+        "name":"Monte-Carlo",
+        "shortCode":"MC"
+      },
+      {
+        "name":"Moulins",
+        "shortCode":"MU"
+      },
+      {
+        "name":"Port-Hercule",
+        "shortCode":"PH"
+      },
+      {
+        "name":"Saint-Roman",
+        "shortCode":"SR"
+      },
+      {
+        "name":"Sainte-Dévote",
+        "shortCode":"SD"
+      },
+      {
+        "name":"Source",
+        "shortCode":"SO"
+      },
+      {
+        "name":"Spélugues",
+        "shortCode":"SP"
+      },
+      {
+        "name":"Vallon de la Rousse",
+        "shortCode":"VR"
       }
     ]
   },

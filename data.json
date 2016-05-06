@@ -10063,46 +10063,60 @@
     "countryShortCode":"NR",
     "regions":[
       {
-        "name":"Aiwo"
+        "name":"Aiwo",
+        "shortCode":"01"
       },
       {
-        "name":"Anabar"
+        "name":"Anabar",
+        "shortCode":"02"
       },
       {
-        "name":"Anetan"
+        "name":"Anetan",
+        "shortCode":"03"
       },
       {
-        "name":"Anibare"
+        "name":"Anibare",
+        "shortCode":"04"
       },
       {
-        "name":"Baiti"
+        "name":"Baiti",
+        "shortCode":"05"
       },
       {
-        "name":"Boe"
+        "name":"Boe",
+        "shortCode":"06"
       },
       {
-        "name":"Buada"
+        "name":"Buada",
+        "shortCode":"07"
       },
       {
-        "name":"Denigomodu"
+        "name":"Denigomodu",
+        "shortCode":"08"
       },
       {
-        "name":"Ewa"
+        "name":"Ewa",
+        "shortCode":"09"
       },
       {
-        "name":"Ijuw"
+        "name":"Ijuw",
+        "shortCode":"10"
       },
       {
-        "name":"Meneng"
+        "name":"Meneng",
+        "shortCode":"11"
       },
       {
-        "name":"Nibok"
+        "name":"Nibok",
+        "shortCode":"12"
       },
       {
-        "name":"Uaboe"
+        "name":"Uaboe",
+        "shortCode":"13"
       },
       {
-        "name":"Yaren"
+        "name":"Yaren",
+        "shortCode":"14"
       }
     ]
   },

@@ -10001,43 +10001,60 @@
     "countryShortCode":"NA",
     "regions":[
       {
-        "name":"Caprivi"
+        "name":"Erongo",
+        "shortCode":"ER"
       },
       {
-        "name":"Erongo"
+        "name":"Hardap",
+        "shortCode":"HA"
       },
       {
-        "name":"Hardap"
+        "name":"Kavango East",
+        "shortCode":"KE"
       },
       {
-        "name":"Karas"
+        "name":"Kavango West",
+        "shortCode":"KW"
       },
       {
-        "name":"Khomas"
+        "name":"Karas",
+        "shortCode":"KA"
       },
       {
-        "name":"Kunene"
+        "name":"Khomas",
+        "shortCode":"KH"
       },
       {
-        "name":"Ohangwena"
+        "name":"Kunene",
+        "shortCode":"KU"
       },
       {
-        "name":"Okavango"
+        "name":"Ohangwena",
+        "shortCode":"OW"
       },
       {
-        "name":"Omaheke"
+        "name":"Omaheke",
+        "shortCode":"OH"
       },
       {
-        "name":"Omusati"
+        "name":"Omusati",
+        "shortCode":"OS"
       },
       {
-        "name":"Oshana"
+        "name":"Oshana",
+        "shortCode":"ON"
       },
       {
-        "name":"Oshikoto"
+        "name":"Oshikoto",
+        "shortCode":"OT"
       },
       {
-        "name":"Otjozondjupa"
+        "name":"Otjozondjupa",
+        "shortCode":"OD"
+      },
+      {
+        "name":"Zambezi",
+        "shortCode":"CA"
       }
     ]
   },

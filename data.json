@@ -10125,46 +10125,60 @@
     "countryShortCode":"NP",
     "regions":[
       {
-        "name":"Bagmati"
+        "name":"Bagmati",
+        "shortCode":"BA"
       },
       {
-        "name":"Bheri"
+        "name":"Bheri",
+        "shortCode":"BH"
       },
       {
-        "name":"Dhawalagiri"
+        "name":"Dhawalagiri",
+        "shortCode":"DH"
       },
       {
-        "name":"Gandaki"
+        "name":"Gandaki",
+        "shortCode":"GA"
       },
       {
-        "name":"Janakpur"
+        "name":"Janakpur",
+        "shortCode":"JA"
       },
       {
-        "name":"Karnali"
+        "name":"Karnali",
+        "shortCode":"KA"
       },
       {
-        "name":"Kosi"
+        "name":"Kosi",
+        "shortCode":"KO"
       },
       {
-        "name":"Lumbini"
+        "name":"Lumbini",
+        "shortCode":"LU"
       },
       {
-        "name":"Mahakali"
+        "name":"Mahakali",
+        "shortCode":"MA"
       },
       {
-        "name":"Mechi"
+        "name":"Mechi",
+        "shortCode":"ME"
       },
       {
-        "name":"Narayani"
+        "name":"Narayani",
+        "shortCode":"NA"
       },
       {
-        "name":"Rapti"
+        "name":"Rapti",
+        "shortCode":"RA"
       },
       {
-        "name":"Sagarmatha"
+        "name":"Sagarmatha",
+        "shortCode":"SA"
       },
       {
-        "name":"Seti"
+        "name":"Seti",
+        "shortCode":"SE"
       }
     ]
   },

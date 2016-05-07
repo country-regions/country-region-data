@@ -10187,40 +10187,52 @@
     "countryShortCode":"NL",
     "regions":[
       {
-        "name":"Drenthe"
+        "name":"Drenthe",
+        "shortCode":"DR"
       },
       {
-        "name":"Flevoland"
+        "name":"Flevoland",
+        "shortCode":"FL"
       },
       {
-        "name":"Friesland"
+        "name":"Friesland",
+        "shortCode":"FR"
       },
       {
-        "name":"Gelderland"
+        "name":"Gelderland",
+        "shortCode":"GE"
       },
       {
-        "name":"Groningen"
+        "name":"Groningen",
+        "shortCode":"GR"
       },
       {
-        "name":"Limburg"
+        "name":"Limburg",
+        "shortCode":"LI"
       },
       {
-        "name":"Noord-Brabant"
+        "name":"Noord-Brabant",
+        "shortCode":"NB"
       },
       {
-        "name":"Noord-Holland"
+        "name":"Noord-Holland",
+        "shortCode":"NH"
       },
       {
-        "name":"Overijssel"
+        "name":"Overijssel",
+        "shortCode":"OV"
       },
       {
-        "name":"Utrecht"
+        "name":"Utrecht",
+        "shortCode":"UT"
       },
       {
-        "name":"Zeeland"
+        "name":"Zeeland",
+        "shortCode":"ZE"
       },
       {
-        "name":"Zuid-Holland"
+        "name":"Zuid-Holland",
+        "shortCode":"ZH"
       }
     ]
   },

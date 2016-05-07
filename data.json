@@ -10889,34 +10889,56 @@
     "countryShortCode":"PA",
     "regions":[
       {
-        "name":"Bocas del Toro"
+        "name":"Bocas del Toro",
+        "shortCode":"1"
       },
       {
-        "name":"Chiriqui"
+        "name":"Chiriquí",
+        "shortCode":"4"
       },
       {
-        "name":"Cocle"
+        "name":"Coclé",
+        "shortCode":"2"
       },
       {
-        "name":"Colon"
+        "name":"Colón",
+        "shortCode":"3"
       },
       {
-        "name":"Darien"
+        "name":"Darién",
+        "shortCode":"5"
       },
       {
-        "name":"Herrera"
+        "name":"Emberá",
+        "shortCode":"EM"
       },
       {
-        "name":"Los Santos"
+        "name":"Herrera",
+        "shortCode":"6"
       },
       {
-        "name":"Panama"
+        "name":"Kuna Yala",
+        "shortCode":"KY"
       },
       {
-        "name":"San Blas"
+        "name":"Los Santos",
+        "shortCode":"7"
       },
       {
-        "name":"Veraguas"
+        "name":"Ngäbe-Buglé",
+        "shortCode":"NB"
+      },
+      {
+        "name":"Panamá",
+        "shortCode":"8"
+      },
+      {
+        "name":"Panamá Oeste",
+        "shortCode":"10"
+      },
+      {
+        "name":"Veraguas",
+        "shortCode":"9"
       }
     ]
   },

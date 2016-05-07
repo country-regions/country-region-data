@@ -11115,76 +11115,108 @@
     "countryShortCode":"PE",
     "regions":[
       {
-        "name":"Amazonas"
+        "name":"Amazonas",
+        "shortCode":"AMA"
       },
       {
-        "name":"Ancash"
+        "name":"Ancash",
+        "shortCode":"ANC"
       },
       {
-        "name":"Apurimac"
+        "name":"Apurimac",
+        "shortCode":"APU"
       },
       {
-        "name":"Arequipa"
+        "name":"Arequipa",
+        "shortCode":"ARE"
       },
       {
-        "name":"Ayacucho"
+        "name":"Ayacucho",
+        "shortCode":"AYA"
       },
       {
-        "name":"Cajamarca"
+        "name":"Cajamarca",
+        "shortCode":"CAJ"
       },
       {
-        "name":"Callao"
+        "name":"Callao",
+        "shortCode":"CAL"
       },
       {
-        "name":"Cusco"
+        "name":"Cusco",
+        "shortCode":"CUS"
       },
       {
-        "name":"Huancavelica"
+        "name":"Huancavelica",
+        "shortCode":"HUV"
       },
       {
-        "name":"Huanuco"
+        "name":"Huanuco",
+        "shortCode":"HUC"
       },
       {
-        "name":"Ica"
+        "name":"Ica",
+        "shortCode":"ICA"
       },
       {
-        "name":"Junin"
+        "name":"Junin",
+        "shortCode":"JUN"
       },
       {
-        "name":"La Libertad"
+        "name":"La Libertad",
+        "shortCode":"LAL"
       },
       {
-        "name":"Lambayeque"
+        "name":"Lambayeque",
+        "shortCode":"LAM"
       },
       {
-        "name":"Lima"
+        "name":"Lima",
+        "shortCode":"LIM"
       },
       {
-        "name":"Loreto"
+        "name":"Loreto",
+        "shortCode":"LOR"
       },
       {
-        "name":"Madre de egua"
+        "name":"Madre de Dios",
+        "shortCode":"MDD"
       },
       {
-        "name":"Pasco"
+        "name":"Moquegua",
+        "shortCode":"MOQ"
       },
       {
-        "name":"Piura"
+        "name":"Municipalidad Metropolitana de Lima",
+        "shortCode":"LMA"
       },
       {
-        "name":"Puno"
+        "name":"Pasco",
+        "shortCode":"PAS"
       },
       {
-        "name":"San Martin"
+        "name":"Piura",
+        "shortCode":"PIU"
       },
       {
-        "name":"Tacna"
+        "name":"Puno",
+        "shortCode":"PUN"
       },
       {
-        "name":"Tumbes"
+        "name":"San Martin",
+        "shortCode":"SAM"
       },
       {
-        "name":"Ucayali"
+        "name":"Tacna",
+        "shortCode":"TAC"
+      },
+      {
+        "name":"Tumbes",
+        "shortCode":"TUM"
+      },
+      {
+        "name":"Ucayali",
+        "shortCode":"UCA"
       }
     ]
   },

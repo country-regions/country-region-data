@@ -10563,43 +10563,60 @@
     "countryShortCode":"NA",
     "regions":[
       {
-        "name":"Caprivi"
+        "name":"Erongo",
+        "shortCode":"ER"
       },
       {
-        "name":"Erongo"
+        "name":"Hardap",
+        "shortCode":"HA"
       },
       {
-        "name":"Hardap"
+        "name":"Kavango East",
+        "shortCode":"KE"
       },
       {
-        "name":"Karas"
+        "name":"Kavango West",
+        "shortCode":"KW"
       },
       {
-        "name":"Khomas"
+        "name":"Karas",
+        "shortCode":"KA"
       },
       {
-        "name":"Kunene"
+        "name":"Khomas",
+        "shortCode":"KH"
       },
       {
-        "name":"Ohangwena"
+        "name":"Kunene",
+        "shortCode":"KU"
       },
       {
-        "name":"Okavango"
+        "name":"Ohangwena",
+        "shortCode":"OW"
       },
       {
-        "name":"Omaheke"
+        "name":"Omaheke",
+        "shortCode":"OH"
       },
       {
-        "name":"Omusati"
+        "name":"Omusati",
+        "shortCode":"OS"
       },
       {
-        "name":"Oshana"
+        "name":"Oshana",
+        "shortCode":"ON"
       },
       {
-        "name":"Oshikoto"
+        "name":"Oshikoto",
+        "shortCode":"OT"
       },
       {
-        "name":"Otjozondjupa"
+        "name":"Otjozondjupa",
+        "shortCode":"OD"
+      },
+      {
+        "name":"Zambezi",
+        "shortCode":"CA"
       }
     ]
   },
@@ -10608,46 +10625,60 @@
     "countryShortCode":"NR",
     "regions":[
       {
-        "name":"Aiwo"
+        "name":"Aiwo",
+        "shortCode":"01"
       },
       {
-        "name":"Anabar"
+        "name":"Anabar",
+        "shortCode":"02"
       },
       {
-        "name":"Anetan"
+        "name":"Anetan",
+        "shortCode":"03"
       },
       {
-        "name":"Anibare"
+        "name":"Anibare",
+        "shortCode":"04"
       },
       {
-        "name":"Baiti"
+        "name":"Baiti",
+        "shortCode":"05"
       },
       {
-        "name":"Boe"
+        "name":"Boe",
+        "shortCode":"06"
       },
       {
-        "name":"Buada"
+        "name":"Buada",
+        "shortCode":"07"
       },
       {
-        "name":"Denigomodu"
+        "name":"Denigomodu",
+        "shortCode":"08"
       },
       {
-        "name":"Ewa"
+        "name":"Ewa",
+        "shortCode":"09"
       },
       {
-        "name":"Ijuw"
+        "name":"Ijuw",
+        "shortCode":"10"
       },
       {
-        "name":"Meneng"
+        "name":"Meneng",
+        "shortCode":"11"
       },
       {
-        "name":"Nibok"
+        "name":"Nibok",
+        "shortCode":"12"
       },
       {
-        "name":"Uaboe"
+        "name":"Uaboe",
+        "shortCode":"13"
       },
       {
-        "name":"Yaren"
+        "name":"Yaren",
+        "shortCode":"14"
       }
     ]
   },
@@ -10656,46 +10687,60 @@
     "countryShortCode":"NP",
     "regions":[
       {
-        "name":"Bagmati"
+        "name":"Bagmati",
+        "shortCode":"BA"
       },
       {
-        "name":"Bheri"
+        "name":"Bheri",
+        "shortCode":"BH"
       },
       {
-        "name":"Dhawalagiri"
+        "name":"Dhawalagiri",
+        "shortCode":"DH"
       },
       {
-        "name":"Gandaki"
+        "name":"Gandaki",
+        "shortCode":"GA"
       },
       {
-        "name":"Janakpur"
+        "name":"Janakpur",
+        "shortCode":"JA"
       },
       {
-        "name":"Karnali"
+        "name":"Karnali",
+        "shortCode":"KA"
       },
       {
-        "name":"Kosi"
+        "name":"Kosi",
+        "shortCode":"KO"
       },
       {
-        "name":"Lumbini"
+        "name":"Lumbini",
+        "shortCode":"LU"
       },
       {
-        "name":"Mahakali"
+        "name":"Mahakali",
+        "shortCode":"MA"
       },
       {
-        "name":"Mechi"
+        "name":"Mechi",
+        "shortCode":"ME"
       },
       {
-        "name":"Narayani"
+        "name":"Narayani",
+        "shortCode":"NA"
       },
       {
-        "name":"Rapti"
+        "name":"Rapti",
+        "shortCode":"RA"
       },
       {
-        "name":"Sagarmatha"
+        "name":"Sagarmatha",
+        "shortCode":"SA"
       },
       {
-        "name":"Seti"
+        "name":"Seti",
+        "shortCode":"SE"
       }
     ]
   },
@@ -10704,40 +10749,52 @@
     "countryShortCode":"NL",
     "regions":[
       {
-        "name":"Drenthe"
+        "name":"Drenthe",
+        "shortCode":"DR"
       },
       {
-        "name":"Flevoland"
+        "name":"Flevoland",
+        "shortCode":"FL"
       },
       {
-        "name":"Friesland"
+        "name":"Friesland",
+        "shortCode":"FR"
       },
       {
-        "name":"Gelderland"
+        "name":"Gelderland",
+        "shortCode":"GE"
       },
       {
-        "name":"Groningen"
+        "name":"Groningen",
+        "shortCode":"GR"
       },
       {
-        "name":"Limburg"
+        "name":"Limburg",
+        "shortCode":"LI"
       },
       {
-        "name":"Noord-Brabant"
+        "name":"Noord-Brabant",
+        "shortCode":"NB"
       },
       {
-        "name":"Noord-Holland"
+        "name":"Noord-Holland",
+        "shortCode":"NH"
       },
       {
-        "name":"Overijssel"
+        "name":"Overijssel",
+        "shortCode":"OV"
       },
       {
-        "name":"Utrecht"
+        "name":"Utrecht",
+        "shortCode":"UT"
       },
       {
-        "name":"Zeeland"
+        "name":"Zeeland",
+        "shortCode":"ZE"
       },
       {
-        "name":"Zuid-Holland"
+        "name":"Zuid-Holland",
+        "shortCode":"ZH"
       }
     ]
   },
@@ -10909,28 +10966,36 @@
     "countryShortCode":"NE",
     "regions":[
       {
-        "name":"Agadez"
+        "name":"Agadez",
+        "shortCode":"1"
       },
       {
-        "name":"Diffa"
+        "name":"Diffa",
+        "shortCode":"2"
       },
       {
-        "name":"Dosso"
+        "name":"Dosso",
+        "shortCode":"3"
       },
       {
-        "name":"Maradi"
+        "name":"Maradi",
+        "shortCode":"4"
       },
       {
-        "name":"Niamey"
+        "name":"Niamey",
+        "shortCode":"8"
       },
       {
-        "name":"Tahoua"
+        "name":"Tahoua",
+        "shortCode":"5"
       },
       {
-        "name":"Tillaberi"
+        "name":"Tillabéri",
+        "shortCode":"6"
       },
       {
-        "name":"Zinder"
+        "name":"Zinder",
+        "shortCode":"7"
       }
     ]
   },
@@ -10939,112 +11004,152 @@
     "countryShortCode":"NG",
     "regions":[
       {
-        "name":"Abia"
+        "name":"Abia",
+        "shortCode":"AB"
       },
       {
-        "name":"Abuja Federal Capital Territory"
+        "name":"Abuja Federal Capital Territory",
+        "shortCode":"FC"
       },
       {
-        "name":"Adamawa"
+        "name":"Adamawa",
+        "shortCode":"AD"
       },
       {
-        "name":"Akwa Ibom"
+        "name":"Akwa Ibom",
+        "shortCode":"AK"
       },
       {
-        "name":"Anambra"
+        "name":"Anambra",
+        "shortCode":"AN"
       },
       {
-        "name":"Bauchi"
+        "name":"Bauchi",
+        "shortCode":"BA"
       },
       {
-        "name":"Bayelsa"
+        "name":"Bayelsa",
+        "shortCode":"BY"
       },
       {
-        "name":"Benue"
+        "name":"Benue",
+        "shortCode":"BE"
       },
       {
-        "name":"Borno"
+        "name":"Borno",
+        "shortCode":"BO"
       },
       {
-        "name":"Cross River"
+        "name":"Cross River",
+        "shortCode":"CR"
       },
       {
-        "name":"Delta"
+        "name":"Delta",
+        "shortCode":"DE"
       },
       {
-        "name":"Ebonyi"
+        "name":"Ebonyi",
+        "shortCode":"EB"
       },
       {
-        "name":"Edo"
+        "name":"Edo",
+        "shortCode":"ED"
       },
       {
-        "name":"Ekiti"
+        "name":"Ekiti",
+        "shortCode":"EK"
       },
       {
-        "name":"Enugu"
+        "name":"Enugu",
+        "shortCode":"EN"
       },
       {
-        "name":"Gombe"
+        "name":"Gombe",
+        "shortCode":"GO"
       },
       {
-        "name":"Imo"
+        "name":"Imo",
+        "shortCode":"IM"
       },
       {
-        "name":"Jigawa"
+        "name":"Jigawa",
+        "shortCode":"JI"
       },
       {
-        "name":"no"
+        "name":"Kaduna",
+        "shortCode":"KD"
       },
       {
-        "name":"Katsina"
+        "name":"Kano",
+        "shortCode":"KN"
       },
       {
-        "name":"Kebbi"
+        "name":"Katsina",
+        "shortCode":"KT"
       },
       {
-        "name":"Kogi"
+        "name":"Kebbi",
+        "shortCode":"KE"
       },
       {
-        "name":"Kwara"
+        "name":"Kogi",
+        "shortCode":"KO"
       },
       {
-        "name":"Lagos"
+        "name":"Kwara",
+        "shortCode":"KW"
       },
       {
-        "name":"Nassarawa"
+        "name":"Lagos",
+        "shortCode":"LA"
       },
       {
-        "name":"Niger"
+        "name":"Nassarawa",
+        "shortCode":"NA"
       },
       {
-        "name":"Ogun"
+        "name":"Niger",
+        "shortCode":"NI"
       },
       {
-        "name":"Ondo"
+        "name":"Ogun",
+        "shortCode":"OG"
       },
       {
-        "name":"Osun"
+        "name":"Ondo",
+        "shortCode":"ON"
       },
       {
-        "name":"Oyo"
+        "name":"Osun",
+        "shortCode":"OS"
       },
       {
-        "name":"Plateau"
+        "name":"Oyo",
+        "shortCode":"OY"
       },
       {
-        "name":"Rivers"
+        "name":"Plateau",
+        "shortCode":"PL"
       },
       {
-        "name":"Sokoto"
+        "name":"Rivers",
+        "shortCode":"RI"
       },
       {
-        "name":"Taraba"
+        "name":"Sokoto",
+        "shortCode":"SO"
       },
       {
-        "name":"Yobe"
+        "name":"Taraba",
+        "shortCode":"TA"
       },
       {
-        "name":"Zamfara"
+        "name":"Yobe",
+        "shortCode":"YO"
+      },
+      {
+        "name":"Zamfara",
+        "shortCode":"ZA"
       }
     ]
   },
@@ -11179,28 +11284,48 @@
     "countryShortCode":"OM",
     "regions":[
       {
-        "name":"Ad Dakhiliyah"
+        "name":"Ad Dakhiliyah",
+        "shortCode":"DA"
       },
       {
-        "name":"Al Batinah"
+        "name":"Al Buraymi",
+        "shortCode":"BU"
       },
       {
-        "name":"Al Wusta"
+        "name":"Al Wusta",
+        "shortCode":"WU"
       },
       {
-        "name":"Ash Sharqiyah"
+        "name":"Az Zahirah",
+        "shortCode":"ZA"
       },
       {
-        "name":"Az Zahirah"
+        "name":"Janub al Batinah",
+        "shortCode":"BS"
       },
       {
-        "name":"Masqat"
+        "name":"Janub ash Sharqiyah",
+        "shortCode":"SS"
       },
       {
-        "name":"Musandam"
+        "name":"Masqat",
+        "shortCode":"MA"
       },
       {
-        "name":"Zufar"
+        "name":"Musandam",
+        "shortCode":"MU"
+      },
+      {
+        "name":"Shamal al Batinah",
+        "shortCode":"BJ"
+      },
+      {
+        "name":"Shamal ash Sharqiyah",
+        "shortCode":"SJ"
+      },
+      {
+        "name":"Zufar",
+        "shortCode":"ZU"
       }
     ]
   },
@@ -11209,22 +11334,36 @@
     "countryShortCode":"PK",
     "regions":[
       {
-        "name":"Balochistan"
+        "name":"Āzād Kashmīr",
+        "shortCode":"JK"
       },
       {
-        "name":"Federally Administered Tribal Areas"
+        "name":"Balōchistān",
+        "shortCode":"BA"
       },
       {
-        "name":"Islamabad Capital Territory"
+        "name":"Gilgit-Baltistān",
+        "shortCode":"GB"
       },
       {
-        "name":"North-West Frontier Province"
+        "name":"Islāmābād",
+        "shortCode":"IS"
       },
       {
-        "name":"Punjab"
+        "name":"Khaībar Pakhtūnkhwās",
+        "shortCode":"KP"
       },
       {
-        "name":"Sindh"
+        "name":"Punjāb",
+        "shortCode":"PB"
+      },
+      {
+        "name":"Sindh",
+        "shortCode":"SD"
+      },
+      {
+        "name":"Federally Administered Tribal Areas",
+        "shortCode":"TA"
       }
     ]
   },
@@ -11233,55 +11372,68 @@
     "countryShortCode":"PW",
     "regions":[
       {
-        "name":"Aimeliik"
+        "name":"Aimeliik",
+        "shortCode":"002"
       },
       {
-        "name":"Airai"
+        "name":"Airai",
+        "shortCode":"004"
       },
       {
-        "name":"Angaur"
+        "name":"Angaur",
+        "shortCode":"010"
       },
       {
-        "name":"Hatobohei"
+        "name":"Hatobohei",
+        "shortCode":"050"
       },
       {
-        "name":"Kayangel"
+        "name":"Kayangel",
+        "shortCode":"100"
       },
       {
-        "name":"Koror"
+        "name":"Koror",
+        "shortCode":"150"
       },
       {
-        "name":"Melekeok"
+        "name":"Melekeok",
+        "shortCode":"212"
       },
       {
-        "name":"Ngaraard"
+        "name":"Ngaraard",
+        "shortCode":"214"
       },
       {
-        "name":"Ngarchelong"
+        "name":"Ngarchelong",
+        "shortCode":"218"
       },
       {
-        "name":"Ngardmau"
+        "name":"Ngardmau",
+        "shortCode":"222"
       },
       {
-        "name":"Ngatpang"
+        "name":"Ngatpang",
+        "shortCode":"224"
       },
       {
-        "name":"Ngchesar"
+        "name":"Ngchesar",
+        "shortCode":"226"
       },
       {
-        "name":"Ngeremlengui"
+        "name":"Ngeremlengui",
+        "shortCode":"227"
       },
       {
-        "name":"Ngiwal"
+        "name":"Ngiwal",
+        "shortCode":"228"
       },
       {
-        "name":"Palau leliu"
+        "name":"Peleliu",
+        "shortCode":"350"
       },
       {
-        "name":"Sonsoral"
-      },
-      {
-        "name":"Tobi"
+        "name":"Sonsoral",
+        "shortCode":"350"
       }
     ]
   },

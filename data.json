@@ -10404,28 +10404,36 @@
     "countryShortCode":"NE",
     "regions":[
       {
-        "name":"Agadez"
+        "name":"Agadez",
+        "shortCode":"1"
       },
       {
-        "name":"Diffa"
+        "name":"Diffa",
+        "shortCode":"2"
       },
       {
-        "name":"Dosso"
+        "name":"Dosso",
+        "shortCode":"3"
       },
       {
-        "name":"Maradi"
+        "name":"Maradi",
+        "shortCode":"4"
       },
       {
-        "name":"Niamey"
+        "name":"Niamey",
+        "shortCode":"8"
       },
       {
-        "name":"Tahoua"
+        "name":"Tahoua",
+        "shortCode":"5"
       },
       {
-        "name":"Tillaberi"
+        "name":"Tillabéri",
+        "shortCode":"6"
       },
       {
-        "name":"Zinder"
+        "name":"Zinder",
+        "shortCode":"7"
       }
     ]
   },

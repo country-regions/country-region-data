@@ -11041,55 +11041,72 @@
     "countryShortCode":"PY",
     "regions":[
       {
-        "name":"Alto Paraguay"
+        "name":"Alto Paraguay",
+        "shortCode":"16"
       },
       {
-        "name":"Alto Parana"
+        "name":"Alto Parana",
+        "shortCode":"10"
       },
       {
-        "name":"Amambay"
+        "name":"Amambay",
+        "shortCode":"13"
       },
       {
-        "name":"Asuncion (city)"
+        "name":"Asuncion",
+        "shortCode":"ASU"
       },
       {
-        "name":"Caaguazu"
+        "name":"Caaguazu",
+        "shortCode":"5"
       },
       {
-        "name":"Caazapa"
+        "name":"Caazapa",
+        "shortCode":"6"
       },
       {
-        "name":"Canindeyu"
+        "name":"Canindeyu",
+        "shortCode":"14"
       },
       {
-        "name":"Central"
+        "name":"Central",
+        "shortCode":"11"
       },
       {
-        "name":"Concepcion"
+        "name":"Concepcion",
+        "shortCode":"1"
       },
       {
-        "name":"Cordillera"
+        "name":"Cordillera",
+        "shortCode":"3"
       },
       {
-        "name":"Guaira"
+        "name":"Guaira",
+        "shortCode":"4"
       },
       {
-        "name":"Itapua"
+        "name":"Itapua",
+        "shortCode":"7"
       },
       {
-        "name":"Misiones"
+        "name":"Misiones",
+        "shortCode":"8"
       },
       {
-        "name":"Neembucu"
+        "name":"Neembucu",
+        "shortCode":"12"
       },
       {
-        "name":"Paraguari"
+        "name":"Paraguari",
+        "shortCode":"9"
       },
       {
-        "name":"Presidente Hayes"
+        "name":"Presidente Hayes",
+        "shortCode":"15"
       },
       {
-        "name":"San Pedro"
+        "name":"San Pedro",
+        "shortCode":"2"
       }
     ]
   },

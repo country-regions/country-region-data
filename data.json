@@ -10442,112 +10442,152 @@
     "countryShortCode":"NG",
     "regions":[
       {
-        "name":"Abia"
+        "name":"Abia",
+        "shortCode":"AB"
       },
       {
-        "name":"Abuja Federal Capital Territory"
+        "name":"Abuja Federal Capital Territory",
+        "shortCode":"FC"
       },
       {
-        "name":"Adamawa"
+        "name":"Adamawa",
+        "shortCode":"AD"
       },
       {
-        "name":"Akwa Ibom"
+        "name":"Akwa Ibom",
+        "shortCode":"AK"
       },
       {
-        "name":"Anambra"
+        "name":"Anambra",
+        "shortCode":"AN"
       },
       {
-        "name":"Bauchi"
+        "name":"Bauchi",
+        "shortCode":"BA"
       },
       {
-        "name":"Bayelsa"
+        "name":"Bayelsa",
+        "shortCode":"BY"
       },
       {
-        "name":"Benue"
+        "name":"Benue",
+        "shortCode":"BE"
       },
       {
-        "name":"Borno"
+        "name":"Borno",
+        "shortCode":"BO"
       },
       {
-        "name":"Cross River"
+        "name":"Cross River",
+        "shortCode":"CR"
       },
       {
-        "name":"Delta"
+        "name":"Delta",
+        "shortCode":"DE"
       },
       {
-        "name":"Ebonyi"
+        "name":"Ebonyi",
+        "shortCode":"EB"
       },
       {
-        "name":"Edo"
+        "name":"Edo",
+        "shortCode":"ED"
       },
       {
-        "name":"Ekiti"
+        "name":"Ekiti",
+        "shortCode":"EK"
       },
       {
-        "name":"Enugu"
+        "name":"Enugu",
+        "shortCode":"EN"
       },
       {
-        "name":"Gombe"
+        "name":"Gombe",
+        "shortCode":"GO"
       },
       {
-        "name":"Imo"
+        "name":"Imo",
+        "shortCode":"IM"
       },
       {
-        "name":"Jigawa"
+        "name":"Jigawa",
+        "shortCode":"JI"
       },
       {
-        "name":"no"
+        "name":"Kaduna",
+        "shortCode":"KD"
       },
       {
-        "name":"Katsina"
+        "name":"Kano",
+        "shortCode":"KN"
       },
       {
-        "name":"Kebbi"
+        "name":"Katsina",
+        "shortCode":"KT"
       },
       {
-        "name":"Kogi"
+        "name":"Kebbi",
+        "shortCode":"KE"
       },
       {
-        "name":"Kwara"
+        "name":"Kogi",
+        "shortCode":"KO"
       },
       {
-        "name":"Lagos"
+        "name":"Kwara",
+        "shortCode":"KW"
       },
       {
-        "name":"Nassarawa"
+        "name":"Lagos",
+        "shortCode":"LA"
       },
       {
-        "name":"Niger"
+        "name":"Nassarawa",
+        "shortCode":"NA"
       },
       {
-        "name":"Ogun"
+        "name":"Niger",
+        "shortCode":"NI"
       },
       {
-        "name":"Ondo"
+        "name":"Ogun",
+        "shortCode":"OG"
       },
       {
-        "name":"Osun"
+        "name":"Ondo",
+        "shortCode":"ON"
       },
       {
-        "name":"Oyo"
+        "name":"Osun",
+        "shortCode":"OS"
       },
       {
-        "name":"Plateau"
+        "name":"Oyo",
+        "shortCode":"OY"
       },
       {
-        "name":"Rivers"
+        "name":"Plateau",
+        "shortCode":"PL"
       },
       {
-        "name":"Sokoto"
+        "name":"Rivers",
+        "shortCode":"RI"
       },
       {
-        "name":"Taraba"
+        "name":"Sokoto",
+        "shortCode":"SO"
       },
       {
-        "name":"Yobe"
+        "name":"Taraba",
+        "shortCode":"TA"
       },
       {
-        "name":"Zamfara"
+        "name":"Yobe",
+        "shortCode":"YO"
+      },
+      {
+        "name":"Zamfara",
+        "shortCode":"ZA"
       }
     ]
   },

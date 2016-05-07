@@ -10773,8 +10773,16 @@
         "shortCode":"CAN"
       },
       {
+        "name":"Gisborne (Tūranga nui a Kiwa)",
+        "shortCode":"GIS"
+      },
+      {
         "name":"Hawke's Bay (Te Matau a Māui)",
         "shortCode":"HKB"
+      },
+      {
+        "name":"Marlborough",
+        "shortCode":"MBH"
       },
       {
         "name":"Manawatu-Wanganui (Manawatu Whanganui)",
@@ -10783,6 +10791,10 @@
       {
         "name":"Northland (Te Tai tokerau)",
         "shortCode":"NTL"
+      },
+      {
+        "name":"Nelson (Whakatū)",
+        "shortCode":"NSN"
       },
       {
         "name":"Otago (Ō Tākou)",
@@ -10797,6 +10809,10 @@
         "shortCode":"TKI"
       },
       {
+        "name":"Tasman",
+        "shortCode":"TAS"
+      },
+      {
         "name":"Waikato",
         "shortCode":"WKO"
       },
@@ -10807,22 +10823,6 @@
       {
         "name":"West Coast (Te Taihau ā uru)",
         "shortCode":"WTC"
-      },
-      {
-        "name":"Gisborne District (Tūranga nui a Kiwa)",
-        "shortCode":"GIS"
-      },
-      {
-        "name":"Marlborough District",
-        "shortCode":"MBH"
-      },
-      {
-        "name":"Nelson City (Whakatū)",
-        "shortCode":"NSN"
-      },
-      {
-        "name":"Tasman District",
-        "shortCode":"TAS"
       },
       {
         "name":"Chatham Islands Territory (Wharekauri)",

@@ -10947,61 +10947,92 @@
     "countryShortCode":"PG",
     "regions":[
       {
-        "name":"Bougainville"
+        "name":"Bougainville",
+        "shortCode":"NSB"
       },
       {
-        "name":"Central"
+        "name":"Central",
+        "shortCode":"CPM"
       },
       {
-        "name":"Chimbu"
+        "name":"Chimbu",
+        "shortCode":"CPK"
       },
       {
-        "name":"East New Britain"
+        "name":"East New Britain",
+        "shortCode":"EBR"
       },
       {
-        "name":"East Sepik"
+        "name":"East Sepik",
+        "shortCode":"ESW"
       },
       {
-        "name":"Eastern Highlands"
+        "name":"Eastern Highlands",
+        "shortCode":"EHG"
       },
       {
-        "name":"Enga"
+        "name":"Enga",
+        "shortCode":"EPW"
       },
       {
-        "name":"Gulf"
+        "name":"Gulf",
+        "shortCode":"GPK"
       },
       {
-        "name":"Madang"
+        "name":"Hela",
+        "shortCode":"HLA"
       },
       {
-        "name":"Manus"
+        "name":"Jiwaka",
+        "shortCode":"JWK"
       },
       {
-        "name":"Milne Bay"
+        "name":"Madang",
+        "shortCode":"MOM"
       },
       {
-        "name":"Morobe"
+        "name":"Manus",
+        "shortCode":"MRL"
       },
       {
-        "name":"National Capital"
+        "name":"Milne Bay",
+        "shortCode":"MBA"
       },
       {
-        "name":"New orthern"
+        "name":"Morobe",
+        "shortCode":"MPL"
       },
       {
-        "name":"Sandaun"
+        "name":"Port Moresby",
+        "shortCode":"NCD"
       },
       {
-        "name":"Southern Highlands"
+        "name":"New Ireland",
+        "shortCode":"NIK"
       },
       {
-        "name":"West New Britain"
+        "name":"Northern",
+        "shortCode":"NPP"
       },
       {
-        "name":"Western"
+        "name":"Southern Highlands",
+        "shortCode":"SHM"
       },
       {
-        "name":"Western Highlands"
+        "name":"West New Britain",
+        "shortCode":"WBK"
+      },
+      {
+        "name":"West Sepik",
+        "shortCode":"SAN"
+      },
+      {
+        "name":"Western",
+        "shortCode":"WPD"
+      },
+      {
+        "name":"Western Highlands",
+        "shortCode":"WHM"
       }
     ]
   },

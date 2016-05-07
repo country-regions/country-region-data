@@ -11442,7 +11442,68 @@
     "countryShortCode":"PS",
     "regions":[
       {
-        "name":"Palestine"
+        "name":"Ak Khalīl",
+        "shortCode":"HBN"
+      },
+      {
+        "name":"Al Quds",
+        "shortCode":"JEM"
+      },
+      {
+        "name":"Arīḩā wal Aghwār",
+        "shortCode":"JRH"
+      },
+      {
+        "name":"Bayt Laḩm",
+        "shortCode":"BTH"
+      },
+      {
+        "name":"Dayr al Balaḩ",
+        "shortCode":"DEB"
+      },
+      {
+        "name":"Ghazzah",
+        "shortCode":"GZA"
+      },
+      {
+        "name":"Janīn",
+        "shortCode":"JEN"
+      },
+      {
+        "name":"Khān Yūnis",
+        "shortCode":"KYS"
+      },
+      {
+        "name":"Nāblus",
+        "shortCode":"NBS"
+      },
+      {
+        "name":"Qalqīyah",
+        "shortCode":"QQA"
+      },
+      {
+        "name":"Rafaḩ",
+        "shortCode":"RFH"
+      },
+      {
+        "name":"Rām Allāh wal Bīrah",
+        "shortCode":"RBH"
+      },
+      {
+        "name":"Salfīt",
+        "shortCode":"SLT"
+      },
+      {
+        "name":"Shamāl Ghazzah",
+        "shortCode":"NGZ"
+      },
+      {
+        "name":"Ţūbās",
+        "shortCode":"TBS"
+      },
+      {
+        "name":"Ţūlkarm",
+        "shortCode":"TKM"
       }
     ]
   },

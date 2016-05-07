@@ -10810,55 +10810,68 @@
     "countryShortCode":"PW",
     "regions":[
       {
-        "name":"Aimeliik"
+        "name":"Aimeliik",
+        "shortCode":"002"
       },
       {
-        "name":"Airai"
+        "name":"Airai",
+        "shortCode":"004"
       },
       {
-        "name":"Angaur"
+        "name":"Angaur",
+        "shortCode":"010"
       },
       {
-        "name":"Hatobohei"
+        "name":"Hatobohei",
+        "shortCode":"050"
       },
       {
-        "name":"Kayangel"
+        "name":"Kayangel",
+        "shortCode":"100"
       },
       {
-        "name":"Koror"
+        "name":"Koror",
+        "shortCode":"150"
       },
       {
-        "name":"Melekeok"
+        "name":"Melekeok",
+        "shortCode":"212"
       },
       {
-        "name":"Ngaraard"
+        "name":"Ngaraard",
+        "shortCode":"214"
       },
       {
-        "name":"Ngarchelong"
+        "name":"Ngarchelong",
+        "shortCode":"218"
       },
       {
-        "name":"Ngardmau"
+        "name":"Ngardmau",
+        "shortCode":"222"
       },
       {
-        "name":"Ngatpang"
+        "name":"Ngatpang",
+        "shortCode":"224"
       },
       {
-        "name":"Ngchesar"
+        "name":"Ngchesar",
+        "shortCode":"226"
       },
       {
-        "name":"Ngeremlengui"
+        "name":"Ngeremlengui",
+        "shortCode":"227"
       },
       {
-        "name":"Ngiwal"
+        "name":"Ngiwal",
+        "shortCode":"228"
       },
       {
-        "name":"Palau leliu"
+        "name":"Peleliu",
+        "shortCode":"350"
       },
       {
-        "name":"Sonsoral"
-      },
-      {
-        "name":"Tobi"
+        "name":"Sonsoral",
+        "shortCode":"350"
       }
     ]
   },

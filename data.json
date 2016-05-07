@@ -10722,28 +10722,48 @@
     "countryShortCode":"OM",
     "regions":[
       {
-        "name":"Ad Dakhiliyah"
+        "name":"Ad Dakhiliyah",
+        "shortCode":"DA"
       },
       {
-        "name":"Al Batinah"
+        "name":"Al Buraymi",
+        "shortCode":"BU"
       },
       {
-        "name":"Al Wusta"
+        "name":"Al Wusta",
+        "shortCode":"WU"
       },
       {
-        "name":"Ash Sharqiyah"
+        "name":"Az Zahirah",
+        "shortCode":"ZA"
       },
       {
-        "name":"Az Zahirah"
+        "name":"Janub al Batinah",
+        "shortCode":"BS"
       },
       {
-        "name":"Masqat"
+        "name":"Janub ash Sharqiyah",
+        "shortCode":"SS"
       },
       {
-        "name":"Musandam"
+        "name":"Masqat",
+        "shortCode":"MA"
       },
       {
-        "name":"Zufar"
+        "name":"Musandam",
+        "shortCode":"MU"
+      },
+      {
+        "name":"Shamal al Batinah",
+        "shortCode":"BJ"
+      },
+      {
+        "name":"Shamal ash Sharqiyah",
+        "shortCode":"SJ"
+      },
+      {
+        "name":"Zufar",
+        "shortCode":"ZU"
       }
     ]
   },

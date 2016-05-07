@@ -10772,22 +10772,36 @@
     "countryShortCode":"PK",
     "regions":[
       {
-        "name":"Balochistan"
+        "name":"Āzād Kashmīr",
+        "shortCode":"JK"
       },
       {
-        "name":"Federally Administered Tribal Areas"
+        "name":"Balōchistān",
+        "shortCode":"BA"
       },
       {
-        "name":"Islamabad Capital Territory"
+        "name":"Gilgit-Baltistān",
+        "shortCode":"GB"
       },
       {
-        "name":"North-West Frontier Province"
+        "name":"Islāmābād",
+        "shortCode":"IS"
       },
       {
-        "name":"Punjab"
+        "name":"Khaībar Pakhtūnkhwās",
+        "shortCode":"KP"
       },
       {
-        "name":"Sindh"
+        "name":"Punjāb",
+        "shortCode":"PB"
+      },
+      {
+        "name":"Sindh",
+        "shortCode":"SD"
+      },
+      {
+        "name":"Federally Administered Tribal Areas",
+        "shortCode":"TA"
       }
     ]
   },

@@ -14124,37 +14124,44 @@
     "countryShortCode":"SB",
     "regions":[
       {
-        "name":"Bellona"
+        "name":"Central",
+        "shortCode":"CE"
       },
       {
-        "name":"Central"
+        "name":"Choiseul",
+        "shortCode":"CH"
       },
       {
-        "name":"Choiseul (Lauru)"
+        "name":"Guadalcanal",
+        "shortCode":"GU"
       },
       {
-        "name":"Guadalcanal"
+        "name":"Honiara",
+        "shortCode":"CT"
       },
       {
-        "name":"Honiara"
+        "name":"Isabel",
+        "shortCode":"IS"
       },
       {
-        "name":"Isabel"
+        "name":"Makira-Ulawa",
+        "shortCode":"MK"
       },
       {
-        "name":"Makira"
+        "name":"Malaita",
+        "shortCode":"ML"
       },
       {
-        "name":"Malaita"
+        "name":"Rennell and Bellona",
+        "shortCode":"RB"
       },
       {
-        "name":"Rennell"
+        "name":"Temotu",
+        "shortCode":"TE"
       },
       {
-        "name":"Temotu"
-      },
-      {
-        "name":"Western"
+        "name":"Western",
+        "shortCode":"WE"
       }
     ]
   },

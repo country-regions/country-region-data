@@ -13174,42 +13174,49 @@
     "countryShortCode":"LC",
     "regions":[
       {
-        "name":"Anse-la-Raye"
+        "name":"Anse-la-Raye",
+        "shortCode":"01"
       },
       {
-        "name":"Castries"
+        "name":"Canaries",
+        "shortCode":"12"
       },
       {
-        "name":"Choiseul"
+        "name":"Castries",
+        "shortCode":"02"
       },
       {
-        "name":"Dauphin"
+        "name":"Choiseul",
+        "shortCode":"03"
       },
       {
-        "name":"Dennery"
+        "name":"Dennery",
+        "shortCode":"05"
       },
       {
-        "name":"Gros Islet"
+        "name":"Gros Islet",
+        "shortCode":"06"
       },
       {
-        "name":"Laborie"
+        "name":"Laborie",
+        "shortCode":"07"
       },
       {
-        "name":"Micoud"
+        "name":"Micoud",
+        "shortCode":"08"
       },
       {
-        "name":"Praslin"
+        "name":"Soufriere",
+        "shortCode":"10"
       },
       {
-        "name":"Soufriere"
-      },
-      {
-        "name":"Vieux Fort"
+        "name":"Vieux Fort",
+        "shortCode":"11"
       }
     ]
   },
   {
-    "countryName":"Saint Martin (French part)",
+    "countryName":"Saint Martin",
     "countryShortCode":"MF",
     "regions":[
       {

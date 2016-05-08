@@ -11996,31 +11996,32 @@
     "countryShortCode":"QA",
     "regions":[
       {
-        "name":"Ad Dawhah"
+        "name":"Ad Dawḩah",
+        "shortCode":"DA"
       },
       {
-        "name":"Al Ghuwayriyah"
+        "name":"Al Khawr wa adh Dhakhīrah",
+        "shortCode":"KH"
       },
       {
-        "name":"Al Jumayliyah"
+        "name":"Al Wakrah",
+        "shortCode":"WA"
       },
       {
-        "name":"Al Khawr"
+        "name":"Ar Rayyān",
+        "shortCode":"RA"
       },
       {
-        "name":"Al Wakrah"
+        "name":"Ash Shamāl",
+        "shortCode":"MS"
       },
       {
-        "name":"Ar Rayyan"
+        "name":"Az̧ Za̧`āyin",
+        "shortCode":"ZA"
       },
       {
-        "name":"Jarayan al Batinah"
-      },
-      {
-        "name":"Madinat ash Shamal"
-      },
-      {
-        "name":"Umm Salal"
+        "name":"Umm Şalāl",
+        "shortCode":"US"
       }
     ]
   },

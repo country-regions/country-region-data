@@ -13199,16 +13199,20 @@
     "countryShortCode":"SL",
     "regions":[
       {
-        "name":"Eastern"
+        "name":"Eastern",
+        "shortCode":"E"
       },
       {
-        "name":"Northern"
+        "name":"Northern",
+        "shortCode":"N"
       },
       {
-        "name":"Southern"
+        "name":"Southern",
+        "shortCode":"S"
       },
       {
-        "name":"Western"
+        "name":"Western",
+        "shortCode":"W"
       }
     ]
   },

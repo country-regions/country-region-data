@@ -17722,42 +17722,6 @@
     ]
   },
   {
-    "countryName":"United Kingdom Overseas Territories",
-    "countryShortCode":"UO",
-    "regions":[
-      {
-        "name":"Anguilla"
-      },
-      {
-        "name":"Bermuda"
-      },
-      {
-        "name":"British Virgin Islands"
-      },
-      {
-        "name":"Cayman Islands"
-      },
-      {
-        "name":"Falkland Islands"
-      },
-      {
-        "name":"Gibraltar"
-      },
-      {
-        "name":"Montserrat"
-      },
-      {
-        "name":"St Helena"
-      },
-      {
-        "name":"Tristan Da Cunha"
-      },
-      {
-        "name":"Turks & Caicos Islands"
-      }
-    ]
-  },
-  {
     "countryName":"United States",
     "countryShortCode":"US",
     "regions":[

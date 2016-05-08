@@ -13160,46 +13160,12 @@
     "countryShortCode":"KN",
     "regions":[
       {
-        "name":"Christ Church Nichola Town"
+        "name":"Saint Kitts",
+        "shortCode":"K"
       },
       {
-        "name":"Saint Anne Sandy Point"
-      },
-      {
-        "name":"Saint George Basseterre"
-      },
-      {
-        "name":"Saint George Gingerland"
-      },
-      {
-        "name":"Saint James Windward"
-      },
-      {
-        "name":"Saint John Capisterre"
-      },
-      {
-        "name":"Saint ree"
-      },
-      {
-        "name":"Saint Mary Cayon"
-      },
-      {
-        "name":"Saint Paul Capisterre"
-      },
-      {
-        "name":"Saint Paul Charlestown"
-      },
-      {
-        "name":"Saint Peter Basseterre"
-      },
-      {
-        "name":"Saint Thomas Lowland"
-      },
-      {
-        "name":"Saint Thomas Middle Island"
-      },
-      {
-        "name":"Trinity Point"
+        "name":"Nevis",
+        "shortCode":"N"
       }
     ]
   },

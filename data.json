@@ -14580,34 +14580,40 @@
     "countryShortCode":"LK",
     "regions":[
       {
-        "name":"Central"
+        "name":"Basnahira",
+        "shortCode":"1"
       },
       {
-        "name":"Eastern"
+        "name":"Dakunu",
+        "shortCode":"3"
       },
       {
-        "name":"North Central"
+        "name":"Madhyama",
+        "shortCode":"2"
       },
       {
-        "name":"North Eastern"
+        "name":"Naegenahira",
+        "shortCode":"5"
       },
       {
-        "name":"North Western"
+        "name":"Sabaragamuwa",
+        "shortCode":"9"
       },
       {
-        "name":"Northern"
+        "name":"Uturu",
+        "shortCode":"4"
       },
       {
-        "name":"Sabaragamuwa"
+        "name":"Uturumaeda",
+        "shortCode":"7"
       },
       {
-        "name":"Southern"
+        "name":"Vayamba",
+        "shortCode":"6"
       },
       {
-        "name":"Uva"
-      },
-      {
-        "name":"Western"
+        "name":"Uva",
+        "shortCode":"8"
       }
     ]
   },

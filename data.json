@@ -16776,7 +16776,36 @@
     "countryShortCode":"TV",
     "regions":[
       {
-        "name":"Tuvalu"
+        "name":"Funafuti",
+        "shortCode":"FUN"
+      },
+      {
+        "name":"Nanumanga",
+        "shortCode":"NMG"
+      },
+      {
+        "name":"Nanumea",
+        "shortCode":"NMA"
+      },
+      {
+        "name":"Niutao",
+        "shortCode":"NIT"
+      },
+      {
+        "name":"Nui",
+        "shortCode":"NUI"
+      },
+      {
+        "name":"Nukufetau",
+        "shortCode":"NKF"
+      },
+      {
+        "name":"Nukulaelae",
+        "shortCode":"NKL"
+      },
+      {
+        "name":"Vaitupu",
+        "shortCode":"VAU"
       }
     ]
   },

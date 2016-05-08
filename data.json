@@ -12905,34 +12905,60 @@
     "countryShortCode":"SN",
     "regions":[
       {
-        "name":"Dakar"
+        "name":"Dakar",
+        "shortCode":"DK"
       },
       {
-        "name":"Diourbel"
+        "name":"Diourbel",
+        "shortCode":"DB"
       },
       {
-        "name":"Fatick"
+        "name":"Fatick",
+        "shortCode":"FK"
       },
       {
-        "name":"Kaolack"
+        "name":"Kaffrine",
+        "shortCode":"KA"
       },
       {
-        "name":"Kolda"
+        "name":"Kaolack",
+        "shortCode":"KL"
       },
       {
-        "name":"Louga"
+        "name":"Kedougou",
+        "shortCode":"KE"
       },
       {
-        "name":"Saint-Louis"
+        "name":"Kolda",
+        "shortCode":"KD"
       },
       {
-        "name":"Tambacounda"
+        "name":"Louga",
+        "shortCode":"LG"
       },
       {
-        "name":"Thies"
+        "name":"Matam",
+        "shortCode":"MT"
       },
       {
-        "name":"Ziguinchor"
+        "name":"Saint-Louis",
+        "shortCode":"SL"
+      },
+      {
+        "name":"Sedhiou",
+        "shortCode":"SE"
+      }
+      {
+        "name":"Tambacounda",
+        "shortCode":"TC"
+      },
+      {
+        "name":"Thies",
+        "shortCode":"TH"
+      },
+      {
+        "name":"Ziguinchor",
+        "shortCode":"ZG"
       }
     ]
   },

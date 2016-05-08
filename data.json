@@ -14170,55 +14170,76 @@
     "countryShortCode":"SO",
     "regions":[
       {
-        "name":"Awdal"
+        "name":"Awdal",
+        "shortCode":"AW"
       },
       {
-        "name":"Bakool"
+        "name":"Bakool",
+        "shortCode":"BK"
       },
       {
-        "name":"Banaadir"
+        "name":"Banaadir",
+        "shortCode":"BN"
       },
       {
-        "name":"Bari"
+        "name":"Bari",
+        "shortCode":"BR"
       },
       {
-        "name":"Bay"
+        "name":"Bay",
+        "shortCode":"BY"
       },
       {
-        "name":"Galguduud"
+        "name":"Galguduud",
+        "shortCode":"GA"
       },
       {
-        "name":"Gedo"
+        "name":"Gedo",
+        "shortCode":"GE"
       },
       {
-        "name":"Hiiraan"
+        "name":"Hiiraan",
+        "shortCode":"HI"
       },
       {
-        "name":"Jubbada Dhexe"
+        "name":"Jubbada Dhexe",
+        "shortCode":"JD"
       },
       {
-        "name":"Jubbada Hoose"
+        "name":"Jubbada Hoose",
+        "shortCode":"JH"
       },
       {
-        "name":"Mudug"
+        "name":"Mudug",
+        "shortCode":"MU"
       },
       {
-        "name":"Nugaal"
+        "name":"Nugaal",
+        "shortCode":"NU"
       },
       {
-        "name":"Sanaag"
+        "name":"Sanaag",
+        "shortCode":"SA"
       },
       {
-        "name":"Shabeellaha Dhexe"
+        "name":"Shabeellaha Dhexe",
+        "shortCode":"SD"
       },
       {
-        "name":"Shabeellaha l"
+        "name":"Shabeellaha Hoose",
+        "shortCode":"SH"
       },
       {
-        "name":"Togdheer"
+        "name":"Sool",
+        "shortCode":"SO"
       },
       {
-        "name":"Woqooyi Galbeed"
+        "name":"Togdheer",
+        "shortCode":"TO"
+      },
+      {
+        "name":"Woqooyi Galbeed",
+        "shortCode":"WO"
       }
     ]
   },

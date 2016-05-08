@@ -14776,16 +14776,20 @@
     "countryShortCode":"SZ",
     "regions":[
       {
-        "name":"Hhohho"
+        "name":"Hhohho",
+        "shortCode":"HH"
       },
       {
-        "name":"Lubombo"
+        "name":"Lubombo",
+        "shortCode":"LU"
       },
       {
-        "name":"Manzini"
+        "name":"Manzini",
+        "shortCode":"MA"
       },
       {
-        "name":"Shiselweni"
+        "name":"Shiselweni",
+        "shortCode":"SH"
       }
     ]
   },

@@ -15657,40 +15657,64 @@
     "countryShortCode":"TT",
     "regions":[
       {
-        "name":"Arima"
+        "name":"Arima",
+        "shortCode":"ARI"
       },
       {
-        "name":"Caroni"
+        "name":"Chaguanas",
+        "shortCode":"CHA"
       },
       {
-        "name":"Mayaro"
+        "name":"Couva-Tabaquite-Talparo",
+        "shortCode":"CTT"
       },
       {
-        "name":"Nariva"
+        "name":"Diefo Martin",
+        "shortCode":"DMN"
       },
       {
-        "name":"Port-of-Spain"
+        "name":"Mayaro-Rio Claro",
+        "shortCode":"MRC"
       },
       {
-        "name":"Saint Andrew"
+        "name":"Penal-Debe",
+        "shortCode":"PED"
       },
       {
-        "name":"Saint David"
+        "name":"Point Fortin",
+        "shortCode":"PTF"
       },
       {
-        "name":"Saint George"
+        "name":"Port-of-Spain",
+        "shortCode":"POS"
       },
       {
-        "name":"Saint Patrick"
+        "name":"Princes Town",
+        "shortCode":"PRT"
       },
       {
-        "name":"San Fernando"
+        "name":"San Fernando",
+        "shortCode":"SFO"
       },
       {
-        "name":"Victoria"
+        "name":"San Juan-Laventille",
+        "shortCode":"SJL"
       },
       {
-        "name":"Tobago"
+        "name":"Sangre Grande",
+        "shortCode":"SGE"
+      },
+      {
+        "name":"Siparia",
+        "shortCode":"SIP"
+      },
+      {
+        "name":"Tobago",
+        "shortCode":"TOB"
+      },
+      {
+        "name":"Tunapuna-Piarco",
+        "shortCode":"TUP"
       }
     ]
   },

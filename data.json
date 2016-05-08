@@ -15590,19 +15590,24 @@
     "countryShortCode":"TG",
     "regions":[
       {
-        "name":"De La Kara"
+        "name":"Centre",
+        "shortCode":"C"
       },
       {
-        "name":"Des Plateaux"
+        "name":"Kara",
+        "shortCode":"K"
       },
       {
-        "name":"Des Savanes"
+        "name":"Maritime",
+        "shortCode":"M"
       },
       {
-        "name":"Du Centre"
+        "name":"Plateaux",
+        "shortCode":"P"
       },
       {
-        "name":"Maritime"
+        "name":"Savannes",
+        "shortCode":"S"
       }
     ]
   },

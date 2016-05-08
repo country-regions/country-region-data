@@ -14700,34 +14700,44 @@
     "countryShortCode":"SR",
     "regions":[
       {
-        "name":"Brokopondo"
+        "name":"Brokopondo",
+        "shortCode":"BR"
       },
       {
-        "name":"Commewijne"
+        "name":"Commewijne",
+        "shortCode":"CM"
       },
       {
-        "name":"Coronie"
+        "name":"Coronie",
+        "shortCode":"CR"
       },
       {
-        "name":"Marowijne"
+        "name":"Marowijne",
+        "shortCode":"MA"
       },
       {
-        "name":"Nickerie"
+        "name":"Nickerie",
+        "shortCode":"NI"
       },
       {
-        "name":"Para"
+        "name":"Para",
+        "shortCode":"PR"
       },
       {
-        "name":"Paramaribo"
+        "name":"Paramaribo",
+        "shortCode":"PM"
       },
       {
-        "name":"Saramacca"
+        "name":"Saramacca",
+        "shortCode":"SA"
       },
       {
-        "name":"Sipaliwini"
+        "name":"Sipaliwini",
+        "shortCode":"SI"
       },
       {
-        "name":"Wanica"
+        "name":"Wanica",
+        "shortCode":"WA"
       }
     ]
   },

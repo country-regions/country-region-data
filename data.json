@@ -11685,64 +11685,84 @@
     "countryShortCode":"PT",
     "regions":[
       {
-        "name":"Acores (Azores)"
+        "name":"Acores",
+        "shortCode":"20"
       },
       {
-        "name":"Aveiro"
+        "name":"Aveiro",
+        "shortCode":"01"
       },
       {
-        "name":"Beja"
+        "name":"Beja",
+        "shortCode":"02"
       },
       {
-        "name":"Braga"
+        "name":"Braga",
+        "shortCode":"03"
       },
       {
-        "name":"Braganca"
+        "name":"Braganca",
+        "shortCode":"04"
       },
       {
-        "name":"Castelo Branco"
+        "name":"Castelo Branco",
+        "shortCode":"05"
       },
       {
-        "name":"Coimbra"
+        "name":"Coimbra",
+        "shortCode":"06"
       },
       {
-        "name":"Evora"
+        "name":"Evora",
+        "shortCode":"07"
       },
       {
-        "name":"Faro"
+        "name":"Faro",
+        "shortCode":"08"
       },
       {
-        "name":"Guarda"
+        "name":"Guarda",
+        "shortCode":"09"
       },
       {
-        "name":"Leiria"
+        "name":"Leiria",
+        "shortCode":"10"
       },
       {
-        "name":"Lisboa"
+        "name":"Lisboa",
+        "shortCode":"11"
       },
       {
-        "name":"Madeira"
+        "name":"Madeira",
+        "shortCode":"30"
       },
       {
-        "name":"Portalegre"
+        "name":"Portalegre",
+        "shortCode":"12"
       },
       {
-        "name":"Porto"
+        "name":"Porto",
+        "shortCode":"13"
       },
       {
-        "name":"Santarem"
+        "name":"Santarem",
+        "shortCode":"14"
       },
       {
-        "name":"Setubal"
+        "name":"Setubal",
+        "shortCode":"15"
       },
       {
-        "name":"Viana o"
+        "name":"Viana do Castelo",
+        "shortCode":"16"
       },
       {
-        "name":"Vila Real"
+        "name":"Vila Real",
+        "shortCode":"17"
       },
       {
-        "name":"Viseu"
+        "name":"Viseu",
+        "shortCode":"18"
       }
     ]
   },

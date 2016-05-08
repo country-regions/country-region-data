@@ -12039,121 +12039,167 @@
     "countryShortCode":"RO",
     "regions":[
       {
-        "name":"Alba"
+        "name":"Alba",
+        "shortCode":"AB"
       },
       {
-        "name":"Arad"
+        "name":"Arad",
+        "shortCode":"AR"
       },
       {
-        "name":"Arges"
+        "name":"Arges",
+        "shortCode":"AG"
       },
       {
-        "name":"Bacau"
+        "name":"Bacau",
+        "shortCode":"BC"
       },
       {
-        "name":"Bihor"
+        "name":"Bihor",
+        "shortCode":"BH"
       },
       {
-        "name":"Bistrita-Nasaud"
+        "name":"Bistrita-Nasaud",
+        "shortCode":"BN"
       },
       {
-        "name":"Botosani"
+        "name":"Botosani",
+        "shortCode":"BT"
       },
       {
-        "name":"Braila"
+        "name":"Braila",
+        "shortCode":"BR"
       },
       {
-        "name":"Brasov"
+        "name":"Brasov",
+        "shortCode":"BV"
       },
       {
-        "name":"Bucuresti"
+        "name":"Bucuresti",
+        "shortCode":"B"
       },
       {
-        "name":"Buzau"
+        "name":"Buzau",
+        "shortCode":"BZ"
       },
       {
-        "name":"Calarasi"
+        "name":"Calarasi",
+        "shortCode":"CL"
       },
       {
-        "name":"Caras-luj"
+        "name":"Caras-Severin",
+        "shortCode":"CS"
       },
       {
-        "name":"Constanta"
+        "name":"Cluj",
+        "shortCode":"CJ"
       },
       {
-        "name":"Covasna"
+        "name":"Constanta",
+        "shortCode":"CT"
       },
       {
-        "name":"Dimbovita"
+        "name":"Covasna",
+        "shortCode":"CV"
       },
       {
-        "name":"Dolj"
+        "name":"Dambovita",
+        "shortCode":"DB"
       },
       {
-        "name":"Galati"
+        "name":"Dolj",
+        "shortCode":"DJ"
       },
       {
-        "name":"Giurgiu"
+        "name":"Galati",
+        "shortCode":"GL"
       },
       {
-        "name":"Gorj"
+        "name":"Giurgiu",
+        "shortCode":"GR"
       },
       {
-        "name":"Harghita"
+        "name":"Gorj",
+        "shortCode":"GJ"
       },
       {
-        "name":"Hunedoara"
+        "name":"Harghita",
+        "shortCode":"HR"
       },
       {
-        "name":"Ialomita"
+        "name":"Hunedoara",
+        "shortCode":"HD"
       },
       {
-        "name":"Iasi"
+        "name":"Ialomita",
+        "shortCode":"IL"
       },
       {
-        "name":"Maramures"
+        "name":"Iasi",
+        "shortCode":"IS"
       },
       {
-        "name":"Mehedinti"
+        "name":"Maramures",
+        "shortCode":"MM"
       },
       {
-        "name":"Mures"
+        "name":"Mehedinti",
+        "shortCode":"MH"
       },
       {
-        "name":"Neamt"
+        "name":"Mures",
+        "shortCode":"MS"
       },
       {
-        "name":"Olt"
+        "name":"Neamt",
+        "shortCode":"NT"
       },
       {
-        "name":"Prahova"
+        "name":"Olt",
+        "shortCode":"OT"
       },
       {
-        "name":"Salaj"
+        "name":"Prahova",
+        "shortCode":"PH"
       },
       {
-        "name":"Satu u"
+        "name":"Salaj",
+        "shortCode":"SJ"
       },
       {
-        "name":"Suceava"
+        "name":"Satu Mare"
       },
       {
-        "name":"Teleorman"
+        "name":"Sibiu",
+        "shortCode":"SB"
       },
       {
-        "name":"Timis"
+        "name":"Suceava",
+        "shortCode":"SV"
       },
       {
-        "name":"Tulcea"
+        "name":"Teleorman",
+        "shortCode":"TR"
       },
       {
-        "name":"Vaslui"
+        "name":"Timis",
+        "shortCode":"TM"
       },
       {
-        "name":"Vilcea"
+        "name":"Tulcea",
+        "shortCode":"TL"
       },
       {
-        "name":"Vrancea"
+        "name":"Valcea",
+        "shortCode":"VL"
+      },
+      {
+        "name":"Vaslui",
+        "shortCode":"VS"
+      },
+      {
+        "name":"Vrancea",
+        "shortCode":"VN"
       }
     ]
   },

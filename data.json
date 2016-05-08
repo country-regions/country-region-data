@@ -14320,7 +14320,44 @@
     "countryShortCode":"SS",
     "regions":[
       {
-        "name":"South Sudan"
+        "name":"Central Equatoria",
+        "shortCode":"CE"
+      },
+      {
+        "name":"Eastern Equatoria",
+        "shortCode":"EE"
+      },
+      {
+        "name":"Jonglei",
+        "shortCode":"JG"
+      },
+      {
+        "name":"Lakes",
+        "shortCode":"LK"
+      },
+      {
+        "name":"Northern Bahr el Ghazal",
+        "shortCode":"BN"
+      },
+      {
+        "name":"Unity",
+        "shortCode":"UY"
+      },
+      {
+        "name":"Upper Nile",
+        "shortCode":"NU"
+      },
+      {
+        "name":"Warrap",
+        "shortCode":"WR"
+      },
+      {
+        "name":"Western Bahr el Ghazal",
+        "shortCode":"BW"
+      },
+      {
+        "name":"Western Equatoria",
+        "shortCode":"EW"
       }
     ]
   },

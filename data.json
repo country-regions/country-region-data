@@ -15804,217 +15804,312 @@
     "countryShortCode":"TH",
     "regions":[
       {
-        "name":"Amnat Charoen"
+        "name":"Amnat Charoen",
+        "shortCode":"37"
       },
       {
-        "name":"Ang Thong"
+        "name":"Ang Thong",
+        "shortCode":"15"
       },
       {
-        "name":"Buriram"
+        "name":"Bueng Kan",
+        "shortCode":"38"
+      }
+      {
+        "name":"Buri Ram",
+        "shortCode":"31"
+      },
+      {
+        "name":"Chachoengsao",
+        "shortCode":"24"
+      },
+      {
+        "name":"Chai Nat",
+        "shortCode":"18"
+      },
+      {
+        "name":"Chaiyaphum",
+        "shortCode":"36"
+      },
+      {
+        "name":"Chanthaburi",
+        "shortCode":"22"
+      },
+      {
+        "name":"Chiang Mai",
+        "shortCode":"50"
       },
       {
-        "name":"Chachoengsao"
+        "name":"Chiang Rai",
+        "shortCode":"57"
       },
       {
-        "name":"Chai Nat"
+        "name":"Chon Buri",
+        "shortCode":"20"
       },
       {
-        "name":"Chaiyaphum"
+        "name":"Chumphon",
+        "shortCode":"86"
       },
       {
-        "name":"Chanthaburi"
+        "name":"Kalasin",
+        "shortCode":"46"
       },
       {
-        "name":"Chiang Mai"
+        "name":"Kamphaeng Phet",
+        "shortCode":"62"
       },
       {
-        "name":"Chiang Rai"
+        "name":"Kanchanaburi",
+        "shortCode":"71"
       },
       {
-        "name":"Chon Buri"
+        "name":"Khon Kaen",
+        "shortCode":"40"
       },
       {
-        "name":"Chumphon"
+        "name":"Krabi",
+        "shortCode":"81"
       },
       {
-        "name":"Kalasin"
+        "name":"Krung Thep Mahanakhon (Bangkok)",
+        "shortCode":"10"
       },
       {
-        "name":"Kamphaeng hanaburi"
+        "name":"Lampang",
+        "shortCode":"52"
       },
       {
-        "name":"Khon Kaen"
+        "name":"Lamphun",
+        "shortCode":"51"
       },
       {
-        "name":"Krabi"
+        "name":"Loei",
+        "shortCode":"42"
       },
       {
-        "name":"Krung Thep Mahanakhon (Bangkok)"
+        "name":"Lop Buri",
+        "shortCode":"16"
       },
       {
-        "name":"Lampang"
+        "name":"Mae Hong Son",
+        "shortCode":"58"
       },
       {
-        "name":"Lamphun"
+        "name":"Maha Sarakham",
+        "shortCode":"44"
       },
       {
-        "name":"Loei"
+        "name":"Mukdahan",
+        "shortCode":"49"
       },
       {
-        "name":"Lop Buri"
+        "name":"Nakhon Nayok",
+        "shortCode":"26"
       },
       {
-        "name":"Mae Hong Son"
+        "name":"Nakhon Phathom",
+        "shortCode":"73"
       },
       {
-        "name":"Maha Sarakham"
+        "name":"Nakhon Phanom",
+        "shortCode":"48"
       },
       {
-        "name":"Mukdahan"
+        "name":"Nakhon Ratchasima",
+        "shortCode":"30"
       },
       {
-        "name":"Nakhon Nayok"
+        "name":"Nakhon Sawan",
+        "shortCode":"60"
       },
       {
-        "name":"Nakhon khon Phanom"
+        "name":"Nakhon Si Thammarat",
+        "shortCode":"80"
       },
       {
-        "name":"Nakhon Ratchasima"
+        "name":"Nan",
+        "shortCode":"55"
       },
       {
-        "name":"Nakhon Sawan"
+        "name":"Narathiwat",
+        "shortCode":"96"
       },
       {
-        "name":"Nakhon Si Thammarat"
+        "name":"Nong Bua Lam Phu",
+        "shortCode":"39"
       },
       {
-        "name":"Nan"
+        "name":"Nong Khai",
+        "shortCode":"43"
       },
       {
-        "name":"Narathiwat"
+        "name":"Nonthaburi",
+        "shortCode":"12"
       },
       {
-        "name":"Nong Bua Lamphu"
+        "name":"Pathum Thani",
+        "shortCode":"13"
       },
       {
-        "name":"Nong Khai"
+        "name":"Pattani",
+        "shortCode":"94"
       },
       {
-        "name":"Nonthaburi"
+        "name":"Phangnga",
+        "shortCode":"82"
       },
       {
-        "name":"Pathum tani"
+        "name":"Phatthalung",
+        "shortCode":"93"
       },
       {
-        "name":"Phangnga"
+        "name":"Phayao",
+        "shortCode":"56"
       },
       {
-        "name":"Phatthalung"
+        "name":"Phetchabun",
+        "shortCode":"76"
       },
       {
-        "name":"Phayao"
+        "name":"Phetchaburi",
+        "shortCode":"76"
       },
       {
-        "name":"Phetchabun"
+        "name":"Phichit",
+        "shortCode":"66"
       },
       {
-        "name":"Phetchaburi"
+        "name":"Phitsanulok",
+        "shortCode":"65"
       },
       {
-        "name":"Phichit"
+        "name":"Phra Nakhon Si Ayutthaya",
+        "shortCode":"14"
       },
       {
-        "name":"Phitsanulok"
+        "name":"Phrae",
+        "shortCode":"54"
       },
       {
-        "name":"Phra Nakhon Si Ayutthaya"
+        "name":"Phuket",
+        "shortCode":"83"
       },
       {
-        "name":"Phrae"
+        "name":"Prachin Buri",
+        "shortCode":"25"
       },
       {
-        "name":"Phuket"
+        "name":"Prachuap Khiri Khan",
+        "shortCode":"77"
       },
       {
-        "name":"Prachin Buri"
+        "name":"Ranong",
+        "shortCode":"85"
       },
       {
-        "name":"Prachuap Khiri ng"
+        "name":"Ratchaburi",
+        "shortCode":"70"
       },
       {
-        "name":"Ratchaburi"
+        "name":"Rayong",
+        "shortCode":"21"
       },
       {
-        "name":"Rayong"
+        "name":"Roi Et",
+        "shortCode":"45"
       },
       {
-        "name":"Roi Et"
+        "name":"Sa Kaeo",
+        "shortCode":"27"
       },
       {
-        "name":"Sa Kaeo"
+        "name":"Sakon Nakhon",
+        "shortCode":"47"
       },
       {
-        "name":"Sakon Nakhon"
+        "name":"Samut Prakan",
+        "shortCode":"11"
       },
       {
-        "name":"Samut Prakan"
+        "name":"Samut Sakhon",
+        "shortCode":"74"
       },
       {
-        "name":"Samut Sakhon"
+        "name":"Samut Songkhram",
+        "shortCode":"75"
       },
       {
-        "name":"Samut Songkhram"
+        "name":"Saraburi",
+        "shortCode":"19"
       },
       {
-        "name":"Sara Buri"
+        "name":"Satun",
+        "shortCode":"91"
       },
       {
-        "name":"Satun"
+        "name":"Sing Buri",
+        "shortCode":"17"
       },
       {
-        "name":"Sing ket"
+        "name":"Si Sa ket",
+        "shortCode":"33"
       },
       {
-        "name":"Songkhla"
+        "name":"Songkhla",
+        "shortCode":"90"
       },
       {
-        "name":"Sukhothai"
+        "name":"Sukhothai",
+        "shortCode":"64"
       },
       {
-        "name":"Suphan Buri"
+        "name":"Suphan Buri",
+        "shortCode":"72"
       },
       {
-        "name":"Surat Thani"
+        "name":"Surat Thani",
+        "shortCode":"84"
       },
       {
-        "name":"Surin"
+        "name":"Surin",
+        "shortCode":"32"
       },
       {
-        "name":"Tak"
+        "name":"Tak",
+        "shortCode":"63"
       },
       {
-        "name":"Trang"
+        "name":"Trang",
+        "shortCode":"92"
       },
       {
-        "name":"Trat"
+        "name":"Trat",
+        "shortCode":"23"
       },
       {
-        "name":"Ubon Ratchathani"
+        "name":"Ubon Ratchathani",
+        "shortCode":"34"
       },
       {
-        "name":"Udon Thani"
+        "name":"Udon Thani",
+        "shortCode":"41"
       },
       {
-        "name":"Uthai Thani"
+        "name":"Uthai Thani",
+        "shortCode":"61"
       },
       {
-        "name":"Uttaradit"
+        "name":"Uttaradit",
+        "shortCode":"53"
       },
       {
-        "name":"Yala"
+        "name":"Yala",
+        "shortCode":"95"
       },
       {
-        "name":"Yasothon"
+        "name":"Yasothon",
+        "shortCode":"35"
       }
     ]
   },

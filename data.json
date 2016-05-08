@@ -15631,13 +15631,24 @@
     "countryShortCode":"TO",
     "regions":[
       {
-        "name":"Ha'apai"
+        "name":"'Eua",
+        "shortCode":"01"
       },
       {
-        "name":"Tongatapu"
+        "name":"Ha'apai",
+        "shortCode":"02"
       },
       {
-        "name":"Vava'u"
+        "name":"Niuas",
+        "shortCode":"03"
+      },
+      {
+        "name":"Tongatapu",
+        "shortCode":"04"
+      },
+      {
+        "name":"Vava'u",
+        "shortCode":"05"
       }
     ]
   },

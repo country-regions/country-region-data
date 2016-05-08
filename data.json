@@ -16151,19 +16151,28 @@
     "countryShortCode":"TM",
     "regions":[
       {
-        "name":"Ahal Welayaty"
+        "name":"Ahal",
+        "shortCode":"A"
       },
       {
-        "name":"Balkan Welayaty"
+        "name": "Asgabat",
+        "shortCode":"S"
+      }
+      {
+        "name":"Balkan",
+        "shortCode":"B"
       },
       {
-        "name":"Dashhowuz Welayaty"
+        "name":"Dashoguz",
+        "shortCode":"D"
       },
       {
-        "name":"Lebap Welayaty"
+        "name":"Lebap",
+        "shortCode":"L"
       },
       {
-        "name":"Mary Welayaty"
+        "name":"Mary",
+        "shortCode":"M"
       }
     ]
   },

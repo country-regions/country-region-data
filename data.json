@@ -12578,13 +12578,16 @@
     "countryShortCode":"SH",
     "regions":[
       {
-        "name":"Ascension"
+        "name":"Ascension",
+        "shortCode":"AC"
       },
       {
-        "name":"Saint Helena"
+        "name":"Saint Helena",
+        "shortCode":"HL"
       },
       {
-        "name":"Tristan da Cunha"
+        "name":"Tristan da Cunha",
+        "shortCode":"TA"
       }
     ]
   },

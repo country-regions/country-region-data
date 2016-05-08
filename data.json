@@ -15723,70 +15723,96 @@
     "countryShortCode":"TN",
     "regions":[
       {
-        "name":"Ariana"
+        "name":"Ariana",
+        "shortCode":"12"
       },
       {
-        "name":"Beja"
+        "name":"Beja",
+        "shortCode":"31"
       },
       {
-        "name":"Ben Arous"
+        "name":"Ben Arous",
+        "shortCode":"13"
       },
       {
-        "name":"Bizerte"
+        "name":"Bizerte",
+        "shortCode":"23"
       },
       {
-        "name":"El Kef"
+        "name":"Gabes",
+        "shortCode":"81"
       },
       {
-        "name":"Gabes"
+        "name":"Gafsa",
+        "shortCode":"71"
       },
       {
-        "name":"Gafsa"
+        "name":"Jendouba",
+        "shortCode":"32"
       },
       {
-        "name":"Jendouba"
+        "name":"Kairouan",
+        "shortCode":"41"
       },
       {
-        "name":"Kairouan"
+        "name":"Kasserine",
+        "shortCode":"42"
       },
       {
-        "name":"Kasserine"
+        "name":"Kebili",
+        "shortCode":"73"
       },
       {
-        "name":"Kebili"
+        "name":"Kef",
+        "shortCode":"33"
       },
       {
-        "name":"Mahdia"
+        "name":"Mahdia",
+        "shortCode":"53"
       },
       {
-        "name":"Medenine"
+        "name":"Medenine",
+        "shortCode":"82"
       },
       {
-        "name":"Monastir"
+        "name":"Monastir",
+        "shortCode":"52"
       },
       {
-        "name":"Nabeul"
+        "name":"Nabeul",
+        "shortCode":"21"
       },
       {
-        "name":"Sfax"
+        "name":"Sfax",
+        "shortCode":"61"
       },
       {
-        "name":"Sidi Bou na"
+        "name":"Sidi Bouzid",
+        "shortCode":"43"
       },
       {
-        "name":"Sousse"
+        "name":"Siliana",
+        "shortCode":"34"
       },
       {
-        "name":"Tataouine"
+        "name":"Sousse",
+        "shortCode":"51"
       },
       {
-        "name":"Tozeur"
+        "name":"Tataouine",
+        "shortCode":"83"
       },
       {
-        "name":"Tunis"
+        "name":"Tozeur",
+        "shortCode":"72"
       },
       {
-        "name":"Zaghouan"
+        "name":"Tunis",
+        "shortCode":"11"
+      },
+      {
+        "name":"Zaghouan",
+        "shortCode":"22"
       }
     ]
   },

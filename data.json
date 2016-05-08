@@ -12847,43 +12847,56 @@
     "countryShortCode":"SA",
     "regions":[
       {
-        "name":"'Asir"
+        "name":"'Asir",
+        "shortCode":"14"
       },
       {
-        "name":"Al Bahah"
+        "name":"Al Bahah",
+        "shortCode":"11"
       },
       {
-        "name":"Al Hudud ash Shamaliyah"
+        "name":"Al Hudud ash Shamaliyah",
+        "shortCode":"08"
       },
       {
-        "name":"Al Jawf"
+        "name":"Al Jawf",
+        "shortCode":"12"
       },
       {
-        "name":"Al Madinah"
+        "name":"Al Madinah al Munawwarah",
+        "shortCode":"03"
       },
       {
-        "name":"Al Qasim"
+        "name":"Al Qasim",
+        "shortCode":"05"
       },
       {
-        "name":"Ar Riyad"
+        "name":"Ar Riyad",
+        "shortCode":"01"
       },
       {
-        "name":"Ash Sharqiyah (Eastern Province)"
+        "name":"Ash Sharqiyah",
+        "shortCode":"04"
       },
       {
-        "name":"Ha'il"
+        "name":"Ha'il",
+        "shortCode":"06"
       },
       {
-        "name":"Jizan"
+        "name":"Jazan",
+        "shortCode":"09"
       },
       {
-        "name":"Makkah"
+        "name":"Makkah al Mukarramah",
+        "shortCode":"02"
       },
       {
-        "name":"Najran"
+        "name":"Najran",
+        "shortCode":"10"
       },
       {
-        "name":"Tabuk"
+        "name":"Tabuk",
+        "shortCode":"07"
       }
     ]
   },

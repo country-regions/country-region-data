@@ -14994,46 +14994,60 @@
     "countryShortCode":"SY",
     "regions":[
       {
-        "name":"Al Hasakah"
+        "name":"Al Hasakah",
+        "shortCode":"HA"
       },
       {
-        "name":"Al Ladhiqiyah"
+        "name":"Al Ladhiqiyah",
+        "shortCode":"LA"
       },
       {
-        "name":"Al Qunaytirah"
+        "name":"Al Qunaytirah",
+        "shortCode":"QU"
       },
       {
-        "name":"Ar Raqqah"
+        "name":"Ar Raqqah",
+        "shortCode":"RA"
       },
       {
-        "name":"As Suwayda'"
+        "name":"As Suwayda'",
+        "shortCode":"SU"
       },
       {
-        "name":"Dar'a"
+        "name":"Dar'a",
+        "shortCode":"DR"
       },
       {
-        "name":"Dayr az Zawr"
+        "name":"Dayr az Zawr",
+        "shortCode":"DY"
       },
       {
-        "name":"Dimashq"
+        "name":"Dimashq",
+        "shortCode":"DI"
       },
       {
-        "name":"Halab"
+        "name":"Halab",
+        "shortCode":"HL"
       },
       {
-        "name":"Hamah"
+        "name":"Hamah",
+        "shortCode":"HM"
       },
       {
-        "name":"Hims"
+        "name":"Hims",
+        "shortCode":"HI"
       },
       {
-        "name":"Idlib"
+        "name":"Idlib",
+        "shortCode":"ID"
       },
       {
-        "name":"Rif Dimashq"
+        "name":"Rif Dimashq",
+        "shortCode":"RD"
       },
       {
-        "name":"Tartus"
+        "name":"Tartus",
+        "shortCode":"TA"
       }
     ]
   },

@@ -14622,76 +14622,76 @@
     "countryShortCode":"SD",
     "regions":[
       {
-        "name":"A'ali an Nil"
+        "name":"Al Bahr al Ahmar",
+        "shortCode":"RS"
       },
       {
-        "name":"Al Bahr al Ahmar"
+        "name":"Al Jazirah",
+        "shortCode":"GZ"
       },
       {
-        "name":"Al Buhayrat"
+        "name":"Al Khartum",
+        "shortCode":"KH"
       },
       {
-        "name":"Al Jazirah"
+        "name":"Al Qadarif",
+        "shortCode":"GD"
       },
       {
-        "name":"Al Khartum"
+        "name":"An Nil al Abyad",
+        "shortCode":"NW"
       },
       {
-        "name":"Al Qadarif"
+        "name":"An Nil al Azraq",
+        "shortCode":"NB"
       },
       {
-        "name":"Al Wahdah"
+        "name":"Ash Shamaliyah",
+        "shortCode":"NO"
       },
       {
-        "name":"An Nil al Abyad"
+        "name":"Gharb Darfur",
+        "shortCode":"DW"
       },
       {
-        "name":"An Nil al Azraq"
+        "name":"Gharb Kurdufan",
+        "shortCode":"GK"
       },
       {
-        "name":"Ash Shamaliyah"
+        "name":"Janub Darfur",
+        "shortCode":"DS"
       },
       {
-        "name":"Bahr al rb al Istiwa'iyah"
+        "name":"Janub Kurdufan",
+        "shortCode":"KS"
       },
       {
-        "name":"Gharb Bahr al Ghazal"
+        "name":"Kassala",
+        "shortCode":"KA"
       },
       {
-        "name":"Gharb Darfur"
+        "name":"Nahr an Nil",
+        "shortCode":"NR"
       },
       {
-        "name":"Gharb Kurdufan"
+        "name":"Shamal Darfur",
+        "shortCode":"DN"
       },
       {
-        "name":"Janub Darfur"
+        "name":"Sharq Darfur",
+        "shortCode":"DE"
       },
       {
-        "name":"Janub Kurdufan"
+        "name":"Shiamal Kurdufan",
+        "shortCode":"KN"
       },
       {
-        "name":"Junqali"
+        "name":"Sinnar",
+        "shortCode":"SI"
       },
       {
-        "name":"Kassala"
-      },
-      {
-        "name":"Nahr an Nil"
-      },
-      {
-        "name":"Shamal Bahr al amal Darfur"
-      },
-      {
-        "name":"Shamal Kurdufan"
-      },
-      {
-        "name":"Sharq al Istiwa'iyah"
-      },
-      {
-        "name":"Sinnar"
-      },
-      {
-        "name":"Warab"
+        "name":"Wasat Darfur Zalinjay",
+        "shortCode":"DC"
       }
     ]
   },

@@ -16118,7 +16118,56 @@
     "countryShortCode":"TL",
     "regions":[
       {
-        "name":"Timor-Leste"
+        "name":"Aileu",
+        "shortCode":"AL"
+      },
+      {
+        "name":"Ainaro",
+        "shortCode":"AN"
+      },
+      {
+        "name":"Baucau",
+        "shortCode":"BA"
+      },
+      {
+        "name":"Bobonaro",
+        "shortCode":"BO"
+      },
+      {
+        "name":"Cova Lima",
+        "shortCode":"CO"
+      },
+      {
+        "name":"Dili",
+        "shortCode":"DI"
+      },
+      {
+        "name":"Ermera",
+        "shortCode":"ER"
+      },
+      {
+        "name":"Lautem",
+        "shortCode":"LA"
+      },
+      {
+        "name":"Liquica",
+        "shortCode":"LI"
+      },
+      {
+        "name":"Manatuto",
+        "shortCode":"MT"
+      },
+      {
+        "name":"Manufahi",
+        "shortCode":"MF"
+      },
+      {
+        "name":"Oecussi",
+        "shortCode":"OE"
+      },
+      {
+        "name":"Viqueque",
+        "shortCode":"VI"
       }
     ]
   },

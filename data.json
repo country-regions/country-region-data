@@ -15821,235 +15821,328 @@
     "countryShortCode":"TR",
     "regions":[
       {
-        "name":"Adana"
+        "name":"Adana",
+        "shortCode":"01"
       },
       {
-        "name":"Adiyaman"
+        "name":"Adiyaman",
+        "shortCode":"02"
       },
       {
-        "name":"Afyon"
+        "name":"Afyonkarahisar",
+        "shortCode":"03"
       },
       {
-        "name":"Agri"
+        "name":"Agri",
+        "shortCode":"04"
       },
       {
-        "name":"Aksaray"
+        "name":"Aksaray",
+        "shortCode":"68"
       },
       {
-        "name":"Amasya"
+        "name":"Amasya",
+        "shortCode":"05"
       },
       {
-        "name":"Ankara"
+        "name":"Ankara",
+        "shortCode":"06"
       },
       {
-        "name":"Antalya"
+        "name":"Antalya",
+        "shortCode":"07"
       },
       {
-        "name":"Ardahan"
+        "name":"Ardahan",
+        "shortCode":"75"
       },
       {
-        "name":"Artvin"
+        "name":"Artvin",
+        "shortCode":"08"
       },
       {
-        "name":"Aydin"
+        "name":"Aydin",
+        "shortCode":"09"
       },
       {
-        "name":"Balikesir"
+        "name":"Balikesir",
+        "shortCode":"10"
       },
       {
-        "name":"Bartin"
+        "name":"Bartin",
+        "shortCode":"74"
       },
       {
-        "name":"Batman"
+        "name":"Batman",
+        "shortCode":"72"
       },
       {
-        "name":"Bayburt"
+        "name":"Bayburt",
+        "shortCode":"69"
       },
       {
-        "name":"Bilecik"
+        "name":"Bilecik",
+        "shortCode":"11"
       },
       {
-        "name":"Bingol"
+        "name":"Bingol",
+        "shortCode":"12"
       },
       {
-        "name":"Bitlis"
+        "name":"Bitlis",
+        "shortCode":"13"
       },
       {
-        "name":"Bolu"
+        "name":"Bolu",
+        "shortCode":"14"
       },
       {
-        "name":"Burdur"
+        "name":"Burdur",
+        "shortCode":"15"
       },
       {
-        "name":"Bursae"
+        "name":"Bursa",
+        "shortCode":"16"
       },
       {
-        "name":"Cankiri"
+        "name":"Canakkale",
+        "shortCode":"17"
       },
       {
-        "name":"Corum"
+        "name":"Cankiri",
+        "shortCode":"18"
       },
       {
-        "name":"Denizli"
+        "name":"Corum",
+        "shortCode":"19"
       },
       {
-        "name":"Diyarbakir"
+        "name":"Denizli",
+        "shortCode":"20"
       },
       {
-        "name":"Duzce"
+        "name":"Diyarbakir",
+        "shortCode":"21"
       },
       {
-        "name":"Edirne"
+        "name":"Duzce",
+        "shortCode":"81"
       },
       {
-        "name":"Elazig"
+        "name":"Edirne",
+        "shortCode":"22"
       },
       {
-        "name":"Erzincan"
+        "name":"Elazig",
+        "shortCode":"23"
       },
       {
-        "name":"Erzurum"
+        "name":"Erzincan",
+        "shortCode":"24"
       },
       {
-        "name":"Eskisehir"
+        "name":"Erzurum",
+        "shortCode":"25"
       },
       {
-        "name":"Gaziantep"
+        "name":"Eskisehir",
+        "shortCode":"26"
       },
       {
-        "name":"Giresun"
+        "name":"Gaziantep",
+        "shortCode":"27"
       },
       {
-        "name":"Gumushane"
+        "name":"Giresun",
+        "shortCode":"28"
       },
       {
-        "name":"Hakkari"
+        "name":"Gumushane",
+        "shortCode":"29"
       },
       {
-        "name":"Hatay"
+        "name":"Hakkari",
+        "shortCode":"30"
       },
       {
-        "name":"Icel"
+        "name":"Hatay",
+        "shortCode":"31"
       },
       {
-        "name":"Igdir"
+        "name":"Igdir",
+        "shortCode":"76"
       },
       {
-        "name":"Isparta"
+        "name":"Isparta",
+        "shortCode":"32"
       },
       {
-        "name":"Istanbul"
+        "name":"Istanbul",
+        "shortCode":"34"
       },
       {
-        "name":"Kahramanmaras"
+        "name":"Izmir",
+        "shortCode":"35"
       },
       {
-        "name":"Karabuk"
+        "name":"Kahramanmaras",
+        "shortCode":"46"
       },
       {
-        "name":"Karaman"
+        "name":"Karabuk",
+        "shortCode":"78"
       },
       {
-        "name":"Kars"
+        "name":"Karaman",
+        "shortCode":"70"
       },
       {
-        "name":"Kastamonu"
+        "name":"Kars",
+        "shortCode":"36"
       },
       {
-        "name":"Kayseri"
+        "name":"Kastamonu",
+        "shortCode":"37"
       },
       {
-        "name":"Kilis"
+        "name":"Kayseri",
+        "shortCode":"38"
       },
       {
-        "name":"Kirikkale"
+        "name":"Kilis",
+        "shortCode":"79"
       },
       {
-        "name":"Kirklareli"
+        "name":"Kirikkale",
+        "shortCode":"71"
       },
       {
-        "name":"Kirsehir"
+        "name":"Kirklareli",
+        "shortCode":"39"
       },
       {
-        "name":"Kocaeli"
+        "name":"Kirsehir",
+        "shortCode":"40"
       },
       {
-        "name":"Konya"
+        "name":"Kocaeli",
+        "shortCode":"41"
       },
       {
-        "name":"Kutahya"
+        "name":"Konya",
+        "shortCode":"42"
       },
       {
-        "name":"Malatya"
+        "name":"Kutahya",
+        "shortCode":"43"
       },
       {
-        "name":"Manisa"
+        "name":"Malatya",
+        "shortCode":"44"
       },
       {
-        "name":"Mardin"
+        "name":"Manisa",
+        "shortCode":"45"
       },
       {
-        "name":"Mugla"
+        "name":"Mardin",
+        "shortCode":"47"
       },
       {
-        "name":"Mus"
+        "name":"Mersin",
+        "shortCode":"33"
       },
       {
-        "name":"NevsehOrdu"
+        "name":"Mugla",
+        "shortCode":"48"
       },
       {
-        "name":"Osmaniye"
+        "name":"Mus",
+        "shortCode":"49"
       },
       {
-        "name":"Rize"
+        "name":"Nevsehir",
+        "shortCode":"50"
       },
       {
-        "name":"Sakarya"
+        "name":"Nigde",
+        "shortCode":"51"
       },
       {
-        "name":"Samsun"
+        "name":"Ordu",
+        "shortCode":"52"
       },
       {
-        "name":"Sanliurfa"
+        "name":"Osmaniye",
+        "shortCode":"80"
       },
       {
-        "name":"Siirt"
+        "name":"Rize",
+        "shortCode":"53"
       },
       {
-        "name":"Sinop"
+        "name":"Sakarya",
+        "shortCode":"54"
       },
       {
-        "name":"Sirnak"
+        "name":"Samsun",
+        "shortCode":"55"
       },
       {
-        "name":"Sivas"
+        "name":"Sanliurfa",
+        "shortCode":"63"
       },
       {
-        "name":"Tekirdag"
+        "name":"Siirt",
+        "shortCode":"56"
       },
       {
-        "name":"Tokat"
+        "name":"Sinop",
+        "shortCode":"57"
       },
       {
-        "name":"Trabzon"
+        "name":"Sirnak",
+        "shortCode":"73"
       },
       {
-        "name":"Tunceli"
+        "name":"Sivas",
+        "shortCode":"58"
       },
       {
-        "name":"Usak"
+        "name":"Tekirdag",
+        "shortCode":"59"
       },
       {
-        "name":"Van"
+        "name":"Tokat",
+        "shortCode":"60"
       },
       {
-        "name":"Yalova"
+        "name":"Trabzon",
+        "shortCode":"61"
       },
       {
-        "name":"Yozgat"
+        "name":"Tunceli",
+        "shortCode":"62"
       },
       {
-        "name":"Zonguldak"
+        "name":"Usak",
+        "shortCode":"64"
+      },
+      {
+        "name":"Van",
+        "shortCode":"65"
+      },
+      {
+        "name":"Yalova",
+        "shortCode":"77"
+      },
+      {
+        "name":"Yozgat",
+        "shortCode":"66"
+      },
+      {
+        "name":"Zonguldak",
+        "shortCode":"67"
       }
     ]
   },

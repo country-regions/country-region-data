@@ -11848,379 +11848,320 @@
     "countryShortCode":"PH",
     "regions":[
       {
-        "name":"Abra"
+        "name":"Abra",
+        "shortCode":"ABR"
       },
       {
-        "name":"Agusan del Norte"
+        "name":"Agusan del Norte",
+        "shortCode":"AGN"
       },
       {
-        "name":"Agusan del Sur"
+        "name":"Agusan del Sur",
+        "shortCode":"AGS"
       },
       {
-        "name":"Aklan"
+        "name":"Aklan",
+        "shortCode":"AKL"
       },
       {
-        "name":"Albay"
+        "name":"Albay",
+        "shortCode":"ALB"
       },
       {
-        "name":"Angeles"
+        "name":"Antique",
+        "shortCode":"ANT"
       },
       {
-        "name":"Antique"
+        "name":"Apayao",
+        "shortCode":"APA"
       },
       {
-        "name":"Aurora"
+        "name":"Aurora",
+        "shortCode":"AUR"
       },
       {
-        "name":"Bacolod"
+        "name":"Basilan",
+        "shortCode":"BAS"
       },
       {
-        "name":"Bago"
+        "name":"Bataan",
+        "shortCode":"BAN"
       },
       {
-        "name":"Baguio"
+        "name":"Batanes",
+        "shortCode":"BTN"
       },
       {
-        "name":"Bais"
+        "name":"Batangas",
+        "shortCode":"BTG"
       },
       {
-        "name":"Basilan"
+        "name":"Benguet",
+        "shortCode":"BEN"
       },
       {
-        "name":"Basilan an"
+        "name":"Biliran",
+        "shortCode":"BIL"
       },
       {
-        "name":"Batanes"
+        "name":"Bohol",
+        "shortCode":"BOH"
       },
       {
-        "name":"Batangas"
+        "name":"Bukidnon",
+        "shortCode":"BUK"
       },
       {
-        "name":"Batangas City"
+        "name":"Bulacan",
+        "shortCode":"BUL"
       },
       {
-        "name":"Benguet"
+        "name":"Cagayan",
+        "shortCode":"CAG"
       },
       {
-        "name":"Bohol"
+        "name":"Camarines Norte",
+        "shortCode":"CAN"
       },
       {
-        "name":"Bukidnon"
+        "name":"Camarines Sur",
+        "shortCode":"CAS"
       },
       {
-        "name":"Bulacan"
+        "name":"Camiguin",
+        "shortCode":"CAM"
       },
       {
-        "name":"Butuan"
+        "name":"Capiz",
+        "shortCode":"CAP"
       },
       {
-        "name":"Cabanatuan"
+        "name":"Catanduanes",
+        "shortCode":"CAT"
       },
       {
-        "name":"Cadiz"
+        "name":"Cavite",
+        "shortCode":"CAV"
       },
       {
-        "name":"Cagayan"
+        "name":"Cebu",
+        "shortCode":"CEB"
       },
       {
-        "name":"Cagayan de Oro"
+        "name":"Compostela",
+        "shortCode":"COM"
       },
       {
-        "name":"Calbayog"
+        "name":"Cotabato",
+        "shortCode":"NCO"
       },
       {
-        "name":"Caloocan"
+        "name":"Davao del Norte",
+        "shortCode":"DAV"
       },
       {
-        "name":"Camarines arines Sur"
+        "name":"Davao del Sur",
+        "shortCode":"DAS"
       },
       {
-        "name":"Camiguin"
+        "name":"Davao Occidental",
+        "shortCode":"DVO"
       },
       {
-        "name":"Canlaon"
+        "name":"Davao Oriental",
+        "shortCode":"DAO"
       },
       {
-        "name":"Capiz"
+        "name":"Dinagat Islands",
+        "shortCode":"DIN"
       },
       {
-        "name":"Catanduanes"
+        "name":"Eastern Samar",
+        "shortCode":"EAS"
       },
       {
-        "name":"Cavite"
+        "name":"Guimaras",
+        "shortCode":"GUI"
       },
       {
-        "name":"Cavite City"
+        "name":"Ifugao",
+        "shortCode":"IFU"
       },
       {
-        "name":"Cebu"
+        "name":"Ilocos Norte",
+        "shortCode":"ILN"
       },
       {
-        "name":"Cebu City"
+        "name":"Ilocos Sur",
+        "shortCode":"ILS"
       },
       {
-        "name":"Cotabato"
+        "name":"Iloilo",
+        "shortCode":"ILI"
       },
       {
-        "name":"Dagupan"
+        "name":"Isabela",
+        "shortCode":"ISA"
       },
       {
-        "name":"Danao"
+        "name":"Kalinga",
+        "shortCode":"KAL"
       },
       {
-        "name":"Dapitan"
+        "name":"La Union",
+        "shortCode":"LUN"
       },
       {
-        "name":"Davao City Davao"
+        "name":"Laguna",
+        "shortCode":"LAG"
       },
       {
-        "name":"Davao del Sur"
+        "name":"Lanao del Norte",
+        "shortCode":"LAN"
       },
       {
-        "name":"Davao Dipolog"
+        "name":"Lanao del Sur",
+        "shortCode":"LAS"
       },
       {
-        "name":"Dumaguete"
+        "name":"Leyte",
+        "shortCode":"LEY"
       },
       {
-        "name":"Eastern Samar"
+        "name":"Maguindanao",
+        "shortCode":"MAG"
       },
       {
-        "name":"General Santos"
+        "name":"Masbate",
+        "shortCode":"MAS"
       },
       {
-        "name":"Gingoog"
+        "name":"Mindoro Occidental",
+        "shortCode":"MDC"
       },
       {
-        "name":"Ifugao"
+        "name":"Mindoro Oriental",
+        "shortCode":"MDR"
       },
       {
-        "name":"Iligan"
+        "name":"Misamis Occidental",
+        "shortCode":"MSC"
       },
       {
-        "name":"Ilocos Norte"
+        "name":"Misamis Oriental",
+        "shortCode":"MSR"
       },
       {
-        "name":"Ilocos Sur"
+        "name":"Mountain Province",
+        "shortCode":"MOU"
       },
       {
-        "name":"Iloilo"
+        "name":"Negros Occidental",
+        "shortCode":"NEC"
       },
       {
-        "name":"Iloilo City"
+        "name":"Negros Oriental",
+        "shortCode":"NER"
       },
       {
-        "name":"Iriga"
+        "name":"Northern Samar",
+        "shortCode":"NSA"
       },
       {
-        "name":"Isabela"
+        "name":"Nueva Ecija",
+        "shortCode":"NUE"
       },
       {
-        "name":"Kalinga-Apayao"
+        "name":"Nueva Vizcaya",
+        "shortCode":"NUV"
       },
       {
-        "name":"La a Union"
+        "name":"Palawan",
+        "shortCode":"PLW"
       },
       {
-        "name":"Laguna"
+        "name":"Pampanga",
+        "shortCode":"PAM"
       },
       {
-        "name":"Lanao del Norte"
+        "name":"Pangasinan",
+        "shortCode":"PAN"
       },
       {
-        "name":"Lanao del Sur"
+        "name":"Quezon",
+        "shortCode":"QUE"
       },
       {
-        "name":"Laoag"
+        "name":"Quirino",
+        "shortCode":"QUI"
       },
       {
-        "name":"Lapu-Lapu"
+        "name":"Rizal",
+        "shortCode":"RIZ"
       },
       {
-        "name":"Legaspi"
+        "name":"Romblon",
+        "shortCode":"ROM"
       },
-      {
-        "name":"Leyte"
-      },
-      {
-        "name":"Lipa"
-      },
-      {
-        "name":"Lucena"
-      },
-      {
-        "name":"Maguindanao"
-      },
-      {
-        "name":"Mandaue"
-      },
-      {
-        "name":"Manila"
-      },
-      {
-        "name":"Marawi"
-      },
-      {
-        "name":"Marinduque"
-      },
-      {
-        "name":"Masbate"
-      },
-      {
-        "name":"Mindoro l"
-      },
-      {
-        "name":"Mindoro Oriental"
-      },
-      {
-        "name":"Misamis Occidental"
-      },
-      {
-        "name":"Misamis Oriental"
-      },
-      {
-        "name":"Mountain"
-      },
-      {
-        "name":"Naga"
-      },
-      {
-        "name":"Negros Occidental"
-      },
-      {
-        "name":"Negros Oriental"
-      },
-      {
-        "name":"North Cotabato"
-      },
-      {
-        "name":"Northern Samar"
-      },
-      {
-        "name":"Nueva va Vizcaya"
-      },
-      {
-        "name":"Olongapo"
-      },
-      {
-        "name":"Ormoc"
-      },
-      {
-        "name":"Oroquieta"
-      },
-      {
-        "name":"Ozamis"
-      },
-      {
-        "name":"Pagadian"
-      },
-      {
-        "name":"Palawan"
-      },
-      {
-        "name":"Palayan"
-      },
-      {
-        "name":"Pampanga"
-      },
-      {
-        "name":"Pangasinan"
-      },
-      {
-        "name":"Pasay"
-      },
-      {
-        "name":"Puerto Princesa"
-      },
-      {
-        "name":"Quezon"
-      },
-      {
-        "name":"Quezon ino"
-      },
-      {
-        "name":"Rizal"
-      },
-      {
-        "name":"Romblon"
-      },
-      {
-        "name":"Roxas"
-      },
-      {
-        "name":"Samar"
-      },
-      {
-        "name":"San Carlos (in Negros Occidental)"
-      },
-      {
-        "name":"San Carlos (in Pangasinan)"
-      },
-      {
-        "name":"San Jose"
-      },
-      {
-        "name":"San Pablo"
-      },
-      {
-        "name":"Silay"
-      },
-      {
-        "name":"Siquijor"
-      },
-      {
-        "name":"Sorsogon"
-      },
-      {
-        "name":"South Southern Leyte"
-      },
-      {
-        "name":"Sultan Kudarat"
-      },
-      {
-        "name":"Sulu"
+     {
+        "name":"Samar",
+        "shortCode":"WSA"
       },
       {
-        "name":"Surigao"
+        "name":"Sarangani",
+        "shortCode":"SAR"
       },
       {
-        "name":"Surigao del Norte"
+        "name":"Siquijor",
+        "shortCode":"SIG"
       },
       {
-        "name":"Surigao del Sur"
+        "name":"Sorsogon",
+        "shortCode":"SOR"
       },
       {
-        "name":"Tacloban"
+        "name":"Southern Leyte",
+        "shortCode":"SLE"
       },
       {
-        "name":"Tagaytay"
+        "name":"Sultan Kudarat",
+        "shortCode":"AUK"
       },
       {
-        "name":"Tagbilaran"
+        "name":"Sulu",
+        "shortCode":"SLU"
       },
       {
-        "name":"Tangub"
+        "name":"Surigao del Norte",
+        "shortCode":"SUN"
       },
       {
-        "name":"Tarlac"
+        "name":"Surigao del Sur",
+        "shortCode":"SUR"
       },
       {
-        "name":"Tawitawi"
+        "name":"Tarlac",
+        "shortCode":"TAR"
       },
       {
-        "name":"Toledo"
+        "name":"Tawi-Tawi",
+        "shortCode":"TAW"
       },
       {
-        "name":"Trece Zambales"
+        "name":"Zambales",
+        "shortCode":"ZMB"
       },
       {
-        "name":"Zamboanga"
+        "name":"Zamboanga del Norte",
+        "shortCode":"ZAN"
       },
       {
-        "name":"Zamboanga del Norte"
+        "name":"Zamboanga del Sur",
+        "shortCode":"ZAS"
       },
       {
-        "name":"Zamboanga del Sur"
+        "name":"Zamboanga Sibugay",
+        "shortCode":"ZSI"
       }
     ]
   },

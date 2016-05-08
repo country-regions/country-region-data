@@ -13093,73 +13093,104 @@
     "countryShortCode":"SC",
     "regions":[
       {
-        "name":"Anse aux Pins"
+        "name":"Anse aux Pins",
+        "shortCode":"01"
       },
       {
-        "name":"Anse Boileau"
+        "name":"Anse Boileau",
+        "shortCode":"02"
       },
       {
-        "name":"Anse Etoile"
+        "name":"Anse Etoile",
+        "shortCode":"03"
       },
       {
-        "name":"Anse Louis"
+        "name":"Anse Royale",
+        "shortCode":"05"
       },
       {
-        "name":"Anse Royale"
+        "name":"Anu Cap",
+        "shortCode":"04"
       },
       {
-        "name":"Baie Lazare"
+        "name":"Baie Lazare",
+        "shortCode":"06"
       },
       {
-        "name":"Baie Sainte Anne"
+        "name":"Baie Sainte Anne",
+        "shortCode":"07"
       },
       {
-        "name":"Beau Vallon"
+        "name":"Beau Vallon",
+        "shortCode":"08"
       },
       {
-        "name":"Bel Air"
+        "name":"Bel Air",
+        "shortCode":"09"
       },
       {
-        "name":"Bel Ombre"
+        "name":"Bel Ombre",
+        "shortCode":"10"
       },
       {
-        "name":"Cascade"
+        "name":"Cascade",
+        "shortCode":"11"
       },
       {
-        "name":"Glacis"
+        "name":"Glacis",
+        "shortCode":"12"
       },
       {
-        "name":"Grand' Anse "
+        "name":"Grand'Anse Mahe",
+        "shortCode":"13"
       },
       {
-        "name":"Grand' Anse (on Praslin)"
+        "name":"Grand'Anse Praslin",
+        "shortCode":"14"
       },
       {
-        "name":"La Digue"
+        "name":"La Digue",
+        "shortCode":"15"
       },
       {
-        "name":"La Riviere Anglaise"
+        "name":"La Riviere Anglaise",
+        "shortCode":"16"
       },
       {
-        "name":"Mont Buxton"
+        "name":"Les Mamelles",
+        "shortCode":"24"
+      }
+      {
+        "name":"Mont Buxton",
+        "shortCode":"17"
       },
       {
-        "name":"Mont Fleuri"
+        "name":"Mont Fleuri",
+        "shortCode":"18"
       },
       {
-        "name":"Plaisance"
+        "name":"Plaisance",
+        "shortCode":"19"
       },
       {
-        "name":"Pointe La Rue"
+        "name":"Pointe La Rue",
+        "shortCode":"20"
       },
       {
-        "name":"Port Glaud"
+        "name":"Port Glaud",
+        "shortCode":"21"
       },
       {
-        "name":"Saint Louis"
+        "name":"Roche Caiman",
+        "shortCode":"25"
       },
       {
-        "name":"Takamaka"
+        "name":"Saint Louis",
+        "shortCode":"22"
+      },
+      {
+        "name":"Takamaka",
+        "shortCode":"23"
       }
     ]
   },

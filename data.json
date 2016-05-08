@@ -15056,73 +15056,84 @@
     "countryShortCode":"TW",
     "regions":[
       {
-        "name":"Chang-hua"
+        "name":"Chang-hua",
+        "shortCode":"CHA"
       },
       {
-        "name":"Chi-lung"
+        "name":"Chia-i",
+        "shortCode":"CYQ"
       },
       {
-        "name":"Chia-i"
+        "name":"Hsin-chu",
+        "shortCode":"HSQ"
       },
       {
-        "name":"Chia-i"
+        "name":"Hua-lien",
+        "shortCode":"HUA"
       },
       {
-        "name":"Chung-hsing-hsin-ts'un"
+        "name":"Kao-hsiung",
+        "shortCode":"KHH"
       },
       {
-        "name":"Hsin-chu"
+        "name":"Keelung",
+        "shortCode":"KEE"
       },
       {
-        "name":"Hsin-chu"
+        "name":"Kinmen",
+        "shortCode":"KIN"
       },
       {
-        "name":"Hua-lien"
+        "name":"Lienchiang",
+        "shortCode":"LIE"
       },
       {
-        "name":"I-lan"
+        "name":"Miao-li",
+        "shortCode":"MIA"
       },
       {
-        "name":"Kao-hsiung"
+        "name":"Nan-t'ou",
+        "shortCode":"NAN"
       },
       {
-        "name":"Kao-hsiung"
+        "name":"P'eng-hu",
+        "shortCode":"PEN"
       },
       {
-        "name":"Miao-li"
+        "name":"New Taipei",
+        "shortCode":"NWT"
       },
       {
-        "name":"Nan-t'ou"
+        "name":"P'ing-chung",
+        "shortCode":"PIF"
       },
       {
-        "name":"P'eng-hu"
+        "name":"T'ai-chung",
+        "shortCode":"TXG"
       },
       {
-        "name":"P'ing--chung"
+        "name":"T'ai-nan",
+        "shortCode":"TNN"
       },
       {
-        "name":"T'ai-chung"
+        "name":"T'ai-pei",
+        "shortCode":"TPE"
       },
       {
-        "name":"T'ai-nan"
+        "name":"T'ai-tung",
+        "shortCode":"TTT"
       },
       {
-        "name":"T'ai-nan"
+        "name":"T'ao-yuan",
+        "shortCode":"TAO"
       },
       {
-        "name":"T'ai-pei"
+        "name":"Yi-lan",
+        "shortCode":"ILA"
       },
       {
-        "name":"T'ai-pei"
-      },
-      {
-        "name":"T'ai-tung"
-      },
-      {
-        "name":"T'ao-yuan"
-      },
-      {
-        "name":"Yun-lin"
+        "name":"Yun-lin",
+        "shortCode":"YUN"
       }
     ]
   },

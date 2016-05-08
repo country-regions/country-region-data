@@ -14798,64 +14798,84 @@
     "countryShortCode":"SE",
     "regions":[
       {
-        "name":"Blekinge"
+        "name":"Blekinge",
+        "shortCode":"K"
       },
       {
-        "name":"Dalarnas"
+        "name":"Dalarnas",
+        "shortCode":"W"
       },
       {
-        "name":"Gavleborgs"
+        "name":"Gotlands",
+        "shortCode":"X"
       },
       {
-        "name":"Gotlands"
+        "name":"Gavleborgs",
+        "shortCode":"I"
       },
       {
-        "name":"Hallands"
+        "name":"Hallands",
+        "shortCode":"N"
       },
       {
-        "name":"Jamtlands"
+        "name":"Jamtlands",
+        "shortCode":"Z"
       },
       {
-        "name":"Jonkopings"
+        "name":"Jonkopings",
+        "shortCode":"F"
       },
       {
-        "name":"Kalmar"
+        "name":"Kalmar",
+        "shortCode":"H"
       },
       {
-        "name":"Kronobergs"
+        "name":"Kronobergs",
+        "shortCode":"G"
       },
       {
-        "name":"Norrbottens"
+        "name":"Norrbottens",
+        "shortCode":"BD"
       },
       {
-        "name":"Orebro"
+        "name":"Orebro",
+        "shortCode":"T"
       },
       {
-        "name":"Ostergotlands"
+        "name":"Ostergotlands",
+        "shortCode":"E"
       },
       {
-        "name":"Skane"
+        "name":"Skane",
+        "shortCode":"M"
       },
       {
-        "name":"Sodermanlands"
+        "name":"Sodermanlands",
+        "shortCode":"D"
       },
       {
-        "name":"Stockholm"
+        "name":"Stockholm",
+        "shortCode":"AB"
       },
       {
-        "name":"Varmlands"
+        "name":"Varmlands",
+        "shortCode":"S"
       },
       {
-        "name":"Vasterbottens"
+        "name":"Vasterbottens",
+        "shortCode":"AC"
       },
       {
-        "name":"Vasternorrlands"
+        "name":"Vasternorrlands",
+        "shortCode":"Y"
       },
       {
-        "name":"Vastmanlands"
+        "name":"Vastmanlands",
+        "shortCode":"U"
       },
       {
-        "name":"Vastra Gotalands"
+        "name":"Vastra Gotalands",
+        "shortCode":"O"
       }
     ]
   },

@@ -11615,52 +11615,68 @@
     "countryShortCode":"PL",
     "regions":[
       {
-        "name":"Dolnoslaskie"
+        "name":"Dolnośląskie",
+        "shortCode":"DS"
       },
       {
-        "name":"Kujawsko-"
+        "name":"Kujawsko-pomorskie",
+        "shortCode":"KP"
       },
       {
-        "name":"Lodzkie"
+        "name":"Łódzkie",
+        "shortCode":"LD"
       },
       {
-        "name":"Lubelskie"
+        "name":"Lubelskie",
+        "shortCode":"LU"
       },
       {
-        "name":"Lubuskie"
+        "name":"Lubuskie",
+        "shortCode":"LB"
       },
       {
-        "name":"Malopolskie"
+        "name":"Malopolskie",
+        "shortCode":"MA"
       },
       {
-        "name":"Mazowieckie"
+        "name":"Mazowieckie",
+        "shortCode":"MZ"
       },
       {
-        "name":"Opolskie"
+        "name":"Opolskie",
+        "shortCode":"OP"
       },
       {
-        "name":"Podkarpackie"
+        "name":"Podkarpackie",
+        "shortCode":"PK"
       },
       {
-        "name":"Podlaskie"
+        "name":"Podlaskie",
+        "shortCode":"PD"
       },
       {
-        "name":"Pomorskie"
+        "name":"Pomorskie",
+        "shortCode":"PM"
       },
       {
-        "name":"Slaskie"
+        "name":"Śląskie",
+        "shortCode":"SL"
       },
       {
-        "name":"Swietokrzyskie"
+        "name":"  Świętokrzyskie",
+        "shortCode":"SK"
       },
       {
-        "name":"Warminsko-"
+        "name":"Warmińsko-mazurskie",
+        "shortCode":"WN"
       },
       {
-        "name":"Wielkopolskie"
+        "name":"Wielkopolskie",
+        "shortCode":"WP"
       },
       {
-        "name":"Zachodniopomorskie"
+        "name":"Zachodniopomorskie",
+        "shortCode":"ZP"
       }
     ]
   },

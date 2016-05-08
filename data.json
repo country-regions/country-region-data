@@ -13256,28 +13256,36 @@
     "countryShortCode":"SK",
     "regions":[
       {
-        "name":"Banskobystricky"
+        "name":"Banskobystricky",
+        "shortCode":"BC"
       },
       {
-        "name":"Bratislavsky"
+        "name":"Bratislavsky",
+        "shortCode":"BL"
       },
       {
-        "name":"Kosicky"
+        "name":"Kosicky",
+        "shortCode":"KI"
       },
       {
-        "name":"Nitriansky"
+        "name":"Nitriansky",
+        "shortCode":"NI"
       },
       {
-        "name":"Presovsky"
+        "name":"Presovsky",
+        "shortCode":"PV"
       },
       {
-        "name":"Trenciansky"
+        "name":"Trenciansky",
+        "shortCode":"TC"
       },
       {
-        "name":"Trnavsky"
+        "name":"Trnavsky",
+        "shortCode":"TA"
       },
       {
-        "name":"Zilinsky"
+        "name":"Zilinsky",
+        "shortCode":"ZI"
       }
     ]
   },

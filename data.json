@@ -12791,31 +12791,40 @@
     "countryShortCode":"SM",
     "regions":[
       {
-        "name":"Acquaviva"
+        "name":"Acquaviva",
+        "shortCode":"01"
       },
       {
-        "name":"Borgo Maggiore"
+        "name":"Borgo Maggiore",
+        "shortCode":"06"
       },
       {
-        "name":"Chiesanuova"
+        "name":"Chiesanuova",
+        "shortCode":"02"
       },
       {
-        "name":"Domagnano"
+        "name":"Domagnano",
+        "shortCode":"03"
       },
       {
-        "name":"Faetano"
+        "name":"Faetano",
+        "shortCode":"04"
       },
       {
-        "name":"Fiorentino"
+        "name":"Fiorentino",
+        "shortCode":"05"
       },
       {
-        "name":"Monte Giardino"
+        "name":"Montegiardino",
+        "shortCode":"08"
       },
       {
-        "name":"San Marino"
+        "name":"San Marino",
+        "shortCode":"07"
       },
       {
-        "name":"Serravalle"
+        "name":"Serravalle",
+        "shortCode":"09"
       }
     ]
   },

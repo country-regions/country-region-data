@@ -12833,10 +12833,12 @@
     "countryShortCode":"ST",
     "regions":[
       {
-        "name":"Principe"
+        "name":"Principe",
+        "shortCode":"P"
       },
       {
-        "name":"Sao Tome"
+        "name":"Sao Tome",
+        "shortCode":"S"
       }
     ]
   },

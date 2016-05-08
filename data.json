@@ -12179,52 +12179,68 @@
     "countryShortCode":"PL",
     "regions":[
       {
-        "name":"Dolnoslaskie"
+        "name":"Dolnośląskie",
+        "shortCode":"DS"
       },
       {
-        "name":"Kujawsko-"
+        "name":"Kujawsko-pomorskie",
+        "shortCode":"KP"
       },
       {
-        "name":"Lodzkie"
+        "name":"Łódzkie",
+        "shortCode":"LD"
       },
       {
-        "name":"Lubelskie"
+        "name":"Lubelskie",
+        "shortCode":"LU"
       },
       {
-        "name":"Lubuskie"
+        "name":"Lubuskie",
+        "shortCode":"LB"
       },
       {
-        "name":"Malopolskie"
+        "name":"Malopolskie",
+        "shortCode":"MA"
       },
       {
-        "name":"Mazowieckie"
+        "name":"Mazowieckie",
+        "shortCode":"MZ"
       },
       {
-        "name":"Opolskie"
+        "name":"Opolskie",
+        "shortCode":"OP"
       },
       {
-        "name":"Podkarpackie"
+        "name":"Podkarpackie",
+        "shortCode":"PK"
       },
       {
-        "name":"Podlaskie"
+        "name":"Podlaskie",
+        "shortCode":"PD"
       },
       {
-        "name":"Pomorskie"
+        "name":"Pomorskie",
+        "shortCode":"PM"
       },
       {
-        "name":"Slaskie"
+        "name":"Śląskie",
+        "shortCode":"SL"
       },
       {
-        "name":"Swietokrzyskie"
+        "name":"  Świętokrzyskie",
+        "shortCode":"SK"
       },
       {
-        "name":"Warminsko-"
+        "name":"Warmińsko-mazurskie",
+        "shortCode":"WN"
       },
       {
-        "name":"Wielkopolskie"
+        "name":"Wielkopolskie",
+        "shortCode":"WP"
       },
       {
-        "name":"Zachodniopomorskie"
+        "name":"Zachodniopomorskie",
+        "shortCode":"ZP"
       }
     ]
   },
@@ -12233,64 +12249,84 @@
     "countryShortCode":"PT",
     "regions":[
       {
-        "name":"Acores (Azores)"
+        "name":"Acores",
+        "shortCode":"20"
       },
       {
-        "name":"Aveiro"
+        "name":"Aveiro",
+        "shortCode":"01"
       },
       {
-        "name":"Beja"
+        "name":"Beja",
+        "shortCode":"02"
       },
       {
-        "name":"Braga"
+        "name":"Braga",
+        "shortCode":"03"
       },
       {
-        "name":"Braganca"
+        "name":"Braganca",
+        "shortCode":"04"
       },
       {
-        "name":"Castelo Branco"
+        "name":"Castelo Branco",
+        "shortCode":"05"
       },
       {
-        "name":"Coimbra"
+        "name":"Coimbra",
+        "shortCode":"06"
       },
       {
-        "name":"Evora"
+        "name":"Evora",
+        "shortCode":"07"
       },
       {
-        "name":"Faro"
+        "name":"Faro",
+        "shortCode":"08"
       },
       {
-        "name":"Guarda"
+        "name":"Guarda",
+        "shortCode":"09"
       },
       {
-        "name":"Leiria"
+        "name":"Leiria",
+        "shortCode":"10"
       },
       {
-        "name":"Lisboa"
+        "name":"Lisboa",
+        "shortCode":"11"
       },
       {
-        "name":"Madeira"
+        "name":"Madeira",
+        "shortCode":"30"
       },
       {
-        "name":"Portalegre"
+        "name":"Portalegre",
+        "shortCode":"12"
       },
       {
-        "name":"Porto"
+        "name":"Porto",
+        "shortCode":"13"
       },
       {
-        "name":"Santarem"
+        "name":"Santarem",
+        "shortCode":"14"
       },
       {
-        "name":"Setubal"
+        "name":"Setubal",
+        "shortCode":"15"
       },
       {
-        "name":"Viana o"
+        "name":"Viana do Castelo",
+        "shortCode":"16"
       },
       {
-        "name":"Vila Real"
+        "name":"Vila Real",
+        "shortCode":"17"
       },
       {
-        "name":"Viseu"
+        "name":"Viseu",
+        "shortCode":"18"
       }
     ]
   },
@@ -12524,31 +12560,32 @@
     "countryShortCode":"QA",
     "regions":[
       {
-        "name":"Ad Dawhah"
+        "name":"Ad Dawḩah",
+        "shortCode":"DA"
       },
       {
-        "name":"Al Ghuwayriyah"
+        "name":"Al Khawr wa adh Dhakhīrah",
+        "shortCode":"KH"
       },
       {
-        "name":"Al Jumayliyah"
+        "name":"Al Wakrah",
+        "shortCode":"WA"
       },
       {
-        "name":"Al Khawr"
+        "name":"Ar Rayyān",
+        "shortCode":"RA"
       },
       {
-        "name":"Al Wakrah"
+        "name":"Ash Shamāl",
+        "shortCode":"MS"
       },
       {
-        "name":"Ar Rayyan"
+        "name":"Az̧ Za̧`āyin",
+        "shortCode":"ZA"
       },
       {
-        "name":"Jarayan al Batinah"
-      },
-      {
-        "name":"Madinat ash Shamal"
-      },
-      {
-        "name":"Umm Salal"
+        "name":"Umm Şalāl",
+        "shortCode":"US"
       }
     ]
   },
@@ -12566,121 +12603,167 @@
     "countryShortCode":"RO",
     "regions":[
       {
-        "name":"Alba"
+        "name":"Alba",
+        "shortCode":"AB"
       },
       {
-        "name":"Arad"
+        "name":"Arad",
+        "shortCode":"AR"
       },
       {
-        "name":"Arges"
+        "name":"Arges",
+        "shortCode":"AG"
       },
       {
-        "name":"Bacau"
+        "name":"Bacau",
+        "shortCode":"BC"
       },
       {
-        "name":"Bihor"
+        "name":"Bihor",
+        "shortCode":"BH"
       },
       {
-        "name":"Bistrita-Nasaud"
+        "name":"Bistrita-Nasaud",
+        "shortCode":"BN"
       },
       {
-        "name":"Botosani"
+        "name":"Botosani",
+        "shortCode":"BT"
       },
       {
-        "name":"Braila"
+        "name":"Braila",
+        "shortCode":"BR"
       },
       {
-        "name":"Brasov"
+        "name":"Brasov",
+        "shortCode":"BV"
       },
       {
-        "name":"Bucuresti"
+        "name":"Bucuresti",
+        "shortCode":"B"
       },
       {
-        "name":"Buzau"
+        "name":"Buzau",
+        "shortCode":"BZ"
       },
       {
-        "name":"Calarasi"
+        "name":"Calarasi",
+        "shortCode":"CL"
       },
       {
-        "name":"Caras-luj"
+        "name":"Caras-Severin",
+        "shortCode":"CS"
       },
       {
-        "name":"Constanta"
+        "name":"Cluj",
+        "shortCode":"CJ"
       },
       {
-        "name":"Covasna"
+        "name":"Constanta",
+        "shortCode":"CT"
       },
       {
-        "name":"Dimbovita"
+        "name":"Covasna",
+        "shortCode":"CV"
       },
       {
-        "name":"Dolj"
+        "name":"Dambovita",
+        "shortCode":"DB"
       },
       {
-        "name":"Galati"
+        "name":"Dolj",
+        "shortCode":"DJ"
       },
       {
-        "name":"Giurgiu"
+        "name":"Galati",
+        "shortCode":"GL"
       },
       {
-        "name":"Gorj"
+        "name":"Giurgiu",
+        "shortCode":"GR"
       },
       {
-        "name":"Harghita"
+        "name":"Gorj",
+        "shortCode":"GJ"
       },
       {
-        "name":"Hunedoara"
+        "name":"Harghita",
+        "shortCode":"HR"
       },
       {
-        "name":"Ialomita"
+        "name":"Hunedoara",
+        "shortCode":"HD"
       },
       {
-        "name":"Iasi"
+        "name":"Ialomita",
+        "shortCode":"IL"
       },
       {
-        "name":"Maramures"
+        "name":"Iasi",
+        "shortCode":"IS"
       },
       {
-        "name":"Mehedinti"
+        "name":"Maramures",
+        "shortCode":"MM"
       },
       {
-        "name":"Mures"
+        "name":"Mehedinti",
+        "shortCode":"MH"
       },
       {
-        "name":"Neamt"
+        "name":"Mures",
+        "shortCode":"MS"
       },
       {
-        "name":"Olt"
+        "name":"Neamt",
+        "shortCode":"NT"
       },
       {
-        "name":"Prahova"
+        "name":"Olt",
+        "shortCode":"OT"
       },
       {
-        "name":"Salaj"
+        "name":"Prahova",
+        "shortCode":"PH"
       },
       {
-        "name":"Satu u"
+        "name":"Salaj",
+        "shortCode":"SJ"
       },
       {
-        "name":"Suceava"
+        "name":"Satu Mare"
       },
       {
-        "name":"Teleorman"
+        "name":"Sibiu",
+        "shortCode":"SB"
       },
       {
-        "name":"Timis"
+        "name":"Suceava",
+        "shortCode":"SV"
       },
       {
-        "name":"Tulcea"
+        "name":"Teleorman",
+        "shortCode":"TR"
       },
       {
-        "name":"Vaslui"
+        "name":"Timis",
+        "shortCode":"TM"
       },
       {
-        "name":"Vilcea"
+        "name":"Tulcea",
+        "shortCode":"TL"
       },
       {
-        "name":"Vrancea"
+        "name":"Valcea",
+        "shortCode":"VL"
+      },
+      {
+        "name":"Vaslui",
+        "shortCode":"VS"
+      },
+      {
+        "name":"Vrancea",
+        "shortCode":"VN"
       }
     ]
   },
@@ -12689,253 +12772,328 @@
     "countryShortCode":"RU",
     "regions":[
       {
-        "name":"Adygeya (Maykop)"
+        "name":"Adygeya",
+        "shortCode":"AD"
       },
       {
-        "name":"Aginskiy Buryatskiy (Aginskoye)"
+        "name":"Altay (Gorno-Altaysk)",
+        "shortCode":"AL"
       },
       {
-        "name":"Altay (Gorno-Altaysk)"
+        "name":"Altayskiy",
+        "shortCode":"ALT"
       },
       {
-        "name":"Altayskiy (Barnaul)"
+        "name":"Amurskaya",
+        "shortCode":"AMU"
       },
       {
-        "name":"Amurskaya (Blagoveshchensk)"
+        "name":"Arkhangel'skaya",
+        "shortCode":"ARK"
       },
       {
-        "name":"Astrakhanskaya"
+        "name":"Astrakhanskaya",
+        "shortCode":"AST"
       },
       {
-        "name":"Bashkortostan (Ufa)"
+        "name":"Bashkortostan",
+        "shortCode":"BA"
       },
       {
-        "name":"Belgorodskaya"
+        "name":"Belgorodskaya",
+        "shortCode":"BEL"
       },
       {
-        "name":"Bryanskaya"
+        "name":"Bryanskaya",
+        "shortCode":"BRY"
       },
       {
-        "name":"Buryatiya (Ulan-Ude)"
+        "name":"Buryatiya",
+        "shortCode":"BU"
       },
       {
-        "name":"Chechnya (Groznyy)"
+        "name":"Chechenskaya",
+        "shortCode":"CE"
       },
       {
-        "name":"Chelyabinskaya"
+        "name":"Chelyabinskaya",
+        "shortCode":"CHE"
       },
       {
-        "name":"Chitinskaya"
+        "name":"Chukotskiy",
+        "shortCode":"CHU"
       },
       {
-        "name":"Chukotskiy (Anadyr)"
+        "name":"Chuvashskaya",
+        "shortCode":"CU"
       },
       {
-        "name":"Chuvashiya (Cheboksary)"
+        "name":"Dagestan",
+        "shortCode":"DA"
       },
       {
-        "name":"Dagestan (Makhachkala)"
+        "name":"Ingushetiya",
+        "shortCode":"IN"
       },
       {
-        "name":"Evenkiyskiy (Tura)"
+        "name":"Irkutskaya",
+        "shortCode":"IRK"
       },
       {
-        "name":"Ingushetiya (Nazran')"
+        "name":"Ivanovskaya",
+        "shortCode":"IVA"
       },
       {
-        "name":"Irkutskaya"
+        "name":"Kabardino-Balkariya",
+        "shortCode":"KB"
       },
       {
-        "name":"Ivanovskaya"
+        "name":"Kalmykiya",
+        "shortCode":"KL"
       },
       {
-        "name":"Kabardino-Balkariya (Nal'chik)"
+        "name":"Kaluzhskaya",
+        "shortCode":"KLU"
       },
       {
-        "name":"Kalmykiya (Elista)"
+        "name":"Kamchatskaya",
+        "shortCode":"KAM"
       },
       {
-        "name":"Kaluzhskaya"
+        "name":"Karachayevo-Cherkesiya",
+        "shortCode":"KC"
       },
       {
-        "name":"Kamchatskaya (Petropavlovsk-Kamchatskiy)"
+        "name":"Kareliya",
+        "shortCode":"KR"
       },
       {
-        "name":"Karachayevo-Cherkesiya (Cherkessk)"
+        "name":"Khabarovskiy",
+        "shortCode":"KHA"
       },
       {
-        "name":"Kareliya (Petrozavodsk)"
+        "name":"Khakasiya",
+        "shortCode":"KK"
       },
       {
-        "name":"Khabarovskiy"
+        "name":"Khanty-Mansiyskiy",
+        "shortCode":"KHM"
       },
       {
-        "name":"Khakasiya (Abakan)"
+        "name":"Kirovskaya",
+        "shortCode":"KIR"
       },
       {
-        "name":"Khanty-Mansiyskiy (Khanty-Mansiysk)"
+        "name":"Komi",
+        "shortCode":"KO"
       },
       {
-        "name":"Kirovskaya"
+        "name":"Kostromskaya",
+        "shortCode":"KOS"
       },
       {
-        "name":"Komi (Syktyvkar)"
+        "name":"Krasnodarskiy",
+        "shortCode":"KDA"
       },
       {
-        "name":"Komi-Permyatskiy (Kudymkar)"
+        "name":"Krasnoyarskiy",
+        "shortCode":"KYA"
       },
       {
-        "name":"Koryakskiy (Palana)"
+        "name":"Kurganskaya",
+        "shortCode":"KGN"
       },
       {
-        "name":"Krasnodarskiy"
+        "name":"Kurskaya",
+        "shortCode":"KRS"
       },
       {
-        "name":"Krasnoyarskiy"
+        "name":"Leningradskaya",
+        "shortCode":"LEN"
       },
       {
-        "name":"Kurganskaya"
+        "name":"Lipetskaya",
+        "shortCode":"LIP"
       },
       {
-        "name":"Kurskaya"
+        "name":"Magadanskaya",
+        "shortCode":"MAG"
       },
       {
-        "name":"Leningradskaya"
+        "name":"Mariy-El",
+        "shortCode":"ME"
       },
       {
-        "name":"Lipetskaya"
+        "name":"Mordoviya",
+        "shortCode":"MO"
       },
       {
-        "name":"Magadanskaya"
+        "name":"Moskovskaya",
+        "shortCode":"MOS"
       },
       {
-        "name":"Mariy-El (Yoshkar-Ola)"
+        "name":"Moskva",
+        "shortCode":"MOW"
       },
       {
-        "name":"Mordoviya (Saransk)aya"
+        "name":"Murmanskaya",
+        "shortCode":"MU"
       },
       {
-        "name":"Moskva (Moscow)"
+        "name":"Nenetskiy",
+        "shortCode":"NEN"
       },
       {
-        "name":"Murmanskaya"
+        "name":"Nizhegorodskaya",
+        "shortCode":"NIZ"
       },
       {
-        "name":"Nenetskiy (Nar'yan-Mar)"
+        "name":"Novgorodskaya",
+        "shortCode":"NGR"
       },
       {
-        "name":"Nizhegorodskaya"
+        "name":"Novosibirskaya",
+        "shortCode":"NVS"
       },
       {
-        "name":"Novgorodskaya"
+        "name":"Omskaya",
+        "shortCode":"OMS"
       },
       {
-        "name":"Novosibirskaya"
+        "name":"Orenburgskaya",
+        "shortCode":"ORE"
       },
       {
-        "name":"Omskaya"
+        "name":"Orlovskaya",
+        "shortCode":"ORL"
       },
       {
-        "name":"Orenburgskaya"
+        "name":"Permskiy",
+        "shortCode":"PER"
       },
       {
-        "name":"Orlovskaya (Orel)"
+        "name":"Permskaya",
+        "shortCode":"PER"
       },
       {
-        "name":"Permskaya"
+        "name":"Primorskiy",
+        "shortCode":"PRI"
       },
       {
-        "name":"Primorskiy (Vladivostok)"
+        "name":"Pskovskaya",
+        "shortCode":"PSK"
       },
       {
-        "name":"Pskovskaya"
+        "name":"Rostovskaya",
+        "shortCode":"ROS"
       },
       {
-        "name":"Rostovskaya"
+        "name":"Ryazanskaya",
+        "shortCode":"RYA"
       },
       {
-        "name":"Ryazanskaya"
+        "name":"Sakha (Yakutiya)",
+        "shortCode":"SA"
       },
       {
-        "name":"Sakha (Yakutsk)"
+        "name":"Sakhalinskaya",
+        "shortCode":"SAK"
       },
       {
-        "name":"Sakhalinskaya (Yuzhno-Sakhalinsk)"
+        "name":"Samarskaya",
+        "shortCode":"SAM"
       },
       {
-        "name":"Samarskaya"
+        "name":"Sankt-Peterburg",
+        "shortCode":"SPE"
       },
       {
-        "name":"Leningradskaya"
+        "name":"Saratovskaya",
+        "shortCode":"SAR"
       },
       {
-        "name":"Sankt-Peterburg (Saint Petersburg)"
+        "name":"Severnaya Osetiya-Alaniya",
+        "shortCode":"SE"
       },
       {
-        "name":"Saratovskaya"
+        "name":"Smolenskaya",
+        "shortCode":"SMO"
       },
       {
-        "name":"Severnaya Osetiya-Alaniya [North Ossetia] (Vladikavkaz)"
+        "name":"Stavropol'skiy",
+        "shortCode":"STA"
       },
       {
-        "name":"Smolenskaya"
+        "name":"Sverdlovskaya",
+        "shortCode":"SVE"
       },
       {
-        "name":"Stavropol'skiy"
+        "name":"Tambovskaya",
+        "shortCode":"TAM"
       },
       {
-        "name":"Sverdlovskaya (Yekaterinburg)aya"
+        "name":"Tatarstan",
+        "shortCode":"TA"
       },
       {
-        "name":"Tatarstan (Kazan')"
+        "name":"Tomskaya",
+        "shortCode":"TOM"
       },
       {
-        "name":"Taymyrskiy (Dudinka)"
+        "name":"Tul'skaya",
+        "shortCode":"TUL"
       },
       {
-        "name":"Tomskaya"
+        "name":"Tverskaya",
+        "shortCode":"TVE"
       },
       {
-        "name":"Tul'skaya"
+        "name":"Tyumenskaya",
+        "shortCode":"TYU"
       },
       {
-        "name":"Tverskaya"
+        "name":"Tyva",
+        "shortCode":"TY"
       },
       {
-        "name":"Tyumenskaya"
+        "name":"Udmurtskaya",
+        "shortCode":"UD"
       },
       {
-        "name":"Tyva (Kyzyl)"
+        "name":"Ul'yanovskaya",
+        "shortCode":"ULY"
       },
       {
-        "name":"Udmurtiya (Izhevsk)"
+        "name":"Vladimirskaya",
+        "shortCode":"VLA"
       },
       {
-        "name":"Ul'yanovskaya"
+        "name":"Volgogradskaya",
+        "shortCode":"VGG"
       },
       {
-        "name":"Ust'-Ordynskiy (Ust'-Ordynskiy)"
+        "name":"Vologodskaya",
+        "shortCode":"VLG"
       },
       {
-        "name":"Vladimirskaya"
+        "name":"Voronezhskaya",
+        "shortCode":"VOR"
       },
       {
-        "name":"Volgogradskaya"
+        "name":"Yamalo-Nenetskiy",
+        "shortCode":"YAN"
       },
       {
-        "name":"Vologodskaya"
+        "name":"Yaroslavskaya",
+        "shortCode":"YAR"
       },
       {
-        "name":"Voronezhskaya"
+        "name":"Yevreyskaya",
+        "shortCode":"YEV"
       },
       {
-        "name":"Yamalo-Nenetskiy (Salekhard)"
-      },
-      {
-        "name":"Yaroslavskaya"
-      },
-      {
-        "name":"Yevreyskaya"
+        "name":"Zabaykal'skiy",
+        "shortCode":"ZAB"
       }
     ]
   },
@@ -12984,13 +13142,16 @@
     "countryShortCode":"SH",
     "regions":[
       {
-        "name":"Ascension"
+        "name":"Ascension",
+        "shortCode":"AC"
       },
       {
-        "name":"Saint Helena"
+        "name":"Saint Helena",
+        "shortCode":"HL"
       },
       {
-        "name":"Tristan da Cunha"
+        "name":"Tristan da Cunha",
+        "shortCode":"TA"
       }
     ]
   },

@@ -15672,13 +15672,20 @@
     "countryShortCode":"TJ",
     "regions":[
       {
-        "name":"Viloyati Khatlon"
+        "name":"Dushanbe",
+        "shortCode":""
       },
       {
-        "name":"Viloyati Leninobod"
+        "name":"Kuhistoni Badakhshon",
+        "shortCode":"GB"
       },
       {
-        "name":"Viloyati Mukhtori Kuhistoni Badakhshon"
+        "name":"Khatlon",
+        "shortCode":"KT"
+      },
+      {
+        "name":"Sughd",
+        "shortCode":"SU"
       }
     ]
   },

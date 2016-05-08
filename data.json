@@ -16176,19 +16176,24 @@
     "countryShortCode":"TG",
     "regions":[
       {
-        "name":"De La Kara"
+        "name":"Centre",
+        "shortCode":"C"
       },
       {
-        "name":"Des Plateaux"
+        "name":"Kara",
+        "shortCode":"K"
       },
       {
-        "name":"Des Savanes"
+        "name":"Maritime",
+        "shortCode":"M"
       },
       {
-        "name":"Du Centre"
+        "name":"Plateaux",
+        "shortCode":"P"
       },
       {
-        "name":"Maritime"
+        "name":"Savannes",
+        "shortCode":"S"
       }
     ]
   },
@@ -16212,13 +16217,24 @@
     "countryShortCode":"TO",
     "regions":[
       {
-        "name":"Ha'apai"
+        "name":"'Eua",
+        "shortCode":"01"
       },
       {
-        "name":"Tongatapu"
+        "name":"Ha'apai",
+        "shortCode":"02"
       },
       {
-        "name":"Vava'u"
+        "name":"Niuas",
+        "shortCode":"03"
+      },
+      {
+        "name":"Tongatapu",
+        "shortCode":"04"
+      },
+      {
+        "name":"Vava'u",
+        "shortCode":"05"
       }
     ]
   },
@@ -16227,40 +16243,64 @@
     "countryShortCode":"TT",
     "regions":[
       {
-        "name":"Arima"
+        "name":"Arima",
+        "shortCode":"ARI"
       },
       {
-        "name":"Caroni"
+        "name":"Chaguanas",
+        "shortCode":"CHA"
       },
       {
-        "name":"Mayaro"
+        "name":"Couva-Tabaquite-Talparo",
+        "shortCode":"CTT"
       },
       {
-        "name":"Nariva"
+        "name":"Diefo Martin",
+        "shortCode":"DMN"
       },
       {
-        "name":"Port-of-Spain"
+        "name":"Mayaro-Rio Claro",
+        "shortCode":"MRC"
       },
       {
-        "name":"Saint Andrew"
+        "name":"Penal-Debe",
+        "shortCode":"PED"
       },
       {
-        "name":"Saint David"
+        "name":"Point Fortin",
+        "shortCode":"PTF"
       },
       {
-        "name":"Saint George"
+        "name":"Port-of-Spain",
+        "shortCode":"POS"
       },
       {
-        "name":"Saint Patrick"
+        "name":"Princes Town",
+        "shortCode":"PRT"
       },
       {
-        "name":"San Fernando"
+        "name":"San Fernando",
+        "shortCode":"SFO"
       },
       {
-        "name":"Victoria"
+        "name":"San Juan-Laventille",
+        "shortCode":"SJL"
       },
       {
-        "name":"Tobago"
+        "name":"Sangre Grande",
+        "shortCode":"SGE"
+      },
+      {
+        "name":"Siparia",
+        "shortCode":"SIP"
+      },
+      {
+        "name":"Tobago",
+        "shortCode":"TOB"
+      },
+      {
+        "name":"Tunapuna-Piarco",
+        "shortCode":"TUP"
       }
     ]
   },
@@ -16269,70 +16309,96 @@
     "countryShortCode":"TN",
     "regions":[
       {
-        "name":"Ariana"
+        "name":"Ariana",
+        "shortCode":"12"
       },
       {
-        "name":"Beja"
+        "name":"Beja",
+        "shortCode":"31"
       },
       {
-        "name":"Ben Arous"
+        "name":"Ben Arous",
+        "shortCode":"13"
       },
       {
-        "name":"Bizerte"
+        "name":"Bizerte",
+        "shortCode":"23"
       },
       {
-        "name":"El Kef"
+        "name":"Gabes",
+        "shortCode":"81"
       },
       {
-        "name":"Gabes"
+        "name":"Gafsa",
+        "shortCode":"71"
       },
       {
-        "name":"Gafsa"
+        "name":"Jendouba",
+        "shortCode":"32"
       },
       {
-        "name":"Jendouba"
+        "name":"Kairouan",
+        "shortCode":"41"
       },
       {
-        "name":"Kairouan"
+        "name":"Kasserine",
+        "shortCode":"42"
       },
       {
-        "name":"Kasserine"
+        "name":"Kebili",
+        "shortCode":"73"
       },
       {
-        "name":"Kebili"
+        "name":"Kef",
+        "shortCode":"33"
       },
       {
-        "name":"Mahdia"
+        "name":"Mahdia",
+        "shortCode":"53"
       },
       {
-        "name":"Medenine"
+        "name":"Medenine",
+        "shortCode":"82"
       },
       {
-        "name":"Monastir"
+        "name":"Monastir",
+        "shortCode":"52"
       },
       {
-        "name":"Nabeul"
+        "name":"Nabeul",
+        "shortCode":"21"
       },
       {
-        "name":"Sfax"
+        "name":"Sfax",
+        "shortCode":"61"
       },
       {
-        "name":"Sidi Bou na"
+        "name":"Sidi Bouzid",
+        "shortCode":"43"
       },
       {
-        "name":"Sousse"
+        "name":"Siliana",
+        "shortCode":"34"
       },
       {
-        "name":"Tataouine"
+        "name":"Sousse",
+        "shortCode":"51"
       },
       {
-        "name":"Tozeur"
+        "name":"Tataouine",
+        "shortCode":"83"
       },
       {
-        "name":"Tunis"
+        "name":"Tozeur",
+        "shortCode":"72"
       },
       {
-        "name":"Zaghouan"
+        "name":"Tunis",
+        "shortCode":"11"
+      },
+      {
+        "name":"Zaghouan",
+        "shortCode":"22"
       }
     ]
   },
@@ -16341,235 +16407,328 @@
     "countryShortCode":"TR",
     "regions":[
       {
-        "name":"Adana"
+        "name":"Adana",
+        "shortCode":"01"
       },
       {
-        "name":"Adiyaman"
+        "name":"Adiyaman",
+        "shortCode":"02"
       },
       {
-        "name":"Afyon"
+        "name":"Afyonkarahisar",
+        "shortCode":"03"
       },
       {
-        "name":"Agri"
+        "name":"Agri",
+        "shortCode":"04"
       },
       {
-        "name":"Aksaray"
+        "name":"Aksaray",
+        "shortCode":"68"
       },
       {
-        "name":"Amasya"
+        "name":"Amasya",
+        "shortCode":"05"
       },
       {
-        "name":"Ankara"
+        "name":"Ankara",
+        "shortCode":"06"
       },
       {
-        "name":"Antalya"
+        "name":"Antalya",
+        "shortCode":"07"
       },
       {
-        "name":"Ardahan"
+        "name":"Ardahan",
+        "shortCode":"75"
       },
       {
-        "name":"Artvin"
+        "name":"Artvin",
+        "shortCode":"08"
       },
       {
-        "name":"Aydin"
+        "name":"Aydin",
+        "shortCode":"09"
       },
       {
-        "name":"Balikesir"
+        "name":"Balikesir",
+        "shortCode":"10"
       },
       {
-        "name":"Bartin"
+        "name":"Bartin",
+        "shortCode":"74"
       },
       {
-        "name":"Batman"
+        "name":"Batman",
+        "shortCode":"72"
       },
       {
-        "name":"Bayburt"
+        "name":"Bayburt",
+        "shortCode":"69"
       },
       {
-        "name":"Bilecik"
+        "name":"Bilecik",
+        "shortCode":"11"
       },
       {
-        "name":"Bingol"
+        "name":"Bingol",
+        "shortCode":"12"
       },
       {
-        "name":"Bitlis"
+        "name":"Bitlis",
+        "shortCode":"13"
       },
       {
-        "name":"Bolu"
+        "name":"Bolu",
+        "shortCode":"14"
       },
       {
-        "name":"Burdur"
+        "name":"Burdur",
+        "shortCode":"15"
       },
       {
-        "name":"Bursae"
+        "name":"Bursa",
+        "shortCode":"16"
       },
       {
-        "name":"Cankiri"
+        "name":"Canakkale",
+        "shortCode":"17"
       },
       {
-        "name":"Corum"
+        "name":"Cankiri",
+        "shortCode":"18"
       },
       {
-        "name":"Denizli"
+        "name":"Corum",
+        "shortCode":"19"
       },
       {
-        "name":"Diyarbakir"
+        "name":"Denizli",
+        "shortCode":"20"
       },
       {
-        "name":"Duzce"
+        "name":"Diyarbakir",
+        "shortCode":"21"
       },
       {
-        "name":"Edirne"
+        "name":"Duzce",
+        "shortCode":"81"
       },
       {
-        "name":"Elazig"
+        "name":"Edirne",
+        "shortCode":"22"
       },
       {
-        "name":"Erzincan"
+        "name":"Elazig",
+        "shortCode":"23"
       },
       {
-        "name":"Erzurum"
+        "name":"Erzincan",
+        "shortCode":"24"
       },
       {
-        "name":"Eskisehir"
+        "name":"Erzurum",
+        "shortCode":"25"
       },
       {
-        "name":"Gaziantep"
+        "name":"Eskisehir",
+        "shortCode":"26"
       },
       {
-        "name":"Giresun"
+        "name":"Gaziantep",
+        "shortCode":"27"
       },
       {
-        "name":"Gumushane"
+        "name":"Giresun",
+        "shortCode":"28"
       },
       {
-        "name":"Hakkari"
+        "name":"Gumushane",
+        "shortCode":"29"
       },
       {
-        "name":"Hatay"
+        "name":"Hakkari",
+        "shortCode":"30"
       },
       {
-        "name":"Icel"
+        "name":"Hatay",
+        "shortCode":"31"
       },
       {
-        "name":"Igdir"
+        "name":"Igdir",
+        "shortCode":"76"
       },
       {
-        "name":"Isparta"
+        "name":"Isparta",
+        "shortCode":"32"
       },
       {
-        "name":"Istanbul"
+        "name":"Istanbul",
+        "shortCode":"34"
       },
       {
-        "name":"Kahramanmaras"
+        "name":"Izmir",
+        "shortCode":"35"
       },
       {
-        "name":"Karabuk"
+        "name":"Kahramanmaras",
+        "shortCode":"46"
       },
       {
-        "name":"Karaman"
+        "name":"Karabuk",
+        "shortCode":"78"
       },
       {
-        "name":"Kars"
+        "name":"Karaman",
+        "shortCode":"70"
       },
       {
-        "name":"Kastamonu"
+        "name":"Kars",
+        "shortCode":"36"
       },
       {
-        "name":"Kayseri"
+        "name":"Kastamonu",
+        "shortCode":"37"
       },
       {
-        "name":"Kilis"
+        "name":"Kayseri",
+        "shortCode":"38"
       },
       {
-        "name":"Kirikkale"
+        "name":"Kilis",
+        "shortCode":"79"
       },
       {
-        "name":"Kirklareli"
+        "name":"Kirikkale",
+        "shortCode":"71"
       },
       {
-        "name":"Kirsehir"
+        "name":"Kirklareli",
+        "shortCode":"39"
       },
       {
-        "name":"Kocaeli"
+        "name":"Kirsehir",
+        "shortCode":"40"
       },
       {
-        "name":"Konya"
+        "name":"Kocaeli",
+        "shortCode":"41"
       },
       {
-        "name":"Kutahya"
+        "name":"Konya",
+        "shortCode":"42"
       },
       {
-        "name":"Malatya"
+        "name":"Kutahya",
+        "shortCode":"43"
       },
       {
-        "name":"Manisa"
+        "name":"Malatya",
+        "shortCode":"44"
       },
       {
-        "name":"Mardin"
+        "name":"Manisa",
+        "shortCode":"45"
       },
       {
-        "name":"Mugla"
+        "name":"Mardin",
+        "shortCode":"47"
       },
       {
-        "name":"Mus"
+        "name":"Mersin",
+        "shortCode":"33"
       },
       {
-        "name":"NevsehOrdu"
+        "name":"Mugla",
+        "shortCode":"48"
       },
       {
-        "name":"Osmaniye"
+        "name":"Mus",
+        "shortCode":"49"
       },
       {
-        "name":"Rize"
+        "name":"Nevsehir",
+        "shortCode":"50"
       },
       {
-        "name":"Sakarya"
+        "name":"Nigde",
+        "shortCode":"51"
       },
       {
-        "name":"Samsun"
+        "name":"Ordu",
+        "shortCode":"52"
       },
       {
-        "name":"Sanliurfa"
+        "name":"Osmaniye",
+        "shortCode":"80"
       },
       {
-        "name":"Siirt"
+        "name":"Rize",
+        "shortCode":"53"
       },
       {
-        "name":"Sinop"
+        "name":"Sakarya",
+        "shortCode":"54"
       },
       {
-        "name":"Sirnak"
+        "name":"Samsun",
+        "shortCode":"55"
       },
       {
-        "name":"Sivas"
+        "name":"Sanliurfa",
+        "shortCode":"63"
       },
       {
-        "name":"Tekirdag"
+        "name":"Siirt",
+        "shortCode":"56"
       },
       {
-        "name":"Tokat"
+        "name":"Sinop",
+        "shortCode":"57"
       },
       {
-        "name":"Trabzon"
+        "name":"Sirnak",
+        "shortCode":"73"
       },
       {
-        "name":"Tunceli"
+        "name":"Sivas",
+        "shortCode":"58"
       },
       {
-        "name":"Usak"
+        "name":"Tekirdag",
+        "shortCode":"59"
       },
       {
-        "name":"Van"
+        "name":"Tokat",
+        "shortCode":"60"
       },
       {
-        "name":"Yalova"
+        "name":"Trabzon",
+        "shortCode":"61"
       },
       {
-        "name":"Yozgat"
+        "name":"Tunceli",
+        "shortCode":"62"
       },
       {
-        "name":"Zonguldak"
+        "name":"Usak",
+        "shortCode":"64"
+      },
+      {
+        "name":"Van",
+        "shortCode":"65"
+      },
+      {
+        "name":"Yalova",
+        "shortCode":"77"
+      },
+      {
+        "name":"Yozgat",
+        "shortCode":"66"
+      },
+      {
+        "name":"Zonguldak",
+        "shortCode":"67"
       }
     ]
   },
@@ -16578,19 +16737,28 @@
     "countryShortCode":"TM",
     "regions":[
       {
-        "name":"Ahal Welayaty"
+        "name":"Ahal",
+        "shortCode":"A"
       },
       {
-        "name":"Balkan Welayaty"
+        "name": "Asgabat",
+        "shortCode":"S"
+      }
+      {
+        "name":"Balkan",
+        "shortCode":"B"
       },
       {
-        "name":"Dashhowuz Welayaty"
+        "name":"Dashoguz",
+        "shortCode":"D"
       },
       {
-        "name":"Lebap Welayaty"
+        "name":"Lebap",
+        "shortCode":"L"
       },
       {
-        "name":"Mary Welayaty"
+        "name":"Mary",
+        "shortCode":"M"
       }
     ]
   },

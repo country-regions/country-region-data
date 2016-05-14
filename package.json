@@ -4,7 +4,7 @@
   "description": "List of countries, regions, and their shortcodes.",
   "main": "data.json",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "grunt validate"
   },
   "repository": {
     "type": "git",
@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/benkeen/country-region-data/issues"
   },
-  "homepage": "https://github.com/benkeen/country-region-data"
+  "homepage": "https://github.com/benkeen/country-region-data",
+  "devDependencies": {
+    "grunt": "^1.0.1"
+  }
 }

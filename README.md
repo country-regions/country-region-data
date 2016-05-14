@@ -32,6 +32,15 @@ https://github.com/benkeen/country-region-selector/issues/2#issuecomment-9854968
 
 Regions that need ISO3166-2 codes can be identified by having a missing `shortCode` property for each region.
 
+Before contributing a PR, you might want to validate the JSON content. To do that, do the following on your command line:
+
+```
+npm install
+grunt validate
+```
+
+That'll throw an error if the JSON is invalid.
+
 ### License
 
 MIT.

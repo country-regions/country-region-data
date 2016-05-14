@@ -7798,8 +7798,8 @@
       {
         "name":"Grobiņa",
         "shortCode":"032"
-  },
-  {
+      },
+      {
         "name":"Gulbene",
         "shortCode":"033"
       },
@@ -7866,8 +7866,8 @@
       {
         "name":"Koknese",
         "shortCode":"046"
-  },
-  {
+      },
+      {
         "name":"Krāslava",
         "shortCode":"047"
       },
@@ -7930,8 +7930,8 @@
       {
         "name":"Mālpils",
         "shortCode":"061"
-  },
-  {
+      },
+      {
         "name":"Mārupe",
         "shortCode":"062"
       },
@@ -8034,8 +8034,8 @@
       {
         "name":"Sala",
         "shortCode":"085"
-  },
-  {
+      },
+      {
         "name":"Salacgrīva",
         "shortCode":"086"
       },
@@ -8082,8 +8082,8 @@
       {
         "name":"Talsi",
         "shortCode":"097"
-  },
-  {
+      },
+      {
         "name":"Tērvete",
         "shortCode":"098"
       },
@@ -8128,24 +8128,24 @@
         "shortCode":"VEN"
       },
       {
-        "shortCode":"107",
-        "name":"Viesīte"
+        "name":"Viesīte",
+        "shortCode":"107"
       },
       {
-        "shortCode":"108",
-        "name":"Viļaka"
+        "name":"Viļaka",
+        "shortCode":"108"
       },
       {
-        "shortCode":"109",
-        "name":"Viļāni"
+        "name":"Viļāni",
+        "shortCode":"109"
       },
       {
         "name":"Zilupe",
-        "shortCode":"110",
+        "shortCode":"110"
       }
     ]
-      },
-      {
+  },
+  {
     "countryName":"Lebanon",
     "countryShortCode":"LB",
     "regions":[
@@ -8228,8 +8228,8 @@
         "shortCode":"K"
       }
     ]
-      },
-      {
+  },
+  {
     "countryName":"Liberia",
     "countryShortCode":"LR",
     "regions":[
@@ -8294,8 +8294,8 @@
         "shortCode":"SI"
       }
     ]
-      },
-      {
+  },
+  {
     "countryName":"Libya",
     "countryShortCode":"LY",
     "regions":[
@@ -8318,8 +8318,8 @@
       {
         "name":"Al Jufrah",
         "shortCode":"JU"
-  },
-  {
+      },
+      {
         "name":"Al Kufrah",
         "shortCode":"FK"
       },
@@ -8330,20 +8330,20 @@
       {
         "name":"Al Marquab",
         "shortCode":"MB"
-  },
-  {
+      },
+      {
         "name":"Al Wāḩāt",
         "shortCode":"WA"
-      },,
+      },
       {
         "name":"An Nuqaţ al Khams",
         "shortCode":"NQ"
-      }
+      },
       {
         "name":"Az Zāwiyah",
         "shortCode":"ZA"
-  },
-  {
+      },
+      {
         "name":"Banghāzī",
         "shortCode":"BA"
       },
@@ -8388,8 +8388,8 @@
         "shortCode":"WS"
       }
     ]
-      },
-      {
+  },
+  {
     "countryName":"Liechtenstein",
     "countryShortCode":"LI",
     "regions":[
@@ -8438,8 +8438,8 @@
         "shortCode":"11"
       }
     ]
-      },
-      {
+  },
+  {
     "countryName":"Lithuania",
     "countryShortCode":"LT",
     "regions":[
@@ -8484,8 +8484,8 @@
         "shortCode":"VL"
       }
     ]
-      },
-      {
+  },
+  {
     "countryName":"Luxembourg",
     "countryShortCode":"LU",
     "regions":[
@@ -8538,8 +8538,8 @@
         "shortCode":"WI"
       }
     ]
-      },
-      {
+  },
+  {
     "countryName":"Macao",
     "countryShortCode":"MO",
     "regions":[
@@ -8547,8 +8547,8 @@
         "name":"Macao"
       }
     ]
-      },
-      {
+  },
+  {
     "countryName":"Macedonia, Republic of",
     "countryShortCode":"MK",
     "regions":[
@@ -10092,7 +10092,7 @@
       {
         "name":"Colle",
         "shortCode":"CL"
-      }
+      },
       {
         "name":"Condamine",
         "shortCode":"CO"
@@ -10401,7 +10401,7 @@
       {
         "name":"Oriental",
         "shortCode":"04"
-      }
+      },
       {
         "name":"Oued ed Dahab-Lagouira",
         "shortCode":"16"
@@ -12731,7 +12731,8 @@
         "shortCode":"SJ"
       },
       {
-        "name":"Satu Mare"
+        "name":"Satu Mare",
+        "shortCode":"SM"
       },
       {
         "name":"Sibiu",

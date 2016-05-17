@@ -1,5 +1,7 @@
 ## country-region-data 
 
+[![Build Status](https://travis-ci.org/benkeen/country-region-data.svg?branch=master)](https://travis-ci.org/benkeen/country-region-data)
+
 ### About
 
 This repo contain the source data for the [country-region-selector](https://github.com/benkeen/country-region-selector) 

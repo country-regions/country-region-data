@@ -4649,19 +4649,24 @@
     "countryShortCode":"FJ",
     "regions":[
       {
-        "name":"Central"
+        "name":"Central",
+        "shortCode":"C"
       },
       {
-        "name":"Eastern"
+        "name":"Eastern",
+        "shortCode":"E"
       },
       {
-        "name":"Northern"
+        "name":"Northern",
+        "shortCode":"N"
       },
       {
-        "name":"Rotuma"
+        "name":"Rotuma",
+        "shortCode":"R"
       },
       {
-        "name":"Western"
+        "name":"Western",
+        "shortCode":"W"
       }
     ]
   },
@@ -4914,196 +4919,52 @@
     "countryShortCode":"GE",
     "regions":[
       {
-        "name":"Abashis"
+        "name":"Abkhazia",
+        "shortCode": "AB"
       },
       {
-        "name":"Abkhazia or Ap'khazet'is Avtonomiuri Respublika (Sokhumi)"
+        "name":"Ajaria",
+        "shortCode": "AJ"
       },
       {
-        "name":"Adigenis"
+        "name":"Guria",
+        "shortCode": "GU"
       },
       {
-        "name":"Ajaria or Acharis Avtonomiuri Respublika (Bat'umi)"
+        "name":"Imereti",
+        "shortCode": "IM"
       },
       {
-        "name":"Akhalgoris"
+        "name":"K'akheti",
+        "shortCode": "KA"
       },
       {
-        "name":"Akhalk'alak'is"
+        "name":"Kvemo Kartli",
+        "shortCode": "KK"
       },
       {
-        "name":"Akhalts'ikhis"
+        "name":"Mtskheta-Mtianeti",
+        "shortCode": "MM"
       },
       {
-        "name":"Akhmetis"
+        "name":"Rach'a-Lechkhumi-Kvemo Svaneti",
+        "shortCode": "RL"
       },
       {
-        "name":"Ambrolauris"
+        "name":"Samegrelo-Zemo Svaneti",
+        "shortCode": "SZ"
       },
       {
-        "name":"Aspindzis"
+        "name":"Samtskhe-Javakheti",
+        "shortCode": "SJ"
       },
       {
-        "name":"Baghdat'is"
+        "name":"Shida Kartli",
+        "shortCode": "SK"
       },
       {
-        "name":"Bolnisis"
-      },
-      {
-        "name":"Borjomis"
-      },
-      {
-        "name":"Ch'khorotsqus"
-      },
-      {
-        "name":"Ch'okhatauris"
-      },
-      {
-        "name":"Chiat'ura"
-      },
-      {
-        "name":"Dedop'listsqaros"
-      },
-      {
-        "name":"Dmanisis"
-      },
-      {
-        "name":"Dushet'is"
-      },
-      {
-        "name":"Gardabanis"
-      },
-      {
-        "name":"Gori"
-      },
-      {
-        "name":"Goris"
-      },
-      {
-        "name":"Gurjaanis"
-      },
-      {
-        "name":"Javis"
-      },
-      {
-        "name":"K'arelis"
-      },
-      {
-        "name":"K'ut'aisi"
-      },
-      {
-        "name":"Kaspis"
-      },
-      {
-        "name":"Kharagaulis"
-      },
-      {
-        "name":"Khashuris"
-      },
-      {
-        "name":"Khobis"
-      },
-      {
-        "name":"Khonis"
-      },
-      {
-        "name":"Lagodekhis"
-      },
-      {
-        "name":"Lanch'khut'is"
-      },
-      {
-        "name":"Lentekhis"
-      },
-      {
-        "name":"Marneulis"
-      },
-      {
-        "name":"Martvilis"
-      },
-      {
-        "name":"Mestiis"
-      },
-      {
-        "name":"Mts'khet'is"
-      },
-      {
-        "name":"Ninotsmindis"
-      },
-      {
-        "name":"Onis"
-      },
-      {
-        "name":"Ozurget'is"
-      },
-      {
-        "name":"P'ot'i"
-      },
-      {
-        "name":"Qazbegis"
-      },
-      {
-        "name":"Qvarlis"
-      },
-      {
-        "name":"Rust'avi"
-      },
-      {
-        "name":"Sach'kheris"
-      },
-      {
-        "name":"Sagarejos"
-      },
-      {
-        "name":"Samtrediis"
-      },
-      {
-        "name":"Senakis"
-      },
-      {
-        "name":"Sighnaghis"
-      },
-      {
-        "name":"T'bilisi"
-      },
-      {
-        "name":"T'elavis"
-      },
-      {
-        "name":"T'erjolis"
-      },
-      {
-        "name":"T'et'ritsqaros"
-      },
-      {
-        "name":"T'ianet'is"
-      },
-      {
-        "name":"Tqibuli"
-      },
-      {
-        "name":"Ts'ageris"
-      },
-      {
-        "name":"Tsalenjikhis"
-      },
-      {
-        "name":"Tsalkis"
-      },
-      {
-        "name":"Tsqaltubo"
-      },
-      {
-        "name":"Vanis"
-      },
-      {
-        "name":"Zestap'onis"
-      },
-      {
-        "name":"Zugdidi"
-      },
-      {
-        "name":"Zugdidis"
+        "name":"Tbilisi",
+        "shortCode": "TB"
       }
     ]
   },
@@ -5414,25 +5275,32 @@
     "countryShortCode":"GD",
     "regions":[
       {
-        "name":"Carriacou and Petit Martinique"
+        "name":"Carriacou and Petit Martinique",
+        "shortCode":"10"
       },
       {
-        "name":"Saint Andrew"
+        "name":"Saint Andrew",
+        "shortCode":"01"
       },
       {
-        "name":"Saint David"
+        "name":"Saint David",
+        "shortCode":"02"
       },
       {
-        "name":"Saint George"
+        "name":"Saint George",
+        "shortCode":"03"
       },
       {
-        "name":"Saint John"
+        "name":"Saint John",
+        "shortCode":"04"
       },
       {
-        "name":"Saint Mark"
+        "name":"Saint Mark",
+        "shortCode":"05"
       },
       {
-        "name":"Saint Patrick"
+        "name":"Saint Patrick",
+        "shortCode":"06"
       }
     ]
   },

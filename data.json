@@ -2949,46 +2949,92 @@
     "countryShortCode":"TD",
     "regions":[
       {
-        "name":"Batha"
+        "name":"Al Baţḩah",
+        "shortCode":"BA"
       },
       {
-        "name":"Biltine"
+        "name":"Al Buḩayrah",
+        "shortCode":"LC"
       },
       {
-        "name":"Borkou-Ennedi-Tibesti"
+        "name":"Baḩr al Ghazāl",
+        "shortCode":"BG"
+      }
+      {
+        "name":"Būrkū",
+        "shortCode":"BO"
       },
       {
-        "name":"Chari-Baguirmi"
+        "name":"Ḥajjar Lamīs",
+        "shortCode":"HL"
+      }
+      {
+        "name":"Ennedi-Est",
+        "shortCode":"EE"
       },
       {
-        "name":"Guera"
+        "name":"Ennedi-Ouest",
+        "shortCode":"EO"
       },
       {
-        "name":"Kanem"
+        "name":"Kānim",
+        "shortCode":"KA"
       },
       {
-        "name":"Lac"
+        "name":"Lūqūn al Gharbī",
+        "shortCode":"LO"
       },
       {
-        "name":"Logone Occidental"
+        "name":"Lūqūn ash Sharqī",
+        "shortCode":"LR"
       },
       {
-        "name":"Logone Oriental"
+        "name":"Madīnat Injamīnā",
+        "shortCode":"ND"
       },
       {
-        "name":"Mayo-Kebbi"
+        "name":"Māndūl",
+        "shortCode":"MA"
       },
       {
-        "name":"Moyen-Chari"
+        "name":"Māyū Kībbī al Gharbī",
+        "shortCode":"MO"
       },
       {
-        "name":"Ouaddai"
+        "name":"Māyū Kībbī ash Sharqī",
+        "shortCode":"ME"
       },
       {
-        "name":"Salamat"
+        "name":"Salāmāt",
+        "shortCode":"SA"
       },
       {
-        "name":"Tandjile"
+        "name":"Shārī al Awsaṭ",
+        "shortCode":"MC"
+      },
+      {
+        "name":"Shārī Bāqirmī",
+        "shortCode":"CB"
+      },
+      {
+        "name":"Sīlā",
+        "shortCode":"SI"
+      },
+      {
+        "name":"Tānjilī",
+        "shortCode":"TA"
+      },
+      {
+        "name":"Tibastī",
+        "shortCode":"TI"
+      },
+      {
+        "name":"Waddāy",
+        "shortCode":"OD"
+      },
+      {
+        "name":"Wādī Fīrā",
+        "shortCode":"WF"
       }
     ]
   },
@@ -4829,16 +4875,24 @@
     "countryShortCode":"TF",
     "regions":[
       {
-        "name":"Adelie Land"
+        "name":"Adelie Land",
+        "shortCode": "AQ"
       },
       {
-        "name":"Ile Crozet"
+        "name":"Ile Crozet",
+        "shortCode": "CR"
       },
       {
-        "name":"Iles Kerguelen"
+        "name":"Iles Kerguelen",
+        "shortCode": "KG"
       },
       {
-        "name":"Iles Saint-Paul et Amsterdam"
+        "name":"Iles Saint-Paul et Amsterdam",
+        "shortCode": "02"
+      },
+      {
+        "name":"Îles Éparses",
+        "shortCode": "IE"
       }
     ]
   },
@@ -15010,13 +15064,20 @@
     "countryShortCode":"TJ",
     "regions":[
       {
-        "name":"Viloyati Khatlon"
+        "name":"Dushanbe",
+        "shortCode":"DU"
       },
       {
-        "name":"Viloyati Leninobod"
+        "name":"Kŭhistoni Badakhshon",
+        "shortCode":"GB"
       },
       {
-        "name":"Viloyati Mukhtori Kuhistoni Badakhshon"
+        "name":"Khatlon",
+        "shortCode":"KB"
+      },
+      {
+        "name":"Sughd",
+        "shortCode":"SU"
       }
     ]
   },
@@ -15449,7 +15510,56 @@
     "countryShortCode":"TL",
     "regions":[
       {
-        "name":"Timor-Leste"
+        "name":"Aileu",
+        "shortCode":"AL"
+      },
+      {
+        "name":"Ainaru",
+        "shortCode":"AN"
+      },
+      {
+        "name":"Baukau",
+        "shortCode":"BA"
+      },
+      {
+        "name":"Bobonaru",
+        "shortCode":"BO"
+      },
+      {
+        "name":"Kovalima",
+        "shortCode":"CO"
+      },
+      {
+        "name":"Díli",
+        "shortCode":"DI"
+      },
+      {
+        "name":"Ermera",
+        "shortCode":"ER"
+      },
+      {
+        "name":"Lautém",
+        "shortCode":"LA"
+      },
+      {
+        "name":"Likisá",
+        "shortCode":"LI"
+      },
+      {
+        "name":"Manatutu",
+        "shortCode":"MT"
+      },
+      {
+        "name":"Manufahi",
+        "shortCode":"MF"
+      },
+      {
+        "name":"Oekusi-Ambenu",
+        "shortCode":"OE"
+      },
+      {
+        "name":"Vikeke",
+        "shortCode":"VI"
       }
     ]
   },

@@ -3437,25 +3437,16 @@
     "countryShortCode":"KM",
     "regions":[
       {
-        "name":"Anjouan (Nzwani)"
+        "name":"Grande Comore (Njazidja)",
+        "shortCode":"G"
       },
       {
-        "name":"Domoni"
+        "name":"Andjouan (Ndzuwani)",
+        "shortCode":"A"
       },
       {
-        "name":"Fomboni"
-      },
-      {
-        "name":"Grande Comore (Njazidja)"
-      },
-      {
-        "name":"Moheli (Mwali)"
-      },
-      {
-        "name":"Moroni"
-      },
-      {
-        "name":"Moutsamoudou"
+        "name":"Mohéli (Mwali)",
+        "shortCode":"M"
       }
     ]
   },
@@ -12604,46 +12595,68 @@
     "countryShortCode":"KN",
     "regions":[
       {
-        "name":"Christ Church Nichola Town"
+        "name":"Christ Church Nichola Town",
+        "shortCode":"01"
       },
       {
-        "name":"Saint Anne Sandy Point"
+        "name":"Nevis",
+        "shortCode":"N"
       },
       {
-        "name":"Saint George Basseterre"
+        "name":"Saint Anne Sandy Point",
+        "shortCode":"02"
       },
       {
-        "name":"Saint George Gingerland"
+        "name":"Saint George Basseterre",
+        "shortCode":"03"
       },
       {
-        "name":"Saint James Windward"
+        "name":"Saint George Gingerland",
+        "shortCode":"04"
       },
       {
-        "name":"Saint John Capisterre"
+        "name":"Saint James Windward",
+        "shortCode":"05"
       },
       {
-        "name":"Saint ree"
+        "name":"Saint John Capisterre",
+        "shortCode":"06"
       },
       {
-        "name":"Saint Mary Cayon"
+        "name":"Saint John Figtree",
+        "shortCode":"07"
       },
       {
-        "name":"Saint Paul Capisterre"
+        "name":"Saint Kitts",
+        "shortCode":"K"
       },
       {
-        "name":"Saint Paul Charlestown"
+        "name":"Saint Mary Cayon",
+        "shortCode":"08"
       },
       {
-        "name":"Saint Peter Basseterre"
+        "name":"Saint Paul Capisterre",
+        "shortCode":"09"
       },
       {
-        "name":"Saint Thomas Lowland"
+        "name":"Saint Paul Charlestown",
+        "shortCode":"10"
       },
       {
-        "name":"Saint Thomas Middle Island"
+        "name":"Saint Peter Basseterre",
+        "shortCode":"11"
       },
       {
-        "name":"Trinity Point"
+        "name":"Saint Thomas Lowland",
+        "shortCode":"12"
+      },
+      {
+        "name":"Saint Thomas Middle Island",
+        "shortCode":"13"
+      },
+      {
+        "name":"Trinity Palmetto Point",
+        "shortCode":"15"
       }
     ]
   },

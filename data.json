@@ -2845,28 +2845,36 @@
     "countryShortCode":"KY",
     "regions":[
       {
-        "name":"Creek"
+        "name":"Creek",
+        "shortCode":"01"
       },
       {
-        "name":"Eastern"
+        "name":"Eastern",
+        "shortCode":"02"
       },
       {
-        "name":"Midland"
+        "name":"Midland",
+        "shortCode":"03"
       },
       {
-        "name":"South Town"
+        "name":"South Town",
+        "shortCode":"04"
       },
       {
-        "name":"Spot Bay"
+        "name":"Spot Bay",
+        "shortCode":"05"
       },
       {
-        "name":"Stake Bay"
+        "name":"Stake Bay",
+        "shortCode":"06"
       },
       {
-        "name":"West End"
+        "name":"West End",
+        "shortCode":"07"
       },
       {
-        "name":"Western"
+        "name":"Western",
+        "shortCode":"08"
       }
     ]
   },
@@ -7777,19 +7785,36 @@
     "countryShortCode":"LB",
     "regions":[
       {
-        "name":"Beyrouth"
+        "name":"Aakkâr",
+        "shortCode":"AK"
       },
       {
-        "name":"Ech Chimal"
+        "name":"Baalbek-Hermel",
+        "shortCode":"BH"
       },
       {
-        "name":"Ej Jnoub"
+        "name":"Béqaa",
+        "shortCode":"BI"
       },
       {
-        "name":"El Bekaa"
+        "name":"Beyrouth",
+        "shortCode":"BA"
       },
       {
-        "name":"Jabal Loubnane"
+        "name":"Ash Shamāl",
+        "shortCode":"AS"
+      },
+      {
+        "name":"Al Janūb",
+        "shortCode":"JA"
+      },
+      {
+        "name":"Jabal Lubnān",
+        "shortCode":"JL"
+      },
+      {
+        "name":"Nabatîyé",
+        "shortCode":"NA"
       }
     ]
   },

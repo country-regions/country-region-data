@@ -10802,7 +10802,68 @@
     "countryShortCode":"PS",
     "regions":[
       {
-        "name":"Palestine"
+        "name":"Bethlehem",
+        "shortCode":"BTH"
+      },
+      {
+        "name":"Deir El Balah",
+        "shortCode":"DEB"
+      },
+      {
+        "name":"Gaza",
+        "shortCode":"GZA"
+      },
+      {
+        "name":"Hebron",
+        "shortCode":"HBN"
+      },
+      {
+        "name":"Jenin",
+        "shortCode":"JEN"
+      },
+      {
+        "name":"Jericho & Al Aghwar",
+        "shortCode":"JRH"
+      },
+      {
+        "name":"Jerusalem",
+        "shortCode":"JEM"
+      },
+      {
+        "name":"Khan Yunis",
+        "shortCode":"KYS"
+      },
+      {
+        "name":"Nablus",
+        "shortCode":"NBS"
+      },
+      {
+        "name":"North Gaza",
+        "shortCode":"NGZ"
+      },
+      {
+        "name":"Qalqilya",
+        "shortCode":"QQA"
+      },
+      {
+        "name":"Rafah",
+        "shortCode":"RFH"
+      },
+      {
+        "name":"Ramallah",
+        "shortCode":"RBH"
+      },
+      {
+        "name":"Salfit",
+        "shortCode":"SLT"
+      },
+      {
+        "name":"Tubas",
+        "shortCode":"TBS"
+      },
+      {
+        "name":"Tulkarm",
+        "shortCode":"TKM"
       }
     ]
   },
@@ -16159,7 +16220,28 @@
     "countryShortCode":"TC",
     "regions":[
       {
-        "name":"Turks and Caicos Islands"
+        "name":"Providenciales & West Caicos",
+        "shortCode":"01"
+      },
+      {
+        "name":"North Caicos",
+        "shortCode":"02"
+      },
+      {
+        "name":"Middle Caicos",
+        "shortCode":"03"
+      },
+      {
+        "name":"South Caicos & East Caicos",
+        "shortCode":"04"
+      },
+      {
+        "name":"Grand Turk",
+        "shortCode":"05"
+      },
+      {
+        "name":"Salt Cay",
+        "shortCode":"06"
       }
     ]
   },

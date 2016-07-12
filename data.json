@@ -5184,160 +5184,212 @@
     "countryShortCode":"GR",
     "regions":[
       {
-        "name":"Aitolia kai Akarnania"
+        "name":"Achaḯa",
+        "shortCode":"13"
       },
       {
-        "name":"Akhaia"
+        "name":"Aitoloakarnanía",
+        "shortCode":"01"
       },
       {
-        "name":"Argolis"
+        "name":"Argolída",
+        "shortCode":"11"
       },
       {
-        "name":"Arkadhia"
+        "name":"Arkadía",
+        "shortCode":"12"
       },
       {
-        "name":"Arta"
+        "name":"Árta",
+        "shortCode":"31"
       },
       {
-        "name":"Attiki"
+        "name":"Attikí",
+        "shortCode":"A1"
       },
       {
-        "name":"Ayion Oros (Mt. Athos)"
+        "name":"Chalkidikí",
+        "shortCode":"64"
       },
       {
-        "name":"Dhodhekanisos"
+        "name":"Chaniá",
+        "shortCode":"94"
       },
       {
-        "name":"Drama"
+        "name":"Chíos",
+        "shortCode":"85"
       },
       {
-        "name":"Evritania"
+        "name":"Dodekánisa",
+        "shortCode":"81"
       },
       {
-        "name":"Evros"
+        "name":"Dráma",
+        "shortCode":"52"
       },
       {
-        "name":"Evvoia"
+        "name":"Évros",
+        "shortCode":"71"
       },
       {
-        "name":"Florina"
+        "name":"Evrytanía",
+        "shortCode":"05"
       },
       {
-        "name":"Fokis"
+        "name":"Évvoia",
+        "shortCode":"04"
       },
       {
-        "name":"Fthiotis"
+        "name":"Flórina",
+        "shortCode":"63"
       },
       {
-        "name":"Grevena"
+        "name":"Fokída",
+        "shortCode":"07"
       },
       {
-        "name":"Ilia"
+        "name":"Fthiótida",
+        "shortCode":"06"
       },
       {
-        "name":"Imathia"
+        "name":"Grevená",
+        "shortCode":"51"
       },
       {
-        "name":"Ioannina"
+        "name":"Ileía",
+        "shortCode":"14"
       },
       {
-        "name":"Irakleion"
+        "name":"Imathía",
+        "shortCode":"53"
       },
       {
-        "name":"Kardhitsa"
+        "name":"Ioánnina",
+        "shortCode":"33"
       },
       {
-        "name":"Kastoria"
+        "name":"Irakleío",
+        "shortCode":"91"
       },
       {
-        "name":"Kavala"
+        "name":"Kardítsa",
+        "shortCode":"41"
       },
       {
-        "name":"Kefallinia"
+        "name":"Kastoriá",
+        "shortCode":"56"
       },
       {
-        "name":"Kerkyra"
+        "name":"Kavála",
+        "shortCode":"55"
       },
       {
-        "name":"Khalkidhiki"
+        "name":"Kefallinía",
+        "shortCode":"23"
       },
       {
-        "name":"Khania"
+        "name":"Kérkyra",
+        "shortCode":"22"
       },
       {
-        "name":"Khios"
+        "name":"Kilkís",
+        "shortCode":"57"
       },
       {
-        "name":"Kikladhes"
+        "name":"Korinthía",
+        "shortCode":"15"
       },
       {
-        "name":"Kilkis"
+        "name":"Kozáni",
+        "shortCode":"58"
       },
       {
-        "name":"Korinthia"
+        "name":"Kykládes",
+        "shortCode":"82"
       },
       {
-        "name":"Kozani"
+        "name":"Lakonía",
+        "shortCode":"16"
       },
       {
-        "name":"Lakonia"
+        "name":"Lárisa",
+        "shortCode":"42"
       },
       {
-        "name":"Larisa"
+        "name":"Lasíthi",
+        "shortCode":"92"
       },
       {
-        "name":"Lasithi"
+        "name":"Lefkáda",
+        "shortCode":"24"
       },
       {
-        "name":"Lesvos"
+        "name":"Lésvos",
+        "shortCode":"83"
       },
       {
-        "name":"Levkas"
+        "name":"Magnisía",
+        "shortCode":"43"
       },
       {
-        "name":"Magnisia"
+        "name":"Messinía",
+        "shortCode":"17"
       },
       {
-        "name":"Messinia"
+        "name":"Pélla",
+        "shortCode":"59"
       },
       {
-        "name":"Pella"
+        "name":"Piería",
+        "shortCode":"61"
       },
       {
-        "name":"Pieria"
+        "name":"Préveza",
+        "shortCode":"34"
       },
       {
-        "name":"Preveza"
+        "name":"Rethýmnis",
+        "shortCode":"93"
       },
       {
-        "name":"Rethimni"
+        "name":"Rodópi",
+        "shortCode":"73"
       },
       {
-        "name":"Rodhopi"
+        "name":"Sámos",
+        "shortCode":"84"
       },
       {
-        "name":"Samos"
+        "name":"Sérres",
+        "shortCode":"62"
       },
       {
-        "name":"Serrai"
+        "name":"Thesprotía",
+        "shortCode":"32"
       },
       {
-        "name":"Thesprotia"
+        "name":"Thessaloníki",
+        "shortCode":"54"
       },
       {
-        "name":"Thessaloniki"
+        "name":"Tríkala",
+        "shortCode":"44"
       },
       {
-        "name":"Trikala"
+        "name":"Voiotía",
+        "shortCode":"03"
       },
       {
-        "name":"Voiotia"
+        "name":"Xánthi",
+        "shortCode":"72"
       },
       {
-        "name":"Xanthi"
+        "name":"Zákynthos",
+        "shortCode":"21"
       },
       {
-        "name":"Zakinthos"
+        "name":"Ágion Óros",
+        "shortCode":"69"
       }
     ]
   },
@@ -11701,312 +11753,312 @@
     "regions":[
       {
         "name":"Adjuntas",
-        "regionCode":"AJ"
+        "shortCode":"AJ"
       },
       {
         "name":"Aguada",
-        "regionCode":"AD"
+        "shortCode":"AD"
       },
       { "name":"Aguadilla",
-        "regionCode":"AL"
+        "shortCode":"AL"
       },
       {
         "name":"Aguas Buenas",
-        "regionCode":"AB"
+        "shortCode":"AB"
       },
       {
         "name":"Aibonito",
-        "regionCode":"AI"
+        "shortCode":"AI"
       },
       {
         "name":"Añasco",
-        "regionCode":"AN" },
+        "shortCode":"AN" },
       {
         "name":"Arecibo",
-        "regionCode":"AC"
+        "shortCode":"AC"
       },
       {
         "name":"Arroyo",
-        "regionCode":"AR"
+        "shortCode":"AR"
       },
       {
         "name":"Barceloneta",
-        "regionCode":"BC"
+        "shortCode":"BC"
       },
       {
         "name":"Barranquitas",
-        "regionCode":"BQ"
+        "shortCode":"BQ"
       },
       {
         "name":"Bayamón",
-        "regionCode":"BY"
+        "shortCode":"BY"
       },
       {
         "name":"Cabo Rojo",
-        "regionCode":"CR"
+        "shortCode":"CR"
       },
       {
         "name":"Caguas",
-        "regionCode":"CG"
+        "shortCode":"CG"
       },
       {
         "name":"Camuy",
-        "regionCode":"CA"
+        "shortCode":"CA"
       },
       {
         "name":"Canóvanas",
-        "regionCode":"CV"
+        "shortCode":"CV"
       },
       {
         "name":"Carolina",
-        "regionCode":"CN"
+        "shortCode":"CN"
       },
       {
         "name":"Cataño",
-        "regionCode":"CT"
+        "shortCode":"CT"
       },
       {
         "name":"Cayey",
-        "regionCode":"CY"
+        "shortCode":"CY"
       },
       {
         "name":"Ceiba",
-        "regionCode":"CB"
+        "shortCode":"CB"
       },
       {
         "name":"Ciales",
-        "regionCode":"CL"
+        "shortCode":"CL"
       },
       {
         "name":"Cidra",
-        "regionCode":"CD"
+        "shortCode":"CD"
       },
       {
         "name":"Coamo",
-        "regionCode":"CO"
+        "shortCode":"CO"
       },
       {
         "name":"Comerío",
-        "regionCode":"CM"
+        "shortCode":"CM"
       },
       {
         "name":"Corozal",
-        "regionCode":"CZ"
+        "shortCode":"CZ"
       },
       {
         "name":"Culebra",
-        "regionCode":"CU"
+        "shortCode":"CU"
       },
       {
         "name":"Dorado",
-        "regionCode":"DO"
+        "shortCode":"DO"
       },
       {
         "name":"Fajardo",
-        "regionCode":"FJ"
+        "shortCode":"FJ"
       },
       {
         "name":"Florida",
-        "regionCode":"FL"
+        "shortCode":"FL"
       },
       {
         "name":"Guánica",
-        "regionCode":"GC"
+        "shortCode":"GC"
       },
       {
         "name":"Guayama",
-        "regionCode":"GM"
+        "shortCode":"GM"
       },
       {
         "name":"Guayanilla",
-        "regionCode":"GL"
+        "shortCode":"GL"
       },
       {
         "name":"Guaynabo",
-        "regionCode":"GB"
+        "shortCode":"GB"
       },
       {
         "name":"Gurabo",
-        "regionCode":"GR"
+        "shortCode":"GR"
       },
       {
         "name":"Hatillo",
-        "regionCode":"HA"
+        "shortCode":"HA"
       },
       {
         "name":"Hormigueros",
-        "regionCode":"HO"
+        "shortCode":"HO"
       },
       {
         "name":"Humacao",
-        "regionCode":"HU"
+        "shortCode":"HU"
       },
       {
         "name":"Isabela",
-        "regionCode":"IS"
+        "shortCode":"IS"
       },
       {
         "name":"Jayuya",
-        "regionCode":"JY"
+        "shortCode":"JY"
       },
       {
         "name":"Juana Díaz",
-        "regionCode":"JD"
+        "shortCode":"JD"
       },
       {
         "name":"Juncos",
-        "regionCode":"JC"
+        "shortCode":"JC"
       },
       {
         "name":"Lajas",
-        "regionCode":"LJ"
+        "shortCode":"LJ"
       },
       {
         "name":"Lares",
-        "regionCode":"LR"
+        "shortCode":"LR"
       },
       {
         "name":"Las Marías",
-        "regionCode":"LM"
+        "shortCode":"LM"
       },
       {
         "name":"Las Piedras",
-        "regionCode":"LP"
+        "shortCode":"LP"
       },
       {
         "name":"Loíza",
-        "regionCode":"LZ"
+        "shortCode":"LZ"
       },
       {
         "name":"Luquillo",
-        "regionCode":"LQ"
+        "shortCode":"LQ"
       },
       {
         "name":"Manatí",
-        "regionCode":"MT"
+        "shortCode":"MT"
       },
       {
         "name":"Maricao",
-        "regionCode":"MR"
+        "shortCode":"MR"
       },
       {
         "name":"Maunabo",
-        "regionCode":"MB"
+        "shortCode":"MB"
       },
       {
         "name":"Mayagüez",
-        "regionCode":"MG"
+        "shortCode":"MG"
       },
       {
         "name":"Moca",
-        "regionCode":"MC"
+        "shortCode":"MC"
       },
       {
         "name":"Morovis",
-        "regionCode":"MV"
+        "shortCode":"MV"
       },
       {
         "name":"Naguabo",
-        "regionCode":"NG"
+        "shortCode":"NG"
       },
       {
         "name":"Naranjito",
-        "regionCode":"NR"
+        "shortCode":"NR"
       },
       {
         "name":"Orocovis",
-        "regionCode":"OR"
+        "shortCode":"OR"
       },
       {
         "name":"Patillas",
-        "regionCode":"PT"
+        "shortCode":"PT"
       },
       {
         "name":"Peñuelas",
-        "regionCode":"PN"
+        "shortCode":"PN"
       },
       {
         "name":"Ponce",
-        "regionCode":"PO"
+        "shortCode":"PO"
       },
       {
         "name":"Quebradillas",
-        "regionCode":"QB"
+        "shortCode":"QB"
       },
       {
         "name":"Rincón",
-        "regionCode":"RC"
+        "shortCode":"RC"
       },
       {
         "name":"Río Grande",
-        "regionCode":"RG"
+        "shortCode":"RG"
       },
       {
         "name":"Sabana Grande",
-        "regionCode":"SB"
+        "shortCode":"SB"
       },
       {
         "name":"Salinas",
-        "regionCode":"SA"
+        "shortCode":"SA"
       },
       {
         "name":"San Germán",
-        "regionCode":"SG"
+        "shortCode":"SG"
       },
       {
         "name":"San Juan",
-        "regionCode":"SJ"
+        "shortCode":"SJ"
       },
       {
         "name":"San Lorenzo",
-        "regionCode":"SL"
+        "shortCode":"SL"
       },
       {
         "name":"San Sebastián",
-        "regionCode":"SS"
+        "shortCode":"SS"
       },
       { "name":"Santa Isabel",
-        "regionCode":"SI"
+        "shortCode":"SI"
       },
       {
         "name":"Toa Alta",
-        "regionCode":"TA"
+        "shortCode":"TA"
       },
       {
         "name":"Toa Baja",
-        "regionCode":"TB"
+        "shortCode":"TB"
       },
       {
         "name":"Trujillo Alto",
-        "regionCode":"TJ"
+        "shortCode":"TJ"
       },
       {
         "name":"Utuado",
-        "regionCode":"UT"
+        "shortCode":"UT"
       },
       {
         "name":"Vega Alta",
-        "regionCode":"VA"
+        "shortCode":"VA"
       },
       {
         "name":"Vega Baja",
-        "regionCode":"VB"
+        "shortCode":"VB"
       },
       {
         "name":"Vieques",
-        "regionCode":"VQ"
+        "shortCode":"VQ"
       },
       {
         "name":"Villalba",
-        "regionCode":"VL"
+        "shortCode":"VL"
       },
       {
         "name":"Yabucoa",
-        "regionCode":"YB"
+        "shortCode":"YB"
       },
       {
         "name":"Yauco",
-        "regionCode":"YU"
+        "shortCode":"YU"
       }
     ]
   },

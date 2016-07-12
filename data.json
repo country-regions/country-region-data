@@ -2172,7 +2172,8 @@
     "countryShortCode":"IO",
     "regions":[
       {
-        "name":"British Indian Ocean Territory"
+        "name":"British Indian Ocean Territory",
+        "shortCode": "IO"
       }
     ]
   },
@@ -2581,76 +2582,104 @@
     "countryShortCode":"KH",
     "regions":[
       {
-        "name":"Banteay Mean Cheay"
+        "name":"Phnom Penh",
+        "shortCode":"KH-12"
       },
       {
-        "name":"Batdambang"
+        "name":"Baat Dambang",
+        "shortCode":"KH-2"
       },
       {
-        "name":"Kampong Cham"
+        "name":"Banteay Mean Chey",
+        "shortCode":"KH-1"
       },
       {
-        "name":"Kampong Chhnang"
+        "name":"Kampong Chaam",
+        "shortCode":"KH-3"
       },
       {
-        "name":"Kampong Spoe"
+        "name":"Kampong Chhnang",
+        "shortCode":"KH-4"
       },
       {
-        "name":"Kampong Thum"
+        "name":"Kampong Spueu",
+        "shortCode":"KH-5"
       },
       {
-        "name":"Kampot"
+        "name":"Kampong Thum",
+        "shortCode":"KH-6"
       },
       {
-        "name":"Kandal"
+        "name":"Kampot",
+        "shortCode":"KH-7"
       },
       {
-        "name":"Kaoh Kong"
+        "name":"Kandaal",
+        "shortCode":"KH-8"
       },
       {
-        "name":"Keb"
+        "name":"Kaoh Kong",
+        "shortCode":"KH-9"
       },
       {
-        "name":"Kracheh"
+        "name":"Kracheh",
+        "shortCode":"KH-10"
       },
       {
-        "name":"Mondol Kiri"
+        "name":"Krong Kaeb",
+        "shortCode":"KH-23"
       },
       {
-        "name":"Otdar Mean Cheay"
+        "name":"Krong Pailin",
+        "shortCode":"KH-24"
       },
       {
-        "name":"Pailin"
+        "name":"Krong Preah Sihanouk",
+        "shortCode":"KH-18"
       },
       {
-        "name":"Phnum Penh"
+        "name":"Mondol Kiri",
+        "shortCode":"KH-11"
       },
       {
-        "name":"Pouthisat"
+        "name":"Otdar Mean Chey",
+        "shortCode":"KH-22"
       },
       {
-        "name":"Preah Seihanu (Sihanoukville)"
+        "name":"Pousaat",
+        "shortCode":"KH-15"
       },
       {
-        "name":"Preah Vihear"
+        "name":"Preah Vihear",
+        "shortCode":"KH-13"
       },
       {
-        "name":"Prey Veng"
+        "name":"Prey Veaeng",
+        "shortCode":"KH-14"
       },
       {
-        "name":"Rotanah Kiri"
+        "name":"Rotanak Kiri",
+        "shortCode":"KH-16"
       },
       {
-        "name":"Siem Reab"
+        "name":"Siem Reab",
+        "shortCode":"KH-17"
       },
       {
-        "name":"Stoeng Treng"
+        "name":"Stueng Traeng",
+        "shortCode":"KH-19"
       },
       {
-        "name":"Svay Rieng"
+        "name":"Svaay Rieng",
+        "shortCode":"KH-20"
       },
       {
-        "name":"Takev"
+        "name":"Taakaev",
+        "shortCode":"KH-21"
+      },
+      {
+        "name":"Tbong Khmum",
+        "shortCode":"KH-25"
       }
     ]
   },
@@ -2957,92 +2986,96 @@
     "countryShortCode":"TD",
     "regions":[
       {
-        "name":"Al Baţḩah",
-        "shortCode":"BA"
+        "name":"Bahr el Gazel",
+        "shortCode":"TD-BG"
       },
       {
-        "name":"Al Buḩayrah",
-        "shortCode":"LC"
+        "name":"Batha",
+        "shortCode":"TD-BA"
       },
       {
-        "name":"Baḩr al Ghazāl",
-        "shortCode":"BG"
+        "name":"Borkou",
+        "shortCode":"TD-BO"
       },
       {
-        "name":"Būrkū",
-        "shortCode":"BO"
-      },
-      {
-        "name":"Ḥajjar Lamīs",
-        "shortCode":"HL"
+        "name":"Chari-Baguirmi",
+        "shortCode":"TD-CB"
       },
       {
         "name":"Ennedi-Est",
-        "shortCode":"EE"
+        "shortCode":"TD-EE"
       },
       {
         "name":"Ennedi-Ouest",
-        "shortCode":"EO"
+        "shortCode":"TD-EO"
       },
       {
-        "name":"Kānim",
-        "shortCode":"KA"
+        "name":"Guéra",
+        "shortCode":"TD-GR"
       },
       {
-        "name":"Lūqūn al Gharbī",
-        "shortCode":"LO"
+        "name":"Hadjer Lamis",
+        "shortCode":"TD-HL"
       },
       {
-        "name":"Lūqūn ash Sharqī",
-        "shortCode":"LR"
+        "name":"Kanem",
+        "shortCode":"TD-KA"
       },
       {
-        "name":"Madīnat Injamīnā",
-        "shortCode":"ND"
+        "name":"Lac",
+        "shortCode":"TD-LC"
       },
       {
-        "name":"Māndūl",
-        "shortCode":"MA"
+        "name":"Logone-Occidental",
+        "shortCode":"TD-LO"
       },
       {
-        "name":"Māyū Kībbī al Gharbī",
-        "shortCode":"MO"
+        "name":"Logone-Oriental",
+        "shortCode":"TD-LR"
       },
       {
-        "name":"Māyū Kībbī ash Sharqī",
-        "shortCode":"ME"
+        "name":"Mandoul",
+        "shortCode":"TD-MA"
       },
       {
-        "name":"Salāmāt",
-        "shortCode":"SA"
+        "name":"Mayo-Kébbi-Est",
+        "shortCode":"TD-ME"
       },
       {
-        "name":"Shārī al Awsaṭ",
-        "shortCode":"MC"
+        "name":"Mayo-Kébbi-Ouest",
+        "shortCode":"TD-MO"
       },
       {
-        "name":"Shārī Bāqirmī",
-        "shortCode":"CB"
+        "name":"Moyen-Chari",
+        "shortCode":"TD-MC"
       },
       {
-        "name":"Sīlā",
-        "shortCode":"SI"
+        "name":"Ouaddaï",
+        "shortCode":"TD-OD"
       },
       {
-        "name":"Tānjilī",
-        "shortCode":"TA"
+        "name":"Salamat",
+        "shortCode":"TD-SA"
       },
       {
-        "name":"Tibastī",
-        "shortCode":"TI"
+        "name":"Sila",
+        "shortCode":"TD-SI"
       },
       {
-        "name":"Waddāy",
-        "shortCode":"OD"
+        "name":"Tandjilé",
+        "shortCode":"TD-TA"
       },
       {
-        "name":"Wādī Fīrā",
-        "shortCode":"WF"
+        "name":"Tibesti",
+        "shortCode":"TD-TI"
+      },
+      {
+        "name":"Ville de Ndjamena",
+        "shortCode":"TD-ND"
+      },
+      {
+        "name":"Wadi Fira",
+        "shortCode":"TD-WF"
       }
     ]
   },
@@ -6045,115 +6078,36 @@
     "countryShortCode":"IS",
     "regions":[
       {
-        "name":"Akranes"
+        "name":"Austurland",
+        "shortCode":"7"
       },
       {
-        "name":"Akureyri"
+        "name":"Höfuðborgarsvæðið",
+        "shortCode":"1"
       },
       {
-        "name":"Arnessysla"
+        "name":"Norðurland eystra",
+        "shortCode":"6"
       },
       {
-        "name":"Austur-Bardhastrandarsysla"
+        "name":"Norðurland vestra",
+        "shortCode":"5"
       },
       {
-        "name":"Austur-Hunavatnssysla"
+        "name":"Suðurland",
+        "shortCode":"8"
       },
       {
-        "name":"Austur-Skaftafellssysla"
+        "name":"Suðurnes",
+        "shortCode":"2"
       },
       {
-        "name":"Borgarfjardharsysla"
+        "name":"Vestfirðir",
+        "shortCode":"4"
       },
       {
-        "name":"Dalasysla"
-      },
-      {
-        "name":"Eyjafjardharsysla"
-      },
-      {
-        "name":"Gullbringusysla"
-      },
-      {
-        "name":"Hafnarfjordhur"
-      },
-      {
-        "name":"Husavik"
-      },
-      {
-        "name":"Isafjordhur"
-      },
-      {
-        "name":"Keflavik"
-      },
-      {
-        "name":"Kjosarsysla"
-      },
-      {
-        "name":"Kopavogur"
-      },
-      {
-        "name":"Myrasysla"
-      },
-      {
-        "name":"Neskaupstadhur"
-      },
-      {
-        "name":"Nordhur-Isafjardharsysla"
-      },
-      {
-        "name":"Nordhur-Mulasys-la"
-      },
-      {
-        "name":"Nordhur-Thingeyjarsysla"
-      },
-      {
-        "name":"Olafsfjordhur"
-      },
-      {
-        "name":"Rangarvallasysla"
-      },
-      {
-        "name":"Reykjavik"
-      },
-      {
-        "name":"Saudharkrokur"
-      },
-      {
-        "name":"Seydhisfjordhur"
-      },
-      {
-        "name":"Siglufjordhur"
-      },
-      {
-        "name":"Skagafjardharsysla"
-      },
-      {
-        "name":"Snaefellsnes-og Hnappadalssysla"
-      },
-      {
-        "name":"Strandasysla"
-      },
-      {
-        "name":"Sudhur-Mulasysla"
-      },
-      {
-        "name":"Sudhur-Thingeyjarsysla"
-      },
-      {
-        "name":"Vesttmannaeyjar"
-      },
-      {
-        "name":"Vestur-Bardhastrandarsysla"
-      },
-      {
-        "name":"Vestur-Hunavatnssysla"
-      },
-      {
-        "name":"Vestur-Isafjardharsysla"
-      },
-      {
-        "name":"Vestur-Skaftafellssysla"
+        "name":"Vesturland",
+        "shortCode":"3"
       }
     ]
   },
@@ -6777,22 +6731,28 @@
     "countryShortCode":"IL",
     "regions":[
       {
-        "name":"Central"
+        "name":"HaDarom",
+        "shortCode":"H"
       },
       {
-        "name":"Haifa"
+        "name":"HaMerkaz",
+        "shortCode":"M"
       },
       {
-        "name":"Jerusalem"
+        "name":"HaTsafon",
+        "shortCode":"Z"
       },
       {
-        "name":"Northern"
+        "name":"H̱efa",
+        "shortCode":"HA"
       },
       {
-        "name":"Southern"
+        "name":"Tel-Aviv",
+        "shortCode":"TA"
       },
       {
-        "name":"Tel Aviv"
+        "name":"Yerushalayim",
+        "shortCode":"JM"
       }
     ]
   },
@@ -7320,9 +7280,6 @@
         "name":"Banaba"
       },
       {
-        "name":"Banaba"
-      },
-      {
         "name":"Beru"
       },
       {
@@ -7384,9 +7341,6 @@
       },
       {
         "name":"Tamana"
-      },
-      {
-        "name":"Tarawa"
       },
       {
         "name":"Tarawa"
@@ -7593,11 +7547,7 @@
     "countryShortCode":"LA",
     "regions":[
       {
-        "name":"Vientiane",
-        "shortCode":"VT"
-      },
-      {
-        "name":"Attapu!(Attopeu)",
+        "name":"Attapu",
         "shortCode":"AT"
       },
       {
@@ -7605,11 +7555,11 @@
         "shortCode":"BK"
       },
       {
-        "name":"Bolikhamxai!(Borikhane)",
+        "name":"Bolikhamxai",
         "shortCode":"BL"
       },
       {
-        "name":"Champasak!(Champassak)",
+        "name":"Champasak",
         "shortCode":"CH"
       },
       {
@@ -7621,23 +7571,23 @@
         "shortCode":"KH"
       },
       {
-        "name":"Louang!Namtha",
+        "name":"Louang Namtha",
         "shortCode":"LM"
       },
       {
-        "name":"Louangphabang!(Louang!Prabang)",
+        "name":"Louangphabang",
         "shortCode":"LP"
       },
       {
-        "name":"Oudômxai!(Oudomsai)",
+        "name":"Oudômxai",
         "shortCode":"OU"
       },
       {
-        "name":"Phôngsali!(Phong!Saly)",
+        "name":"Phôngsali",
         "shortCode":"PH"
       },
       {
-        "name":"Salavan!(Saravane)",
+        "name":"Salavan",
         "shortCode":"SL"
       },
       {
@@ -7653,16 +7603,16 @@
         "shortCode":"XA"
       },
       {
-        "name":"Xékong!(Sékong)",
+        "name":"Xékong",
         "shortCode":"XE"
       },
       {
-        "name":"Xiangkhoang!(Xieng!Khouang)",
-        "shortCode":"XI"
+        "name":"Xaisomboun",
+        "shortCode":"XS"
       },
       {
-        "name":"Xaisômboun",
-        "shortCode":"XN"
+        "name":"Xiangkhouang",
+        "shortCode":"XI"
       }
     ]
   },
@@ -9438,9 +9388,6 @@
         "name":"Chisinau"
       },
       {
-        "name":"Chisinau"
-      },
-      {
         "name":"Dubasari"
       },
       {
@@ -9471,16 +9418,72 @@
     "countryShortCode":"MC",
     "regions":[
       {
-        "name":"Fontvieille"
+        "name":"Fontvieille",
+        "shortCode":"FO"
       },
       {
-        "name":"La Condamine"
+        "name":"Jardin Exotique",
+        "shortCode":"JE"
       },
       {
-        "name":"Monaco-Ville"
+        "name":"La Colle",
+        "shortCode":"CL"
       },
       {
-        "name":"Monte-Carlo"
+        "name":"La Condamine",
+        "shortCode":"CO"
+      },
+      {
+        "name":"La Gare",
+        "shortCode":"GA"
+      },
+      {
+        "name":"La Source",
+        "shortCode":"SO"
+      },
+      {
+        "name":"Larvotto",
+        "shortCode":"LA"
+      },
+      {
+        "name":"Malbousquet",
+        "shortCode":"MA"
+      },
+      {
+        "name":"Monaco-Ville",
+        "shortCode":"MO"
+      },
+      {
+        "name":"Moneghetti",
+        "shortCode":"MG"
+      },
+      {
+        "name":"Monte-Carlo",
+        "shortCode":"MC"
+      },
+      {
+        "name":"Moulins",
+        "shortCode":"MU"
+      },
+      {
+        "name":"Port-Hercule",
+        "shortCode":"PH"
+      },
+      {
+        "name":"Saint-Roman",
+        "shortCode":"SR"
+      },
+      {
+        "name":"Sainte-Dévote",
+        "shortCode":"SD"
+      },
+      {
+        "name":"Spélugues",
+        "shortCode":"SP"
+      },
+      {
+        "name":"Vallon de la Rousse",
+        "shortCode":"VR"
       }
     ]
   },
@@ -9855,82 +9858,64 @@
     "countryShortCode":"MM",
     "regions":[
       {
-        "name":"Ayeyarwady Region",
+        "name":"Ayeyarwady",
         "shortCode":"07"
       },
       {
-        "name":"Bago Region",
+        "name":"Bago",
         "shortCode":"02"
       },
       {
-        "name":"Chin State",
+        "name":"Chin",
         "shortCode":"14"
       },
       {
-        "name":"Kachin State",
+        "name":"Kachin",
         "shortCode":"11"
       },
       {
-        "name":"Kayah State",
+        "name":"Kayah",
         "shortCode":"12"
       },
       {
-        "name":"Kayin State",
+        "name":"Kayin",
         "shortCode":"13"
       },
       {
-        "name":"Magway Region",
+        "name":"Magway",
         "shortCode":"03"
       },
       {
-        "name":"Mandalay Region",
+        "name":"Mandalay",
         "shortCode":"04"
       },
       {
-        "name":"Mon State",
+        "name":"Mon",
         "shortCode":"15"
       },
       {
-        "name":"Rakhine State",
-        "shortCode":"16"
-      },
-      {
-        "name":"Shan State",
-        "shortCode":"17"
-      },
-      {
-        "name":"Sagaing Region",
-        "shortCode":"01"
-      },
-      {
-        "name":"Tanintharyi Region",
-        "shortCode":"05"
-      },
-      {
-        "name":"Yangon Region",
-        "shortCode":"06"
-      },
-      {
-        "name":"Naypyidaw Union Territory",
+        "name":"Nay Pyi Taw",
         "shortCode":"18"
       },
       {
-        "name":"Danu Self-Administered Zone"
+        "name":"Rakhine",
+        "shortCode":"16"
       },
       {
-        "name":"Kokang Self-Administered Zone"
+        "name":"Sagaing",
+        "shortCode":"01"
       },
       {
-        "name":"Naga Self-Administered Zone"
+        "name":"Shan",
+        "shortCode":"17"
       },
       {
-        "name":"Pa-O Self-Administered Zone"
+        "name":"Tanintharyi",
+        "shortCode":"05"
       },
       {
-        "name":"Pa Laung Self-Administered Zone"
-      },
-      {
-        "name":"Wa Self-Administered Division"
+        "name":"Yangon",
+        "shortCode":"06"
       }
     ]
   },
@@ -11224,379 +11209,324 @@
     "countryShortCode":"PH",
     "regions":[
       {
-        "name":"Abra"
+        "name":"Abra",
+        "shortCode":"ABR"
       },
       {
-        "name":"Agusan del Norte"
+        "name":"Agusan del Norte",
+        "shortCode":"AGN"
       },
       {
-        "name":"Agusan del Sur"
+        "name":"Agusan del Sur",
+        "shortCode":"AGS"
       },
       {
-        "name":"Aklan"
+        "name":"Aklan",
+        "shortCode":"AKL"
       },
       {
-        "name":"Albay"
+        "name":"Albay",
+        "shortCode":"ALB"
       },
       {
-        "name":"Angeles"
+        "name":"Antique",
+        "shortCode":"ANT"
       },
       {
-        "name":"Antique"
+        "name":"Apayao",
+        "shortCode":"ANT"
       },
       {
-        "name":"Aurora"
+        "name":"Aurora",
+        "shortCode":"AUR"
       },
       {
-        "name":"Bacolod"
+        "name":"Basilan",
+        "shortCode":"BAS"
       },
       {
-        "name":"Bago"
+        "name":"Bataan",
+        "shortCode":"BAN"
       },
       {
-        "name":"Baguio"
+        "name":"Batanes",
+        "shortCode":"BTN"
       },
       {
-        "name":"Bais"
+        "name":"Batangas",
+        "shortCode":"BTG"
       },
       {
-        "name":"Basilan"
+        "name":"Biliran",
+        "shortCode":"BIL"
       },
       {
-        "name":"Basilan an"
+        "name":"Bohol",
+        "shortCode":"BOH"
       },
       {
-        "name":"Batanes"
+        "name":"Bukidnon",
+        "shortCode":"BUK"
       },
       {
-        "name":"Batangas"
+        "name":"Bulacan",
+        "shortCode":"BUL"
       },
       {
-        "name":"Batangas City"
+        "name":"Cagayan",
+        "shortCode":"CAG"
       },
       {
-        "name":"Benguet"
+        "name":"Camarines Nort",
+        "shortCode":"CAN"
       },
       {
-        "name":"Bohol"
+        "name":"Camarines Sur",
+        "shortCode":"CAS"
       },
       {
-        "name":"Bukidnon"
+        "name":"Camiguin",
+        "shortCode":"CAM"
       },
       {
-        "name":"Bulacan"
+        "name":"Capiz",
+        "shortCode":"CAP"
       },
       {
-        "name":"Butuan"
+        "name":"Catanduanes",
+        "shortCode":"CAT"
       },
       {
-        "name":"Cabanatuan"
+        "name":"Cavite",
+        "shortCode":"CAV"
       },
       {
-        "name":"Cadiz"
+        "name":"Cebu",
+        "shortCode":"CEB"
       },
       {
-        "name":"Cagayan"
+        "name":"Compostela Valley",
+        "shortCode":"COM"
       },
       {
-        "name":"Cagayan de Oro"
+        "name":"Cotabato",
+        "shortCode":"NCO"
       },
       {
-        "name":"Calbayog"
+        "name":"Davao del Norte",
+        "shortCode":"DAV"
       },
       {
-        "name":"Caloocan"
+        "name":"Davao del Sur",
+        "shortCode":"DAS"
       },
       {
-        "name":"Camarines arines Sur"
+        "name":"Davao Occidental",
+        "shortCode":"DVO"
       },
       {
-        "name":"Camiguin"
+        "name":"Davao Oriental",
+        "shortCode":"DAO"
       },
       {
-        "name":"Canlaon"
+        "name":"Dinagat Islands",
+        "shortCode":"DIN"
       },
       {
-        "name":"Capiz"
+        "name":"Eastern Samar",
+        "shortCode":"EAS"
       },
       {
-        "name":"Catanduanes"
+        "name":"Guimaras",
+        "shortCode":"GUI"
       },
       {
-        "name":"Cavite"
+        "name":"Ifugao",
+        "shortCode":"IFU"
       },
       {
-        "name":"Cavite City"
+        "name":"Ilocos Norte",
+        "shortCode":"ILN"
       },
       {
-        "name":"Cebu"
+        "name":"Ilocos Sur",
+        "shortCode":"ILS"
       },
       {
-        "name":"Cebu City"
+        "name":"Iloilo",
+        "shortCode":"ILI"
       },
       {
-        "name":"Cotabato"
+        "name":"Isabela",
+        "shortCode":"ISA"
       },
       {
-        "name":"Dagupan"
+        "name":"Kalinga",
+        "shortCode":"KAL"
       },
       {
-        "name":"Danao"
+        "name":"La Union",
+        "shortCode":"LUN"
       },
       {
-        "name":"Dapitan"
+        "name":"Laguna",
+        "shortCode":"LAG"
       },
       {
-        "name":"Davao City Davao"
+        "name":"Lanao del Norte",
+        "shortCode":"LAN"
       },
       {
-        "name":"Davao del Sur"
+        "name":"Lanao del Sur",
+        "shortCode":"LAS"
       },
       {
-        "name":"Davao Dipolog"
+        "name":"Leyte",
+        "shortCode":"LEY"
       },
       {
-        "name":"Dumaguete"
+        "name":"Maguindanao",
+        "shortCode":"MAG"
       },
       {
-        "name":"Eastern Samar"
+        "name":"Marinduque",
+        "shortCode":"MAD"
       },
       {
-        "name":"General Santos"
+        "name":"Masbate",
+        "shortCode":"MAS"
       },
       {
-        "name":"Gingoog"
+        "name":"Mindoro Occidental",
+        "shortCode":"MDC"
       },
       {
-        "name":"Ifugao"
+        "name":"Mindoro Oriental",
+        "shortCode":"MDR"
       },
       {
-        "name":"Iligan"
+        "name":"Misamis Occidental",
+        "shortCode":"MSC"
       },
       {
-        "name":"Ilocos Norte"
+        "name":"Misamis Oriental",
+        "shortCode":"MSR"
       },
       {
-        "name":"Ilocos Sur"
+        "name":"Mountain Province",
+        "shortCode":"MOU"
       },
       {
-        "name":"Iloilo"
+        "name":"Negros Occidental",
+        "shortCode":"NEC"
       },
       {
-        "name":"Iloilo City"
+        "name":"Negros Oriental",
+        "shortCode":"NER"
       },
       {
-        "name":"Iriga"
+        "name":"Northern Samar",
+        "shortCode":"NSA"
       },
       {
-        "name":"Isabela"
+        "name":"Nueva Ecija",
+        "shortCode":"NUE"
       },
       {
-        "name":"Kalinga-Apayao"
+        "name":"Nueva Vizcaya",
+        "shortCode":"NUV"
       },
       {
-        "name":"La a Union"
+        "name":"Palawan",
+        "shortCode":"PLW"
       },
       {
-        "name":"Laguna"
+        "name":"Pampanga",
+        "shortCode":"PAM"
       },
       {
-        "name":"Lanao del Norte"
+        "name":"Pangasinan",
+        "shortCode":"PAN"
       },
       {
-        "name":"Lanao del Sur"
+        "name":"Quezon",
+        "shortCode":"QUE"
       },
       {
-        "name":"Laoag"
+        "name":"Quirino",
+        "shortCode":"QUI"
       },
       {
-        "name":"Lapu-Lapu"
+        "name":"Rizal",
+        "shortCode":"RIZ"
       },
       {
-        "name":"Legaspi"
+        "name":"Romblon",
+        "shortCode":"ROM"
       },
       {
-        "name":"Leyte"
+        "name":"Samar",
+        "shortCode":"WSA"
       },
       {
-        "name":"Lipa"
+        "name":"Sarangani",
+        "shortCode":"SAR"
       },
       {
-        "name":"Lucena"
+        "name":"Siquijor",
+        "shortCode":"SIG"
       },
       {
-        "name":"Maguindanao"
+        "name":"Sorsogon",
+        "shortCode":"SOR"
       },
       {
-        "name":"Mandaue"
+        "name":"South Cotabato",
+        "shortCode":"SCO"
       },
       {
-        "name":"Manila"
+        "name":"Southern Leyte",
+        "shortCode":"SLE"
       },
       {
-        "name":"Marawi"
+        "name":"Sultan Kudarat",
+        "shortCode":"SUK"
       },
       {
-        "name":"Marinduque"
+        "name":"Sulu",
+        "shortCode":"SLU"
       },
       {
-        "name":"Masbate"
+        "name":"Surigao del Norte",
+        "shortCode":"SUN"
       },
       {
-        "name":"Mindoro l"
+        "name":"Surigao del Sur",
+        "shortCode":"SUR"
       },
       {
-        "name":"Mindoro Oriental"
+        "name":"Tarlac",
+        "shortCode":"TAR"
       },
       {
-        "name":"Misamis Occidental"
+        "name":"Tawi-Tawi",
+        "shortCode":"TAW"
       },
       {
-        "name":"Misamis Oriental"
+        "name":"Zambales",
+        "shortCode":"ZMB"
       },
       {
-        "name":"Mountain"
+        "name":"Zamboanga del Norte",
+        "shortCode":"ZAN"
       },
       {
-        "name":"Naga"
+        "name":"Zamboanga del Sur",
+        "shortCode":"ZAS"
       },
       {
-        "name":"Negros Occidental"
-      },
-      {
-        "name":"Negros Oriental"
-      },
-      {
-        "name":"North Cotabato"
-      },
-      {
-        "name":"Northern Samar"
-      },
-      {
-        "name":"Nueva va Vizcaya"
-      },
-      {
-        "name":"Olongapo"
-      },
-      {
-        "name":"Ormoc"
-      },
-      {
-        "name":"Oroquieta"
-      },
-      {
-        "name":"Ozamis"
-      },
-      {
-        "name":"Pagadian"
-      },
-      {
-        "name":"Palawan"
-      },
-      {
-        "name":"Palayan"
-      },
-      {
-        "name":"Pampanga"
-      },
-      {
-        "name":"Pangasinan"
-      },
-      {
-        "name":"Pasay"
-      },
-      {
-        "name":"Puerto Princesa"
-      },
-      {
-        "name":"Quezon"
-      },
-      {
-        "name":"Quezon ino"
-      },
-      {
-        "name":"Rizal"
-      },
-      {
-        "name":"Romblon"
-      },
-      {
-        "name":"Roxas"
-      },
-      {
-        "name":"Samar"
-      },
-      {
-        "name":"San Carlos (in Negros Occidental)"
-      },
-      {
-        "name":"San Carlos (in Pangasinan)"
-      },
-      {
-        "name":"San Jose"
-      },
-      {
-        "name":"San Pablo"
-      },
-      {
-        "name":"Silay"
-      },
-      {
-        "name":"Siquijor"
-      },
-      {
-        "name":"Sorsogon"
-      },
-      {
-        "name":"South Southern Leyte"
-      },
-      {
-        "name":"Sultan Kudarat"
-      },
-      {
-        "name":"Sulu"
-      },
-      {
-        "name":"Surigao"
-      },
-      {
-        "name":"Surigao del Norte"
-      },
-      {
-        "name":"Surigao del Sur"
-      },
-      {
-        "name":"Tacloban"
-      },
-      {
-        "name":"Tagaytay"
-      },
-      {
-        "name":"Tagbilaran"
-      },
-      {
-        "name":"Tangub"
-      },
-      {
-        "name":"Tarlac"
-      },
-      {
-        "name":"Tawitawi"
-      },
-      {
-        "name":"Toledo"
-      },
-      {
-        "name":"Trece Zambales"
-      },
-      {
-        "name":"Zamboanga"
-      },
-      {
-        "name":"Zamboanga del Norte"
-      },
-      {
-        "name":"Zamboanga del Sur"
+        "name":"Zamboanga Sibugay",
+        "shortCode":"ZSI"
       }
     ]
   },
@@ -12256,7 +12186,8 @@
         "shortCode":"SJ"
       },
       {
-        "name":"Satu Mare"
+        "name":"Satu Mare",
+        "shortCode":"SM"
       },
       {
         "name":"Sibiu",
@@ -12830,20 +12761,20 @@
         "shortCode":"06"
       },
       {
-        "name":"Saint",
-        "shortCode":"Andrew"
+        "name":"Saint Andrew",
+        "shortCode":"02"
       },
       {
-        "name":"Saint",
-        "shortCode":"David"
+        "name":"Saint David",
+        "shortCode":"03"
       },
       {
-        "name":"Saint",
-        "shortCode":"George"
+        "name":"Saint George",
+        "shortCode":"04"
       },
       {
-        "name":"Saint",
-        "shortCode":"Patrick"
+        "name":"Saint Patrick",
+        "shortCode":"05"
       }
     ]
   },
@@ -13626,7 +13557,7 @@
       },
       {
         "name":"Izola",
-        "shortCode":"040s"
+        "shortCode":"040"
       },
       {
         "name":"Jesenice",
@@ -14853,36 +14784,6 @@
     ]
   },
   {
-    "countryName":"Svalbard and Jan Mayen",
-    "countryShortCode":"SJ",
-    "regions":[
-      {
-        "name":"Barentsoya"
-      },
-      {
-        "name":"Bjornoya"
-      },
-      {
-        "name":"Edgeoya"
-      },
-      {
-        "name":"Hopen"
-      },
-      {
-        "name":"Kvitoya"
-      },
-      {
-        "name":"Nordaustandet"
-      },
-      {
-        "name":"Prins Karls Forland"
-      },
-      {
-        "name":"Spitsbergen"
-      }
-    ]
-  },
-  {
     "countryName":"Swaziland",
     "countryShortCode":"SZ",
     "regions":[
@@ -15262,7 +15163,7 @@
       },
       {
         "name":"Khatlon",
-        "shortCode":"KB"
+        "shortCode":"KT"
       },
       {
         "name":"Sughd",

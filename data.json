@@ -11770,223 +11770,313 @@
     "countryShortCode":"PR",
     "regions":[
       {
-        "name":"Adjuntas"
+        "name":"Adjuntas",
+        "regionCode":"AJ"
       },
       {
-        "name":"Aguada"
+        "name":"Aguada",
+        "regionCode":"AD"
       },
+      { "name":"Aguadilla",
+        "regionCode":"AL"
+      },
+      {
+        "name":"Aguas Buenas",
+        "regionCode":"AB"
+      },
       {
-        "name":"Aguadilla"
+        "name":"Aibonito",
+        "regionCode":"AI"
       },
       {
-        "name":"Aguas Buenas"
+        "name":"Añasco",
+        "regionCode":"AN" },
+      {
+        "name":"Arecibo",
+        "regionCode":"AC"
+      },
+      {
+        "name":"Arroyo",
+        "regionCode":"AR"
       },
       {
-        "name":"Aibonito"
+        "name":"Barceloneta",
+        "regionCode":"BC"
       },
       {
-        "name":"Anasco"
+        "name":"Barranquitas",
+        "regionCode":"BQ"
       },
       {
-        "name":"Arecibo"
+        "name":"Bayamón",
+        "regionCode":"BY"
       },
       {
-        "name":"Arroyo"
+        "name":"Cabo Rojo",
+        "regionCode":"CR"
       },
       {
-        "name":"Barceloneta"
+        "name":"Caguas",
+        "regionCode":"CG"
       },
       {
-        "name":"Barranquitas"
+        "name":"Camuy",
+        "regionCode":"CA"
       },
       {
-        "name":"Bayamon"
+        "name":"Canóvanas",
+        "regionCode":"CV"
       },
       {
-        "name":"Cabo Rojo"
+        "name":"Carolina",
+        "regionCode":"CN"
       },
       {
-        "name":"Caguas"
+        "name":"Cataño",
+        "regionCode":"CT"
       },
       {
-        "name":"Camuy"
+        "name":"Cayey",
+        "regionCode":"CY"
       },
       {
-        "name":"Canovanas"
+        "name":"Ceiba",
+        "regionCode":"CB"
       },
       {
-        "name":"Carolina"
+        "name":"Ciales",
+        "regionCode":"CL"
       },
       {
-        "name":"Cat"
+        "name":"Cidra",
+        "regionCode":"CD"
       },
       {
-        "name":"Ceiba"
+        "name":"Coamo",
+        "regionCode":"CO"
       },
       {
-        "name":"Ciales"
+        "name":"Comerío",
+        "regionCode":"CM"
       },
       {
-        "name":"Cidra"
+        "name":"Corozal",
+        "regionCode":"CZ"
       },
       {
-        "name":"Coamo"
+        "name":"Culebra",
+        "regionCode":"CU"
       },
       {
-        "name":"Comerio"
+        "name":"Dorado",
+        "regionCode":"DO"
       },
       {
-        "name":"Corozal"
+        "name":"Fajardo",
+        "regionCode":"FJ"
       },
       {
-        "name":"Culebra"
+        "name":"Florida",
+        "regionCode":"FL"
       },
       {
-        "name":"Dorado"
+        "name":"Guánica",
+        "regionCode":"GC"
       },
       {
-        "name":"Fajardo"
+        "name":"Guayama",
+        "regionCode":"GM"
       },
       {
-        "name":"Florida"
+        "name":"Guayanilla",
+        "regionCode":"GL"
       },
       {
-        "name":"Guanica"
+        "name":"Guaynabo",
+        "regionCode":"GB"
       },
       {
-        "name":"Guayama"
+        "name":"Gurabo",
+        "regionCode":"GR"
       },
       {
-        "name":"Guayanilla"
+        "name":"Hatillo",
+        "regionCode":"HA"
       },
       {
-        "name":"Guaynabo"
+        "name":"Hormigueros",
+        "regionCode":"HO"
       },
       {
-        "name":"Gurabo"
+        "name":"Humacao",
+        "regionCode":"HU"
       },
       {
-        "name":"Hatillo"
+        "name":"Isabela",
+        "regionCode":"IS"
       },
       {
-        "name":"Hormigueros"
+        "name":"Jayuya",
+        "regionCode":"JY"
       },
       {
-        "name":"Humacao"
+        "name":"Juana Díaz",
+        "regionCode":"JD"
       },
       {
-        "name":"Isabe"
+        "name":"Juncos",
+        "regionCode":"JC"
       },
       {
-        "name":"Juana Diaz"
+        "name":"Lajas",
+        "regionCode":"LJ"
       },
       {
-        "name":"Juncos"
+        "name":"Lares",
+        "regionCode":"LR"
       },
       {
-        "name":"Lajas"
+        "name":"Las Marías",
+        "regionCode":"LM"
       },
       {
-        "name":"Lares"
+        "name":"Las Piedras",
+        "regionCode":"LP"
       },
       {
-        "name":"Las Marias"
+        "name":"Loíza",
+        "regionCode":"LZ"
       },
       {
-        "name":"Las oiza"
+        "name":"Luquillo",
+        "regionCode":"LQ"
       },
       {
-        "name":"Luquillo"
+        "name":"Manatí",
+        "regionCode":"MT"
       },
       {
-        "name":"Manati"
+        "name":"Maricao",
+        "regionCode":"MR"
       },
       {
-        "name":"Maricao"
+        "name":"Maunabo",
+        "regionCode":"MB"
       },
       {
-        "name":"Maunabo"
+        "name":"Mayagüez",
+        "regionCode":"MG"
       },
       {
-        "name":"Mayaguez"
+        "name":"Moca",
+        "regionCode":"MC"
       },
       {
-        "name":"Moca"
+        "name":"Morovis",
+        "regionCode":"MV"
       },
       {
-        "name":"Morovis"
+        "name":"Naguabo",
+        "regionCode":"NG"
       },
       {
-        "name":"Naguabo"
+        "name":"Naranjito",
+        "regionCode":"NR"
       },
       {
-        "name":"Naranjito"
+        "name":"Orocovis",
+        "regionCode":"OR"
       },
       {
-        "name":"Orocovis"
+        "name":"Patillas",
+        "regionCode":"PT"
       },
       {
-        "name":"Patillas"
+        "name":"Peñuelas",
+        "regionCode":"PN"
       },
       {
-        "name":"Penuelas"
+        "name":"Ponce",
+        "regionCode":"PO"
       },
       {
-        "name":"Ponce"
+        "name":"Quebradillas",
+        "regionCode":"QB"
       },
       {
-        "name":"Quebradillas"
+        "name":"Rincón",
+        "regionCode":"RC"
       },
       {
-        "name":"Rincon"
+        "name":"Río Grande",
+        "regionCode":"RG"
       },
       {
-        "name":"Rio Grande"
+        "name":"Sabana Grande",
+        "regionCode":"SB"
       },
       {
-        "name":"Sabana linas"
+        "name":"Salinas",
+        "regionCode":"SA"
       },
       {
-        "name":"San German"
+        "name":"San Germán",
+        "regionCode":"SG"
       },
       {
-        "name":"San Juan"
+        "name":"San Juan",
+        "regionCode":"SJ"
       },
       {
-        "name":"San Lorenzo"
+        "name":"San Lorenzo",
+        "regionCode":"SL"
       },
       {
-        "name":"San Sebastian"
+        "name":"San Sebastián",
+        "regionCode":"SS"
+      },
+      { "name":"Santa Isabel",
+        "regionCode":"SI"
       },
       {
-        "name":"Santa Isabel"
+        "name":"Toa Alta",
+        "regionCode":"TA"
       },
       {
-        "name":"Toa Alta"
+        "name":"Toa Baja",
+        "regionCode":"TB"
       },
       {
-        "name":"Toa Baja"
+        "name":"Trujillo Alto",
+        "regionCode":"TJ"
       },
       {
-        "name":"Trujillo Alto"
+        "name":"Utuado",
+        "regionCode":"UT"
       },
       {
-        "name":"Utuado"
+        "name":"Vega Alta",
+        "regionCode":"VA"
       },
       {
-        "name":"Vega Alta"
+        "name":"Vega Baja",
+        "regionCode":"VB"
       },
       {
-        "name":"Vega ues"
+        "name":"Vieques",
+        "regionCode":"VQ"
       },
       {
-        "name":"Villalba"
+        "name":"Villalba",
+        "regionCode":"VL"
       },
       {
-        "name":"Yabucoa"
+        "name":"Yabucoa",
+        "regionCode":"YB"
       },
       {
-        "name":"Yauco"
+        "name":"Yauco",
+        "regionCode":"YU"
       }
     ]
   },

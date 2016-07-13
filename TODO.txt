@@ -1,6 +1,44 @@
-// Regions that need ISO3166-2 codes (please update when you add): 108
+// Regions that need ISO3166-2 codes (please update when you add): 42
 // http://en.wikipedia.org/wiki/ISO_3166-2
-// GG GL GM GN GP GQ GR GS GT GU GW
-// IL IS IT JE JM JO JP KE KG KH KI 
-// LT LU LV LY MA MC MD ME MF MG MH MK ML MM MN MO MP MQ MR MS MT MU MV NC
-// NF NG NL NP NR NU OM PA PE PF PG PH PK PL PM PN PR SJ
+CK,Cook Islands
+FK,Falkland Islands (Islas Malvinas)
+FO,Faroe Islands
+GF,French Guiana
+GG,Guernsey
+GI,Gibraltar
+GL,Greenland
+GN,Guinea
+GP,Guadeloupe
+GS,South Georgia and South Sandwich Islands
+GU,Guam
+HK,Hong Kong
+HM,Heard Island and McDonald Islands
+IM,Isle of Man
+JE,Jersey
+KE,Kenya
+KI,Kiribati
+KZ,Kazakhstan
+LT,Lithuania
+LU,Luxembourg
+LV,Latvia
+LY,Libya
+MA,Morocco
+MD,Moldova
+MF,Saint Martin
+MH,Marshall Islands
+MK,Macedonia, Republic of
+MO,Macao
+MP,Northern Mariana Islands
+MQ,Martinique
+MS,Montserrat
+MT,Malta
+NC,New Caledonia
+NF,Norfolk Island
+NU,Niue
+PF,French Polynesia
+PM,Saint Pierre and Miquelon
+PN,Pitcairn
+RE,Réunion
+SX,Sint Maarten (Dutch part)
+TK,Tokelau
+UO,United Kingdom Overseas Territories

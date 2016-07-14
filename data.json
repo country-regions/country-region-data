@@ -8248,349 +8248,288 @@
     "countryShortCode":"MK",
     "regions":[
       {
-        "name":"Aracinovo"
+        "name":"Aračinovo",
+        "shortCode":"02"
       },
       {
-        "name":"Bac"
+        "name":"Berovo",
+        "shortCode":"03"
       },
       {
-        "name":"Belcista"
+        "name":"Bitola",
+        "shortCode":"04"
       },
       {
-        "name":"Berovo"
+        "name":"Bogdanci",
+        "shortCode":"05"
       },
       {
-        "name":"Bistrica"
+        "name":"Bogovinje",
+        "shortCode":"06"
       },
       {
-        "name":"Bitola"
+        "name":"Bosilovo",
+        "shortCode":"07"
       },
       {
-        "name":"Blatec"
+        "name":"Brvenica",
+        "shortCode":"08"
       },
       {
-        "name":"Bogdanci"
+        "name":"Centar Župa",
+        "shortCode":"78"
       },
       {
-        "name":"Bogomila"
+        "name":"Čaška",
+        "shortCode":"80"
       },
       {
-        "name":"Bogovinje"
+        "name":"Češinovo-Obleševo",
+        "shortCode":"81"
       },
       {
-        "name":"Bosilovo"
+        "name":"Čučer Sandevo",
+        "shortCode":"82"
       },
       {
-        "name":"Brvenica"
+        "name":"Debar",
+        "shortCode":"21"
       },
       {
-        "name":"Cair (Skopje)"
+        "name":"Debarca",
+        "shortCode":"22"
       },
       {
-        "name":"Capari"
+        "name":"Delčevo",
+        "shortCode":"23"
       },
       {
-        "name":"Caska"
+        "name":"Demir Hisar",
+        "shortCode":"25"
       },
       {
-        "name":"Cegrane"
+        "name":"Demir Kapija",
+        "shortCode":"24"
       },
       {
-        "name":"Centar (SkopjeZupa"
+        "name":"Dojran",
+        "shortCode":"26"
       },
       {
-        "name":"Cesinovo"
+        "name":"Dolneni",
+        "shortCode":"27"
       },
       {
-        "name":"Cucer-Sandevo"
+        "name":"Gevgelija",
+        "shortCode":"18"
       },
       {
-        "name":"Debar"
+        "name":"Gostivar",
+        "shortCode":"19"
       },
       {
-        "name":"Delcevo"
+        "name":"Gradsko",
+        "shortCode":"20"
       },
       {
-        "name":"Delogozdi"
+        "name":"Ilinden",
+        "shortCode":"34"
       },
       {
-        "name":"Demir Hisar"
+        "name":"Jegunovce",
+        "shortCode":"35"
       },
       {
-        "name":"Demir Kapija"
+        "name":"Karbinci",
+        "shortCode":"37"
       },
       {
-        "name":"Dobrusevo"
+        "name":"Kavadarci",
+        "shortCode":"36"
       },
       {
-        "name":"Dolna Banjica"
+        "name":"Kičevo",
+        "shortCode":"40"
       },
       {
-        "name":"Dolneni"
+        "name":"Kočani",
+        "shortCode":"42"
       },
       {
-        "name":"Dorce Petrov (Skopje)Dzepciste"
+        "name":"Konče",
+        "shortCode":"41"
       },
       {
-        "name":"Gazi Baba (Skopje)"
+        "name":"Kratovo",
+        "shortCode":"43"
       },
       {
-        "name":"Gevgelija"
+        "name":"Kriva Palanka",
+        "shortCode":"44"
       },
       {
-        "name":"Gostivar"
+        "name":"Krivogaštani",
+        "shortCode":"45"
       },
       {
-        "name":"Gradsko"
+        "name":"Kruševo",
+        "shortCode":"46"
       },
       {
-        "name":"Ilinden"
+        "name":"Kumanovo",
+        "shortCode":"47"
       },
       {
-        "name":"Izvor"
+        "name":"Lipkovo",
+        "shortCode":"48"
       },
       {
-        "name":"Jegunovce"
+        "name":"Lozovo",
+        "shortCode":"49"
       },
       {
-        "name":"Kamenjane"
+        "name":"Makedonska Kamenica",
+        "shortCode":"51"
       },
       {
-        "name":"Karbinci"
+        "name":"Makedonski Brod",
+        "shortCode":"52"
       },
       {
-        "name":"Karpos (Skopje)"
+        "name":"Mavrovo i Rostuša",
+        "shortCode":"50"
       },
       {
-        "name":"Kavadarci"
+        "name":"Mogila",
+        "shortCode":"53"
       },
       {
-        "name":"Kicevo"
+        "name":"Negotino",
+        "shortCode":"54"
       },
       {
-        "name":"Kisela Voda (lecevce"
+        "name":"Novaci",
+        "shortCode":"55"
       },
       {
-        "name":"Kocani"
+        "name":"Novo Selo",
+        "shortCode":"56"
       },
       {
-        "name":"Konce"
+        "name":"Ohrid",
+        "shortCode":"58"
       },
       {
-        "name":"Kondovo"
+        "name":"Pehčevo",
+        "shortCode":"60"
       },
       {
-        "name":"Konopiste"
+        "name":"Petrovec",
+        "shortCode":"59"
       },
       {
-        "name":"Kosel"
+        "name":"Plasnica",
+        "shortCode":"61"
       },
       {
-        "name":"Kratovo"
+        "name":"Prilep",
+        "shortCode":"62"
       },
       {
-        "name":"Kriva rivogastani"
+        "name":"Probištip",
+        "shortCode":"63"
       },
       {
-        "name":"Krusevo"
+        "name":"Radoviš",
+        "shortCode":"64"
       },
       {
-        "name":"Kuklis"
+        "name":"Rankovce",
+        "shortCode":"65"
       },
       {
-        "name":"Kukurecani"
+        "name":"Resen",
+        "shortCode":"66"
       },
       {
-        "name":"Kumanovo"
+        "name":"Rosoman",
+        "shortCode":"67"
       },
       {
-        "name":"Labunista"
+        "name":"Skopje",
+        "shortCode":"85"
       },
       {
-        "name":"Lipkovo"
+        "name":"Sopište",
+        "shortCode":"70"
       },
       {
-        "name":"Lozovo"
+        "name":"Staro Nagoričane",
+        "shortCode":"71"
       },
       {
-        "name":"Lukovo"
+        "name":"Struga",
+        "shortCode":"72"
       },
       {
-        "name":"Makedonska Kamenica"
+        "name":"Strumica",
+        "shortCode":"73"
       },
       {
-        "name":"Makedonski Brod"
+        "name":"Studeničani",
+        "shortCode":"74"
       },
       {
-        "name":"Mavrovi eista"
+        "name":"Sveti Nikole",
+        "shortCode":"69"
       },
       {
-        "name":"Miravci"
+        "name":"Štip",
+        "shortCode":"83"
       },
       {
-        "name":"Mogila"
+        "name":"Tearce",
+        "shortCode":"75"
       },
       {
-        "name":"Murtino"
+        "name":"Tetovo",
+        "shortCode":"76"
       },
       {
-        "name":"Negotino"
+        "name":"Valandovo",
+        "shortCode":"10"
       },
       {
-        "name":"Negotino-Poloska"
+        "name":"Vasilevo",
+        "shortCode":"11"
       },
       {
-        "name":"Novaci"
+        "name":"Veles",
+        "shortCode":"13"
       },
       {
-        "name":"Novo Selo"
+        "name":"Vevčani",
+        "shortCode":"12"
       },
       {
-        "name":"Oblesevo"
+        "name":"Vinica",
+        "shortCode":"14"
       },
       {
-        "name":"Ohrid"
+        "name":"Vrapčište",
+        "shortCode":"16"
       },
       {
-        "name":"Orasac"
+        "name":"Zelenikovo",
+        "shortCode":"32"
       },
       {
-        "name":"Orizari"
+        "name":"Zrnovci",
+        "shortCode":"33"
       },
       {
-        "name":"Oslomej"
-      },
-      {
-        "name":"Pehcevo"
-      },
-      {
-        "name":"Petrovec"
-      },
-      {
-        "name":"Plasnia"
-      },
-      {
-        "name":"Podares"
-      },
-      {
-        "name":"Prilepp"
-      },
-      {
-        "name":"Radovis"
-      },
-      {
-        "name":"Rankovce"
-      },
-      {
-        "name":"Resen"
-      },
-      {
-        "name":"Rosoman"
-      },
-      {
-        "name":"Rostusa"
-      },
-      {
-        "name":"Samokov"
-      },
-      {
-        "name":"Saraj"
-      },
-      {
-        "name":"Sipkovica"
-      },
-      {
-        "name":"Sopiste"
-      },
-      {
-        "name":"Sopotnika"
-      },
-      {
-        "name":"Srbinovo"
-      },
-      {
-        "name":"Star Dojran"
-      },
-      {
-        "name":"Staravina"
-      },
-      {
-        "name":"Staro e"
-      },
-      {
-        "name":"Stip"
-      },
-      {
-        "name":"Struga"
-      },
-      {
-        "name":"Strumica"
-      },
-      {
-        "name":"Studenicani"
-      },
-      {
-        "name":"Suto Orizari (Skopje)"
-      },
-      {
-        "name":"Sveti Nikole"
-      },
-      {
-        "name":"Tearce"
-      },
-      {
-        "name":"Tetovo"
-      },
-      {
-        "name":"Topolcani"
-      },
-      {
-        "name":"Valandovo"
-      },
-      {
-        "name":"Vasilevo"
-      },
-      {
-        "name":"Veles"
-      },
-      {
-        "name":"Velesta"
-      },
-      {
-        "name":"Vevcani"
-      },
-      {
-        "name":"Vinica"
-      },
-      {
-        "name":"Vitolistica"
-      },
-      {
-        "name":"Vrapciste"
-      },
-      {
-        "name":"Vratnica"
-      },
-      {
-        "name":"Vrutok"
-      },
-      {
-        "name":"Zajas"
-      },
-      {
-        "name":"Zelenikovo"
-      },
-      {
-        "name":"Zileno"
-      },
-      {
-        "name":"Zitose"
-      },
-      {
-        "name":"Zletovo"
-      },
-      {
-        "name":"Zrnovci"
+        "name":"Želino",
+        "shortCode":"30"
       }
     ]
   },

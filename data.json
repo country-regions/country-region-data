@@ -4694,31 +4694,28 @@
     "countryShortCode":"FO",
     "regions":[
       {
-        "name":"Bordoy"
+        "name":"Norderoyerne",
+        "shortCode":"NO"
       },
       {
-        "name":"Eysturoy"
+        "name":"Eysturoy",
+        "shortCode":"OS"
       },
       {
-        "name":"Mykines"
+        "name":"Sandoy",
+        "shortCode":"SA"
       },
       {
-        "name":"Sandoy"
+        "name":"Streymoy",
+        "shortCode":"ST"
       },
       {
-        "name":"Skuvoy"
+        "name":"Suduroy",
+        "shortCode":"SU"
       },
       {
-        "name":"Streymoy"
-      },
-      {
-        "name":"Suduroy"
-      },
-      {
-        "name":"Tvoroyri"
-      },
-      {
-        "name":"Vagar"
+        "name":"Vagar",
+        "shortCode":"VG"
       }
     ]
   },

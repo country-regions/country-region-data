@@ -1,17 +1,16 @@
 GL,Greenland
-GN,Guinea
-JE,Jersey
 KE,Kenya
-KI,Kiribati
 KZ,Kazakhstan
+GN,Guinea
 LT,Lithuania
 LU,Luxembourg
 LV,Latvia
 LY,Libya
 MA,Morocco
 MD,Moldova
+JE,Jersey
+KI,Kiribati
 MP,Northern Mariana Islands
-MQ,Martinique
 MS,Montserrat
 MT,Malta
 PF,French Polynesia
@@ -19,4 +18,3 @@ PM,Saint Pierre and Miquelon
 RE,Réunion
 SX,Sint Maarten (Dutch part)
 TK,Tokelau
-UO,United Kingdom Overseas Territories

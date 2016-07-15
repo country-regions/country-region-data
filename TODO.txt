@@ -1,17 +1,6 @@
-// Regions that need ISO3166-2 codes (please update when you add): 42
-// http://en.wikipedia.org/wiki/ISO_3166-2
-CK,Cook Islands
-FK,Falkland Islands (Islas Malvinas)
-FO,Faroe Islands
-GF,French Guiana
-GG,Guernsey
-GI,Gibraltar
 GL,Greenland
 GN,Guinea
-GP,Guadeloupe
 GS,South Georgia and South Sandwich Islands
-GU,Guam
-HK,Hong Kong
 HM,Heard Island and McDonald Islands
 IM,Isle of Man
 JE,Jersey
@@ -26,7 +15,6 @@ MA,Morocco
 MD,Moldova
 MF,Saint Martin
 MH,Marshall Islands
-MK,Macedonia, Republic of
 MO,Macao
 MP,Northern Mariana Islands
 MQ,Martinique

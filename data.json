@@ -5444,19 +5444,12 @@
     "countryShortCode":"GP",
     "regions":[
       {
-        "name":"Basse-Terre"
+        "name":"Basse-Terre",
+        "shortCode":"BT"
       },
       {
-        "name":"Grande-Terre"
-      },
-      {
-        "name":"Iles de la Petite Terre"
-      },
-      {
-        "name":"Iles des Saintes"
-      },
-      {
-        "name":"Marie-Galante"
+        "name":"Pointe-à-Pitre",
+        "shortCode":"PP"
       }
     ]
   },

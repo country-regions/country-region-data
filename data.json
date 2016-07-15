@@ -6764,7 +6764,28 @@
     "countryShortCode":"IM",
     "regions":[
       {
-        "name":"Isle of Man"
+        "name":"Ayre",
+        "shortCode":"AY"
+      },
+      {
+        "name":"Garff",
+        "shortCode":"GR"
+      },
+      {
+        "name":"Glenfaba",
+        "shortCode":"GB"
+      },
+      {
+        "name":"Michael",
+        "shortCode":"MC"
+      },
+      {
+        "name":"Middle",
+        "shortCode":"MD"
+      },
+      {
+        "name":"Rushen",
+        "shortCode":"RU"
       }
     ]
   },

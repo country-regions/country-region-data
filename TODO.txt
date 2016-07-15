@@ -19,7 +19,6 @@ MS,Montserrat
 MT,Malta
 PF,French Polynesia
 PM,Saint Pierre and Miquelon
-PN,Pitcairn
 RE,Réunion
 SX,Sint Maarten (Dutch part)
 TK,Tokelau

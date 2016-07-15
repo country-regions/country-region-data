@@ -9014,7 +9014,20 @@
     "countryShortCode":"MQ",
     "regions":[
       {
-        "name":"Martinique"
+        "name":"Fort-de-France",
+        "shortCode":"FF"
+      },
+      {
+        "name":"Marin",
+        "shortCode":"MA"
+      },
+      {
+        "name":"Saint-Pierre",
+        "shortCode":"SP"
+      },
+      {
+        "name":"Trinité",
+        "shortCode":"TR"
       }
     ]
   },

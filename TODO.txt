@@ -1,8 +1,5 @@
 GL,Greenland
 GN,Guinea
-GS,South Georgia and South Sandwich Islands
-HM,Heard Island and McDonald Islands
-IM,Isle of Man
 JE,Jersey
 KE,Kenya
 KI,Kiribati

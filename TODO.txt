@@ -13,7 +13,6 @@ LV,Latvia
 LY,Libya
 MA,Morocco
 MD,Moldova
-MO,Macao
 MP,Northern Mariana Islands
 MQ,Martinique
 MS,Montserrat

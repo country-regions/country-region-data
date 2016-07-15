@@ -8232,7 +8232,12 @@
     "countryShortCode":"MO",
     "regions":[
       {
-        "name":"Macao"
+        "name":"Macao",
+        "shortcode":"01"
+      },
+      {
+        "name":"Ilhas",
+        "shortCode":"02"
       }
     ]
   },

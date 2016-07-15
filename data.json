@@ -8886,97 +8886,100 @@
     "countryShortCode":"MH",
     "regions":[
       {
-        "name":"Ailinginae"
+        "name":"Ailinglaplap",
+        "shortCode":"ALL"
       },
       {
-        "name":"Ailinglaplap"
+        "name":"Ailuk",
+        "shortCode":"ALK"
       },
       {
-        "name":"Ailuk"
+        "name":"Arno",
+        "shortCode":"ARN"
       },
       {
-        "name":"Arno"
+        "name":"Aur",
+        "shortCode":"AUR"
       },
       {
-        "name":"Aur"
+        "name":"Bikini and Kili",
+        "shortCode":"KIL"
       },
       {
-        "name":"Bikar"
+        "name":"Ebon",
+        "shortCode":"EBO"
       },
       {
-        "name":"Bikini"
+        "name":"Enewetak and Ujelang",
+        "shortCode":"ENI"
       },
       {
-        "name":"Bokak"
+        "name":"Jabat",
+        "shortCode":"JAB"
       },
       {
-        "name":"Ebon"
+        "name":"Jaluit",
+        "shortCode":"JAL"
       },
       {
-        "name":"Enewetak"
+        "name":"Kwajalein",
+        "shortCode":"KWA"
       },
       {
-        "name":"Erikub"
+        "name":"Lae",
+        "shortCode":"LAE"
       },
       {
-        "name":"Jabat"
+        "name":"Lib",
+        "shortCode":"LIB"
       },
       {
-        "name":"Jaluit"
+        "name":"Likiep",
+        "shortCode":"LIK"
       },
       {
-        "name":"Jemo"
+        "name":"Majuro",
+        "shortCode":"MAJ"
       },
       {
-        "name":"Kili"
+        "name":"Maloelap",
+        "shortCode":"MAL"
       },
       {
-        "name":"Kwajalein"
+        "name":"Mejit",
+        "shortCode":"MEJ"
       },
       {
-        "name":"Lae"
+        "name":"Mili",
+        "shortCode":"MIL"
       },
       {
-        "name":"Lib"
+        "name":"Namdrik",
+        "shortCode":"NMK"
       },
       {
-        "name":"Likiep"
+        "name":"Namu",
+        "shortCode":"NMU"
       },
       {
-        "name":"Majuro"
+        "name":"Rongelap",
+        "shortCode":"RON"
       },
       {
-        "name":"Maloelap"
+        "name":"Ujae",
+        "shortCode":"UJA"
       },
       {
-        "name":"Mejitorik"
+        "name":"Utrik",
+        "shortCode":"UTI"
       },
       {
-        "name":"Namu"
+        "name":"Wotho",
+        "shortCode":"WTH"
       },
       {
-        "name":"Rongelap"
-      },
-      {
-        "name":"Rongrik"
-      },
-      {
-        "name":"Toke"
-      },
-      {
-        "name":"Ujae"
-      },
-      {
-        "name":"Ujelang"
-      },
-      {
-        "name":"Utirik"
-      },
-      {
-        "name":"Wotho"
-      },
-      {
-        "name":"Wotje"
+        "name":"Wotje",
+        "shortCode":"WTJ"
       }
     ]
   },

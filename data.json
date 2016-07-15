@@ -1656,32 +1656,32 @@
     "countryShortCode":"BY",
     "regions":[
       {
-        "name":"Brest voblast",
+        "name":"Brest Region",
         "shortCode":"BR"
       },
       {
-        "name":"Gorod Minsk",
+        "name":"Gomel Region",
         "shortCode":"HO"
       },
       {
-        "name":"Homiel voblast",
-        "shortCode":"HO"
-      },
-      {
-        "name":"Hrodna voblast",
+        "name":"Grodno Region",
         "shortCode":"HR"
       },
       {
-        "name":"Mahilyow voblast",
+        "name":"Mogilev Region",
         "shortCode":"MA"
       },
       {
-        "name":"Minsk voblast",
+        "name":"Minsk Region",
         "shortCode":"MI"
       },
       {
-        "name":"Vitsebsk voblast",
+        "name":"Vitebsk Region",
         "shortCode":"VI"
+      },
+      {
+        "name":"City of Minsk",
+        "shortCode":"HM"
       }
     ]
   },

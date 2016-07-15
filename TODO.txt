@@ -17,9 +17,6 @@ MP,Northern Mariana Islands
 MQ,Martinique
 MS,Montserrat
 MT,Malta
-NC,New Caledonia
-NF,Norfolk Island
-NU,Niue
 PF,French Polynesia
 PM,Saint Pierre and Miquelon
 PN,Pitcairn

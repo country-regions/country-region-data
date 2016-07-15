@@ -10153,13 +10153,16 @@
     "countryShortCode":"NC",
     "regions":[
       {
-        "name":"Iles Loyaute"
+        "name":"Îles Loyauté",
+        "shortCode":"IL"
       },
       {
-        "name":"Nord"
+        "name":"Nord",
+        "shortCode":"NO"
       },
       {
-        "name":"Sud"
+        "name":"Sud",
+        "shortCode":"SU"
       }
     ]
   },

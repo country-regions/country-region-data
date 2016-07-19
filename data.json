@@ -4177,39 +4177,43 @@
     "countryShortCode":"DO",
     "regions":[
       {
-        "name":"Cibao Central",
-        "shortCode":"02"
+        "name":"Cibao Nordeste",
+        "shortCode":"33"
       },
       {
-        "name":"Del Valle",
+        "name":"Cibao Noroeste",
+        "shortCode":"34"
+      },
+      {
+        "name":"Cibao Norte",
+        "shortCode":"35"
+      },
+      {
+        "name":"Cibao Sur",
+        "shortCode":"36"
+      },
+      {
+        "name":"El Valle",
         "shortCode":"37"
-      },
-      {
-        "name":"Distrito Nacional",
-        "shortCode":"01"
       },
       {
         "name":"Enriquillo",
         "shortCode":"38"
       },
       {
-        "name":"Norcentral",
-        "shortCode":"04"
+        "name":"Higuamo",
+        "shortCode":"39"
       },
       {
-        "name":"Nordeste",
-        "shortCode":"34"
-      },
-      {
-        "name":"Noroeste",
-        "shortCode":"34"
-      },
-      {
-        "name":"Norte",
-        "shortCode":"35"
+        "name":"Ozama",
+        "shortCode":"40"
       },
       {
         "name":"Valdesia",
+        "shortCode":"41"
+      },
+      {
+        "name":"Yuma",
         "shortCode":"42"
       }
     ]

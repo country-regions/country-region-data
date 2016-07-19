@@ -13374,11 +13374,11 @@
     "countryShortCode":"SI",
     "regions":[
       {
-        "name":"Ajdovscina",
+        "name":"Ajdovščina",
         "shortCode":"001"
       },
       {
-        "name":"Apace",
+        "name":"Apače",
         "shortCode":"195"
       },
       {
@@ -13414,7 +13414,7 @@
         "shortCode":"006"
       },
       {
-        "name":"Braslovce",
+        "name":"Braslovče",
         "shortCode":"151"
       },
       {
@@ -13422,7 +13422,7 @@
         "shortCode":"007"
       },
       {
-        "name":"Brezice",
+        "name":"Brežice",
         "shortCode":"009"
       },
       {
@@ -13458,15 +13458,15 @@
         "shortCode":"196"
       },
       {
-        "name":"Crensovci",
+        "name":"Črenšovci",
         "shortCode":"015"
       },
       {
-        "name":"Crna na Koroskem",
+        "name":"Črna na Koroškem",
         "shortCode":"016"
       },
       {
-        "name":"Crnomelj",
+        "name":"Črnomelj",
         "shortCode":"017"
       },
       {
@@ -13474,7 +13474,7 @@
         "shortCode":"018"
       },
       {
-        "name":"Divaca",
+        "name":"Divača",
         "shortCode":"019"
       },
       {
@@ -13490,7 +13490,7 @@
         "shortCode":"155"
       },
       {
-        "name":"Dobrova-Polhov Gradec",
+        "name":"Dobrova–Polhov Gradec",
         "shortCode":"021"
       },
       {
@@ -13498,15 +13498,15 @@
         "shortCode":"156"
       },
       {
-        "name":"Dol pri Ljubljani",
-        "shortCode":"022"
-      },
-      {
         "name":"Dolenjske Toplice",
         "shortCode":"157"
       },
       {
-        "name":"Domzale",
+        "name":"Dol pri Ljubljani",
+        "shortCode":"022"
+      },
+      {
+        "name":"Domžale",
         "shortCode":"023"
       },
       {
@@ -13522,11 +13522,11 @@
         "shortCode":"026"
       },
       {
-        "name":"Gorenja Vas-Poljane",
+        "name":"Gorenja vas–Poljane",
         "shortCode":"027"
       },
       {
-        "name":"Gorisnica",
+        "name":"Gorišnica",
         "shortCode":"028"
       },
       {
@@ -13558,11 +13558,11 @@
         "shortCode":"159"
       },
       {
-        "name":"Hoce-Slivnica",
+        "name":"Hoče–Slivnica",
         "shortCode":"160"
       },
       {
-        "name":"Hodos",
+        "name":"Hodoš",
         "shortCode":"161"
       },
       {
@@ -13590,7 +13590,7 @@
         "shortCode":"038"
       },
       {
-        "name":"Ivancna Gorica",
+        "name":"Ivančna Gorica",
         "shortCode":"039"
       },
       {
@@ -13602,7 +13602,11 @@
         "shortCode":"041"
       },
       {
-        "name":"Jursinci",
+        "name":"Jezersko",
+        "shortCode":"163"
+      },
+      {
+        "name":"Juršinci",
         "shortCode":"042"
       },
       {
@@ -13614,7 +13618,7 @@
         "shortCode":"044"
       },
       {
-        "name":"Kidricevo",
+        "name":"Kidričevo",
         "shortCode":"045"
       },
       {
@@ -13626,7 +13630,7 @@
         "shortCode":"047"
       },
       {
-        "name":"Kocevje",
+        "name":"Kočevje",
         "shortCode":"048"
       },
       {
@@ -13642,7 +13646,7 @@
         "shortCode":"050"
       },
       {
-        "name":"Kodanjevica na Krki",
+        "name":"Kosanjevica na Krki",
         "shortCode":"197"
       },
       {
@@ -13662,11 +13666,11 @@
         "shortCode":"053"
       },
       {
-        "name":"Krizevci",
+        "name":"Križevci",
         "shortCode":"166"
       },
       {
-        "name":"Krsko",
+        "name":"Krško",
         "shortCode":"054"
       },
       {
@@ -13678,7 +13682,7 @@
         "shortCode":"056"
       },
       {
-        "name":"Lasko",
+        "name":"Laško",
         "shortCode":"057"
       },
       {
@@ -13691,7 +13695,7 @@
       },
       {
         "name":"Litija",
-        "shortCode":"068"
+        "shortCode":"060"
       },
       {
         "name":"Ljubljana",
@@ -13706,19 +13710,19 @@
         "shortCode":"063"
       },
       {
-        "name":"Log-Dragomer",
-        "shortCode":"208"
-      },
-      {
         "name":"Logatec",
         "shortCode":"064"
       },
       {
-        "name":"Loska Dolina",
+        "name":"Log-Dragomer",
+        "shortCode":"208"
+      },
+      {
+        "name":"Loška Dolina",
         "shortCode":"065"
       },
       {
-        "name":"Loski Potok",
+        "name":"Loški Potok",
         "shortCode":"066"
       },
       {
@@ -13726,15 +13730,15 @@
         "shortCode":"167"
       },
       {
+        "name":"Luče",
+        "shortCode":"067"
+      },
+      {
         "name":"Lukovica",
         "shortCode":"068"
       },
       {
-        "name":"Luce",
-        "shortCode":"067"
-      },
-      {
-        "name":"Majsperk",
+        "name":"Majšperk",
         "shortCode":"069"
       },
       {
@@ -13754,7 +13758,7 @@
         "shortCode":"071"
       },
       {
-        "name":"Menges",
+        "name":"Mengeš",
         "shortCode":"072"
       },
       {
@@ -13762,15 +13766,15 @@
         "shortCode":"073"
       },
       {
-        "name":"Mezica",
+        "name":"Mežica",
         "shortCode":"074"
       },
       {
-        "name":"Miklavz na Dravskem Polju",
+        "name":"Miklavž na Dravskem Polju",
         "shortCode":"169"
       },
       {
-        "name":"Miren-Kostanjevica",
+        "name":"Miren–Kostanjevica",
         "shortCode":"075"
       },
       {
@@ -13778,7 +13782,7 @@
         "shortCode":"212"
       },
       {
-        "name":"Mirna Pec",
+        "name":"Mirna Peč",
         "shortCode":"170"
       },
       {
@@ -13786,11 +13790,11 @@
         "shortCode":"076"
       },
       {
-        "name":"Mokronog-Trebelno",
+        "name":"Mokronog–Trebelno",
         "shortCode":"199"
       },
       {
-        "name":"Moravce",
+        "name":"Moravče",
         "shortCode":"077"
       },
       {
@@ -13804,6 +13808,10 @@
       {
         "name":"Murska Sobota",
         "shortCode":"080"
+      },
+      {
+        "name":"Muta",
+        "shortCode":"081"
       },
       {
         "name":"Naklo",
@@ -13826,7 +13834,11 @@
         "shortCode":"086"
       },
       {
-        "name":"Ormoz",
+        "name":"Oplotnica",
+        "shortCode":"171"
+      },
+      {
+        "name":"Ormož",
         "shortCode":"087"
       },
       {
@@ -13846,7 +13858,7 @@
         "shortCode":"091"
       },
       {
-        "name":"Podcetrtek",
+        "name":"Podčetrtek",
         "shortCode":"092"
       },
       {
@@ -13858,8 +13870,12 @@
         "shortCode":"093"
       },
       {
-        "name":"Poljcane",
+        "name":"Poljčane",
         "shortCode":"200"
+      },
+      {
+        "name":"Polzela",
+        "shortCode":"173"
       },
       {
         "name":"Postojna",
@@ -13882,11 +13898,15 @@
         "shortCode":"096"
       },
       {
-        "name":"Race-Fram",
+        "name":"Puconci",
+        "shortCode":"097"
+      },
+      {
+        "name":"Rače–Fram",
         "shortCode":"098"
       },
       {
-        "name":"Radece",
+        "name":"Radeče",
         "shortCode":"099"
       },
       {
@@ -13902,19 +13922,19 @@
         "shortCode":"102"
       },
       {
-        "name":"Ravne na Koroskem",
+        "name":"Ravne na Koroškem",
         "shortCode":"103"
       },
       {
-        "name":"Razkrizje",
+        "name":"Razkrižje",
         "shortCode":"176"
       },
       {
-        "name":"Recica ob Savinji",
+        "name":"Rečica ob Savinji",
         "shortCode":"209"
       },
       {
-        "name":"Rence-Vogrsko",
+        "name":"Renče-Vogrsko",
         "shortCode":"201"
       },
       {
@@ -13922,15 +13942,15 @@
         "shortCode":"104"
       },
       {
-        "name":"Ribnica na Poboriu",
+        "name":"Ribnica na Pohorju",
         "shortCode":"177"
       },
       {
-        "name":"Rogaska Slatina",
+        "name":"Rogaška Slatina",
         "shortCode":"106"
       },
       {
-        "name":"Rogasovci",
+        "name":"Rogašovci",
         "shortCode":"105"
       },
       {
@@ -13938,64 +13958,24 @@
         "shortCode":"107"
       },
       {
-        "name":"Ruse",
+        "name":"Ruše",
         "shortCode":"108"
-      },
-      {
-        "name":"Salovci",
-        "shortCode":"033"
       },
       {
         "name":"Selnica ob Dravi",
         "shortCode":"178"
       },
       {
-        "name":"Semic",
+        "name":"Semič",
         "shortCode":"109"
-      },
-      {
-        "name":"Sempeter-Vrtojba",
-        "shortCode":"183"
-      },
-      {
-        "name":"Sencur",
-        "shortCode":"117"
-      },
-      {
-        "name":"Sentilj",
-        "shortCode":"118"
-      },
-      {
-        "name":"Sentjernej",
-        "shortCode":"119"
-      },
-      {
-        "name":"Sentjur",
-        "shortCode":"120"
-      },
-      {
-        "name":"Sentrupert",
-        "shortCode":"211"
       },
       {
         "name":"Sevnica",
         "shortCode":"110"
       },
       {
-        "name":"Sezana",
+        "name":"Sežana",
         "shortCode":"111"
-      },
-      {
-        "name":"Skocjan",
-        "shortCode":"121"
-      },
-      {
-        "name":"Skofja Loka",
-        "shortCode":"122"
-      },
-      {
-        "name":"Skofljica",
-        "shortCode":"123"
       },
       {
         "name":"Slovenj Gradec",
@@ -14010,47 +13990,23 @@
         "shortCode":"114"
       },
       {
-        "name":"Smarje pri elsah",
-        "shortCode":"124"
-      },
-      {
-        "name":"Smarjeske Toplice",
-        "shortCode":"206"
-      },
-      {
-        "name":"Smartno ob Paki",
-        "shortCode":"125"
-      },
-      {
-        "name":"Smartno pri Litiji",
-        "shortCode":"194"
-      },
-      {
-        "name":"Sodrazica",
+        "name":"Sodražica",
         "shortCode":"179"
       },
       {
-        "name":"Solcava",
+        "name":"Solčava",
         "shortCode":"180"
       },
       {
-        "name":"Sostanj",
-        "shortCode":"126"
-      },
-      {
-        "name":"Sredisce ob Dravi",
+        "name":"Središče ob Dravi",
         "shortCode":"202"
       },
       {
-        "name":"Starse",
+        "name":"Starše",
         "shortCode":"115"
       },
       {
-        "name":"Store",
-        "shortCode":"127"
-      },
-      {
-        "name":"Straza",
+        "name":"Straža",
         "shortCode":"203"
       },
       {
@@ -14062,7 +14018,7 @@
         "shortCode":"204"
       },
       {
-        "name":"Sveta Andraz v Slovenskih Goricah",
+        "name":"Sveti Andraž v Slovenskih Goricah",
         "shortCode":"182"
       },
       {
@@ -14074,16 +14030,80 @@
         "shortCode":"210"
       },
       {
-        "name":"Sveti Tomaz",
+        "name":"Sveti Tomaž",
         "shortCode":"205"
+      },
+      {
+        "name":"Šalovci",
+        "shortCode":"033"
+      },
+      {
+        "name":"Šempeter–Vrtojba",
+        "shortCode":"183"
+      },
+      {
+        "name":"Šenčur",
+        "shortCode":"117"
+      },
+      {
+        "name":"Šentilj",
+        "shortCode":"118"
+      },
+      {
+        "name":"Šentjernej",
+        "shortCode":"119"
+      },
+      {
+        "name":"Šentjur",
+        "shortCode":"120"
+      },
+      {
+        "name":"Šentrupert",
+        "shortCode":"211"
+      },
+      {
+        "name":"Škocjan",
+        "shortCode":"121"
+      },
+      {
+        "name":"Škofja Loka",
+        "shortCode":"122"
+      },
+      {
+        "name":"Škofljica",
+        "shortCode":"123"
+      },
+      {
+        "name":"Šmarje pri Jelšah",
+        "shortCode":"124"
+      },
+      {
+        "name":"Šmarješke Toplice",
+        "shortCode":"206"
+      },
+      {
+        "name":"Šmartno ob Paki",
+        "shortCode":"125"
+      },
+      {
+        "name":"Šmartno pri Litiji",
+        "shortCode":"194"
+      },
+      {
+        "name":"Šoštanj",
+        "shortCode":"126"
+      },
+      {
+        "name":"Štore",
+        "shortCode":"127"
       },
       {
         "name":"Tabor",
         "shortCode":"184"
       },
       {
-        "name":"Tisina",
-        "shortCode":"128"
+        "name":"Tišina",
+        "shortCode":"010"
       },
       {
         "name":"Tolmin",
@@ -14106,11 +14126,11 @@
         "shortCode":"186"
       },
       {
-        "name":"Trzic",
+        "name":"Tržič",
         "shortCode":"131"
       },
       {
-        "name":"Turnisce",
+        "name":"Turnišče",
         "shortCode":"132"
       },
       {
@@ -14122,11 +14142,11 @@
         "shortCode":"187"
       },
       {
-        "name":"Velike Lasce",
+        "name":"Velike Lašče",
         "shortCode":"134"
       },
       {
-        "name":"Verzej",
+        "name":"Veržej",
         "shortCode":"188"
       },
       {
@@ -14166,35 +14186,35 @@
         "shortCode":"142"
       },
       {
-        "name":"Zavrc",
+        "name":"Zavrč",
         "shortCode":"143"
       },
       {
-        "name":"Zrece",
+        "name":"Zreče",
         "shortCode":"144"
       },
       {
-        "name":"Zalec",
+        "name":"Žalec",
         "shortCode":"190"
       },
       {
-        "name":"Zelezniki",
+        "name":"Železniki",
         "shortCode":"146"
       },
       {
-        "name":"Zetale",
+        "name":"Žetale",
         "shortCode":"191"
       },
       {
-        "name":"Ziri",
+        "name":"Žiri",
         "shortCode":"147"
       },
       {
-        "name":"Zirovnica",
+        "name":"Žirovnica",
         "shortCode":"192"
       },
       {
-        "name":"Zuzemberk",
+        "name":"Žužemberk",
         "shortCode":"193"
       }
     ]

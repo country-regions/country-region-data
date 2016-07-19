@@ -12262,36 +12262,12 @@
         "shortCode":"AD"
       },
       {
-        "name":"Altay (Gorno-Altaysk)",
+        "name":"Altay",
         "shortCode":"AL"
-      },
-      {
-        "name":"Altayskiy",
-        "shortCode":"ALT"
-      },
-      {
-        "name":"Amurskaya",
-        "shortCode":"AMU"
-      },
-      {
-        "name":"Arkhangel'skaya",
-        "shortCode":"ARK"
-      },
-      {
-        "name":"Astrakhanskaya",
-        "shortCode":"AST"
       },
       {
         "name":"Bashkortostan",
         "shortCode":"BA"
-      },
-      {
-        "name":"Belgorodskaya",
-        "shortCode":"BEL"
-      },
-      {
-        "name":"Bryanskaya",
-        "shortCode":"BRY"
       },
       {
         "name":"Buryatiya",
@@ -12300,14 +12276,6 @@
       {
         "name":"Chechenskaya",
         "shortCode":"CE"
-      },
-      {
-        "name":"Chelyabinskaya",
-        "shortCode":"CHE"
-      },
-      {
-        "name":"Chukotskiy",
-        "shortCode":"CHU"
       },
       {
         "name":"Chuvashskaya",
@@ -12322,15 +12290,7 @@
         "shortCode":"IN"
       },
       {
-        "name":"Irkutskaya",
-        "shortCode":"IRK"
-      },
-      {
-        "name":"Ivanovskaya",
-        "shortCode":"IVA"
-      },
-      {
-        "name":"Kabardino-Balkariya",
+        "name":"Kabardino-Balkarskaya",
         "shortCode":"KB"
       },
       {
@@ -12338,15 +12298,7 @@
         "shortCode":"KL"
       },
       {
-        "name":"Kaluzhskaya",
-        "shortCode":"KLU"
-      },
-      {
-        "name":"Kamchatskaya",
-        "shortCode":"KAM"
-      },
-      {
-        "name":"Karachayevo-Cherkesiya",
+        "name":"Karachayevo-Cherkesskaya",
         "shortCode":"KC"
       },
       {
@@ -12354,28 +12306,52 @@
         "shortCode":"KR"
       },
       {
-        "name":"Khabarovskiy",
-        "shortCode":"KHA"
-      },
-      {
         "name":"Khakasiya",
         "shortCode":"KK"
-      },
-      {
-        "name":"Khanty-Mansiyskiy",
-        "shortCode":"KHM"
-      },
-      {
-        "name":"Kirovskaya",
-        "shortCode":"KIR"
       },
       {
         "name":"Komi",
         "shortCode":"KO"
       },
       {
-        "name":"Kostromskaya",
-        "shortCode":"KOS"
+        "name":"Mariy El",
+        "shortCode":"ME"
+      },
+      {
+        "name":"Mordoviya",
+        "shortCode":"MO"
+      },
+      {
+        "name":"Sakha (Yakutiya)",
+        "shortCode":"SA"
+      },
+      {
+        "name":"Severnaya Osetiya-Alaniya",
+        "shortCode":"SE"
+      },
+      {
+        "name":"Tatarstan",
+        "shortCode":"TA"
+      },
+      {
+        "name":"Tyva [Tuva]",
+        "shortCode":"TY"
+      },
+      {
+        "name":"Udmurtskaya",
+        "shortCode":"UD"
+      },
+      {
+        "name":"Altayskiy",
+        "shortCode":"ALT"
+      },
+      {
+        "name":"Kamchatskiy",
+        "shortCode":"KAM"
+      },
+      {
+        "name":"Khabarovskiy",
+        "shortCode":"KHA"
       },
       {
         "name":"Krasnodarskiy",
@@ -12384,6 +12360,74 @@
       {
         "name":"Krasnoyarskiy",
         "shortCode":"KYA"
+      },
+      {
+        "name":"Permskiy",
+        "shortCode":"PER"
+      },
+      {
+        "name":"Primorskiy",
+        "shortCode":"PRI"
+      },
+      {
+        "name":"Stavropol'skiy",
+        "shortCode":"STA"
+      },
+      {
+        "name":"Zabaykal'skiy",
+        "shortCode":"ZAB"
+      },
+      {
+        "name":"Amurskaya",
+        "shortCode":"AMU"
+      },
+      {
+        "name":"Arkhangel'skaya",
+        "shortCode":"ARK"
+      },
+      {
+        "name":"Astrakhanskaya",
+        "shortCode":"AST"
+      },
+      {
+        "name":"Belgorodskaya",
+        "shortCode":"BEL"
+      },
+      {
+        "name":"Bryanskaya",
+        "shortCode":"BRY"
+      },
+      {
+        "name":"Chelyabinskaya",
+        "shortCode":"CHE"
+      },
+      {
+        "name":"Irkutskaya",
+        "shortCode":"IRK"
+      },
+      {
+        "name":"Ivanovskaya",
+        "shortCode":"IVA"
+      },
+      {
+        "name":"Kaliningradskaya",
+        "shortCode":"KGD"
+      },
+      {
+        "name":"Kaluzhskaya",
+        "shortCode":"KLU"
+      },
+      {
+        "name":"Kemerovskaya",
+        "shortCode":"KEM"
+      },
+      {
+        "name":"Kirovskaya",
+        "shortCode":"KIR"
+      },
+      {
+        "name":"Kostromskaya",
+        "shortCode":"KOS"
       },
       {
         "name":"Kurganskaya",
@@ -12406,28 +12450,12 @@
         "shortCode":"MAG"
       },
       {
-        "name":"Mariy-El",
-        "shortCode":"ME"
-      },
-      {
-        "name":"Mordoviya",
-        "shortCode":"MO"
-      },
-      {
         "name":"Moskovskaya",
         "shortCode":"MOS"
       },
       {
-        "name":"Moskva",
-        "shortCode":"MOW"
-      },
-      {
         "name":"Murmanskaya",
-        "shortCode":"MU"
-      },
-      {
-        "name":"Nenetskiy",
-        "shortCode":"NEN"
+        "shortCode":"MUR"
       },
       {
         "name":"Nizhegorodskaya",
@@ -12454,16 +12482,8 @@
         "shortCode":"ORL"
       },
       {
-        "name":"Permskiy",
-        "shortCode":"PER"
-      },
-      {
-        "name":"Permskaya",
-        "shortCode":"PER"
-      },
-      {
-        "name":"Primorskiy",
-        "shortCode":"PRI"
+        "name":"Penzenskaya",
+        "shortCode":"PNZ"
       },
       {
         "name":"Pskovskaya",
@@ -12478,10 +12498,6 @@
         "shortCode":"RYA"
       },
       {
-        "name":"Sakha (Yakutiya)",
-        "shortCode":"SA"
-      },
-      {
         "name":"Sakhalinskaya",
         "shortCode":"SAK"
       },
@@ -12490,24 +12506,12 @@
         "shortCode":"SAM"
       },
       {
-        "name":"Sankt-Peterburg",
-        "shortCode":"SPE"
-      },
-      {
         "name":"Saratovskaya",
         "shortCode":"SAR"
       },
       {
-        "name":"Severnaya Osetiya-Alaniya",
-        "shortCode":"SE"
-      },
-      {
         "name":"Smolenskaya",
         "shortCode":"SMO"
-      },
-      {
-        "name":"Stavropol'skiy",
-        "shortCode":"STA"
       },
       {
         "name":"Sverdlovskaya",
@@ -12516,10 +12520,6 @@
       {
         "name":"Tambovskaya",
         "shortCode":"TAM"
-      },
-      {
-        "name":"Tatarstan",
-        "shortCode":"TA"
       },
       {
         "name":"Tomskaya",
@@ -12536,14 +12536,6 @@
       {
         "name":"Tyumenskaya",
         "shortCode":"TYU"
-      },
-      {
-        "name":"Tyva",
-        "shortCode":"TY"
-      },
-      {
-        "name":"Udmurtskaya",
-        "shortCode":"UD"
       },
       {
         "name":"Ul'yanovskaya",
@@ -12566,20 +12558,36 @@
         "shortCode":"VOR"
       },
       {
-        "name":"Yamalo-Nenetskiy",
-        "shortCode":"YAN"
-      },
-      {
         "name":"Yaroslavskaya",
         "shortCode":"YAR"
       },
       {
-        "name":"Yevreyskaya",
+        "name":"Moskva",
+        "shortCode":"MOW"
+      },
+      {
+        "name":"Sankt-Peterburg",
+        "shortCode":"SPE"
+      },
+      {
+        "name":"Yevreyskaya ",
         "shortCode":"YEV"
       },
       {
-        "name":"Zabaykal'skiy",
-        "shortCode":"ZAB"
+        "name":"Chukotskiy",
+        "shortCode":"CHU"
+      },
+      {
+        "name":"Khanty-Mansiyskiy",
+        "shortCode":"KHM"
+      },
+      {
+        "name":"Nenetskiy",
+        "shortCode":"NEN"
+      },
+      {
+        "name":"Yamalo-Nenetskiy",
+        "shortCode":"YAN"
       }
     ]
   },

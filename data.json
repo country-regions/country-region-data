@@ -14466,20 +14466,24 @@
     "countryShortCode":"ES",
     "regions":[
       {
+        "name":"A Coruña",
+        "shortCode":"C"
+      },
+      {
+        "name":"Álava / Araba",
+        "shortCode":"VI"
+      },
+      {
         "name":"Albacete",
-        "shortCode":"CM"
+        "shortCode":"AB"
       },
       {
         "name":"Alicante",
-        "shortCode":"VC"
+        "shortCode":"A"
       },
       {
         "name":"Almería",
-        "shortCode":"AN"
-      },
-      {
-        "name":"Araba/Álava",
-        "shortCode":"VI"
+        "shortCode":"AL"
       },
       {
         "name":"Asturias",
@@ -14494,12 +14498,12 @@
         "shortCode":"BA"
       },
       {
-        "name":"Barcelona",
-        "shortCode":"B"
+        "name":"Balears",
+        "shortCode":"PM"
       },
       {
-        "name":"Bizkaia",
-        "shortCode":"BI"
+        "name":"Barcelona",
+        "shortCode":"B"
       },
       {
         "name":"Burgos",
@@ -14522,10 +14526,6 @@
         "shortCode":"CS"
       },
       {
-        "name":"Cueta",
-        "shortCode":"CU"
-      },
-      {
         "name":"Ciudad Real",
         "shortCode":"CR"
       },
@@ -14534,16 +14534,8 @@
         "shortCode":"CO"
       },
       {
-        "name":"A Coruña",
-        "shortCode":"C"
-      },
-      {
         "name":"Cuenca",
         "shortCode":"CU"
-      },
-      {
-        "name":"Gipuzkoa",
-        "shortCode":"SS"
       },
       {
         "name":"Girona",
@@ -14558,6 +14550,10 @@
         "shortCode":"GU"
       },
       {
+        "name":"Gipuzkoa (eu)",
+        "shortCode":"SS"
+      },
+      {
         "name":"Huelva",
         "shortCode":"H"
       },
@@ -14566,12 +14562,16 @@
         "shortCode":"HU"
       },
       {
-        "name":"Illes Balears",
-        "shortCode":"PM"
-      },
-      {
         "name":"Jaén",
         "shortCode":"J"
+      },
+      {
+        "name":"La Rioja",
+        "shortCode":"LO"
+      },
+      {
+        "name":"Las Palmas",
+        "shortCode":"GC"
       },
       {
         "name":"León",
@@ -14594,15 +14594,11 @@
         "shortCode":"MA"
       },
       {
-        "name":"Melilla",
-        "shortCode":"ML"
-      },
-      {
         "name":"Murcia",
         "shortCode":"MU"
       },
       {
-        "name":"Navarre",
+        "name":"Navarra",
         "shortCode":"NA"
       },
       {
@@ -14614,16 +14610,8 @@
         "shortCode":"P"
       },
       {
-        "name":"Las Palmas",
-        "shortCode":"GC"
-      },
-      {
         "name":"Pontevedra",
         "shortCode":"PO"
-      },
-      {
-        "name":"La Rioja",
-        "shortCode":"LO"
       },
       {
         "name":"Salamanca",
@@ -14664,6 +14652,10 @@
       {
         "name":"Valladolid",
         "shortCode":"VA"
+      },
+      {
+        "name":"Bizkaia",
+        "shortCode":"BI"
       },
       {
         "name":"Zamora",

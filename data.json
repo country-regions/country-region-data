@@ -15336,6 +15336,14 @@
     "countryShortCode":"TH",
     "regions":[
       {
+        "name":"Krung Thep Maha Nakhon (Bangkok)",
+        "shortCode":"10"
+      },
+      {
+        "name":"Phatthaya",
+        "shortCode":"S"
+      },
+      {
         "name":"Amnat Charoen",
         "shortCode":"37"
       },
@@ -15404,10 +15412,6 @@
         "shortCode":"81"
       },
       {
-        "name":"Krung Thep Mahanakhon (Bangkok)",
-        "shortCode":"10"
-      },
-      {
         "name":"Lampang",
         "shortCode":"52"
       },
@@ -15440,7 +15444,7 @@
         "shortCode":"26"
       },
       {
-        "name":"Nakhon Phathom",
+        "name":"Nakhon Pathom",
         "shortCode":"73"
       },
       {
@@ -15501,7 +15505,7 @@
       },
       {
         "name":"Phetchabun",
-        "shortCode":"76"
+        "shortCode":"67"
       },
       {
         "name":"Phetchaburi",
@@ -15516,12 +15520,12 @@
         "shortCode":"65"
       },
       {
-        "name":"Phra Nakhon Si Ayutthaya",
-        "shortCode":"14"
-      },
-      {
         "name":"Phrae",
         "shortCode":"54"
+      },
+      {
+        "name":"Phra Nakhon Si Ayutthaya",
+        "shortCode":"14"
       },
       {
         "name":"Phuket",
@@ -15584,7 +15588,7 @@
         "shortCode":"17"
       },
       {
-        "name":"Si Sa ket",
+        "name":"Si Sa Ket",
         "shortCode":"33"
       },
       {

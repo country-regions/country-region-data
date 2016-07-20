@@ -7309,28 +7309,36 @@
     "countryShortCode":"KE",
     "regions":[
       {
-        "name":"Central"
+        "name":"Nairobi",
+        "shortCode":"110"
       },
       {
-        "name":"Coast"
+        "name":"Central",
+        "shortCode":"200"
       },
       {
-        "name":"Eastern"
+        "name":"Coast",
+        "shortCode":"300"
       },
       {
-        "name":"Nairobi Area"
+        "name":"Eastern",
+        "shortCode":"400"
       },
       {
-        "name":"North Eastern"
+        "name":"North-Eastern",
+        "shortCode":"500"
       },
       {
-        "name":"Nyanza"
+        "name":"Nyanza",
+        "shortCode":"600"
       },
       {
-        "name":"Rift Valley"
+        "name":"Rift Valley",
+        "shortCode":"700"
       },
       {
-        "name":"Western"
+        "name":"Western",
+        "shortCode":"800"
       }
     ]
   },

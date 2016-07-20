@@ -1,5 +1,3 @@
-GL,Greenland
-KE,Kenya
 KZ,Kazakhstan
 GN,Guinea
 LT,Lithuania

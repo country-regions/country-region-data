@@ -4,14 +4,13 @@ LT,Lithuania
 LU,Luxembourg
 LV,Latvia
 LY,Libya
-MA,Morocco
 MD,Moldova
+PF,French Polynesia
 JE,Jersey
 KI,Kiribati
 MP,Northern Mariana Islands
 MS,Montserrat
 MT,Malta
-PF,French Polynesia
 PM,Saint Pierre and Miquelon
 RE,Réunion
 SX,Sint Maarten (Dutch part)

@@ -60,6 +60,7 @@ are pretty clear, I think.
 
 ### Changelog
 
+- `1.3.1` - Sept 23, 2016. Fix for incorrect shortcodes in Japanese prefectures. 
 - `1.3.0` - July 1, 2016. Improved validation added to ensure uniqueness of country names, short codes, region names and 
 shortcodes. Various country region additions / updates.
 - `1.2.1` - Jun 7, 2016. Taiwan country name change. Travis build status added + basic JSON syntax validation. 

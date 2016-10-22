@@ -1090,50 +1090,6 @@
     "countryShortCode":"AZ",
     "regions":[
       {
-        "name":"Bakı",
-        "shortCode":"BA"
-      },
-      {
-        "name":"Gəncə",
-        "shortCode":"GA"
-      },
-      {
-        "name":"Lənkəran",
-        "shortCode":"LA"
-      },
-      {
-        "name":"Mingəçevir",
-        "shortCode":"MI"
-      },
-      {
-        "name":"Naftalan",
-        "shortCode":"NA"
-      },
-      {
-        "name":"Naxçıvan",
-        "shortCode":"NV"
-      },
-      {
-        "name":"Şəki",
-        "shortCode":"SA"
-      },
-      {
-        "name":"Şirvan",
-        "shortCode":"SR"
-      },
-      {
-        "name":"Sumqayit",
-        "shortCode":"SM"
-      },
-      {
-        "name":"Xankəndi",
-        "shortCode":"XA"
-      },
-      {
-        "name":"Yevlax",
-        "shortCode":"YE"
-      },
-      {
         "name":"Abşeron",
         "shortCode":"ABS"
       },
@@ -2172,7 +2128,8 @@
     "countryShortCode":"IO",
     "regions":[
       {
-        "name":"British Indian Ocean Territory"
+        "name":"British Indian Ocean Territory",
+        "shortCode": "IO"
       }
     ]
   },
@@ -2585,7 +2542,7 @@
         "shortCode": "2"
       },
       {
-        "name":"Banteay Mean Cheay",
+        "name":"Banteay Mean Chey",
         "shortCode": "1"
       },
       {
@@ -2637,7 +2594,7 @@
         "shortCode": "11"
       },
       {
-        "name":"Otdar Mean Cheay",
+        "name":"Otdar Mean Chey",
         "shortCode": "22"
       },
       {
@@ -2665,8 +2622,7 @@
         "shortCode": "17"
       },
       {
-        "name":"Stueng Treng",
-        "shortCode": "19"
+        "name":"Stoeng Treng"
       },
       {
         "name":"Svaay Rieng",
@@ -3025,8 +2981,7 @@
         "shortCode": "LR"
       },
       {
-        "name":"Mondoul",
-        "shortCode": "MA"
+        "name":"Salamat"
       },
       {
         "name":"Mayo-Kébbi-Est",
@@ -3461,16 +3416,16 @@
     "countryShortCode":"KM",
     "regions":[
       {
-        "name":"Mwali (Mohéli)",
-        "shortCode":"M"
+        "name":"Andjazîdja",
+        "shortCode":"G"
       },
       {
-        "name":"Ndzuwani (Anjouan)",
+        "name":"Andjouân",
         "shortCode":"A"
       },
       {
-        "name":"Ngazidja (Grande Comore)",
-        "shortCode":"G"
+        "name":"Moûhîlî",
+        "shortCode":"M"
       }
     ]
   },
@@ -5636,7 +5591,7 @@
         "shortCode":"GA"
       },
       {  "name":"Nippes",
-         "shortCode":"NI"
+        "shortCode":"NI"
       },
       {
         "name":"Nord",
@@ -6782,192 +6737,192 @@
     "countryShortCode":"JP",
     "regions":[
       {
-        "name":"Aichi",
-        "shortCode":"23"
-      },
-      {
-        "name":"Akita",
-        "shortCode":"05"
+        "name":"Hokkaidō",
+        "shortCode":"01"
       },
       {
         "name":"Aomori",
         "shortCode":"02"
       },
       {
-        "name":"Chiba",
-        "shortCode":"12"
-      },
-      {
-        "name":"Ehime",
-        "shortCode":"38"
-      },
-      {
-        "name":"Fukui",
-        "shortCode":"18"
-      },
-      {
-        "name":"Fukuoka",
-        "shortCode":"40"
-      },
-      {
-        "name":"Fukushima",
-        "shortCode":"07"
-      },
-      {
-        "name":"Gifu",
-        "shortCode":"21"
-      },
-      {
-        "name":"Gunma",
-        "shortCode":"10"
-      },
-      {
-        "name":"Hiroshima",
-        "shortCode":"34"
-      },
-      {
-        "name":"Hokkaido",
-        "shortCode":"04"
-      },
-      {
-        "name":"Hyogo",
-        "shortCode":"28"
-      },
-      {
-        "name":"Ibaraki",
-        "shortCode":"08"
-      },
-      {
-        "name":"Ishikawa",
-        "shortCode":"17"
-      },
-      {
         "name":"Iwate",
         "shortCode":"03"
-      },
-      {
-        "name":"Kagawa",
-        "shortCode":"37"
-      },
-      {
-        "name":"Kagoshima",
-        "shortCode":"46"
-      },
-      {
-        "name":"Kanagawa",
-        "shortCode":"14"
-      },
-      {
-        "name":"Kochi",
-        "shortCode":"39"
-      },
-      {
-        "name":"Kumamoto",
-        "shortCode":"43"
-      },
-      {
-        "name":"Kyoto",
-        "shortCode":"26"
-      },
-      {
-        "name":"Mie",
-        "shortCode":"24"
       },
       {
         "name":"Miyagi",
         "shortCode":"04"
       },
       {
-        "name":"Miyazaki",
-        "shortCode":"45"
-      },
-      {
-        "name":"Nagano",
-        "shortCode":"20"
-      },
-      {
-        "name":"Nagasaki",
-        "shortCode":"42"
-      },
-      {
-        "name":"Nara",
-        "shortCode":"29"
-      },
-      {
-        "name":"Niigata",
-        "shortCode":"15"
-      },
-      {
-        "name":"Oita",
-        "shortCode":"44"
-      },
-      {
-        "name":"Okayama",
-        "shortCode":"33"
-      },
-      {
-        "name":"Okinawa",
-        "shortCode":"47"
-      },
-      {
-        "name":"Osaka",
-        "shortCode":"27"
-      },
-      {
-        "name":"Saga",
-        "shortCode":"41"
-      },
-      {
-        "name":"Saitama",
-        "shortCode":"11"
-      },
-      {
-        "name":"Shiga",
-        "shortCode":"25"
-      },
-      {
-        "name":"Shimane",
-        "shortCode":"32"
-      },
-      {
-        "name":"Shizuoka",
-        "shortCode":"22"
-      },
-      {
-        "name":"Tochigi",
-        "shortCode":"09"
-      },
-      {
-        "name":"Tokushima",
-        "shortCode":"36"
-      },
-      {
-        "name":"Tokyo",
-        "shortCode":"13"
-      },
-      {
-        "name":"Tottori",
-        "shortCode":"31"
-      },
-      {
-        "name":"Toyama",
-        "shortCode":"16"
-      },
-      {
-        "name":"Wakayama",
-        "shortCode":"30"
+        "name":"Akita",
+        "shortCode":"05"
       },
       {
         "name":"Yamagata",
         "shortCode":"06"
       },
       {
-        "name":"Yamaguchi",
-        "shortCode":"35"
+        "name":"Fukushima",
+        "shortCode":"07"
+      },
+      {
+        "name":"Ibaraki",
+        "shortCode":"08"
+      },
+      {
+        "name":"Tochigi",
+        "shortCode":"09"
+      },
+      {
+        "name":"Gunma",
+        "shortCode":"10"
+      },
+      {
+        "name":"Saitama",
+        "shortCode":"11"
+      },
+      {
+        "name":"Chiba",
+        "shortCode":"12"
+      },
+      {
+        "name":"Tokyo",
+        "shortCode":"13"
+      },
+      {
+        "name":"Kanagawa",
+        "shortCode":"14"
+      },
+      {
+        "name":"Niigata",
+        "shortCode":"15"
+      },
+      {
+        "name":"Toyama",
+        "shortCode":"16"
+      },
+      {
+        "name":"Ishikawa",
+        "shortCode":"17"
+      },
+      {
+        "name":"Fukui",
+        "shortCode":"18"
       },
       {
         "name":"Yamanashi",
         "shortCode":"19"
+      },
+      {
+        "name":"Nagano",
+        "shortCode":"20"
+      },
+      {
+        "name":"Gifu",
+        "shortCode":"21"
+      },
+      {
+        "name":"Shizuoka",
+        "shortCode":"22"
+      },
+      {
+        "name":"Aichi",
+        "shortCode":"23"
+      },
+      {
+        "name":"Mie",
+        "shortCode":"24"
+      },
+      {
+        "name":"Shiga",
+        "shortCode":"25"
+      },
+      {
+        "name":"Kyoto",
+        "shortCode":"26"
+      },
+      {
+        "name":"Osaka",
+        "shortCode":"27"
+      },
+      {
+        "name":"Hyōgo",
+        "shortCode":"28"
+      },
+      {
+        "name":"Nara",
+        "shortCode":"29"
+      },
+      {
+        "name":"Wakayama",
+        "shortCode":"30"
+      },
+      {
+        "name":"Tottori",
+        "shortCode":"31"
+      },
+      {
+        "name":"Shimane",
+        "shortCode":"32"
+      },
+      {
+        "name":"Okayama",
+        "shortCode":"33"
+      },
+      {
+        "name":"Hiroshima",
+        "shortCode":"34"
+      },
+      {
+        "name":"Yamaguchi",
+        "shortCode":"35"
+      },
+      {
+        "name":"Tokushima",
+        "shortCode":"36"
+      },
+      {
+        "name":"Kagawa",
+        "shortCode":"37"
+      },
+      {
+        "name":"Ehime",
+        "shortCode":"38"
+      },
+      {
+        "name":"Kōchi",
+        "shortCode":"39"
+      },
+      {
+        "name":"Fukuoka",
+        "shortCode":"40"
+      },
+      {
+        "name":"Saga",
+        "shortCode":"41"
+      },
+      {
+        "name":"Nagasaki",
+        "shortCode":"42"
+      },
+      {
+        "name":"Kumamoto",
+        "shortCode":"43"
+      },
+      {
+        "name":"Ōita",
+        "shortCode":"44"
+      },
+      {
+        "name":"Miyazaki",
+        "shortCode":"45"
+      },
+      {
+        "name":"Kagoshima",
+        "shortCode":"46"
+      },
+      {
+        "name":"Okinawa",
+        "shortCode":"47"
       }
     ]
   },
@@ -7317,9 +7272,6 @@
         "name":"Banaba"
       },
       {
-        "name":"Banaba"
-      },
-      {
         "name":"Beru"
       },
       {
@@ -7381,9 +7333,6 @@
       },
       {
         "name":"Tamana"
-      },
-      {
-        "name":"Tarawa"
       },
       {
         "name":"Tarawa"
@@ -7590,11 +7539,7 @@
     "countryShortCode":"LA",
     "regions":[
       {
-        "name":"Vientiane",
-        "shortCode":"VT"
-      },
-      {
-        "name":"Attapu!(Attopeu)",
+        "name":"Attapu",
         "shortCode":"AT"
       },
       {
@@ -7602,11 +7547,11 @@
         "shortCode":"BK"
       },
       {
-        "name":"Bolikhamxai!(Borikhane)",
+        "name":"Bolikhamxai",
         "shortCode":"BL"
       },
       {
-        "name":"Champasak!(Champassak)",
+        "name":"Champasak",
         "shortCode":"CH"
       },
       {
@@ -7618,23 +7563,23 @@
         "shortCode":"KH"
       },
       {
-        "name":"Louang!Namtha",
+        "name":"Louang Namtha",
         "shortCode":"LM"
       },
       {
-        "name":"Louangphabang!(Louang!Prabang)",
+        "name":"Louangphabang",
         "shortCode":"LP"
       },
       {
-        "name":"Oudômxai!(Oudomsai)",
+        "name":"Oudômxai",
         "shortCode":"OU"
       },
       {
-        "name":"Phôngsali!(Phong!Saly)",
+        "name":"Phôngsali",
         "shortCode":"PH"
       },
       {
-        "name":"Salavan!(Saravane)",
+        "name":"Salavan",
         "shortCode":"SL"
       },
       {
@@ -7650,16 +7595,16 @@
         "shortCode":"XA"
       },
       {
-        "name":"Xékong!(Sékong)",
+        "name":"Xékong",
         "shortCode":"XE"
       },
       {
-        "name":"Xiangkhoang!(Xieng!Khouang)",
-        "shortCode":"XI"
+        "name":"Xaisomboun",
+        "shortCode":"XS"
       },
       {
-        "name":"Xaisômboun",
-        "shortCode":"XN"
+        "name":"Xiangkhouang",
+        "shortCode":"XI"
       }
     ]
   },
@@ -7798,8 +7743,8 @@
       {
         "name":"Grobiņa",
         "shortCode":"032"
-      },
-      {
+  },
+  {
         "name":"Gulbene",
         "shortCode":"033"
       },
@@ -7866,8 +7811,8 @@
       {
         "name":"Koknese",
         "shortCode":"046"
-      },
-      {
+  },
+  {
         "name":"Krāslava",
         "shortCode":"047"
       },
@@ -7930,8 +7875,8 @@
       {
         "name":"Mālpils",
         "shortCode":"061"
-      },
-      {
+  },
+  {
         "name":"Mārupe",
         "shortCode":"062"
       },
@@ -8034,8 +7979,8 @@
       {
         "name":"Sala",
         "shortCode":"085"
-      },
-      {
+  },
+  {
         "name":"Salacgrīva",
         "shortCode":"086"
       },
@@ -8082,8 +8027,8 @@
       {
         "name":"Talsi",
         "shortCode":"097"
-      },
-      {
+  },
+  {
         "name":"Tērvete",
         "shortCode":"098"
       },
@@ -8144,8 +8089,8 @@
         "shortCode":"110"
       }
     ]
-  },
-  {
+      },
+      {
     "countryName":"Lebanon",
     "countryShortCode":"LB",
     "regions":[
@@ -8228,8 +8173,8 @@
         "shortCode":"K"
       }
     ]
-  },
-  {
+      },
+      {
     "countryName":"Liberia",
     "countryShortCode":"LR",
     "regions":[
@@ -8294,8 +8239,8 @@
         "shortCode":"SI"
       }
     ]
-  },
-  {
+      },
+      {
     "countryName":"Libya",
     "countryShortCode":"LY",
     "regions":[
@@ -8326,8 +8271,8 @@
       {
         "name":"Al Marj",
         "shortCode":"MJ"
-      },
-      {
+  },
+  {
         "name":"Al Marquab",
         "shortCode":"MB"
       },
@@ -8342,12 +8287,12 @@
       {
         "name":"Az Zāwiyah",
         "shortCode":"ZA"
-      },
-      {
+  },
+  {
         "name":"Banghāzī",
         "shortCode":"BA"
-      },
-      {
+  },
+  {
         "name":"Darnah",
         "shortCode":"DR"
       },
@@ -8388,8 +8333,8 @@
         "shortCode":"WS"
       }
     ]
-  },
-  {
+      },
+      {
     "countryName":"Liechtenstein",
     "countryShortCode":"LI",
     "regions":[
@@ -8438,8 +8383,8 @@
         "shortCode":"11"
       }
     ]
-  },
-  {
+      },
+      {
     "countryName":"Lithuania",
     "countryShortCode":"LT",
     "regions":[
@@ -8484,8 +8429,8 @@
         "shortCode":"VL"
       }
     ]
-  },
-  {
+      },
+      {
     "countryName":"Luxembourg",
     "countryShortCode":"LU",
     "regions":[
@@ -8538,8 +8483,8 @@
         "shortCode":"WI"
       }
     ]
-  },
-  {
+      },
+      {
     "countryName":"Macao",
     "countryShortCode":"MO",
     "regions":[
@@ -8547,8 +8492,8 @@
         "name":"Macao"
       }
     ]
-  },
-  {
+      },
+      {
     "countryName":"Macedonia, Republic of",
     "countryShortCode":"MK",
     "regions":[
@@ -9219,8 +9164,8 @@
       {
         "name":"Fgura",
         "shortCode":"08"
-      },
-      {
+  },
+  {
         "name":"Floriana",
         "shortCode":"09"
       },
@@ -9461,8 +9406,8 @@
         "shortCode":"68"
       }
     ]
-  },
-  {
+      },
+      {
     "countryName":"Marshall Islands",
     "countryShortCode":"MH",
     "regions":[
@@ -10094,12 +10039,10 @@
         "shortCode":"CL"
       },
       {
-        "name":"Condamine",
-        "shortCode":"CO"
+        "name":"La Condamine"
       },
       {
-        "name":"Fontvieille",
-        "shortCode":"FO"
+        "name":"Monaco-Ville"
       },
       {
         "name":"Gare",
@@ -10479,82 +10422,64 @@
     "countryShortCode":"MM",
     "regions":[
       {
-        "name":"Ayeyarwady Region",
+        "name":"Ayeyarwady",
         "shortCode":"07"
       },
       {
-        "name":"Bago Region",
+        "name":"Bago",
         "shortCode":"02"
       },
       {
-        "name":"Chin State",
+        "name":"Chin",
         "shortCode":"14"
       },
       {
-        "name":"Kachin State",
+        "name":"Kachin",
         "shortCode":"11"
       },
       {
-        "name":"Kayah State",
+        "name":"Kayah",
         "shortCode":"12"
       },
       {
-        "name":"Kayin State",
+        "name":"Kayin",
         "shortCode":"13"
       },
       {
-        "name":"Magway Region",
+        "name":"Magway",
         "shortCode":"03"
       },
       {
-        "name":"Mandalay Region",
+        "name":"Mandalay",
         "shortCode":"04"
       },
       {
-        "name":"Mon State",
+        "name":"Mon",
         "shortCode":"15"
       },
       {
-        "name":"Rakhine State",
-        "shortCode":"16"
-      },
-      {
-        "name":"Shan State",
-        "shortCode":"17"
-      },
-      {
-        "name":"Sagaing Region",
-        "shortCode":"01"
-      },
-      {
-        "name":"Tanintharyi Region",
-        "shortCode":"05"
-      },
-      {
-        "name":"Yangon Region",
-        "shortCode":"06"
-      },
-      {
-        "name":"Naypyidaw Union Territory",
+        "name":"Nay Pyi Taw",
         "shortCode":"18"
       },
       {
-        "name":"Danu Self-Administered Zone"
+        "name":"Rakhine",
+        "shortCode":"16"
       },
       {
-        "name":"Kokang Self-Administered Zone"
+        "name":"Sagaing",
+        "shortCode":"01"
       },
       {
-        "name":"Naga Self-Administered Zone"
+        "name":"Shan",
+        "shortCode":"17"
       },
       {
-        "name":"Pa-O Self-Administered Zone"
+        "name":"Tanintharyi",
+        "shortCode":"05"
       },
       {
-        "name":"Pa Laung Self-Administered Zone"
-      },
-      {
-        "name":"Wa Self-Administered Division"
+        "name":"Yangon",
+        "shortCode":"06"
       }
     ]
   },
@@ -11916,8 +11841,7 @@
         "shortCode":"BUL"
       },
       {
-        "name":"Cagayan",
-        "shortCode":"CAG"
+        "name":"Benguet"
       },
       {
         "name":"Camarines Norte",
@@ -15273,36 +15197,6 @@
     ]
   },
   {
-    "countryName":"Svalbard and Jan Mayen",
-    "countryShortCode":"SJ",
-    "regions":[
-      {
-        "name":"Barentsoya"
-      },
-      {
-        "name":"Bjornoya"
-      },
-      {
-        "name":"Edgeoya"
-      },
-      {
-        "name":"Hopen"
-      },
-      {
-        "name":"Kvitoya"
-      },
-      {
-        "name":"Nordaustandet"
-      },
-      {
-        "name":"Prins Karls Forland"
-      },
-      {
-        "name":"Spitsbergen"
-      }
-    ]
-  },
-  {
     "countryName":"Swaziland",
     "countryShortCode":"SZ",
     "regions":[
@@ -15583,7 +15477,7 @@
     ]
   },
   {
-    "countryName":"Taiwan, Province of China",
+    "countryName":"Taiwan",
     "countryShortCode":"TW",
     "regions":[
       {
@@ -15674,10 +15568,10 @@
     "regions":[
       {
         "name":"Dushanbe",
-        "shortCode":""
+        "shortCode":"DU"
       },
       {
-        "name":"Kuhistoni Badakhshon",
+        "name":"Kŭhistoni Badakhshon",
         "shortCode":"GB"
       },
       {
@@ -18592,10 +18486,6 @@
     "countryName":"Yemen",
     "countryShortCode":"YE",
     "regions":[
-      {
-        "name":"Şan‘ā'",
-        "shortCode":"SA"
-      },
       {
         "name":"Abyān",
         "shortCode":"AB"

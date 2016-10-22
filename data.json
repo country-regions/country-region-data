@@ -6827,7 +6827,19 @@
       },
       {
         "name":"Hokkaido",
-        "shortCode":"04"
+        "shortCode":"01"
+      },
+      {
+        "name":"Hukui",
+        "shortCode":"18"
+      },
+      {
+        "name":"Hukuoaka",
+        "shortCode":"40"
+      },
+      {
+        "name":"Hukusima",
+        "shortCode":"07"
       },
       {
         "name":"Hyogo",
@@ -6875,7 +6887,7 @@
       },
       {
         "name":"Miyagi",
-        "shortCode":"04"
+        "shortCode":"01"
       },
       {
         "name":"Miyazaki",
@@ -6922,7 +6934,7 @@
         "shortCode":"11"
       },
       {
-        "name":"Shiga",
+        "name":"Siga",
         "shortCode":"25"
       },
       {
@@ -6932,6 +6944,10 @@
       {
         "name":"Shizuoka",
         "shortCode":"22"
+      },
+      {
+        "name":"Tiba",
+        "shortCode":"12"
       },
       {
         "name":"Tochigi",
@@ -6944,6 +6960,10 @@
       {
         "name":"Tokyo",
         "shortCode":"13"
+      },
+      {
+        "name":"Totigi",
+        "shortCode":"09"
       },
       {
         "name":"Tottori",

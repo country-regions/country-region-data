@@ -1090,50 +1090,6 @@
     "countryShortCode":"AZ",
     "regions":[
       {
-        "name":"Bakı",
-        "shortCode":"BA"
-      },
-      {
-        "name":"Gəncə",
-        "shortCode":"GA"
-      },
-      {
-        "name":"Lənkəran",
-        "shortCode":"LA"
-      },
-      {
-        "name":"Mingəçevir",
-        "shortCode":"MI"
-      },
-      {
-        "name":"Naftalan",
-        "shortCode":"NA"
-      },
-      {
-        "name":"Naxçıvan",
-        "shortCode":"NV"
-      },
-      {
-        "name":"Şəki",
-        "shortCode":"SA"
-      },
-      {
-        "name":"Şirvan",
-        "shortCode":"SR"
-      },
-      {
-        "name":"Sumqayit",
-        "shortCode":"SM"
-      },
-      {
-        "name":"Xankəndi",
-        "shortCode":"XA"
-      },
-      {
-        "name":"Yevlax",
-        "shortCode":"YE"
-      },
-      {
         "name":"Abşeron",
         "shortCode":"ABS"
       },
@@ -2172,7 +2128,8 @@
     "countryShortCode":"IO",
     "regions":[
       {
-        "name":"British Indian Ocean Territory"
+        "name":"British Indian Ocean Territory",
+        "shortCode": "IO"
       }
     ]
   },
@@ -2585,7 +2542,7 @@
         "shortCode": "2"
       },
       {
-        "name":"Banteay Mean Cheay",
+        "name":"Banteay Mean Chey",
         "shortCode": "1"
       },
       {
@@ -2637,7 +2594,7 @@
         "shortCode": "11"
       },
       {
-        "name":"Otdar Mean Cheay",
+        "name":"Otdar Mean Chey",
         "shortCode": "22"
       },
       {
@@ -3461,16 +3418,16 @@
     "countryShortCode":"KM",
     "regions":[
       {
-        "name":"Mwali (Mohéli)",
-        "shortCode":"M"
+        "name":"Andjazîdja",
+        "shortCode":"G"
       },
       {
-        "name":"Ndzuwani (Anjouan)",
+        "name":"Andjouân",
         "shortCode":"A"
       },
       {
-        "name":"Ngazidja (Grande Comore)",
-        "shortCode":"G"
+        "name":"Moûhîlî",
+        "shortCode":"M"
       }
     ]
   },
@@ -6926,8 +6883,8 @@
         "shortCode":"27"
       },
       {
-        "name":"Saga",
-        "shortCode":"41"
+        "name":"Tokushima",
+        "shortCode":"36"
       },
       {
         "name":"Saitama",
@@ -6958,8 +6915,8 @@
         "shortCode":"36"
       },
       {
-        "name":"Tokyo",
-        "shortCode":"13"
+        "name":"Saga",
+        "shortCode":"41"
       },
       {
         "name":"Totigi",
@@ -7337,9 +7294,6 @@
         "name":"Banaba"
       },
       {
-        "name":"Banaba"
-      },
-      {
         "name":"Beru"
       },
       {
@@ -7401,9 +7355,6 @@
       },
       {
         "name":"Tamana"
-      },
-      {
-        "name":"Tarawa"
       },
       {
         "name":"Tarawa"
@@ -7610,11 +7561,7 @@
     "countryShortCode":"LA",
     "regions":[
       {
-        "name":"Vientiane",
-        "shortCode":"VT"
-      },
-      {
-        "name":"Attapu!(Attopeu)",
+        "name":"Attapu",
         "shortCode":"AT"
       },
       {
@@ -7622,11 +7569,11 @@
         "shortCode":"BK"
       },
       {
-        "name":"Bolikhamxai!(Borikhane)",
+        "name":"Bolikhamxai",
         "shortCode":"BL"
       },
       {
-        "name":"Champasak!(Champassak)",
+        "name":"Champasak",
         "shortCode":"CH"
       },
       {
@@ -7638,23 +7585,23 @@
         "shortCode":"KH"
       },
       {
-        "name":"Louang!Namtha",
+        "name":"Louang Namtha",
         "shortCode":"LM"
       },
       {
-        "name":"Louangphabang!(Louang!Prabang)",
+        "name":"Louangphabang",
         "shortCode":"LP"
       },
       {
-        "name":"Oudômxai!(Oudomsai)",
+        "name":"Oudômxai",
         "shortCode":"OU"
       },
       {
-        "name":"Phôngsali!(Phong!Saly)",
+        "name":"Phôngsali",
         "shortCode":"PH"
       },
       {
-        "name":"Salavan!(Saravane)",
+        "name":"Salavan",
         "shortCode":"SL"
       },
       {
@@ -7670,16 +7617,16 @@
         "shortCode":"XA"
       },
       {
-        "name":"Xékong!(Sékong)",
+        "name":"Xékong",
         "shortCode":"XE"
       },
       {
-        "name":"Xiangkhoang!(Xieng!Khouang)",
-        "shortCode":"XI"
+        "name":"Xaisomboun",
+        "shortCode":"XS"
       },
       {
-        "name":"Xaisômboun",
-        "shortCode":"XN"
+        "name":"Xiangkhouang",
+        "shortCode":"XI"
       }
     ]
   },
@@ -10499,82 +10446,64 @@
     "countryShortCode":"MM",
     "regions":[
       {
-        "name":"Ayeyarwady Region",
+        "name":"Ayeyarwady",
         "shortCode":"07"
       },
       {
-        "name":"Bago Region",
+        "name":"Bago",
         "shortCode":"02"
       },
       {
-        "name":"Chin State",
+        "name":"Chin",
         "shortCode":"14"
       },
       {
-        "name":"Kachin State",
+        "name":"Kachin",
         "shortCode":"11"
       },
       {
-        "name":"Kayah State",
+        "name":"Kayah",
         "shortCode":"12"
       },
       {
-        "name":"Kayin State",
+        "name":"Kayin",
         "shortCode":"13"
       },
       {
-        "name":"Magway Region",
+        "name":"Magway",
         "shortCode":"03"
       },
       {
-        "name":"Mandalay Region",
+        "name":"Mandalay",
         "shortCode":"04"
       },
       {
-        "name":"Mon State",
+        "name":"Mon",
         "shortCode":"15"
       },
       {
-        "name":"Rakhine State",
-        "shortCode":"16"
-      },
-      {
-        "name":"Shan State",
-        "shortCode":"17"
-      },
-      {
-        "name":"Sagaing Region",
-        "shortCode":"01"
-      },
-      {
-        "name":"Tanintharyi Region",
-        "shortCode":"05"
-      },
-      {
-        "name":"Yangon Region",
-        "shortCode":"06"
-      },
-      {
-        "name":"Naypyidaw Union Territory",
+        "name":"Nay Pyi Taw",
         "shortCode":"18"
       },
       {
-        "name":"Danu Self-Administered Zone"
+        "name":"Rakhine",
+        "shortCode":"16"
       },
       {
-        "name":"Kokang Self-Administered Zone"
+        "name":"Sagaing",
+        "shortCode":"01"
       },
       {
-        "name":"Naga Self-Administered Zone"
+        "name":"Shan",
+        "shortCode":"17"
       },
       {
-        "name":"Pa-O Self-Administered Zone"
+        "name":"Tanintharyi",
+        "shortCode":"05"
       },
       {
-        "name":"Pa Laung Self-Administered Zone"
-      },
-      {
-        "name":"Wa Self-Administered Division"
+        "name":"Yangon",
+        "shortCode":"06"
       }
     ]
   },
@@ -15293,36 +15222,6 @@
     ]
   },
   {
-    "countryName":"Svalbard and Jan Mayen",
-    "countryShortCode":"SJ",
-    "regions":[
-      {
-        "name":"Barentsoya"
-      },
-      {
-        "name":"Bjornoya"
-      },
-      {
-        "name":"Edgeoya"
-      },
-      {
-        "name":"Hopen"
-      },
-      {
-        "name":"Kvitoya"
-      },
-      {
-        "name":"Nordaustandet"
-      },
-      {
-        "name":"Prins Karls Forland"
-      },
-      {
-        "name":"Spitsbergen"
-      }
-    ]
-  },
-  {
     "countryName":"Swaziland",
     "countryShortCode":"SZ",
     "regions":[
@@ -15603,7 +15502,7 @@
     ]
   },
   {
-    "countryName":"Taiwan, Province of China",
+    "countryName":"Taiwan",
     "countryShortCode":"TW",
     "regions":[
       {
@@ -15694,10 +15593,10 @@
     "regions":[
       {
         "name":"Dushanbe",
-        "shortCode":""
+        "shortCode":"DU"
       },
       {
-        "name":"Kuhistoni Badakhshon",
+        "name":"Kŭhistoni Badakhshon",
         "shortCode":"GB"
       },
       {
@@ -18612,10 +18511,6 @@
     "countryName":"Yemen",
     "countryShortCode":"YE",
     "regions":[
-      {
-        "name":"Şan‘ā'",
-        "shortCode":"SA"
-      },
       {
         "name":"Abyān",
         "shortCode":"AB"

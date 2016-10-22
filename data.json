@@ -2990,10 +2990,6 @@
         "shortCode": "ME"
       },
       {
-        "name":"Mayo-Kébbi-Est",
-        "shortCode": "ME"
-      },
-      {
         "name":"Moyen-Chari",
         "shortCode": "MC"
       },
@@ -6883,10 +6879,6 @@
         "shortCode":"27"
       },
       {
-        "name":"Tokushima",
-        "shortCode":"36"
-      },
-      {
         "name":"Saitama",
         "shortCode":"11"
       },
@@ -8560,7 +8552,7 @@
         "shortCode":"81"
       },
       {
-        "name":"Češinovo-Obleševo",
+        "name":"Čučer Sandevo",
         "shortCode":"82"
       },
       {

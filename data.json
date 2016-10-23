@@ -2538,104 +2538,104 @@
     "countryShortCode":"KH",
     "regions":[
       {
-        "name":"Phnom Penh",
-        "shortCode":"KH-12"
-      },
-      {
         "name":"Baat Dambang",
-        "shortCode":"KH-2"
+        "shortCode": "2"
       },
       {
         "name":"Banteay Mean Chey",
-        "shortCode":"KH-1"
+        "shortCode": "1"
       },
       {
         "name":"Kampong Chaam",
-        "shortCode":"KH-3"
+        "shortCode": "3"
       },
       {
         "name":"Kampong Chhnang",
-        "shortCode":"KH-4"
+        "shortCode": "4"
       },
       {
         "name":"Kampong Spueu",
-        "shortCode":"KH-5"
+        "shortCode": "5"
       },
       {
         "name":"Kampong Thum",
-        "shortCode":"KH-6"
+        "shortCode": "6"
       },
       {
         "name":"Kampot",
-        "shortCode":"KH-7"
+        "shortCode": "7"
       },
       {
         "name":"Kandaal",
-        "shortCode":"KH-8"
+        "shortCode": "8"
       },
       {
         "name":"Kaoh Kong",
-        "shortCode":"KH-9"
+        "shortCode": "9"
       },
       {
         "name":"Kracheh",
-        "shortCode":"KH-10"
+        "shortCode": "10"
       },
       {
         "name":"Krong Kaeb",
-        "shortCode":"KH-23"
+        "shortCode": "23"
       },
       {
         "name":"Krong Pailin",
-        "shortCode":"KH-24"
+        "shortCode": "24"
       },
       {
         "name":"Krong Preah Sihanouk",
-        "shortCode":"KH-18"
+        "shortCode": "18"
       },
       {
         "name":"Mondol Kiri",
-        "shortCode":"KH-11"
+        "shortCode": "11"
       },
       {
         "name":"Otdar Mean Chey",
-        "shortCode":"KH-22"
+        "shortCode": "22"
+      },
+      {
+        "name":"Phnom Penh",
+        "shortCode": "12"
       },
       {
         "name":"Pousaat",
-        "shortCode":"KH-15"
+        "shortCode": "15"
       },
       {
         "name":"Preah Vihear",
-        "shortCode":"KH-13"
+        "shortCode": "13"
       },
       {
         "name":"Prey Veaeng",
-        "shortCode":"KH-14"
+        "shortCode": "14"
       },
       {
-        "name":"Rotanak Kiri",
-        "shortCode":"KH-16"
+        "name":"Rotanah Kiri",
+        "shortCode": "16"
       },
       {
         "name":"Siem Reab",
-        "shortCode":"KH-17"
+        "shortCode": "17"
       },
       {
-        "name":"Stueng Traeng",
-        "shortCode":"KH-19"
+        "name":"Stueng Treng",
+        "shortCode": "19"
       },
       {
         "name":"Svaay Rieng",
-        "shortCode":"KH-20"
+        "shortCode": "20"
       },
       {
         "name":"Taakaev",
-        "shortCode":"KH-21"
+        "shortCode": "21"
       },
       {
         "name":"Tbong Khmum",
-        "shortCode":"KH-25"
+        "shortCode": "25"
       }
     ]
   },
@@ -2934,96 +2934,92 @@
     "countryShortCode":"TD",
     "regions":[
       {
-        "name":"Bahr el Gazel",
-        "shortCode":"TD-BG"
+        "name":"Bahr el Ghazal",
+        "shortCode": "BG"
       },
       {
         "name":"Batha",
-        "shortCode":"TD-BA"
+        "shortCode": "BA"
       },
       {
         "name":"Borkou",
-        "shortCode":"TD-BO"
+        "shortCode": "BO"
       },
       {
         "name":"Chari-Baguirmi",
-        "shortCode":"TD-CB"
+        "shortCode": "CB"
       },
       {
         "name":"Ennedi-Est",
-        "shortCode":"TD-EE"
+        "shortCode": "EE"
       },
       {
         "name":"Ennedi-Ouest",
-        "shortCode":"TD-EO"
+        "shortCode": "EO"
       },
       {
         "name":"Guéra",
-        "shortCode":"TD-GR"
+        "shortCode": "GR"
       },
       {
         "name":"Hadjer Lamis",
-        "shortCode":"TD-HL"
+        "shortCode": "HL"
       },
       {
         "name":"Kanem",
-        "shortCode":"TD-KA"
+        "shortCode": "KA"
       },
       {
         "name":"Lac",
-        "shortCode":"TD-LC"
+        "shortCode": "LC"
       },
       {
-        "name":"Logone-Occidental",
-        "shortCode":"TD-LO"
+        "name":"Logone Occidental",
+        "shortCode": "LO"
       },
       {
-        "name":"Logone-Oriental",
-        "shortCode":"TD-LR"
+        "name":"Logone Oriental",
+        "shortCode": "LR"
       },
       {
-        "name":"Mandoul",
-        "shortCode":"TD-MA"
+        "name":"Mondoul",
+        "shortCode": "MA"
       },
       {
         "name":"Mayo-Kébbi-Est",
-        "shortCode":"TD-ME"
-      },
-      {
-        "name":"Mayo-Kébbi-Ouest",
-        "shortCode":"TD-MO"
+        "shortCode": "ME"
       },
       {
         "name":"Moyen-Chari",
-        "shortCode":"TD-MC"
+        "shortCode": "MC"
       },
       {
-        "name":"Ouaddaï",
-        "shortCode":"TD-OD"
+        "name":"Ouaddai",
+        "shortCode": "OD"
       },
       {
         "name":"Salamat",
-        "shortCode":"TD-SA"
+        "shortCode": "SA"
       },
       {
         "name":"Sila",
-        "shortCode":"TD-SI"
+        "shortCode": "SI"
       },
       {
         "name":"Tandjilé",
-        "shortCode":"TD-TA"
+        "shortCode": "TA"
       },
       {
         "name":"Tibesti",
-        "shortCode":"TD-TI"
+        "shortCode": "TI"
       },
       {
         "name":"Ville de Ndjamena",
-        "shortCode":"TD-ND"
+        "shortCode": "ND"
       },
       {
         "name":"Wadi Fira",
-        "shortCode":"TD-WF"
+        "shortCode": "WF"
       }
     ]
   },
@@ -3540,67 +3536,40 @@
     "countryShortCode":"CK",
     "regions":[
       {
-        "name":"Aitutaki",
-        "shortCode":"01"
+        "name":"Aitutaki"
       },
       {
-        "name":"Atiu",
-        "shortCode":"02"
+        "name":"Atiu"
       },
       {
         "name":"Avarua"
       },
       {
-        "name":"Mangaia",
-        "shortCode":"03"
+        "name":"Mangaia"
       },
       {
-        "name":"Manihiki",
-        "shortCode":"04"
+        "name":"Manihiki"
       },
       {
-        "name":"Manuae",
-        "shortCode":"05"
+        "name":"Ma'uke"
       },
       {
-        "name":"Mauke",
-        "shortCode":"06"
+        "name":"Mitiaro"
       },
       {
-        "name":"Mitiaro",
-        "shortCode":"07"
+        "name":"Nassau"
       },
       {
-        "name":"Nassau Island",
-        "shortCode":"08"
+        "name":"Palmerston"
       },
       {
-        "name":"Palmerston",
-        "shortCode":"09"
+        "name":"Penrhyn"
       },
       {
-        "name":"Penrhyn",
-        "shortCode":"10"
+        "name":"Pukapuka"
       },
       {
-        "name":"Pukapuka",
-        "shortCode":"11"
-      },
-      {
-        "name":"Rakahanga",
-        "shortCode":"12"
-      },
-      {
-        "name":"Rarotonga",
-        "shortCode":"13"
-      },
-      {
-        "name":"Suwarrow",
-        "shortCode":"14"
-      },
-      {
-        "name":"Takutea",
-        "shortCode":"15"
+        "name":"Rakahanga"
       }
     ]
   },
@@ -4675,24 +4644,64 @@
     "countryShortCode":"FJ",
     "regions":[
       {
-        "name":"Central",
-        "shortCode":"C"
+        "name":"Ba",
+        "shortCode":"01"
       },
       {
-        "name":"Eastern",
-        "shortCode":"E"
+        "name":"Bua",
+        "shortCode":"01"
       },
       {
-        "name":"Northern",
-        "shortCode":"N"
+        "name":"Cakaudrove",
+        "shortCode":"03"
+      },
+      {
+        "name":"Kadavu",
+        "shortCode":"04"
+      },
+      {
+        "name":"Lau",
+        "shortCode":"05"
+      },
+      {
+        "name":"Lomaiviti",
+        "shortCode":"06"
+      },
+      {
+        "name":"Macuata",
+        "shortCode":"07"
+      },
+      {
+        "name":"Nadroga and Navosa",
+        "shortCode":"08"
+      },
+      {
+        "name":"Naitasiri",
+        "shortCode":"09"
+      },
+      {
+        "name":"Namosi",
+        "shortCode":"10"
+      },
+      {
+        "name":"Ra",
+        "shortCode":"011"
+      },
+      {
+        "name":"Rewa",
+        "shortCode":"12"
       },
       {
         "name":"Rotuma",
         "shortCode":"R"
       },
       {
-        "name":"Western",
-        "shortCode":"W"
+        "name":"Serua",
+        "shortCode":"12"
+      },
+      {
+        "name":"Tailevu",
+        "shortCode":"14"
       }
     ]
   },
@@ -4817,6 +4826,58 @@
       {
         "name":"Rhone-Alpes",
         "shortCode": "V"
+      },
+      {
+        "name":"Clipperton",
+        "shortCode": "CP"
+      },
+      {
+        "name":"Guadeloupe",
+        "shortCode": "GP"
+      },
+      {
+        "name":"Guyane",
+        "shortCode": "GF"
+      },
+      {
+        "name":"Martinique",
+        "shortCode": "MQ"
+      },
+      {
+        "name":"Mayotte",
+        "shortCode": "YT"
+      },
+      {
+        "name":"Novelle-Calédonie",
+        "shortCode": "NC"
+      },
+      {
+        "name":"Polynésie",
+        "shortCode": "PF"
+      },
+      {
+        "name":"Saint-Pierre-et-Miquelon",
+        "shortCode": "PM"
+      },
+      {
+        "name":"Saint Barthélemy",
+        "shortCode": "BL"
+      },
+      {
+        "name":"Saint Martin",
+        "shortCode": "MF"
+      },
+      {
+        "name":"Réunion",
+        "shortCode": "RE"
+      },
+      {
+        "name":"Terres Australes Françaises",
+        "shortCode": "TF"
+      },
+      {
+        "name":"Wallis-et-Futuna",
+        "shortCode": "WF"
       }
     ]
   },
@@ -4945,196 +5006,52 @@
     "countryShortCode":"GE",
     "regions":[
       {
-        "name":"Abashis"
+        "name":"Abkhazia (Sokhumi)",
+        "shortCode":"AB"
       },
       {
-        "name":"Abkhazia or Ap'khazet'is Avtonomiuri Respublika (Sokhumi)"
+        "name":"Ajaria (Bat'umi)",
+        "shortCode":"AJ"
       },
       {
-        "name":"Adigenis"
+        "name":"Guria",
+        "shortCode":"GU"
       },
       {
-        "name":"Ajaria or Acharis Avtonomiuri Respublika (Bat'umi)"
+        "name":"Imereti",
+        "shortCode":"IM"
       },
       {
-        "name":"Akhalgoris"
+        "name":"K'akheti",
+        "shortCode":"KA"
       },
       {
-        "name":"Akhalk'alak'is"
+        "name":"Kvemo Kartli",
+        "shortCode":"KK"
       },
       {
-        "name":"Akhalts'ikhis"
+        "name":"Mtshkheta-Mtianeti",
+        "shortCode":"MM"
       },
       {
-        "name":"Akhmetis"
+        "name":"Rach'a-Lexhkumi-KvemoSvaneti",
+        "shortCode":"RL"
       },
       {
-        "name":"Ambrolauris"
+        "name":"Samegrelo-Zemo Svaneti",
+        "shortCode":"SZ"
       },
       {
-        "name":"Aspindzis"
+        "name":"Samtskhe-Javakheti",
+        "shortCode":"SJ"
       },
       {
-        "name":"Baghdat'is"
+        "name":"Shida Kartli",
+        "shortCode":"SK"
       },
       {
-        "name":"Bolnisis"
-      },
-      {
-        "name":"Borjomis"
-      },
-      {
-        "name":"Ch'khorotsqus"
-      },
-      {
-        "name":"Ch'okhatauris"
-      },
-      {
-        "name":"Chiat'ura"
-      },
-      {
-        "name":"Dedop'listsqaros"
-      },
-      {
-        "name":"Dmanisis"
-      },
-      {
-        "name":"Dushet'is"
-      },
-      {
-        "name":"Gardabanis"
-      },
-      {
-        "name":"Gori"
-      },
-      {
-        "name":"Goris"
-      },
-      {
-        "name":"Gurjaanis"
-      },
-      {
-        "name":"Javis"
-      },
-      {
-        "name":"K'arelis"
-      },
-      {
-        "name":"K'ut'aisi"
-      },
-      {
-        "name":"Kaspis"
-      },
-      {
-        "name":"Kharagaulis"
-      },
-      {
-        "name":"Khashuris"
-      },
-      {
-        "name":"Khobis"
-      },
-      {
-        "name":"Khonis"
-      },
-      {
-        "name":"Lagodekhis"
-      },
-      {
-        "name":"Lanch'khut'is"
-      },
-      {
-        "name":"Lentekhis"
-      },
-      {
-        "name":"Marneulis"
-      },
-      {
-        "name":"Martvilis"
-      },
-      {
-        "name":"Mestiis"
-      },
-      {
-        "name":"Mts'khet'is"
-      },
-      {
-        "name":"Ninotsmindis"
-      },
-      {
-        "name":"Onis"
-      },
-      {
-        "name":"Ozurget'is"
-      },
-      {
-        "name":"P'ot'i"
-      },
-      {
-        "name":"Qazbegis"
-      },
-      {
-        "name":"Qvarlis"
-      },
-      {
-        "name":"Rust'avi"
-      },
-      {
-        "name":"Sach'kheris"
-      },
-      {
-        "name":"Sagarejos"
-      },
-      {
-        "name":"Samtrediis"
-      },
-      {
-        "name":"Senakis"
-      },
-      {
-        "name":"Sighnaghis"
-      },
-      {
-        "name":"T'bilisi"
-      },
-      {
-        "name":"T'elavis"
-      },
-      {
-        "name":"T'erjolis"
-      },
-      {
-        "name":"T'et'ritsqaros"
-      },
-      {
-        "name":"T'ianet'is"
-      },
-      {
-        "name":"Tqibuli"
-      },
-      {
-        "name":"Ts'ageris"
-      },
-      {
-        "name":"Tsalenjikhis"
-      },
-      {
-        "name":"Tsalkis"
-      },
-      {
-        "name":"Tsqaltubo"
-      },
-      {
-        "name":"Vanis"
-      },
-      {
-        "name":"Zestap'onis"
-      },
-      {
-        "name":"Zugdidi"
-      },
-      {
-        "name":"Zugdidis"
+        "name":"Tbilisi",
+        "shortCode":"TB"
       }
     ]
   },
@@ -5268,160 +5185,60 @@
     "countryShortCode":"GR",
     "regions":[
       {
-        "name":"Aitolia kai Akarnania"
+        "name":"Anatolikí Makedonía kai Thráki",
+        "shortCode":"A"
       },
       {
-        "name":"Akhaia"
+        "name":"Attikḯ",
+        "shortCode":"I"
       },
       {
-        "name":"Argolis"
+        "name":"Dytikí Elláda",
+        "shortCode":"G"
       },
       {
-        "name":"Arkadhia"
+        "name":"Dytikí Makedonía",
+        "shortCode":"C"
       },
       {
-        "name":"Arta"
+        "name":"Ionía Nísia",
+        "shortCode":"F"
       },
       {
-        "name":"Attiki"
+        "name":"Kentrikí Makedonía",
+        "shortCode":"B"
       },
       {
-        "name":"Ayion Oros (Mt. Athos)"
+        "name":"Krítí",
+        "shortCode":"M"
       },
       {
-        "name":"Dhodhekanisos"
+        "name":"Notío Aigaío",
+        "shortCode":"L"
       },
       {
-        "name":"Drama"
+        "name":"Peloponnísos",
+        "shortCode":"J"
       },
       {
-        "name":"Evritania"
+        "name":"Stereá Elláda",
+        "shortCode":"H"
       },
       {
-        "name":"Evros"
+        "name":"Thessalía",
+        "shortCode":"E"
       },
       {
-        "name":"Evvoia"
+        "name":"Voreío Aigaío",
+        "shortCode":"K"
       },
       {
-        "name":"Florina"
+        "name":"Ípeiros",
+        "shortCode":"D"
       },
       {
-        "name":"Fokis"
-      },
-      {
-        "name":"Fthiotis"
-      },
-      {
-        "name":"Grevena"
-      },
-      {
-        "name":"Ilia"
-      },
-      {
-        "name":"Imathia"
-      },
-      {
-        "name":"Ioannina"
-      },
-      {
-        "name":"Irakleion"
-      },
-      {
-        "name":"Kardhitsa"
-      },
-      {
-        "name":"Kastoria"
-      },
-      {
-        "name":"Kavala"
-      },
-      {
-        "name":"Kefallinia"
-      },
-      {
-        "name":"Kerkyra"
-      },
-      {
-        "name":"Khalkidhiki"
-      },
-      {
-        "name":"Khania"
-      },
-      {
-        "name":"Khios"
-      },
-      {
-        "name":"Kikladhes"
-      },
-      {
-        "name":"Kilkis"
-      },
-      {
-        "name":"Korinthia"
-      },
-      {
-        "name":"Kozani"
-      },
-      {
-        "name":"Lakonia"
-      },
-      {
-        "name":"Larisa"
-      },
-      {
-        "name":"Lasithi"
-      },
-      {
-        "name":"Lesvos"
-      },
-      {
-        "name":"Levkas"
-      },
-      {
-        "name":"Magnisia"
-      },
-      {
-        "name":"Messinia"
-      },
-      {
-        "name":"Pella"
-      },
-      {
-        "name":"Pieria"
-      },
-      {
-        "name":"Preveza"
-      },
-      {
-        "name":"Rethimni"
-      },
-      {
-        "name":"Rodhopi"
-      },
-      {
-        "name":"Samos"
-      },
-      {
-        "name":"Serrai"
-      },
-      {
-        "name":"Thesprotia"
-      },
-      {
-        "name":"Thessaloniki"
-      },
-      {
-        "name":"Trikala"
-      },
-      {
-        "name":"Voiotia"
-      },
-      {
-        "name":"Xanthi"
-      },
-      {
-        "name":"Zakinthos"
+        "name":"Ágion Óros",
+        "shortCode": "69"
       }
     ]
   },
@@ -5430,13 +5247,20 @@
     "countryShortCode":"GL",
     "regions":[
       {
-        "name":"Avannaa (Nordgronland)"
+        "name":"Kommune Kujalleq",
+        "shortCode": "KU"
       },
       {
-        "name":"Kitaa (Vestgronland)"
+        "name":"Kommuneqarfik Sermersooq",
+        "shortCode": "SM"
       },
       {
-        "name":"Tunu (Ostgronland)"
+        "name":"Qaasuitsup Kommunia",
+        "shortCode": "QA"
+      },
+      {
+        "name": "Qeqqata Kommunia",
+        "shortCode": "QE"
       }
     ]
   },
@@ -5445,25 +5269,32 @@
     "countryShortCode":"GD",
     "regions":[
       {
-        "name":"Carriacou and Petit Martinique"
+        "name":"Saint Andrew",
+        "shortCode": "01"
       },
       {
-        "name":"Saint Andrew"
+        "name":"Saint David",
+        "shortCode": "02"
       },
       {
-        "name":"Saint David"
+        "name":"Saint George",
+        "shortCode": "03"
       },
       {
-        "name":"Saint George"
+        "name":"Saint John",
+        "shortCode": "04"
       },
       {
-        "name":"Saint John"
+        "name":"Saint Mark",
+        "shortCode": "05"
       },
       {
-        "name":"Saint Mark"
+        "name":"Saint Patrick",
+        "shortCode": "06"
       },
       {
-        "name":"Saint Patrick"
+        "name":"Southern Grenadine Islands",
+        "shortCode": "10"
       }
     ]
   },
@@ -5472,19 +5303,7 @@
     "countryShortCode":"GP",
     "regions":[
       {
-        "name":"Basse-Terre"
-      },
-      {
-        "name":"Grande-Terre"
-      },
-      {
-        "name":"Iles de la Petite Terre"
-      },
-      {
-        "name":"Iles des Saintes"
-      },
-      {
-        "name":"Marie-Galante"
+        "name":"Guadeloupe"
       }
     ]
   },
@@ -5632,106 +5451,36 @@
     "countryShortCode":"GN",
     "regions":[
       {
-        "name":"Beyla"
+        "name":"Boké",
+        "shortCode": "B"
       },
       {
-        "name":"Boffa"
+        "name":"Conakry",
+        "shortCode": "C"
       },
       {
-        "name":"Boke"
+        "name":"Faranah",
+        "shortCode": "F"
       },
       {
-        "name":"Conakry"
+        "name":"Kankan",
+        "shortCode": "K"
       },
       {
-        "name":"Coyah"
+        "name":"Kindia",
+        "shortCode": "D"
       },
       {
-        "name":"Dabola"
+        "name":"Labé",
+        "shortCode": "L"
       },
       {
-        "name":"Dalaba"
+        "name":"Mamou",
+        "shortCode": "M"
       },
       {
-        "name":"Dinguiraye"
-      },
-      {
-        "name":"Dubreka"
-      },
-      {
-        "name":"Faranah"
-      },
-      {
-        "name":"Forecariah"
-      },
-      {
-        "name":"Fria"
-      },
-      {
-        "name":"Gaoual"
-      },
-      {
-        "name":"Gueckedou"
-      },
-      {
-        "name":"Kankan"
-      },
-      {
-        "name":"Kerouane"
-      },
-      {
-        "name":"Kindia"
-      },
-      {
-        "name":"Kissidougou"
-      },
-      {
-        "name":"Koubia"
-      },
-      {
-        "name":"Koundara"
-      },
-      {
-        "name":"Kouroussa"
-      },
-      {
-        "name":"Labe"
-      },
-      {
-        "name":"Lelouma"
-      },
-      {
-        "name":"Lola"
-      },
-      {
-        "name":"Macenta"
-      },
-      {
-        "name":"Mali"
-      },
-      {
-        "name":"Mamou"
-      },
-      {
-        "name":"Mandiana"
-      },
-      {
-        "name":"Nzerekore"
-      },
-      {
-        "name":"Pita"
-      },
-      {
-        "name":"Siguiri"
-      },
-      {
-        "name":"Telimele"
-      },
-      {
-        "name":"Tougue"
-      },
-      {
-        "name":"Yomou"
+        "name":"Nzérékoré",
+        "shortCode": "N"
       }
     ]
   },
@@ -5840,7 +5589,7 @@
         "shortCode":"GA"
       },
       {  "name":"Nippes",
-        "shortCode":"NI"
+         "shortCode":"NI"
       },
       {
         "name":"Nord",
@@ -6159,7 +5908,7 @@
         "shortCode":"7"
       },
       {
-        "name":"Höfuðborgarsvæðið",
+        "name":"Höfuðborgarsvæði utan Reykjavíkur",
         "shortCode":"1"
       },
       {
@@ -6809,7 +6558,7 @@
     "regions":[
       {
         "name":"HaDarom",
-        "shortCode":"H"
+        "shortCode":"D"
       },
       {
         "name":"HaMerkaz",
@@ -6986,192 +6735,208 @@
     "countryShortCode":"JP",
     "regions":[
       {
-        "name":"Hokkaidō",
-        "shortCode":"01"
-      },
-      {
-        "name":"Aomori",
-        "shortCode":"02"
-      },
-      {
-        "name":"Iwate",
-        "shortCode":"03"
-      },
-      {
-        "name":"Miyagi",
-        "shortCode":"04"
+        "name":"Aichi",
+        "shortCode":"23"
       },
       {
         "name":"Akita",
         "shortCode":"05"
       },
       {
-        "name":"Yamagata",
-        "shortCode":"06"
-      },
-      {
-        "name":"Fukushima",
-        "shortCode":"07"
-      },
-      {
-        "name":"Ibaraki",
-        "shortCode":"08"
-      },
-      {
-        "name":"Tochigi",
-        "shortCode":"09"
-      },
-      {
-        "name":"Gunma",
-        "shortCode":"10"
-      },
-      {
-        "name":"Saitama",
-        "shortCode":"11"
+        "name":"Aomori",
+        "shortCode":"02"
       },
       {
         "name":"Chiba",
         "shortCode":"12"
       },
       {
-        "name":"Tokyo",
-        "shortCode":"13"
-      },
-      {
-        "name":"Kanagawa",
-        "shortCode":"14"
-      },
-      {
-        "name":"Niigata",
-        "shortCode":"15"
-      },
-      {
-        "name":"Toyama",
-        "shortCode":"16"
-      },
-      {
-        "name":"Ishikawa",
-        "shortCode":"17"
+        "name":"Ehime",
+        "shortCode":"38"
       },
       {
         "name":"Fukui",
         "shortCode":"18"
       },
       {
-        "name":"Yamanashi",
-        "shortCode":"19"
+        "name":"Fukuoka",
+        "shortCode":"40"
       },
       {
-        "name":"Nagano",
-        "shortCode":"20"
+        "name":"Fukushima",
+        "shortCode":"07"
       },
       {
         "name":"Gifu",
         "shortCode":"21"
       },
       {
-        "name":"Shizuoka",
-        "shortCode":"22"
-      },
-      {
-        "name":"Aichi",
-        "shortCode":"23"
-      },
-      {
-        "name":"Mie",
-        "shortCode":"24"
-      },
-      {
-        "name":"Shiga",
-        "shortCode":"25"
-      },
-      {
-        "name":"Kyoto",
-        "shortCode":"26"
-      },
-      {
-        "name":"Osaka",
-        "shortCode":"27"
-      },
-      {
-        "name":"Hyōgo",
-        "shortCode":"28"
-      },
-      {
-        "name":"Nara",
-        "shortCode":"29"
-      },
-      {
-        "name":"Wakayama",
-        "shortCode":"30"
-      },
-      {
-        "name":"Tottori",
-        "shortCode":"31"
-      },
-      {
-        "name":"Shimane",
-        "shortCode":"32"
-      },
-      {
-        "name":"Okayama",
-        "shortCode":"33"
+        "name":"Gunma",
+        "shortCode":"10"
       },
       {
         "name":"Hiroshima",
         "shortCode":"34"
       },
       {
-        "name":"Yamaguchi",
-        "shortCode":"35"
+        "name":"Hokkaido",
+        "shortCode":"01"
       },
       {
-        "name":"Tokushima",
-        "shortCode":"36"
+        "name":"Hukui",
+        "shortCode":"18"
+      },
+      {
+        "name":"Hukuoaka",
+        "shortCode":"40"
+      },
+      {
+        "name":"Hukusima",
+        "shortCode":"07"
+      },
+      {
+        "name":"Hyogo",
+        "shortCode":"28"
+      },
+      {
+        "name":"Ibaraki",
+        "shortCode":"08"
+      },
+      {
+        "name":"Ishikawa",
+        "shortCode":"17"
+      },
+      {
+        "name":"Iwate",
+        "shortCode":"03"
       },
       {
         "name":"Kagawa",
         "shortCode":"37"
       },
       {
-        "name":"Ehime",
-        "shortCode":"38"
+        "name":"Kagoshima",
+        "shortCode":"46"
       },
       {
-        "name":"Kōchi",
+        "name":"Kanagawa",
+        "shortCode":"14"
+      },
+      {
+        "name":"Kochi",
         "shortCode":"39"
-      },
-      {
-        "name":"Fukuoka",
-        "shortCode":"40"
-      },
-      {
-        "name":"Saga",
-        "shortCode":"41"
-      },
-      {
-        "name":"Nagasaki",
-        "shortCode":"42"
       },
       {
         "name":"Kumamoto",
         "shortCode":"43"
       },
       {
-        "name":"Ōita",
-        "shortCode":"44"
+        "name":"Kyoto",
+        "shortCode":"26"
+      },
+      {
+        "name":"Mie",
+        "shortCode":"24"
+      },
+      {
+        "name":"Miyagi",
+        "shortCode":"01"
       },
       {
         "name":"Miyazaki",
         "shortCode":"45"
       },
       {
-        "name":"Kagoshima",
-        "shortCode":"46"
+        "name":"Nagano",
+        "shortCode":"20"
+      },
+      {
+        "name":"Nagasaki",
+        "shortCode":"42"
+      },
+      {
+        "name":"Nara",
+        "shortCode":"29"
+      },
+      {
+        "name":"Niigata",
+        "shortCode":"15"
+      },
+      {
+        "name":"Oita",
+        "shortCode":"44"
+      },
+      {
+        "name":"Okayama",
+        "shortCode":"33"
       },
       {
         "name":"Okinawa",
         "shortCode":"47"
+      },
+      {
+        "name":"Osaka",
+        "shortCode":"27"
+      },
+      {
+        "name":"Saitama",
+        "shortCode":"11"
+      },
+      {
+        "name":"Siga",
+        "shortCode":"25"
+      },
+      {
+        "name":"Shimane",
+        "shortCode":"32"
+      },
+      {
+        "name":"Shizuoka",
+        "shortCode":"22"
+      },
+      {
+        "name":"Tiba",
+        "shortCode":"12"
+      },
+      {
+        "name":"Tochigi",
+        "shortCode":"09"
+      },
+      {
+        "name":"Tokushima",
+        "shortCode":"36"
+      },
+      {
+        "name":"Saga",
+        "shortCode":"41"
+      },
+      {
+        "name":"Totigi",
+        "shortCode":"09"
+      },
+      {
+        "name":"Tottori",
+        "shortCode":"31"
+      },
+      {
+        "name":"Toyama",
+        "shortCode":"16"
+      },
+      {
+        "name":"Wakayama",
+        "shortCode":"30"
+      },
+      {
+        "name":"Yamagata",
+        "shortCode":"06"
+      },
+      {
+        "name":"Yamaguchi",
+        "shortCode":"35"
+      },
+      {
+        "name":"Yamanashi",
+        "shortCode":"19"
       }
     ]
   },
@@ -7312,28 +7077,192 @@
     "countryShortCode":"KE",
     "regions":[
       {
-        "name":"Central"
+        "name":"Baringo",
+        "shortCode":"01"
       },
       {
-        "name":"Coast"
+        "name":"Bomet",
+        "shortCode":"02"
       },
       {
-        "name":"Eastern"
+        "name":"Bungoma",
+        "shortCode":"03"
       },
       {
-        "name":"Nairobi Area"
+        "name":"Busia",
+        "shortCode":"04"
       },
       {
-        "name":"North Eastern"
+        "name":"Eleyo/Marakwet",
+        "shortCode":"05"
       },
       {
-        "name":"Nyanza"
+        "name":"Embu",
+        "shortCode":"06"
       },
       {
-        "name":"Rift Valley"
+        "name":"Garissa",
+        "shortCode":"07"
       },
       {
-        "name":"Western"
+        "name":"Homa Bay",
+        "shortCode":"08"
+      },
+      {
+        "name":"Isiolo",
+        "shortCode":"09"
+      },
+      {
+        "name":"Kajiado",
+        "shortCode":"10"
+      },
+      {
+        "name":"Kakamega",
+        "shortCode":"11"
+      },
+      {
+        "name":"Kericho",
+        "shortCode":"12"
+      },
+      {
+        "name":"Kiambu",
+        "shortCode":"13"
+      },
+      {
+        "name":"Kilifi",
+        "shortCode":"14"
+      },
+      {
+        "name":"Kirinyaga",
+        "shortCode":"15"
+      },
+      {
+        "name":"Kisii",
+        "shortCode":"16"
+      },
+      {
+        "name":"Kisumu",
+        "shortCode":"17"
+      },
+      {
+        "name":"Kitui",
+        "shortCode":"18"
+      },
+      {
+        "name":"Kwale",
+        "shortCode":"19"
+      },
+      {
+        "name":"Laikipia",
+        "shortCode":"20"
+      },
+      {
+        "name":"Lamu",
+        "shortCode":"21"
+      },
+      {
+        "name":"Machakos",
+        "shortCode":"22"
+      },
+      {
+        "name":"Makueni",
+        "shortCode":"23"
+      },
+      {
+        "name":"Mandera",
+        "shortCode":"24"
+      },
+      {
+        "name":"Marsabit",
+        "shortCode":"25"
+      },
+      {
+        "name":"Meru",
+        "shortCode":"26"
+      },
+      {
+        "name":"Migori",
+        "shortCode":"27"
+      },
+      {
+        "name":"Mombasa",
+        "shortCode":"28"
+      },
+      {
+        "name":"Murang'a",
+        "shortCode":"29"
+      },
+      {
+        "name":"Nairobi City",
+        "shortCode":"30"
+      },
+      {
+        "name":"Nakuru",
+        "shortCode":"31"
+      },
+      {
+        "name":"Nandi",
+        "shortCode":"32"
+      },
+      {
+        "name":"Narok",
+        "shortCode":"33"
+      },
+      {
+        "name":"Nyamira",
+        "shortCode":"34"
+      },
+      {
+        "name":"Nyandarua",
+        "shortCode":"35"
+      },
+      {
+        "name":"Nyeri",
+        "shortCode":"36"
+      },
+      {
+        "name":"Samburu",
+        "shortCode":"37"
+      },
+      {
+        "name":"Siaya",
+        "shortCode":"38"
+      },
+      {
+        "name":"Taita/Taveta",
+        "shortCode":"39"
+      },
+      {
+        "name":"Tana River",
+        "shortCode":"40"
+      },
+      {
+        "name":"Tharaka-Nithi",
+        "shortCode":"41"
+      },
+      {
+        "name":"Trans Nzoia",
+        "shortCode":"42"
+      },
+      {
+        "name":"Turkana",
+        "shortCode":"43"
+      },
+      {
+        "name":"Uasin Gishu",
+        "shortCode":"44"
+      },
+      {
+        "name":"Vihiga",
+        "shortCode":"45"
+      },
+      {
+        "name":"Wajir",
+        "shortCode":"46"
+      },
+      {
+        "name":"West Pokot",
+        "shortCode":"47"
       }
     ]
   },
@@ -7698,103 +7627,480 @@
     "countryShortCode":"LV",
     "regions":[
       {
-        "name":"Aizkraukles Rajons"
+        "name":"Aglona",
+        "shortCode":"001"
       },
       {
-        "name":"Aluksnes Rajons"
+        "name":"Aizkraukle",
+        "shortCode":"002"
       },
       {
-        "name":"Balvu Rajons"
+        "name":"Aizpute",
+        "shortCode":"003"
       },
       {
-        "name":"Bauskas Rajons"
+        "name":"Aknīste",
+        "shortCode":"004"
       },
       {
-        "name":"Cesu Rajons"
+        "name":"Aloja",
+        "shortCode":"005"
       },
       {
-        "name":"Daugavpils"
+        "name":"Alsunga",
+        "shortCode":"06"
       },
       {
-        "name":"Daugavpils Rajons"
+        "name":"Alūksne",
+        "shortCode":"007"
       },
       {
-        "name":"Dobeles Rajons"
+        "name":"Amata",
+        "shortCode":"008"
       },
       {
-        "name":"Gulbenes Rajons"
+        "name":"Ape",
+        "shortCode":"009"
       },
       {
-        "name":"Jekabpils Rajons"
+        "name":"Auce",
+        "shortCode":"010"
       },
       {
-        "name":"Jelgava"
+        "name":"Ādaži",
+        "shortCode":"011"
       },
       {
-        "name":"Jelgavas Rajons"
+        "name":"Babīte",
+        "shortCode":"012"
       },
       {
-        "name":"Jurmala"
+        "name":"Baldone",
+        "shortCode":"013"
       },
       {
-        "name":"Kraslavas Rajons"
+        "name":"Baltinava",
+        "shortCode":"014"
       },
       {
-        "name":"Kuldigas Rajons"
+        "name":"Balvi",
+        "shortCode":"015"
       },
       {
-        "name":"Leipaja"
+        "name":"Bauska",
+        "shortCode":"016"
       },
       {
-        "name":"Liepajas Rajons"
+        "name":"Beverīna",
+        "shortCode":"017"
       },
       {
-        "name":"Limbazu Rajons"
+        "name":"Brocēni",
+        "shortCode":"018"
       },
       {
-        "name":"Ludzas Rajons"
+        "name":"Burtnieki",
+        "shortCode":"019"
       },
       {
-        "name":"Madonas Rajons"
+        "name":"Carnikava",
+        "shortCode":"020"
       },
       {
-        "name":"Ogres Rajons"
+        "name":"Cesvaine",
+        "shortCode":"021"
       },
       {
-        "name":"Preilu Rajons"
+        "name":"Cēsis",
+        "shortCode":"022"
       },
       {
-        "name":"Rezekne"
+        "name":"Cibla",
+        "shortCode":"023"
       },
       {
-        "name":"Rezeknes Rajons"
+        "name":"Dagda",
+        "shortCode":"024"
       },
       {
-        "name":"Riga"
+        "name":"Daugavpils",
+        "shortCode":"025"
       },
       {
-        "name":"Rigas Rajons"
+        "name":"Daugavpils (City)",
+        "shortCode":"DGV"
       },
       {
-        "name":"Saldus Rajons"
+        "name":"Dobele",
+        "shortCode":"026"
       },
       {
-        "name":"Talsu Rajons"
+        "name":"Dundaga",
+        "shortCode":"027"
       },
       {
-        "name":"Tukuma Rajons"
+        "name":"Durbe",
+        "shortCode":"028"
       },
       {
-        "name":"Valkas Rajons"
+        "name":"Engure",
+        "shortCode":"029"
       },
       {
-        "name":"Valmieras Rajons"
+        "name":"Ērgļi",
+        "shortCode":"030"
       },
       {
-        "name":"Ventspils"
+        "name":"Garkalne",
+        "shortCode":"031"
       },
       {
-        "name":"Ventspils Rajons"
+        "name":"Grobiņa",
+        "shortCode":"032"
+      },
+      {
+        "name":"Gulbene",
+        "shortCode":"033"
+      },
+      {
+        "name":"Iecava",
+        "shortCode":"034"
+      },
+      {
+        "name":"Ikšķile",
+        "shortCode":"035"
+      },
+      {
+        "name":"Ilūkste",
+        "shortCode":"036"
+      },
+      {
+        "name":"Inčukalns",
+        "shortCode":"037"
+      },
+      {
+        "name":"Jaunjelgava",
+        "shortCode":"038"
+  },
+  {
+        "name":"Jaunpiebalga",
+        "shortCode":"039"
+      },
+      {
+        "name":"Jaunpils",
+        "shortCode":"040"
+      },
+      {
+        "name":"Jelgava",
+        "shortCode":"041"
+      },
+      {
+        "name":"Jelgava (City)",
+        "shortCode":"JEL"
+      },
+      {
+        "name":"Jēkabpils",
+        "shortCode":"042"
+      },
+      {
+        "name":"Jēkabpils (City)",
+        "shortCode":"JKB"
+      },
+      {
+        "name":"Jūrmala (City)",
+        "shortCode":"JUR"
+      },
+      {
+        "name":"Kandava",
+        "shortCode":"043"
+      },
+      {
+        "name":"Kārsava",
+        "shortCode":"044"
+      },
+      {
+        "name":"Kocēni",
+        "shortCode":"045"
+      },
+      {
+        "name":"Koknese",
+        "shortCode":"046"
+      },
+      {
+        "name":"Krāslava",
+        "shortCode":"047"
+      },
+      {
+        "name":"Krimulda",
+        "shortCode":"048"
+      },
+      {
+        "name":"Krustpils",
+        "shortCode":"049"
+      },
+      {
+        "name":"Kuldīga",
+        "shortCode":"050"
+      },
+      {
+        "name":"Ķegums",
+        "shortCode":"051"
+      },
+      {
+        "name":"Ķekava",
+        "shortCode":"052"
+      },
+      {
+        "name":"Lielvārde",
+        "shortCode":"053"
+      },
+      {
+        "name":"Liepāja",
+        "shortCode":"LPX"
+      },
+      {
+        "name":"Limbaži",
+        "shortCode":"054"
+      },
+      {
+        "name":"Līgatne",
+        "shortCode":"055"
+      },
+      {
+        "name":"Līvāni",
+        "shortCode":"056"
+      },
+      {
+        "name":"Lubāna",
+        "shortCode":"057"
+      },
+      {
+        "name":"Ludza",
+        "shortCode":"058"
+      },
+      {
+        "name":"Madona",
+        "shortCode":"059"
+      },
+      {
+        "name":"Mazsalaca",
+        "shortCode":"060"
+      },
+      {
+        "name":"Mālpils",
+        "shortCode":"061"
+      },
+      {
+        "name":"Mārupe",
+        "shortCode":"062"
+      },
+      {
+        "name":"Mērsrags",
+        "shortCode":"063"
+      },
+      {
+        "name":"Naukšēni",
+        "shortCode":"064"
+      },
+      {
+        "name":"Nereta",
+        "shortCode":"065"
+      },
+      {
+        "name":"Nīca",
+        "shortCode":"066"
+      },
+      {
+        "name":"Ogre",
+        "shortCode":"067"
+      },
+      {
+        "name":"Olaine",
+        "shortCode":"068"
+      },
+      {
+        "name":"Ozolnieki",
+        "shortCode":"069"
+      },
+      {
+        "name":"Pārgauja",
+        "shortCode":"070"
+      },
+      {
+        "name":"Pāvilosta",
+        "shortCode":"071"
+      },
+      {
+        "name":"Pļaviņas",
+        "shortCode":"072"
+      },
+      {
+        "name":"Preiļi",
+        "shortCode":"073"
+      },
+      {
+        "name":"Priekule",
+        "shortCode":"074"
+      },
+      {
+        "name":"Priekuļi",
+        "shortCode":"075"
+      },
+      {
+        "name":"Rauna",
+        "shortCode":"076"
+      },
+      {
+        "name":"Rēzekne",
+        "shortCode":"077"
+      },
+      {
+        "name":"Rēzekne (City)",
+        "shortCode":"REZ"
+      },
+      {
+        "name":"Riebiņi",
+        "shortCode":"078"
+      },
+      {
+        "name":"Rīga",
+        "shortCode":"RIX"
+      },
+      {
+        "name":"Roja",
+        "shortCode":"079"
+      },
+      {
+        "name":"Ropaži",
+        "shortCode":"080"
+      },
+      {
+        "name":"Rucava",
+        "shortCode":"081"
+      },
+      {
+        "name":"Rugāji",
+        "shortCode":"082"
+      },
+      {
+        "name":"Rundāle",
+        "shortCode":"083"
+      },
+      {
+        "name":"Rūjiena",
+        "shortCode":"084"
+      },
+      {
+        "name":"Sala",
+        "shortCode":"085"
+      },
+      {
+        "name":"Salacgrīva",
+        "shortCode":"086"
+      },
+      {
+        "name":"Salaspils",
+        "shortCode":"087"
+      },
+      {
+        "name":"Saldus",
+        "shortCode":"088"
+      },
+      {
+        "name":"Saulkrasti",
+        "shortCode":"089"
+      },
+      {
+        "name":"Sēja",
+        "shortCode":"090"
+      },
+      {
+        "name":"Sigulda",
+        "shortCode":"091"
+      },
+      {
+        "name":"Skrīveri",
+        "shortCode":"092"
+      },
+      {
+        "name":"Skrunda",
+        "shortCode":"093"
+      },
+      {
+        "name":"Smiltene",
+        "shortCode":"094"
+      },
+      {
+        "name":"Stopiņi",
+        "shortCode":"095"
+      },
+      {
+        "name":"Strenči",
+        "shortCode":"096"
+      },
+      {
+        "name":"Talsi",
+        "shortCode":"097"
+      },
+      {
+        "name":"Tērvete",
+        "shortCode":"098"
+      },
+      {
+        "name":"Tukums",
+        "shortCode":"099"
+      },
+      {
+        "name":"Vaiņode",
+        "shortCode":"100"
+      },
+      {
+        "name":"Valka",
+        "shortCode":"101"
+      },
+      {
+        "name":"Valmiera",
+        "shortCode":"VMR"
+      },
+      {
+        "name":"Varakļāni",
+        "shortCode":"102"
+      },
+      {
+        "name":"Vārkava",
+        "shortCode":"103"
+      },
+      {
+        "name":"Vecpiebalga",
+        "shortCode":"104"
+      },
+      {
+        "name":"Vecumnieki",
+        "shortCode":"105"
+      },
+      {
+        "name":"Ventspils",
+        "shortCode":"106"
+      },
+      {
+        "name":"Ventspils (City)",
+        "shortCode":"VEN"
+      },
+      {
+        "name":"Viesīte",
+        "shortCode":"107"
+      },
+      {
+        "name":"Viļaka",
+        "shortCode":"108"
+      },
+      {
+        "name":"Viļāni",
+        "shortCode":"109"
+      },
+      {
+        "name":"Zilupe",
+        "shortCode":"110"
       }
     ]
   },
@@ -7803,23 +8109,40 @@
     "countryShortCode":"LB",
     "regions":[
       {
-        "name":"Beyrouth"
+        "name": "Aakkâr",
+        "shortCode": "AK"
       },
       {
-        "name":"Ech Chimal"
+        "name":"Baalbelk-Hermel",
+        "shortCode":"BH"
       },
       {
-        "name":"Ej Jnoub"
+        "name":"Béqaa",
+        "shortCode":"BI"
       },
       {
-        "name":"El Bekaa"
+        "name":"Beyrouth",
+        "shortCode":"BA"
       },
       {
-        "name":"Jabal Loubnane"
+        "name":"Liban-Nord",
+        "shortCode":"AS"
+      },
+      {
+        "name":"Liban-Sud",
+        "shortCode":"JA"
+      },
+      {
+        "name":"Mont-Liban",
+        "shortCode":"JL"
+      },
+      {
+        "name":"Nabatîyé",
+        "shortCode":"NA"
       }
     ]
-  },
-  {
+      },
+      {
     "countryName":"Lesotho",
     "countryShortCode":"LS",
     "regions":[
@@ -7936,79 +8259,92 @@
     "countryShortCode":"LY",
     "regions":[
       {
-        "name":"Ajdabiya"
+        "name":"Al Buţnān",
+        "shortCode":"BU"
       },
       {
-        "name":"Al 'Aziziyah"
+        "name":"Al Jabal al Akhḑar",
+        "shortCode":"JA"
       },
       {
-        "name":"Al Fatih"
+        "name":"Al Jabal al Gharbī",
+        "shortCode":"JG"
       },
       {
-        "name":"Al Jabal al Akhdar"
+        "name":"Al Jafārah",
+        "shortCode":"JA"
       },
       {
-        "name":"Al Jufrah"
+        "name":"Al Jufrah",
+        "shortCode":"JU"
       },
       {
-        "name":"Al Khums"
+        "name":"Al Kufrah",
+        "shortCode":"FK"
       },
       {
-        "name":"Al Kufrah"
+        "name":"Al Marj",
+        "shortCode":"MJ"
       },
       {
-        "name":"An Nuqat al Khams"
+        "name":"Al Marquab",
+        "shortCode":"MB"
       },
       {
-        "name":"Ash Shati'"
+        "name":"Al Wāḩāt",
+        "shortCode":"WA"
       },
       {
-        "name":"Awbari"
+        "name":"An Nuqaţ al Khams",
+        "shortCode":"NQ"
       },
       {
-        "name":"Az Zawiyah"
+        "name":"Az Zāwiyah",
+        "shortCode":"ZA"
       },
       {
-        "name":"Banghazi"
+        "name":"Banghāzī",
+        "shortCode":"BA"
       },
       {
-        "name":"Darnah"
+        "name":"Darnah",
+        "shortCode":"DR"
       },
       {
-        "name":"Ghadamis"
+        "name":"Ghāt",
+        "shortCode":"GH"
       },
       {
-        "name":"Gharyan"
+        "name":"  Mişrātah",
+        "shortCode":"MI"
       },
       {
-        "name":"Misratah"
+        "name":"Murzuq",
+        "shortCode":"MQ"
       },
       {
-        "name":"Murzuq"
+        "name":"Nālūt",
+        "shortCode":"NL"
       },
       {
-        "name":"Sabha"
+        "name":"Sabhā",
+        "shortCode":"SB"
       },
       {
-        "name":"Sawfajjin"
+        "name":"Surt",
+        "shortCode":"SR"
       },
       {
-        "name":"Surt"
+        "name":"Ţarābulus",
+        "shortCode":"TB"
       },
       {
-        "name":"Tarabulus"
+        "name":"Yafran",
+        "shortCode":"WD"
       },
       {
-        "name":"Tarhunah"
-      },
-      {
-        "name":"Tubruq"
-      },
-      {
-        "name":"Yafran"
-      },
-      {
-        "name":"Zlitan"
+        "name":"Wādī ash Shāţiʾ",
+        "shortCode":"WS"
       }
     ]
   },
@@ -8067,166 +8403,44 @@
     "countryShortCode":"LT",
     "regions":[
       {
-        "name":"Akmenes Rajonas"
+        "name":"Alytaus",
+        "shortCode":"AL"
       },
       {
-        "name":"Alytaus Rajonas"
+        "name":"Kauno",
+        "shortCode":"KU"
       },
       {
-        "name":"Alytus"
+        "name":"Klaipėdos",
+        "shortCode":"KL"
       },
       {
-        "name":"Anyksciu Rajonas"
+        "name":"Marijampolės",
+        "shortCode":"MR"
       },
       {
-        "name":"Birstonas"
+        "name":"Panevėžio",
+        "shortCode":"PN"
       },
       {
-        "name":"Birzu Rajonas"
+        "name":"Šiaulių",
+        "shortCode":"SA"
       },
       {
-        "name":"Druskininkai"
+        "name":"Tauragės",
+        "shortCode":"TA"
       },
       {
-        "name":"Ignalinos Rajonas"
+        "name":"Telšių",
+        "shortCode":"TE"
       },
       {
-        "name":"Jonavos Rajonas"
+        "name":"Utenos",
+        "shortCode":"UT"
       },
       {
-        "name":"Joniskio Rajonas"
-      },
-      {
-        "name":"Jurbarko Rajonas"
-      },
-      {
-        "name":"Kaisiadoriu Rajonas"
-      },
-      {
-        "name":"Kaunas"
-      },
-      {
-        "name":"Kauno Rajonas"
-      },
-      {
-        "name":"Kedainiu Rajonas"
-      },
-      {
-        "name":"Kelmes Rajonas"
-      },
-      {
-        "name":"Klaipeda"
-      },
-      {
-        "name":"Klaipedos Rajonas"
-      },
-      {
-        "name":"Kretingos Rajonas"
-      },
-      {
-        "name":"Kupiskio Rajonas"
-      },
-      {
-        "name":"Lazdiju Rajonas"
-      },
-      {
-        "name":"Marijampole"
-      },
-      {
-        "name":"Marijampoles Rajonas"
-      },
-      {
-        "name":"Mazeikiu Rajonas"
-      },
-      {
-        "name":"Moletu Rajonas"
-      },
-      {
-        "name":"Neringa Pakruojo Rajonas"
-      },
-      {
-        "name":"Palanga"
-      },
-      {
-        "name":"Panevezio Rajonas"
-      },
-      {
-        "name":"Panevezys"
-      },
-      {
-        "name":"Pasvalio Rajonas"
-      },
-      {
-        "name":"Plunges Rajonas"
-      },
-      {
-        "name":"Prienu Rajonas"
-      },
-      {
-        "name":"Radviliskio Rajonas"
-      },
-      {
-        "name":"Raseiniu Rajonas"
-      },
-      {
-        "name":"Rokiskio Rajonas"
-      },
-      {
-        "name":"Sakiu Rajonas"
-      },
-      {
-        "name":"Salcininku Rajonas"
-      },
-      {
-        "name":"Siauliai"
-      },
-      {
-        "name":"Siauliu Rajonas"
-      },
-      {
-        "name":"Silales Rajonas"
-      },
-      {
-        "name":"Silutes Rajonas"
-      },
-      {
-        "name":"Sirvintu Rajonas"
-      },
-      {
-        "name":"Skuodo Rajonas"
-      },
-      {
-        "name":"Svencioniu Rajonas"
-      },
-      {
-        "name":"Taurages Rajonas"
-      },
-      {
-        "name":"Telsiu Rajonas"
-      },
-      {
-        "name":"Traku Rajonas"
-      },
-      {
-        "name":"Ukmerges Rajonas"
-      },
-      {
-        "name":"Utenos Rajonas"
-      },
-      {
-        "name":"Varenos Rajonas"
-      },
-      {
-        "name":"Vilkaviskio Rajonas"
-      },
-      {
-        "name":"Vilniaus Rajonas"
-      },
-      {
-        "name":"Vilnius"
-      },
-      {
-        "name":"Zarasu Rajonas"
+        "name":"Vilniaus",
+        "shortCode":"VL"
       }
     ]
   },
@@ -8235,13 +8449,52 @@
     "countryShortCode":"LU",
     "regions":[
       {
-        "name":"Diekirch"
+        "name":"Capellen",
+        "shortCode":"CA"
       },
       {
-        "name":"Grevenmacher"
+        "name":"Clevaux",
+        "shortCode":"CL"
       },
       {
-        "name":"Luxembourg"
+        "name":"Diekirch",
+        "shortCode":"DI"
+      },
+      {
+        "name":"Echternach",
+        "shortCode":"EC"
+      },
+      {
+        "name":"Esch-sur-Alzette",
+        "shortCode":"ES"
+      },
+      {
+        "name":"Grevenmacher",
+        "shortCode":"GR"
+      },
+      {
+        "name":"Luxembourg",
+        "shortCode":"LU"
+      },
+      {
+        "name":"Mersch",
+        "shortCode":"ME"
+      },
+      {
+        "name":"Redange",
+        "shortCode":"RD"
+      },
+      {
+        "name":"Remich",
+        "shortCode":"RM"
+      },
+      {
+        "name":"Vianden",
+        "shortCode":"VD"
+      },
+      {
+        "name":"Wiltz",
+        "shortCode":"WI"
       }
     ]
   },
@@ -8259,349 +8512,288 @@
     "countryShortCode":"MK",
     "regions":[
       {
-        "name":"Aracinovo"
+        "name":"Aračinovo",
+        "shortCode":"02"
       },
       {
-        "name":"Bac"
+        "name":"Berovo",
+        "shortCode":"03"
       },
       {
-        "name":"Belcista"
+        "name":"Bitola",
+        "shortCode":"04"
       },
       {
-        "name":"Berovo"
+        "name":"Bogdanci",
+        "shortCode":"05"
       },
       {
-        "name":"Bistrica"
+        "name":"Bogovinje",
+        "shortCode":"06"
       },
       {
-        "name":"Bitola"
+        "name":"Bosilovo",
+        "shortCode":"07"
       },
       {
-        "name":"Blatec"
+        "name":"Brvenica",
+        "shortCode":"08"
       },
       {
-        "name":"Bogdanci"
+        "name":"Centar Župa",
+        "shortCode":"78"
       },
       {
-        "name":"Bogomila"
+        "name":"Čaška",
+        "shortCode":"08"
       },
       {
-        "name":"Bogovinje"
+        "name":"Češinovo-Obleševo",
+        "shortCode":"81"
       },
       {
-        "name":"Bosilovo"
+        "name":"Čučer Sandevo",
+        "shortCode":"82"
       },
       {
-        "name":"Brvenica"
+        "name":"Debar",
+        "shortCode":"21"
       },
       {
-        "name":"Cair (Skopje)"
+        "name":"Debarca",
+        "shortCode":"22"
       },
       {
-        "name":"Capari"
+        "name":"Delčevo",
+        "shortCode":"23"
       },
       {
-        "name":"Caska"
+        "name":"Demir Hisar",
+        "shortCode":"25"
       },
       {
-        "name":"Cegrane"
+        "name":"Demir Kapija",
+        "shortCode":"24"
       },
       {
-        "name":"Centar (SkopjeZupa"
+        "name":"Doran",
+        "shortCode":"26"
       },
       {
-        "name":"Cesinovo"
+        "name":"Dolneni",
+        "shortCode":"27"
       },
       {
-        "name":"Cucer-Sandevo"
+        "name":"Gevgelija",
+        "shortCode":"18"
       },
       {
-        "name":"Debar"
+        "name":"Gostivar",
+        "shortCode":"19"
       },
       {
-        "name":"Delcevo"
+        "name":"Gradsko",
+        "shortCode":"20"
       },
       {
-        "name":"Delogozdi"
+        "name":"Ilinden",
+        "shortCode":"34"
       },
       {
-        "name":"Demir Hisar"
+        "name":"Jegunovce",
+        "shortCode":"35"
       },
       {
-        "name":"Demir Kapija"
+        "name":"Karbinci",
+        "shortCode":"37"
       },
       {
-        "name":"Dobrusevo"
+        "name":"Kavadarci",
+        "shortCode":"36"
       },
       {
-        "name":"Dolna Banjica"
+        "name":"Kičevo",
+        "shortCode":"40"
       },
       {
-        "name":"Dolneni"
+        "name":"Kočani",
+        "shortCode":"42"
       },
       {
-        "name":"Dorce Petrov (Skopje)Dzepciste"
+        "name":"Konče",
+        "shortCode":"41"
       },
       {
-        "name":"Gazi Baba (Skopje)"
+        "name":"Kratovo",
+        "shortCode":"43"
       },
       {
-        "name":"Gevgelija"
+        "name":"Kriva Palanka",
+        "shortCode":"44"
       },
       {
-        "name":"Gostivar"
+        "name":"Krivogaštani",
+        "shortCode":"45"
       },
       {
-        "name":"Gradsko"
+        "name":"Kruševo",
+        "shortCode":"46"
       },
       {
-        "name":"Ilinden"
+        "name":"Kumanovo",
+        "shortCode":"47"
       },
       {
-        "name":"Izvor"
+        "name":"Lipkovo",
+        "shortCode":"48"
       },
       {
-        "name":"Jegunovce"
+        "name":"Lozovo",
+        "shortCode":"49"
       },
       {
-        "name":"Kamenjane"
+        "name":"Makedonska Kamenica",
+        "shortCode":"51"
       },
       {
-        "name":"Karbinci"
+        "name":"Makedonski Brod",
+        "shortCode":"52"
       },
       {
-        "name":"Karpos (Skopje)"
+        "name":"Mavrovo i Rostuša",
+        "shortCode":"50"
       },
       {
-        "name":"Kavadarci"
+        "name":"Mogila",
+        "shortCode":"53"
       },
       {
-        "name":"Kicevo"
+        "name":"Negotino",
+        "shortCode":"54"
       },
       {
-        "name":"Kisela Voda (lecevce"
+        "name":"Novaci",
+        "shortCode":"55"
       },
       {
-        "name":"Kocani"
+        "name":"Novo Selo",
+        "shortCode":"56"
       },
       {
-        "name":"Konce"
+        "name":"Ohrid",
+        "shortCode":"58"
       },
       {
-        "name":"Kondovo"
+        "name":"Pehčevo",
+        "shortCode":"60"
       },
       {
-        "name":"Konopiste"
+        "name":"Petrovec",
+        "shortCode":"59"
       },
       {
-        "name":"Kosel"
+        "name":"Plasnica",
+        "shortCode":"61"
       },
       {
-        "name":"Kratovo"
+        "name":"Prilep",
+        "shortCode":"62"
       },
       {
-        "name":"Kriva rivogastani"
+        "name":"Probištip",
+        "shortCode":"63"
       },
       {
-        "name":"Krusevo"
+        "name":"Radoviš",
+        "shortCode":""
       },
       {
-        "name":"Kuklis"
+        "name":"Rankovce",
+        "shortCode":"65"
       },
       {
-        "name":"Kukurecani"
+        "name":"Resen",
+        "shortCode":"66"
       },
       {
-        "name":"Kumanovo"
+        "name":"Rosoman",
+        "shortCode":"67"
       },
       {
-        "name":"Labunista"
+        "name":"Skopje",
+        "shortCode":"85"
       },
       {
-        "name":"Lipkovo"
+        "name":"Sopište",
+        "shortCode":"70"
       },
       {
-        "name":"Lozovo"
+        "name":"Staro Nagoričane",
+        "shortCode":"71"
       },
       {
-        "name":"Lukovo"
+        "name":"Struga",
+        "shortCode":"72"
       },
       {
-        "name":"Makedonska Kamenica"
+        "name":"Strumica",
+        "shortCode":"73"
       },
       {
-        "name":"Makedonski Brod"
+        "name":"Studeničani",
+        "shortCode":"74"
       },
       {
-        "name":"Mavrovi eista"
+        "name":"Sveti Nikole",
+        "shortCode":"69"
       },
       {
-        "name":"Miravci"
+        "name":"Štip",
+        "shortCode":"83"
       },
       {
-        "name":"Mogila"
+        "name":"Tearce",
+        "shortCode":"75"
       },
       {
-        "name":"Murtino"
+        "name":"Tetovo",
+        "shortCode":"76"
       },
       {
-        "name":"Negotino"
+        "name":"Valandovo",
+        "shortCode":"10"
       },
       {
-        "name":"Negotino-Poloska"
+        "name":"Vasilevo",
+        "shortCode":"11"
       },
       {
-        "name":"Novaci"
+        "name":"Veles",
+        "shortCode":"13"
       },
       {
-        "name":"Novo Selo"
+        "name":"Vevčani",
+        "shortCode":"12"
       },
       {
-        "name":"Oblesevo"
+        "name":"Vinica",
+        "shortCode":"14"
       },
       {
-        "name":"Ohrid"
+        "name":"Vrapčište",
+        "shortCode":"16"
       },
       {
-        "name":"Orasac"
+        "name":"Zelenikovo",
+        "shortCode":"32"
       },
       {
-        "name":"Orizari"
+        "name":"Zrnovci",
+        "shortCode":"33"
       },
       {
-        "name":"Oslomej"
-      },
-      {
-        "name":"Pehcevo"
-      },
-      {
-        "name":"Petrovec"
-      },
-      {
-        "name":"Plasnia"
-      },
-      {
-        "name":"Podares"
-      },
-      {
-        "name":"Prilepp"
-      },
-      {
-        "name":"Radovis"
-      },
-      {
-        "name":"Rankovce"
-      },
-      {
-        "name":"Resen"
-      },
-      {
-        "name":"Rosoman"
-      },
-      {
-        "name":"Rostusa"
-      },
-      {
-        "name":"Samokov"
-      },
-      {
-        "name":"Saraj"
-      },
-      {
-        "name":"Sipkovica"
-      },
-      {
-        "name":"Sopiste"
-      },
-      {
-        "name":"Sopotnika"
-      },
-      {
-        "name":"Srbinovo"
-      },
-      {
-        "name":"Star Dojran"
-      },
-      {
-        "name":"Staravina"
-      },
-      {
-        "name":"Staro e"
-      },
-      {
-        "name":"Stip"
-      },
-      {
-        "name":"Struga"
-      },
-      {
-        "name":"Strumica"
-      },
-      {
-        "name":"Studenicani"
-      },
-      {
-        "name":"Suto Orizari (Skopje)"
-      },
-      {
-        "name":"Sveti Nikole"
-      },
-      {
-        "name":"Tearce"
-      },
-      {
-        "name":"Tetovo"
-      },
-      {
-        "name":"Topolcani"
-      },
-      {
-        "name":"Valandovo"
-      },
-      {
-        "name":"Vasilevo"
-      },
-      {
-        "name":"Veles"
-      },
-      {
-        "name":"Velesta"
-      },
-      {
-        "name":"Vevcani"
-      },
-      {
-        "name":"Vinica"
-      },
-      {
-        "name":"Vitolistica"
-      },
-      {
-        "name":"Vrapciste"
-      },
-      {
-        "name":"Vratnica"
-      },
-      {
-        "name":"Vrutok"
-      },
-      {
-        "name":"Zajas"
-      },
-      {
-        "name":"Zelenikovo"
-      },
-      {
-        "name":"Zileno"
-      },
-      {
-        "name":"Zitose"
-      },
-      {
-        "name":"Zletovo"
-      },
-      {
-        "name":"Zrnovci"
+        "name":"Želino",
+        "shortCode":"30"
       }
     ]
   },
@@ -8956,7 +9148,276 @@
     "countryShortCode":"MT",
     "regions":[
       {
-        "name":"Valletta"
+        "name":"Attard",
+        "shortCode":"01"
+      },
+      {
+        "name":"Balzan",
+        "shortCode":"02"
+      },
+      {
+        "name":"Birgu",
+        "shortCode":"03"
+      },
+      {
+        "name":"Birkirkara",
+        "shortCode":"04"
+      },
+      {
+        "name":"Birżebbuġa",
+        "shortCode":"05"
+      },
+      {
+        "name":"Bormla",
+        "shortCode":"06"
+      },
+      {
+        "name":"Dingli",
+        "shortCode":"07"
+      },
+      {
+        "name":"Fgura",
+        "shortCode":"08"
+      },
+      {
+        "name":"Floriana",
+        "shortCode":"09"
+      },
+      {
+        "name":"Fontana",
+        "shortCode":"10"
+      },
+      {
+        "name":"Guda",
+        "shortCode":"11"
+      },
+      {
+        "name":"Gżira",
+        "shortCode":"12"
+      },
+      {
+        "name":"Għajnsielem",
+        "shortCode":"13"
+      },
+      {
+        "name":"Għarb",
+        "shortCode":"14"
+      },
+      {
+        "name":"Għargħur",
+        "shortCode":"15"
+      },
+      {
+        "name":"Għasri",
+        "shortCode":"16"
+      },
+      {
+        "name":"Għaxaq",
+        "shortCode":"17"
+      },
+      {
+        "name":"Ħamrun",
+        "shortCode":"18"
+      },
+      {
+        "name":"Iklin",
+        "shortCode":"19"
+      },
+      {
+        "name":"Isla",
+        "shortCode":"20"
+      },
+      {
+        "name":"Kalkara",
+        "shortCode":"21"
+      },
+      {
+        "name":"Kerċem",
+        "shortCode":"22"
+      },
+      {
+        "name":"Kirkop",
+        "shortCode":"23"
+      },
+      {
+        "name":"Lija",
+        "shortCode":"24"
+      },
+      {
+        "name":"Luqa",
+        "shortCode":"25"
+      },
+      {
+        "name":"Marsa",
+        "shortCode":"26"
+      },
+      {
+        "name":"Marsaskala",
+        "shortCode":"27"
+      },
+      {
+        "name":"Marsaxlokk",
+        "shortCode":"28"
+      },
+      {
+        "name":"Mdina",
+        "shortCode":"29"
+      },
+      {
+        "name":"Mellieħa",
+        "shortCode":"30"
+      },
+      {
+        "name":"Mġarr",
+        "shortCode":"31"
+      },
+      {
+        "name":"Mosta",
+        "shortCode":"32"
+      },
+      {
+        "name":"Mqabba",
+        "shortCode":"33"
+      },
+      {
+        "name":"Msida",
+        "shortCode":"34"
+      },
+      {
+        "name":"Mtarfa",
+        "shortCode":"35"
+      },
+      {
+        "name":"Munxar",
+        "shortCode":"36"
+      },
+      {
+        "name":"Nadur",
+        "shortCode":"37"
+      },
+      {
+        "name":"Naxxar",
+        "shortCode":"38"
+      },
+      {
+        "name":"Paola",
+        "shortCode":"39"
+      },
+      {
+        "name":"Pembroke",
+        "shortCode":"40"
+      },
+      {
+        "name":"Pietà",
+        "shortCode":"41"
+      },
+      {
+        "name":"Qala",
+        "shortCode":"42"
+      },
+      {
+        "name":"Qormi",
+        "shortCode":"43"
+      },
+      {
+        "name":"Qrendi",
+        "shortCode":"44"
+      },
+      {
+        "name":"Rabat Għawdex",
+        "shortCode":"45"
+      },
+      {
+        "name":"Rabat Malta",
+        "shortCode":"46"
+      },
+      {
+        "name":"Safi",
+        "shortCode":"47"
+      },
+      {
+        "name":"San Ġiljan",
+        "shortCode":"48"
+      },
+      {
+        "name":"San Ġwann",
+        "shortCode":"49"
+      },
+      {
+        "name":"San Lawrenz",
+        "shortCode":"50"
+      },
+      {
+        "name":"San Pawl il-Baħar",
+        "shortCode":"51"
+      },
+      {
+        "name":"Sannat",
+        "shortCode":"52"
+      },
+      {
+        "name":"Santa Luċija",
+        "shortCode":"53"
+      },
+      {
+        "name":"Santa Venera",
+        "shortCode":"54"
+      },
+      {
+        "name":"Siġġiewi",
+        "shortCode":"55"
+      },
+      {
+        "name":"Sliema",
+        "shortCode":"56"
+      },
+      {
+        "name":"Swieqi",
+        "shortCode":"57"
+      },
+      {
+        "name":"Tai Xbiex",
+        "shortCode":"58"
+      },
+      {
+        "name":"Tarzien",
+        "shortCode":"59"
+      },
+      {
+        "name":"Valletta",
+        "shortCode":"60"
+      },
+      {
+        "name":"Xagħra",
+        "shortCode":"61"
+      },
+      {
+        "name":"Xewkija",
+        "shortCode":"62"
+      },
+      {
+        "name":"Xgħajra",
+        "shortCode":"63"
+      },
+      {
+        "name":"Żabbar",
+        "shortCode":"64"
+      },
+      {
+        "name":"Żebbuġ Għawde",
+        "shortCode":"65"
+      },
+      {
+        "name":"Żebbuġ Malta",
+        "shortCode":"66"
+      },
+      {
+        "name":"Żejtun",
+        "shortCode":"67"
+      },
+      {
+        "name":"Żurrieq",
+        "shortCode":"68"
       }
     ]
   },
@@ -8965,97 +9426,92 @@
     "countryShortCode":"MH",
     "regions":[
       {
-        "name":"Ailinginae"
+        "name":"Ailinglaplap",
+        "shortCode":"ALL"
       },
       {
-        "name":"Ailinglaplap"
+        "name":"Ailuk",
+        "shortCode":"ALK"
       },
       {
-        "name":"Ailuk"
+        "name":"Arno",
+        "shortCode":"ARN"
       },
       {
-        "name":"Arno"
+        "name":"Aur",
+        "shortCode":"AUR"
       },
       {
-        "name":"Aur"
+        "name":"Bikini and Kili",
+        "shortCode":"KIL"
       },
       {
-        "name":"Bikar"
+        "name":"Ebon",
+        "shortCode":"EBO"
       },
       {
-        "name":"Bikini"
+        "name":"Jabat",
+        "shortCode":"JAB"
       },
       {
-        "name":"Bokak"
+        "name":"Jaluit",
+        "shortCode":"JAL"
       },
       {
-        "name":"Ebon"
+        "name":"Kwajalein",
+        "shortCode":"KWA"
       },
       {
-        "name":"Enewetak"
+        "name":"Lae",
+        "shortCode":"LAE"
       },
       {
-        "name":"Erikub"
+        "name":"Lib",
+        "shortCode":"LIB"
       },
       {
-        "name":"Jabat"
+        "name":"Likiep",
+        "shortCode":"LIK"
       },
       {
-        "name":"Jaluit"
+        "name":"Majuro",
+        "shortCode":"MAJ"
       },
       {
-        "name":"Jemo"
+        "name":"Maloelap",
+        "shortCode":"MAL"
       },
       {
-        "name":"Kili"
+        "name":"Mejit",
+        "shortCode":"MEJ"
       },
       {
-        "name":"Kwajalein"
+        "name":"Namdrik",
+        "shortCode":"NMK"
       },
       {
-        "name":"Lae"
+        "name":"Namu",
+        "shortCode":"NMU"
       },
       {
-        "name":"Lib"
+        "name":"Rongelap",
+        "shortCode":"RON"
       },
       {
-        "name":"Likiep"
+        "name":"Ujae",
+        "shortCode":"UJA"
       },
       {
-        "name":"Majuro"
+        "name":"Utrik",
+        "shortCode":"UTI"
       },
       {
-        "name":"Maloelap"
+        "name":"Wotho",
+        "shortCode":"WTH"
       },
       {
-        "name":"Mejitorik"
-      },
-      {
-        "name":"Namu"
-      },
-      {
-        "name":"Rongelap"
-      },
-      {
-        "name":"Rongrik"
-      },
-      {
-        "name":"Toke"
-      },
-      {
-        "name":"Ujae"
-      },
-      {
-        "name":"Ujelang"
-      },
-      {
-        "name":"Utirik"
-      },
-      {
-        "name":"Wotho"
-      },
-      {
-        "name":"Wotje"
+        "name":"Wotje",
+        "shortCode":"WTJ"
       }
     ]
   },
@@ -9439,37 +9895,152 @@
     "countryShortCode":"MD",
     "regions":[
       {
-        "name":"Balti"
+        "name":"Aenii Noi",
+        "shortCode":"AN"
       },
       {
-        "name":"Cahul"
+        "name":"Basarabeasca",
+        "shortCode":"BS"
       },
       {
-        "name":"Chisinau"
+        "name":"Bălți",
+        "shortCode":"BA"
       },
       {
-        "name":"Dubasari"
+        "name":"Bender",
+        "shortCode":"BD"
       },
       {
-        "name":"Edinet"
+        "name":"Briceni",
+        "shortCode":"BR"
       },
       {
-        "name":"Gagauzia"
+        "name":"Cahul",
+        "shortCode":"CA"
       },
       {
-        "name":"Lapusna"
+        "name":"Cantemir",
+        "shortCode":"CT"
       },
       {
-        "name":"Orhei"
+        "name":"Călărași",
+        "shortCode":"CL"
       },
       {
-        "name":"Soroca"
+        "name":"Căușeni",
+        "shortCode":"CS"
       },
       {
-        "name":"Tighina"
+        "name":"Chișinău",
+        "shortCode":"CU"
       },
       {
-        "name":"Ungheni"
+        "name":"Cimișlia",
+        "shortCode":"CM"
+      },
+      {
+        "name":"Criuleni",
+        "shortCode":"CR"
+      },
+      {
+        "name":"Dondușeni",
+        "shortCode":"DO"
+      },
+      {
+        "name":"Drochia",
+        "shortCode":"DR"
+      },
+      {
+        "name":"Dubăsari",
+        "shortCode":"DU"
+      },
+      {
+        "name":"  Edineț",
+        "shortCode":"ED"
+      },
+      {
+        "name":"Fălești",
+        "shortCode":"FA"
+      },
+      {
+        "name":"Florești",
+        "shortCode":"FL"
+      },
+      {
+        "name":"Găgăuzia",
+        "shortCode":"GA"
+      },
+      {
+        "name":"Glodeni",
+        "shortCode":"GL"
+      },
+      {
+        "name":"Hîncești",
+        "shortCode":"HI"
+      },
+      {
+        "name":"Ialoveni",
+        "shortCode":"IA"
+      },
+      {
+        "name":"Leova",
+        "shortCode":"LE"
+      },
+      {
+        "name":"Nisporeni",
+        "shortCode":"NI"
+      },
+      {
+        "name":"Ocnița",
+        "shortCode":"OC"
+      },
+      {
+        "name":"Orhei",
+        "shortCode":"OR"
+      },
+      {
+        "name":"Rezina",
+        "shortCode":"RE"
+      },
+      {
+        "name":"Rîșcani",
+        "shortCode":"RI"
+      },
+      {
+        "name":"Sîngerei",
+        "shortCode":"SI"
+      },
+      {
+        "name":"Soroca",
+        "shortCode":"SO"
+      },
+      {
+        "name":"Stînga Nistrului",
+        "shortCode":"SN"
+      },
+      {
+        "name":"Strășeni",
+        "shortCode":"ST"
+      },
+      {
+        "name":"Șoldănești",
+        "shortCode":"SD"
+      },
+      {
+        "name":"Ștefan Vodă",
+        "shortCode":"SV"
+      },
+      {
+        "name":"Taraclia",
+        "shortCode":"TA"
+      },
+      {
+        "name":"Telenești",
+        "shortCode":"TE"
+      },
+      {
+        "name":"Ungheni",
+        "shortCode":"UN"
       }
     ]
   },
@@ -9478,28 +10049,24 @@
     "countryShortCode":"MC",
     "regions":[
       {
+        "name":"Colle",
+        "shortCode":"CL"
+      },
+      {
+        "name":"Condamine",
+        "shortCode":"CO"
+      },
+      {
         "name":"Fontvieille",
         "shortCode":"FO"
       },
       {
-        "name":"Jardin Exotique",
-        "shortCode":"JE"
-      },
-      {
-        "name":"La Colle",
-        "shortCode":"CL"
-      },
-      {
-        "name":"La Condamine",
-        "shortCode":"CO"
-      },
-      {
-        "name":"La Gare",
+        "name":"Gare",
         "shortCode":"GA"
       },
       {
-        "name":"La Source",
-        "shortCode":"SO"
+        "name":"Jardin Exotique",
+        "shortCode":"JE"
       },
       {
         "name":"Larvotto",
@@ -9536,6 +10103,10 @@
       {
         "name":"Sainte-Dévote",
         "shortCode":"SD"
+      },
+      {
+        "name":"Source",
+        "shortCode":"SO"
       },
       {
         "name":"Spélugues",
@@ -9751,115 +10322,64 @@
     "countryShortCode":"MA",
     "regions":[
       {
-        "name":"Agadir"
+        "name":"Chaouia-Ouardigha",
+        "shortCode":"09"
       },
       {
-        "name":"Al Hoceima"
+        "name":"Doukhala-Abda",
+        "shortCode":"10"
       },
       {
-        "name":"Azilal"
+        "name":"Fès-Boulemane",
+        "shortCode":"05"
       },
       {
-        "name":"Ben Slimane"
+        "name":"Gharb-Chrarda-Beni Hssen",
+        "shortCode":"02"
       },
       {
-        "name":"Beni Mellal"
+        "name":"Grand Casablanca",
+        "shortCode":"08"
       },
       {
-        "name":"Boulemane"
+        "name":"Guelmim-Es Semara",
+        "shortCode":"14"
       },
       {
-        "name":"Casablanca"
+        "name":"Laâyoune-Boujdour-Sakia el Hamra",
+        "shortCode":"15"
       },
       {
-        "name":"Chaouen"
+        "name":"Marrakech-Tensift-Al Haouz",
+        "shortCode":"11"
       },
       {
-        "name":"El Jadida"
+        "name":"Meknès-Tafilalet",
+        "shortCode":"06"
       },
       {
-        "name":"El Kelaa des Srarhna"
+        "name":"Oriental",
+        "shortCode":"04"
       },
       {
-        "name":"Er Essaouira"
+        "name":"Oued ed Dahab-Lagouira",
+        "shortCode":"16"
       },
       {
-        "name":"Fes"
+        "name":"Souss-Massa-Drâa",
+        "shortCode":"13"
       },
       {
-        "name":"Figuig"
+        "name":"Tadla-Azilal",
+        "shortCode":"12"
       },
       {
-        "name":"Guelmim"
+        "name":"Tanger-Tétouan",
+        "shortCode":"01"
       },
       {
-        "name":"Ifrane"
-      },
-      {
-        "name":"Kenitra"
-      },
-      {
-        "name":"Khemisset"
-      },
-      {
-        "name":"Khenifra"
-      },
-      {
-        "name":"Khouribga"
-      },
-      {
-        "name":"Laayoune"
-      },
-      {
-        "name":"Larache"
-      },
-      {
-        "name":"Marrakech"
-      },
-      {
-        "name":"Meknes"
-      },
-      {
-        "name":"Nador"
-      },
-      {
-        "name":"Ouarzazate"
-      },
-      {
-        "name":"Oujda"
-      },
-      {
-        "name":"Rabat-"
-      },
-      {
-        "name":"Settat"
-      },
-      {
-        "name":"Sidi Kacem"
-      },
-      {
-        "name":"Tan-Tan"
-      },
-      {
-        "name":"Tanger"
-      },
-      {
-        "name":"Taounate"
-      },
-      {
-        "name":"Taroudannt"
-      },
-      {
-        "name":"Tata"
-      },
-      {
-        "name":"Taza"
-      },
-      {
-        "name":"Tetouan"
-      },
-      {
-        "name":"Tiznit"
+        "name":"Taza-Al Hoceima-Taounate",
+        "shortCode":"03"
       }
     ]
   },
@@ -10251,8 +10771,16 @@
         "shortCode":"CAN"
       },
       {
+        "name":"Gisborne (Tūranga nui a Kiwa)",
+        "shortCode":"GIS"
+      },
+      {
         "name":"Hawke's Bay (Te Matau a Māui)",
         "shortCode":"HKB"
+      },
+      {
+        "name":"Marlborough",
+        "shortCode":"MBH"
       },
       {
         "name":"Manawatu-Wanganui (Manawatu Whanganui)",
@@ -10261,6 +10789,10 @@
       {
         "name":"Northland (Te Tai tokerau)",
         "shortCode":"NTL"
+      },
+      {
+        "name":"Nelson (Whakatū)",
+        "shortCode":"NSN"
       },
       {
         "name":"Otago (Ō Tākou)",
@@ -10275,6 +10807,10 @@
         "shortCode":"TKI"
       },
       {
+        "name":"Tasman",
+        "shortCode":"TAS"
+      },
+      {
         "name":"Waikato",
         "shortCode":"WKO"
       },
@@ -10285,22 +10821,6 @@
       {
         "name":"West Coast (Te Taihau ā uru)",
         "shortCode":"WTC"
-      },
-      {
-        "name":"Gisborne District (Tūranga nui a Kiwa)",
-        "shortCode":"GIS"
-      },
-      {
-        "name":"Marlborough District",
-        "shortCode":"MBH"
-      },
-      {
-        "name":"Nelson City (Whakatū)",
-        "shortCode":"NSN"
-      },
-      {
-        "name":"Tasman District",
-        "shortCode":"TAS"
       },
       {
         "name":"Chatham Islands Territory (Wharekauri)",
@@ -10863,7 +11383,68 @@
     "countryShortCode":"PS",
     "regions":[
       {
-        "name":"Palestine"
+        "name":"Ak Khalīl",
+        "shortCode":"HBN"
+      },
+      {
+        "name":"Al Quds",
+        "shortCode":"JEM"
+      },
+      {
+        "name":"Arīḩā wal Aghwār",
+        "shortCode":"JRH"
+      },
+      {
+        "name":"Bayt Laḩm",
+        "shortCode":"BTH"
+      },
+      {
+        "name":"Dayr al Balaḩ",
+        "shortCode":"DEB"
+      },
+      {
+        "name":"Ghazzah",
+        "shortCode":"GZA"
+      },
+      {
+        "name":"Janīn",
+        "shortCode":"JEN"
+      },
+      {
+        "name":"Khān Yūnis",
+        "shortCode":"KYS"
+      },
+      {
+        "name":"Nāblus",
+        "shortCode":"NBS"
+      },
+      {
+        "name":"Qalqīyah",
+        "shortCode":"QQA"
+      },
+      {
+        "name":"Rafaḩ",
+        "shortCode":"RFH"
+      },
+      {
+        "name":"Rām Allāh wal Bīrah",
+        "shortCode":"RBH"
+      },
+      {
+        "name":"Salfīt",
+        "shortCode":"SLT"
+      },
+      {
+        "name":"Shamāl Ghazzah",
+        "shortCode":"NGZ"
+      },
+      {
+        "name":"Ţūbās",
+        "shortCode":"TBS"
+      },
+      {
+        "name":"Ţūlkarm",
+        "shortCode":"TKM"
       }
     ]
   },
@@ -11233,7 +11814,7 @@
       },
       {
         "name":"Apayao",
-        "shortCode":"ANT"
+        "shortCode":"APA"
       },
       {
         "name":"Aurora",
@@ -11256,6 +11837,10 @@
         "shortCode":"BTG"
       },
       {
+        "name":"Benguet",
+        "shortCode":"BEN"
+      },
+      {
         "name":"Biliran",
         "shortCode":"BIL"
       },
@@ -11276,7 +11861,7 @@
         "shortCode":"CAG"
       },
       {
-        "name":"Camarines Nort",
+        "name":"Camarines Norte",
         "shortCode":"CAN"
       },
       {
@@ -11304,7 +11889,7 @@
         "shortCode":"CEB"
       },
       {
-        "name":"Compostela Valley",
+        "name":"Compostela",
         "shortCode":"COM"
       },
       {
@@ -11388,10 +11973,6 @@
         "shortCode":"MAG"
       },
       {
-        "name":"Marinduque",
-        "shortCode":"MAD"
-      },
-      {
         "name":"Masbate",
         "shortCode":"MAS"
       },
@@ -11463,7 +12044,7 @@
         "name":"Romblon",
         "shortCode":"ROM"
       },
-      {
+     {
         "name":"Samar",
         "shortCode":"WSA"
       },
@@ -11480,16 +12061,12 @@
         "shortCode":"SOR"
       },
       {
-        "name":"South Cotabato",
-        "shortCode":"SCO"
-      },
-      {
         "name":"Southern Leyte",
         "shortCode":"SLE"
       },
       {
         "name":"Sultan Kudarat",
-        "shortCode":"SUK"
+        "shortCode":"AUK"
       },
       {
         "name":"Sulu",
@@ -12525,46 +13102,12 @@
     "countryShortCode":"KN",
     "regions":[
       {
-        "name":"Christ Church Nichola Town"
+        "name":"Saint Kitts",
+        "shortCode":"K"
       },
       {
-        "name":"Saint Anne Sandy Point"
-      },
-      {
-        "name":"Saint George Basseterre"
-      },
-      {
-        "name":"Saint George Gingerland"
-      },
-      {
-        "name":"Saint James Windward"
-      },
-      {
-        "name":"Saint John Capisterre"
-      },
-      {
-        "name":"Saint ree"
-      },
-      {
-        "name":"Saint Mary Cayon"
-      },
-      {
-        "name":"Saint Paul Capisterre"
-      },
-      {
-        "name":"Saint Paul Charlestown"
-      },
-      {
-        "name":"Saint Peter Basseterre"
-      },
-      {
-        "name":"Saint Thomas Lowland"
-      },
-      {
-        "name":"Saint Thomas Middle Island"
-      },
-      {
-        "name":"Trinity Point"
+        "name":"Nevis",
+        "shortCode":"N"
       }
     ]
   },
@@ -15487,7 +16030,56 @@
     "countryShortCode":"TL",
     "regions":[
       {
-        "name":"Timor-Leste"
+        "name":"Aileu",
+        "shortCode":"AL"
+      },
+      {
+        "name":"Ainaro",
+        "shortCode":"AN"
+      },
+      {
+        "name":"Baucau",
+        "shortCode":"BA"
+      },
+      {
+        "name":"Bobonaro",
+        "shortCode":"BO"
+      },
+      {
+        "name":"Cova Lima",
+        "shortCode":"CO"
+      },
+      {
+        "name":"Dili",
+        "shortCode":"DI"
+      },
+      {
+        "name":"Ermera",
+        "shortCode":"ER"
+      },
+      {
+        "name":"Lautem",
+        "shortCode":"LA"
+      },
+      {
+        "name":"Liquica",
+        "shortCode":"LI"
+      },
+      {
+        "name":"Manatuto",
+        "shortCode":"MT"
+      },
+      {
+        "name":"Manufahi",
+        "shortCode":"MF"
+      },
+      {
+        "name":"Oecussi",
+        "shortCode":"OE"
+      },
+      {
+        "name":"Viqueque",
+        "shortCode":"VI"
       }
     ]
   },
@@ -16125,7 +16717,7 @@
       },
       {
         "name":"Vaitupu",
-        "shortCode":"VAI"
+        "shortCode":"VAU"
       }
     ]
   },
@@ -17038,42 +17630,6 @@
       {
         "name":"West Glamorgan",
         "shortCode":"WGM"
-      }
-    ]
-  },
-  {
-    "countryName":"United Kingdom Overseas Territories",
-    "countryShortCode":"UO",
-    "regions":[
-      {
-        "name":"Anguilla"
-      },
-      {
-        "name":"Bermuda"
-      },
-      {
-        "name":"British Virgin Islands"
-      },
-      {
-        "name":"Cayman Islands"
-      },
-      {
-        "name":"Falkland Islands"
-      },
-      {
-        "name":"Gibraltar"
-      },
-      {
-        "name":"Montserrat"
-      },
-      {
-        "name":"St Helena"
-      },
-      {
-        "name":"Tristan Da Cunha"
-      },
-      {
-        "name":"Turks & Caicos Islands"
       }
     ]
   },

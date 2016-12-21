@@ -4740,23 +4740,11 @@
     "countryShortCode":"FR",
     "regions":[
       {
-        "name":"Alsace",
-        "shortCode": "A"
+        "name":"Auvergne-Rhône-Alpes",
+        "shortCode": "V"
       },
       {
-        "name":"Aquitaine",
-        "shortCode": "B"
-      },
-      {
-        "name":"Auvergne",
-        "shortCode": "C"
-      },
-      {
-        "name":"Basse-Normandie",
-        "shortCode": "P"
-      },
-      {
-        "name":"Bourgogne",
+        "name":"Bourgogne-Franche-Comté",
         "shortCode": "D"
       },
       {
@@ -4764,68 +4752,40 @@
         "shortCode": "E"
       },
       {
-        "name":"Centre",
+        "name":"Centre-Val de Loire",
         "shortCode": "F"
-      },
-      {
-        "name":"Champagne-Ardenne",
-        "shortCode": "G"
       },
       {
         "name":"Corse",
         "shortCode": "H"
       },
       {
-        "name":"Franche-Comté",
-        "shortCode": "I"
+        "name":"Grand Est",
+        "shortCode": "G"
       },
       {
-        "name":"Haute-Normandie",
-        "shortCode": "Q"
+        "name":"Hauts-de-France",
+        "shortCode": "S"
       },
       {
         "name":"Île-de-France",
         "shortCode": "J"
       },
       {
-        "name":"Languedoc-Roussillon",
-        "shortCode": "K"
+        "name":"Normandie",
+        "shortCode": "P"
       },
       {
-        "name":"Limousin",
-        "shortCode": "L"
-      },
-      {
-        "name":"Lorraine",
-        "shortCode": "M"
-      },
-      {
-        "name":"Midi-Pyrénées",
+        "name":"Occitanie",
         "shortCode": "N"
-      },
-      {
-        "name":"Nord-Pas-de-Calais",
-        "shortCode": "O"
       },
       {
         "name":"Pays de la Loire",
         "shortCode": "R"
       },
       {
-        "name":"Picardie",
-        "shortCode": "S"
-      },
-      {
-        "name":"Poitou-Charentes",
-        "shortCode": "T"
-      },
-      {
         "name":"Provence-Alpes-Cote d'Azur",
         "shortCode": "U"
-      },
-      {
-        "name":"Rhone-Alpes",
-        "shortCode": "V"
       },
       {
         "name":"Clipperton",

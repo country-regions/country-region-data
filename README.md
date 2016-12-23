@@ -60,6 +60,7 @@ are pretty clear, I think.
 
 ### Changelog
 
+- `1.3.3` - Dec 22, 2016. French region fix - thanks [JMartelot](https://github.com/JMartelot)! 
 - `1.3.2` - Oct 31, 2016. Lots more region short codes (thanks again, [ellenhutchings](https://github.com/ellenhutchings)!).
 - `1.3.1` - Sept 23, 2016. Fix for incorrect shortcodes in Japanese prefectures. 
 - `1.3.0` - July 1, 2016. Improved validation added to ensure uniqueness of country names, short codes, region names and 

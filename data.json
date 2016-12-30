@@ -9715,6 +9715,10 @@
         "shortCode":"CAM"
       },
       {
+        "name":"Ciudad de México",
+        "shortCode":"DIF"
+      },
+      {
         "name":"Chiapas",
         "shortCode":"CHP"
       },
@@ -9731,12 +9735,12 @@
         "shortCode":"COL"
       },
       {
-        "name":"Distrito Federal",
-        "shortCode":"DIF"
-      },
-      {
         "name":"Durango",
         "shortCode":"DUR"
+      },
+      {
+        "name":"Estado de México",
+        "shortCode":"MEX"
       },
       {
         "name":"Guanajuato",
@@ -9755,11 +9759,7 @@
         "shortCode":"JAL"
       },
       {
-        "name":"Mexico",
-        "shortCode":"MEX"
-      },
-      {
-        "name":"Michoacan de Ocampo",
+        "name":"Michoacán de Ocampo",
         "shortCode":"MIC"
       },
       {
@@ -9771,7 +9771,7 @@
         "shortCode":"NAY"
       },
       {
-        "name":"Nuevo Leon",
+        "name":"Nuevo León",
         "shortCode":"NLE"
       },
       {
@@ -9783,7 +9783,7 @@
         "shortCode":"PUE"
       },
       {
-        "name":"Queretaro de Arteaga",
+        "name":"Querétaro de Arteaga",
         "shortCode":"QUE"
       },
       {
@@ -9791,7 +9791,7 @@
         "shortCode":"ROO"
       },
       {
-        "name":"San Luis Potosi",
+        "name":"San Luis Potosí",
         "shortCode":"SLP"
       },
       {
@@ -9815,11 +9815,11 @@
         "shortCode":"TLA"
       },
       {
-        "name":"Veracruz-Llave",
+        "name":"Veracruz",
         "shortCode":"VER"
       },
       {
-        "name":"Yucatan",
+        "name":"Yucatán",
         "shortCode":"YUC"
       },
       {

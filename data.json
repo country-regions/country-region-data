@@ -12674,327 +12674,335 @@
     "countryShortCode":"RU",
     "regions":[
       {
-        "name":"Adygeya",
+        "name":"Republic of Adygea",
         "shortCode":"AD"
       },
       {
-        "name":"Altay (Gorno-Altaysk)",
+        "name":"Republic of Altai (Gorno-Altaysk)",
         "shortCode":"AL"
       },
       {
-        "name":"Altayskiy",
+        "name":"Altai Krai",
         "shortCode":"ALT"
       },
       {
-        "name":"Amurskaya",
+        "name":"Amur Oblast",
         "shortCode":"AMU"
       },
       {
-        "name":"Arkhangel'skaya",
+        "name":"Arkhangelsk Oblast",
         "shortCode":"ARK"
       },
       {
-        "name":"Astrakhanskaya",
+        "name":"Astrakhan Oblast",
         "shortCode":"AST"
       },
       {
-        "name":"Bashkortostan",
+        "name":"Republic of Bashkortostan",
         "shortCode":"BA"
       },
       {
-        "name":"Belgorodskaya",
+        "name":"Belgorod Oblast",
         "shortCode":"BEL"
       },
       {
-        "name":"Bryanskaya",
+        "name":"Bryansk Oblast",
         "shortCode":"BRY"
       },
       {
-        "name":"Buryatiya",
+        "name":"Republic of Buryatia",
         "shortCode":"BU"
       },
       {
-        "name":"Chechenskaya",
+        "name":"Chechen Republic",
         "shortCode":"CE"
       },
       {
-        "name":"Chelyabinskaya",
+        "name":"Chelyabinsk Oblast",
         "shortCode":"CHE"
       },
       {
-        "name":"Chukotskiy",
+        "name":"Chukotka Autonomous Okrug",
         "shortCode":"CHU"
       },
       {
-        "name":"Chuvashskaya",
+        "name":"Chuvash Republic",
         "shortCode":"CU"
       },
       {
-        "name":"Dagestan",
+        "name":"Republic of Dagestan",
         "shortCode":"DA"
       },
       {
-        "name":"Ingushetiya",
+        "name":"Republic of Ingushetia",
         "shortCode":"IN"
       },
       {
-        "name":"Irkutskaya",
+        "name":"Irkutsk Oblast",
         "shortCode":"IRK"
       },
       {
-        "name":"Ivanovskaya",
+        "name":"Ivanovo Oblast",
         "shortCode":"IVA"
       },
       {
-        "name":"Kabardino-Balkariya",
+        "name":"Jewish Autonomous Oblast",
+        "shortCode":"JEW"
+      },
+      {
+        "name":"Kabardino-Balkar Republic",
         "shortCode":"KB"
       },
       {
-        "name":"Kalmykiya",
+        "name":"Kaliningrad Oblast",
+        "shortCode":"KLN"
+      },
+      {
+        "name":"Republic of Kalmykia",
         "shortCode":"KL"
       },
       {
-        "name":"Kaluzhskaya",
+        "name":"Kaluga Oblast",
         "shortCode":"KLU"
       },
       {
-        "name":"Kamchatskaya",
+        "name":"Kamchatka Krai",
         "shortCode":"KAM"
       },
       {
-        "name":"Karachayevo-Cherkesiya",
+        "name":"Karachay-Cherkess Republic",
         "shortCode":"KC"
       },
       {
-        "name":"Kareliya",
+        "name":"Republic of Karelia",
         "shortCode":"KR"
       },
       {
-        "name":"Khabarovskiy",
+        "name":"Khabarovsk Krai",
         "shortCode":"KHA"
       },
       {
-        "name":"Khakasiya",
+        "name":"Republic of Khakassia",
         "shortCode":"KK"
       },
       {
-        "name":"Khanty-Mansiyskiy",
+        "name":"Khanty-Mansi Autonomous Okrug - Yugra",
         "shortCode":"KHM"
       },
       {
-        "name":"Kirovskaya",
+        "name":"Kemerovo Oblast",
+        "shortCode":"KEM"
+      },
+      {
+        "name":"Kirov Oblast",
         "shortCode":"KIR"
       },
       {
-        "name":"Komi",
+        "name":"Komi Republic",
         "shortCode":"KO"
       },
       {
-        "name":"Kostromskaya",
+        "name":"Kostroma Oblast",
         "shortCode":"KOS"
       },
       {
-        "name":"Krasnodarskiy",
+        "name":"Krasnodar Krai",
         "shortCode":"KDA"
       },
       {
-        "name":"Krasnoyarskiy",
+        "name":"Krasnoyarsk Krai",
         "shortCode":"KYA"
       },
       {
-        "name":"Kurganskaya",
+        "name":"Kurgan Oblast",
         "shortCode":"KGN"
       },
       {
-        "name":"Kurskaya",
+        "name":"Kursk Oblast",
         "shortCode":"KRS"
       },
       {
-        "name":"Leningradskaya",
+        "name":"Leningrad Oblast",
         "shortCode":"LEN"
       },
       {
-        "name":"Lipetskaya",
+        "name":"Lipetsk Oblast",
         "shortCode":"LIP"
       },
       {
-        "name":"Magadanskaya",
+        "name":"Magadan Oblast",
         "shortCode":"MAG"
       },
       {
-        "name":"Mariy-El",
+        "name":"Mari El Republic",
         "shortCode":"ME"
       },
       {
-        "name":"Mordoviya",
+        "name":"Republic of Mordovia",
         "shortCode":"MO"
       },
       {
-        "name":"Moskovskaya",
+        "name":"Moscow Oblast",
         "shortCode":"MOS"
       },
       {
-        "name":"Moskva",
+        "name":"Moscow",
         "shortCode":"MOW"
       },
       {
-        "name":"Murmanskaya",
+        "name":"Murmansk Oblast",
         "shortCode":"MU"
       },
       {
-        "name":"Nenetskiy",
+        "name":"Nenets Autonomous Okrug",
         "shortCode":"NEN"
       },
       {
-        "name":"Nizhegorodskaya",
+        "name":"Nizhny Novgorod Oblast",
         "shortCode":"NIZ"
       },
       {
-        "name":"Novgorodskaya",
+        "name":"Novgorod Oblast",
         "shortCode":"NGR"
       },
       {
-        "name":"Novosibirskaya",
+        "name":"Novosibirsk Oblast",
         "shortCode":"NVS"
       },
       {
-        "name":"Omskaya",
+        "name":"Omsk Oblast",
         "shortCode":"OMS"
       },
       {
-        "name":"Orenburgskaya",
+        "name":"Orenburg Oblast",
         "shortCode":"ORE"
       },
       {
-        "name":"Orlovskaya",
+        "name":"Oryol Oblast",
         "shortCode":"ORL"
       },
       {
-        "name":"Permskiy",
+        "name":"Penza Oblast",
+        "shortCode":"PNZ"
+      },
+      {
+        "name":"Perm Krai",
         "shortCode":"PER"
       },
       {
-        "name":"Permskaya",
-        "shortCode":"PER"
-      },
-      {
-        "name":"Primorskiy",
+        "name":"Primorsky Krai",
         "shortCode":"PRI"
       },
       {
-        "name":"Pskovskaya",
+        "name":"Pskov Oblast",
         "shortCode":"PSK"
       },
       {
-        "name":"Rostovskaya",
+        "name":"Rostov Oblast",
         "shortCode":"ROS"
       },
       {
-        "name":"Ryazanskaya",
+        "name":"Ryazan Oblast",
         "shortCode":"RYA"
       },
       {
-        "name":"Sakha (Yakutiya)",
-        "shortCode":"SA"
-      },
-      {
-        "name":"Sakhalinskaya",
-        "shortCode":"SAK"
-      },
-      {
-        "name":"Samarskaya",
-        "shortCode":"SAM"
-      },
-      {
-        "name":"Sankt-Peterburg",
+        "name":"Saint Petersburg",
         "shortCode":"SPE"
       },
       {
-        "name":"Saratovskaya",
+        "name":"Sakha (Yakutia) Republic",
+        "shortCode":"SA"
+      },
+      {
+        "name":"Sakhalin Oblast",
+        "shortCode":"SAK"
+      },
+      {
+        "name":"Samara Oblast",
+        "shortCode":"SAM"
+      },
+      {
+        "name":"Saratov Oblast",
         "shortCode":"SAR"
       },
       {
-        "name":"Severnaya Osetiya-Alaniya",
-        "shortCode":"SE"
+        "name":"Republic of North Ossetia-Alania",
+        "shortCode":"NOA"
       },
       {
-        "name":"Smolenskaya",
+        "name":"Smolensk Oblast",
         "shortCode":"SMO"
       },
       {
-        "name":"Stavropol'skiy",
+        "name":"Stavropol Krai",
         "shortCode":"STA"
       },
       {
-        "name":"Sverdlovskaya",
+        "name":"Sverdlovsk Oblast",
         "shortCode":"SVE"
       },
       {
-        "name":"Tambovskaya",
+        "name":"Tambov Oblast",
         "shortCode":"TAM"
       },
       {
-        "name":"Tatarstan",
+        "name":"Republic of Tatarstan",
         "shortCode":"TA"
       },
       {
-        "name":"Tomskaya",
+        "name":"Tomsk Oblast",
         "shortCode":"TOM"
       },
       {
-        "name":"Tul'skaya",
+        "name":"Tuva Republic",
+        "shortCode":"TU"
+      },
+      {
+        "name":"Tula Oblast",
         "shortCode":"TUL"
       },
       {
-        "name":"Tverskaya",
+        "name":"Tver Oblast",
         "shortCode":"TVE"
       },
       {
-        "name":"Tyumenskaya",
+        "name":"Tyumen Oblast",
         "shortCode":"TYU"
       },
       {
-        "name":"Tyva",
-        "shortCode":"TY"
-      },
-      {
-        "name":"Udmurtskaya",
+        "name":"Udmurt Republic",
         "shortCode":"UD"
       },
       {
-        "name":"Ul'yanovskaya",
+        "name":"Ulyanovsk Oblast",
         "shortCode":"ULY"
       },
       {
-        "name":"Vladimirskaya",
+        "name":"Vladimir Oblast",
         "shortCode":"VLA"
       },
       {
-        "name":"Volgogradskaya",
+        "name":"Volgograd Oblast",
         "shortCode":"VGG"
       },
       {
-        "name":"Vologodskaya",
+        "name":"Vologda Oblast",
         "shortCode":"VLG"
       },
       {
-        "name":"Voronezhskaya",
+        "name":"Voronezh Oblast",
         "shortCode":"VOR"
       },
       {
-        "name":"Yamalo-Nenetskiy",
+        "name":"Yamalo-Nenets Autonomous Okrug",
         "shortCode":"YAN"
       },
       {
-        "name":"Yaroslavskaya",
+        "name":"Yaroslavl Oblast",
         "shortCode":"YAR"
       },
       {
-        "name":"Yevreyskaya",
-        "shortCode":"YEV"
-      },
-      {
-        "name":"Zabaykal'skiy",
+        "name":"Zabaykalsky Krai",
         "shortCode":"ZAB"
       }
     ]

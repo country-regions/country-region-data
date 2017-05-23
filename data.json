@@ -17606,12 +17606,12 @@
     "countryShortCode":"US",
     "regions":[
       {
-        "name":"Alaska",
-        "shortCode":"AK"
-      },
-      {
         "name":"Alabama",
         "shortCode":"AL"
+      },
+      {
+        "name":"Alaska",
+        "shortCode":"AK"
       },
       {
         "name":"American Samoa",

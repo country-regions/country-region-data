@@ -23,6 +23,7 @@
   "homepage": "https://github.com/benkeen/country-region-data",
   "devDependencies": {
     "grunt": "^1.0.1",
+    "libumd": "^0.7.0",
     "underscore": "^1.8.3"
   }
 }

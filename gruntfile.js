@@ -1,5 +1,5 @@
 var _ = require('underscore');
-
+var libumd = require('libumd');
 
 var findDuplicates = function (sourceArray, prop) {
   var duplicates = [];
@@ -74,7 +74,21 @@ module.exports = function(grunt) {
     }
   }
 
+  function umdify () {
+    var content = getJSON(grunt);
+
+    var output = libumd("return " + JSON.stringify(content, null, 2) + ";", {
+      globalAlias: "countryRegionData",
+      indent: 2
+    });
+
+    grunt.file.write("data.js", output);
+
+    console.log('Successfully made a UMD module!');
+  }
+
   grunt.registerTask("default", ['validate']);
   grunt.registerTask("validate", validate);
   grunt.registerTask("findIncomplete", findIncomplete);
+  grunt.registerTask("umdify", umdify);
 };

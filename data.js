@@ -17059,7 +17059,7 @@ return [
         "shortCode": "68"
       },
       {
-        "name": "Kyïv",
+        "name": "Kiev",
         "shortCode": "32"
       },
       {
@@ -17121,6 +17121,10 @@ return [
       {
         "name": "Avtonomna Respublika Krym",
         "shortCode": "43"
+      },
+      {
+        "name": "Kyïv",
+        "shortCode": "30"
       },
       {
         "name": "Sevastopol",

@@ -4741,51 +4741,51 @@
     "regions":[
       {
         "name":"Auvergne-Rhône-Alpes",
-        "shortCode": "V"
+        "shortCode": "ARA"
       },
       {
         "name":"Bourgogne-Franche-Comté",
-        "shortCode": "D"
+        "shortCode": "BFC"
       },
       {
         "name":"Bretagne",
-        "shortCode": "E"
+        "shortCode": "BRE"
       },
       {
         "name":"Centre-Val de Loire",
-        "shortCode": "F"
+        "shortCode": "CVL"
       },
       {
         "name":"Corse",
-        "shortCode": "H"
+        "shortCode": "COR"
       },
       {
         "name":"Grand Est",
-        "shortCode": "G"
+        "shortCode": "GES"
       },
       {
         "name":"Hauts-de-France",
-        "shortCode": "S"
+        "shortCode": "HDF"
       },
       {
         "name":"Île-de-France",
-        "shortCode": "J"
+        "shortCode": "IDF"
       },
       {
         "name":"Normandie",
-        "shortCode": "P"
+        "shortCode": "NOR"
       },
       {
         "name":"Occitanie",
-        "shortCode": "N"
+        "shortCode": "OCC"
       },
       {
         "name":"Pays de la Loire",
-        "shortCode": "R"
+        "shortCode": "PDL"
       },
       {
         "name":"Provence-Alpes-Cote d'Azur",
-        "shortCode": "U"
+        "shortCode": "PAC"
       },
       {
         "name":"Clipperton",

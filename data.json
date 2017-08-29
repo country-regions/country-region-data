@@ -10703,23 +10703,23 @@
     "countryShortCode":"NZ",
     "regions":[
       {
-        "name":"Auckland (Tāmaki-makau-rau)",
+        "name":"Auckland",
         "shortCode":"AUK"
       },
       {
-        "name":"Bay of Plenty (Te Moana a Toi Te Huatahi)",
+        "name":"Bay of Plenty",
         "shortCode":"BOP"
       },
       {
-        "name":"Canterbury (Waitaha)",
+        "name":"Canterbury",
         "shortCode":"CAN"
       },
       {
-        "name":"Gisborne (Tūranga nui a Kiwa)",
+        "name":"Gisborne",
         "shortCode":"GIS"
       },
       {
-        "name":"Hawke's Bay (Te Matau a Māui)",
+        "name":"Hawke's Bay",
         "shortCode":"HKB"
       },
       {
@@ -10727,27 +10727,27 @@
         "shortCode":"MBH"
       },
       {
-        "name":"Manawatu-Wanganui (Manawatu Whanganui)",
+        "name":"Manawatu-Wanganui",
         "shortCode":"MWT"
       },
       {
-        "name":"Northland (Te Tai tokerau)",
+        "name":"Northland",
         "shortCode":"NTL"
       },
       {
-        "name":"Nelson (Whakatū)",
+        "name":"Nelson",
         "shortCode":"NSN"
       },
       {
-        "name":"Otago (Ō Tākou)",
+        "name":"Otago",
         "shortCode":"OTA"
       },
       {
-        "name":"Southland (Murihiku)",
+        "name":"Southland",
         "shortCode":"STL"
       },
       {
-        "name":"Taranaki (Taranaki)",
+        "name":"Taranaki",
         "shortCode":"TKI"
       },
       {
@@ -10759,15 +10759,15 @@
         "shortCode":"WKO"
       },
       {
-        "name":"Wellington (Te Whanga-nui-a-Tara)",
+        "name":"Wellington",
         "shortCode":"WGN"
       },
       {
-        "name":"West Coast (Te Taihau ā uru)",
+        "name":"West Coast",
         "shortCode":"WTC"
       },
       {
-        "name":"Chatham Islands Territory (Wharekauri)",
+        "name":"Chatham Islands Territory",
         "shortCode":"CIT"
       }
     ]

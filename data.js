@@ -4757,51 +4757,55 @@ return [
     "regions": [
       {
         "name": "Auvergne-Rhône-Alpes",
-        "shortCode": "V"
+        "shortCode": "ARA"
       },
       {
         "name": "Bourgogne-Franche-Comté",
-        "shortCode": "D"
+        "shortCode": "BFC"
       },
       {
         "name": "Bretagne",
-        "shortCode": "E"
+        "shortCode": "BRE"
       },
       {
         "name": "Centre-Val de Loire",
-        "shortCode": "F"
+        "shortCode": "CVL"
       },
       {
         "name": "Corse",
-        "shortCode": "H"
+        "shortCode": "COR"
       },
       {
         "name": "Grand Est",
-        "shortCode": "G"
+        "shortCode": "GES"
       },
       {
         "name": "Hauts-de-France",
-        "shortCode": "S"
+        "shortCode": "HDF"
       },
       {
         "name": "Île-de-France",
-        "shortCode": "J"
+        "shortCode": "IDF"
       },
       {
         "name": "Normandie",
-        "shortCode": "P"
+        "shortCode": "NOR"
+      },
+      {
+        "name": "Nouvelle-Aquitaine",
+        "shortCode": "NAQ"
       },
       {
         "name": "Occitanie",
-        "shortCode": "N"
+        "shortCode": "OCC"
       },
       {
         "name": "Pays de la Loire",
-        "shortCode": "R"
+        "shortCode": "PDL"
       },
       {
         "name": "Provence-Alpes-Cote d'Azur",
-        "shortCode": "U"
+        "shortCode": "PAC"
       },
       {
         "name": "Clipperton",
@@ -10722,23 +10726,23 @@ return [
     "countryShortCode": "NZ",
     "regions": [
       {
-        "name": "Auckland (Tāmaki-makau-rau)",
+        "name": "Auckland",
         "shortCode": "AUK"
       },
       {
-        "name": "Bay of Plenty (Te Moana a Toi Te Huatahi)",
+        "name": "Bay of Plenty",
         "shortCode": "BOP"
       },
       {
-        "name": "Canterbury (Waitaha)",
+        "name": "Canterbury",
         "shortCode": "CAN"
       },
       {
-        "name": "Gisborne (Tūranga nui a Kiwa)",
+        "name": "Gisborne",
         "shortCode": "GIS"
       },
       {
-        "name": "Hawke's Bay (Te Matau a Māui)",
+        "name": "Hawke's Bay",
         "shortCode": "HKB"
       },
       {
@@ -10746,27 +10750,27 @@ return [
         "shortCode": "MBH"
       },
       {
-        "name": "Manawatu-Wanganui (Manawatu Whanganui)",
+        "name": "Manawatu-Wanganui",
         "shortCode": "MWT"
       },
       {
-        "name": "Northland (Te Tai tokerau)",
+        "name": "Northland",
         "shortCode": "NTL"
       },
       {
-        "name": "Nelson (Whakatū)",
+        "name": "Nelson",
         "shortCode": "NSN"
       },
       {
-        "name": "Otago (Ō Tākou)",
+        "name": "Otago",
         "shortCode": "OTA"
       },
       {
-        "name": "Southland (Murihiku)",
+        "name": "Southland",
         "shortCode": "STL"
       },
       {
-        "name": "Taranaki (Taranaki)",
+        "name": "Taranaki",
         "shortCode": "TKI"
       },
       {
@@ -10778,15 +10782,15 @@ return [
         "shortCode": "WKO"
       },
       {
-        "name": "Wellington (Te Whanga-nui-a-Tara)",
+        "name": "Wellington",
         "shortCode": "WGN"
       },
       {
-        "name": "West Coast (Te Taihau ā uru)",
+        "name": "West Coast",
         "shortCode": "WTC"
       },
       {
-        "name": "Chatham Islands Territory (Wharekauri)",
+        "name": "Chatham Islands Territory",
         "shortCode": "CIT"
       }
     ]
@@ -18189,7 +18193,7 @@ return [
     ]
   },
   {
-    "countryName": "Viet Nam",
+    "countryName": "Vietnam",
     "countryShortCode": "VN",
     "regions": [
       {

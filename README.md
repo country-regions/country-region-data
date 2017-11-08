@@ -60,6 +60,7 @@ are pretty clear, I think.
 
 ### Changelog
 
+- `1.4.2` - Nov 7, 2017. Data updates.
 - `1.4.1` - Nov 5, 2017. Data updates.
 - `1.4.0` - July 25, 2017. Version bump, no changes. 
 - `1.3.6` - July 5, 2017. JS version added of the json file (thanks [jayeb!](https://github.com/jayeb)!). Minor bug fixes.

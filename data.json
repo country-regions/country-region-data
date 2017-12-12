@@ -1543,6 +1543,10 @@
         "name":"Khulna",
         "shortCode":"D"
       },
+     {
+	"name":"Mymensingh",
+        "shortCode":"M"
+      },
       {
         "name":"Rajshahi",
         "shortCode":"E"

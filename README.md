@@ -60,6 +60,7 @@ are pretty clear, I think.
 
 ### Changelog
 
+- `1.4.3` - May 29, 2018. More data updates.
 - `1.4.2` - Nov 7, 2017. Data updates.
 - `1.4.1` - Nov 5, 2017. Data updates.
 - `1.4.0` - July 25, 2017. Version bump, no changes. 

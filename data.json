@@ -11929,6 +11929,10 @@
         "shortCode":"MAS"
       },
       {
+        "name":"Metro Manila",
+        "shortCode":"00"
+      },
+      {
         "name":"Mindoro Occidental",
         "shortCode":"MDC"
       },

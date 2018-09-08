@@ -1,13 +1,13 @@
 ## country-region-data 
 
-[![Build Status](https://travis-ci.org/benkeen/country-region-data.svg?branch=master)](https://travis-ci.org/benkeen/country-region-data)
+[![Build Status](https://travis-ci.org/country-regions/country-region-data.svg?branch=master)](https://travis-ci.org/country-regions/country-region-data)
 
 This repo contains a static JSON file of country names, country short codes, country regions, and country region short 
 codes. All country names and short codes are guaranteed to be unique. Similarly, all regions and region short
 codes *within a single country* are guaranteed to be unique.
 
-I created this repo to house the raw data used for the [country-region-selector](https://github.com/benkeen/country-region-selector),
-[react-country-region-selector](https://github.com/benkeen/react-country-region-selector) scripts. I didn't want to 
+I created this repo to house the raw data used for the [country-region-selector](https://github.com/country-regions/country-region-selector),
+[react-country-region-selector](https://github.com/country-regions/react-country-region-selector) scripts. I didn't want to 
 duplicate it in multiple places and hey, it seemed like this could be useful as a standalone repo.
 
 See the `data.json` file for the data. The JSON is of the form:

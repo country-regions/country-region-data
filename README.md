@@ -1,6 +1,6 @@
 ## country-region-data 
 
-[![Build Status](https://travis-ci.org/country-regions/country-region-data.svg?branch=master)](https://travis-ci.org/country-regions/country-region-data)
+[![Build Status](https://travis-ci.com/country-regions/country-region-data.svg?branch=master)](https://travis-ci.org/country-regions/country-region-data)
 
 This repo contains a static JSON file of country names, country short codes, country regions, and country region short 
 codes. All country names and short codes are guaranteed to be unique. Similarly, all regions and region short

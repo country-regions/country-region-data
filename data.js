@@ -1134,6 +1134,10 @@ return [
         "shortCode": "AST"
       },
       {
+        "name": "Bakı",
+        "shortCode": "BAK"
+      },
+      {
         "name": "Babək",
         "shortCode": "BAB"
       },
@@ -1558,6 +1562,10 @@ return [
       {
         "name": "Khulna",
         "shortCode": "D"
+      },
+      {
+        "name": "Mymensingh",
+        "shortCode": "M"
       },
       {
         "name": "Rajshahi",
@@ -2082,11 +2090,11 @@ return [
         "shortCode": "MG"
       },
       {
-        "name": "Para",
+        "name": "Pará",
         "shortCode": "PA"
       },
       {
-        "name": "Paraiba",
+        "name": "Paraíba",
         "shortCode": "PB"
       },
       {
@@ -2126,7 +2134,7 @@ return [
         "shortCode": "SC"
       },
       {
-        "name": "Sao Paulo",
+        "name": "São Paulo",
         "shortCode": "SP"
       },
       {
@@ -11944,6 +11952,10 @@ return [
         "shortCode": "MAS"
       },
       {
+        "name": "Metro Manila",
+        "shortCode": "00"
+      },
+      {
         "name": "Mindoro Occidental",
         "shortCode": "MDC"
       },
@@ -17251,7 +17263,7 @@ return [
         "shortCode": "GTM"
       },
       {
-        "name": "Hampshire (County of Southampton)",
+        "name": "Hampshire",
         "shortCode": "HAM"
       },
       {

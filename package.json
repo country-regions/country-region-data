@@ -3,6 +3,7 @@
   "version": "1.4.5",
   "description": "List of countries, regions, and their shortcodes.",
   "main": "data.json",
+  "types": "./index.d.ts",
   "scripts": {
     "test": "grunt validate"
   },

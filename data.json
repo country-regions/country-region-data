@@ -12150,7 +12150,7 @@
     "countryShortCode":"PT",
     "regions":[
       {
-        "name":"Acores",
+        "name":"Açores",
         "shortCode":"20"
       },
       {
@@ -12166,7 +12166,7 @@
         "shortCode":"03"
       },
       {
-        "name":"Braganca",
+        "name":"Bragança",
         "shortCode":"04"
       },
       {
@@ -12178,7 +12178,7 @@
         "shortCode":"06"
       },
       {
-        "name":"Evora",
+        "name":"Évora",
         "shortCode":"07"
       },
       {
@@ -12210,11 +12210,11 @@
         "shortCode":"13"
       },
       {
-        "name":"Santarem",
+        "name":"Santarém",
         "shortCode":"14"
       },
       {
-        "name":"Setubal",
+        "name":"Setúbal",
         "shortCode":"15"
       },
       {

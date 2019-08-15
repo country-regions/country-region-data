@@ -60,6 +60,7 @@ are pretty clear, I think.
 
 ### Changelog
 
+- `1.4.6` - Aug 14, 2019. Data updates: Hong Kong region shortcode added; Great Britain regions updated; typescript types.
 - `1.4.5` - Nov 28, 2018. Data updates.
 - `1.4.4` - July 8, 2018. Data updates.
 - `1.4.3` - May 29, 2018. More data updates.

@@ -1,6 +1,6 @@
 {
   "name": "country-region-data",
-  "version": "1.4.6",
+  "version": "1.4.7",
   "description": "List of countries, regions, and their shortcodes.",
   "main": "data.json",
   "types": "./index.d.ts",

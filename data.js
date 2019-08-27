@@ -5118,12 +5118,17 @@ return [
     "countryShortCode": "GH",
     "regions": [
       {
+        "name": "Ahafo"
+      },
+      {
         "name": "Ashanti",
         "shortCode": "AH"
       },
       {
-        "name": "Brong-Ahafo",
-        "shortCode": "BA"
+        "name": "Bono"
+      },
+      {
+        "name": "Bono East"
       },
       {
         "name": "Central",
@@ -5142,6 +5147,15 @@ return [
         "shortCode": "NP"
       },
       {
+        "name": "North East"
+      },
+      {
+        "name": "Oti"
+      },
+      {
+        "name": "Savannah"
+      },
+      {
         "name": "Upper East",
         "shortCode": "UE"
       },
@@ -5156,6 +5170,9 @@ return [
       {
         "name": "Western",
         "shortCode": "WP"
+      },
+      {
+        "name": "Western North"
       }
     ]
   },
@@ -12170,7 +12187,7 @@ return [
     "countryShortCode": "PT",
     "regions": [
       {
-        "name": "Acores",
+        "name": "Açores",
         "shortCode": "20"
       },
       {
@@ -12186,7 +12203,7 @@ return [
         "shortCode": "03"
       },
       {
-        "name": "Braganca",
+        "name": "Bragança",
         "shortCode": "04"
       },
       {
@@ -12198,7 +12215,7 @@ return [
         "shortCode": "06"
       },
       {
-        "name": "Evora",
+        "name": "Évora",
         "shortCode": "07"
       },
       {
@@ -12230,11 +12247,11 @@ return [
         "shortCode": "13"
       },
       {
-        "name": "Santarem",
+        "name": "Santarém",
         "shortCode": "14"
       },
       {
-        "name": "Setubal",
+        "name": "Setúbal",
         "shortCode": "15"
       },
       {

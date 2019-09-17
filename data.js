@@ -1641,7 +1641,7 @@ return [
       },
       {
         "name": "Gorod Minsk",
-        "shortCode": "HO"
+        "shortCode": "HM"
       },
       {
         "name": "Homiel voblast",

@@ -68,7 +68,7 @@ are pretty clear, I think.
 
 ### Changelog
 
-- `1.5.0` - Sept 22, 2019. Data updates. Changing to use semver for all new package versions and on github, all versions changes will be listed in milestones and linked to.
+- `1.5.0` - Sept 22, 2019. Data updates. All versions changes on github will now be listed in milestones.
 - `1.4.7` - Aug 26, 2019. Data updates. Ghana regions updated. 
 - `1.4.6` - Aug 14, 2019. Data updates: Hong Kong region shortcode added; Great Britain regions updated; typescript types.
 - `1.4.5` - Nov 28, 2018. Data updates.

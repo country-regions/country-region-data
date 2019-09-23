@@ -3104,6 +3104,10 @@ return [
         "shortCode": "ML"
       },
       {
+        "name": "Ñuble",
+        "shortCode": "NB"
+      },
+      {
         "name": "Región Metropolitana de Santiago",
         "shortCode": "RM"
       },

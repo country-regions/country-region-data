@@ -1601,7 +1601,7 @@
             },
             {
                 "name": "Gorod Minsk",
-                "shortCode": "HO"
+                "shortCode": "HM"
             },
             {
                 "name": "Homiel voblast",
@@ -3036,6 +3036,10 @@
             {
                 "name": "Maule",
                 "shortCode": "ML"
+            },
+            {
+                "name": "Ñuble",
+                "shortCode": "NB"
             },
             {
                 "name": "Región Metropolitana de Santiago",

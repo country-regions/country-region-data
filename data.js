@@ -15253,27 +15253,27 @@ return [
         "shortCode": "K"
       },
       {
-        "name": "Dalarnas",
+        "name": "Dalarna",
         "shortCode": "W"
       },
       {
-        "name": "Gotlands",
+        "name": "Gävleborg",
         "shortCode": "X"
       },
       {
-        "name": "Gavleborgs",
+        "name": "Gotland",
         "shortCode": "I"
       },
       {
-        "name": "Hallands",
+        "name": "Halland",
         "shortCode": "N"
       },
       {
-        "name": "Jamtlands",
+        "name": "Jämtland",
         "shortCode": "Z"
       },
       {
-        "name": "Jonkopings",
+        "name": "Jönköping",
         "shortCode": "F"
       },
       {
@@ -15281,27 +15281,27 @@ return [
         "shortCode": "H"
       },
       {
-        "name": "Kronobergs",
+        "name": "Kronoberg",
         "shortCode": "G"
       },
       {
-        "name": "Norrbottens",
+        "name": "Norrbotten",
         "shortCode": "BD"
       },
       {
-        "name": "Orebro",
+        "name": "Örebro",
         "shortCode": "T"
       },
       {
-        "name": "Ostergotlands",
+        "name": "Östergötland",
         "shortCode": "E"
       },
       {
-        "name": "Skane",
+        "name": "Skåne",
         "shortCode": "M"
       },
       {
-        "name": "Sodermanlands",
+        "name": "Södermanland",
         "shortCode": "D"
       },
       {
@@ -15309,23 +15309,27 @@ return [
         "shortCode": "AB"
       },
       {
-        "name": "Varmlands",
+        "name": "Uppsala",
+        "shortCode": "C"
+      },
+      {
+        "name": "Värmland",
         "shortCode": "S"
       },
       {
-        "name": "Vasterbottens",
+        "name": "Västerbotten",
         "shortCode": "AC"
       },
       {
-        "name": "Vasternorrlands",
+        "name": "Västernorrland",
         "shortCode": "Y"
       },
       {
-        "name": "Vastmanlands",
+        "name": "Västmanland",
         "shortCode": "U"
       },
       {
-        "name": "Vastra Gotalands",
+        "name": "Västra Götaland",
         "shortCode": "O"
       }
     ]

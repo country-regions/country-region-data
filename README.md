@@ -1,4 +1,4 @@
-## country-region-data 
+# country-region-data 
 
 [![Build Status](https://travis-ci.com/country-regions/country-region-data.svg?branch=master)](https://travis-ci.org/country-regions/country-region-data)
 
@@ -29,11 +29,15 @@ See the `data.json` file for the data. The JSON is of the form:
 ]
 ```
 
+Note: the `data.js` file is an UMD version of the data.json file, generated automatically. The `data.json` file is the
+source of truth for the data set.
+
+
 ### Contribute
 
-The state/prov abbreviations are not yet complete, so pull requests welcome! Regions that need ISO3166-2 codes can 
-be identified by having a missing `shortCode` property for each region. You can find them by cloning the repo, then 
-running:
+Updates and fixes to the data is much appreciated! The state/prov abbreviations in particular are not yet complete, so
+the more contributors the better. Regions that need ISO3166-2 codes can be identified by having a missing `shortCode` 
+property for each region. You can find them by cloning the repo, then running:
 
 ```
 npm install
@@ -43,6 +47,10 @@ grunt findIncomplete
 That'll list all countries with regions that are missing region short codes. Wikipedia has a lot of the data listed here:
 https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2
 
+**Please note**: you should edit the `data.json` file, not the `data.js` file. The JS file is generated automatically out of
+the `data.json` file by running `grunt umdify` on the command line. So if you add your change to the JS file only, they
+will get overwritten next time that command is rung.
+ 
 
 ### Data Validation
 
@@ -60,6 +68,7 @@ are pretty clear, I think.
 
 ### Changelog
 
+- `1.5.0` - Sept 22, 2019. Data updates. Changing to use semver for all new package versions and on github, all versions changes will be listed in milestones and linked to.
 - `1.4.7` - Aug 26, 2019. Data updates. Ghana regions updated. 
 - `1.4.6` - Aug 14, 2019. Data updates: Hong Kong region shortcode added; Great Britain regions updated; typescript types.
 - `1.4.5` - Nov 28, 2018. Data updates.

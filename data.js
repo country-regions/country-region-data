@@ -1670,15 +1670,15 @@ return [
     "countryShortCode": "BE",
     "regions": [
       {
-        "name": "Bruxelles-Capitale",
+        "name": "Brussels",
         "shortCode": "BRU"
       },
       {
-        "name": "Région Flamande",
+        "name": "Flanders",
         "shortCode": "VLG"
       },
       {
-        "name": "Région Wallonië",
+        "name": "Wallonia",
         "shortCode": "WAL"
       }
     ]

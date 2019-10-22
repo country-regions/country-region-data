@@ -10920,28 +10920,12 @@
         "countryName": "Norway",
         "countryShortCode": "NO",
         "regions": [{
-                "name": "Akershus",
-                "shortCode": "02"
+                "name": "Agder",
+                "shortCode": "42"
             },
             {
-                "name": "Aust-Agder",
-                "shortCode": "09"
-            },
-            {
-                "name": "Buskerud",
-                "shortCode": "06"
-            },
-            {
-                "name": "Finnmark",
-                "shortCode": "20"
-            },
-            {
-                "name": "Hedmark",
-                "shortCode": "04"
-            },
-            {
-                "name": "Hordaland",
-                "shortCode": "12"
+                "name": "Innlandet",
+                "shortCode": "34"
             },
             {
                 "name": "Møre og Romsdal",
@@ -10952,14 +10936,6 @@
                 "shortCode": "18"
             },
             {
-                "name": "Nord-Trøndelag",
-                "shortCode": "17"
-            },
-            {
-                "name": "Oppland",
-                "shortCode": "05"
-            },
-            {
                 "name": "Oslo",
                 "shortCode": "03"
             },
@@ -10968,40 +10944,24 @@
                 "shortCode": "11"
             },
             {
-                "name": "Sogn og Fjordane",
-                "shortCode": "14"
+                "name": "Telemark og Vestfold",
+                "shortCode": "38"
             },
             {
-                "name": "Sør-Trøndelag",
-                "shortCode": "16"
+                "name": "Troms og Finnmark",
+                "shortCode": "54"
             },
             {
-                "name": "Telemark",
-                "shortCode": "08"
+                "name": "Trøndelag",
+                "shortCode": "50"
             },
             {
-                "name": "Troms",
-                "shortCode": "19"
+                "name": "Vestland",
+                "shortCode": "46"
             },
             {
-                "name": "Vest-Agder",
-                "shortCode": "10"
-            },
-            {
-                "name": "Vestfold",
-                "shortCode": "07"
-            },
-            {
-                "name": "Østfold",
-                "shortCode": "01"
-            },
-            {
-                "name": "Jan Mayen",
-                "shortCode": "22"
-            },
-            {
-                "name": "Svalbard",
-                "shortCode": "21"
+                "name": "Viken",
+                "shortCode": "30"
             }
         ]
     },

@@ -49,7 +49,7 @@ https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2
 
 **Please note**: you should edit the `data.json` file, not the `data.js` file. The JS file is generated automatically out of
 the `data.json` file by running `grunt umdify` on the command line. So if you add your change to the JS file only, they
-will get overwritten next time that command is rung.
+will get overwritten next time that command is run.
  
 
 ### Data Validation

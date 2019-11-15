@@ -68,6 +68,7 @@ are pretty clear, I think.
 
 ### Changelog
 
+- `1.5.1` - Nov 14, 2019. Data updates. Polish and UK data updated. Thanks [nguyennghi3489](https://github.com/nguyennghi3489).
 - `1.5.0` - Sept 22, 2019. Data updates. All versions changes on github will now be listed in milestones.
 - `1.4.7` - Aug 26, 2019. Data updates. Ghana regions updated. 
 - `1.4.6` - Aug 14, 2019. Data updates: Hong Kong region shortcode added; Great Britain regions updated; typescript types.

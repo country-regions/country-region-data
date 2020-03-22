@@ -14589,11 +14589,11 @@
         "countryShortCode": "ES",
         "regions": [{
                 "name": "Albacete",
-                "shortCode": "CM"
+                "shortCode": "AB"
             },
             {
                 "name": "Alicante",
-                "shortCode": "VC"
+                "shortCode": "A"
             },
             {
                 "name": "Almería",
@@ -14640,7 +14640,7 @@
                 "shortCode": "S"
             },
             {
-                "name": "Castellón",
+                "name": "Castellón/Castelló",
                 "shortCode": "CS"
             },
             {
@@ -14724,7 +14724,7 @@
                 "shortCode": "MU"
             },
             {
-                "name": "Navarra",
+                "name": "Navarra/Nafarroa",
                 "shortCode": "NA"
             },
             {
@@ -14780,7 +14780,7 @@
                 "shortCode": "TO"
             },
             {
-                "name": "Valencia",
+                "name": "Valencia/València",
                 "shortCode": "V"
             },
             {

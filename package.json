@@ -26,5 +26,8 @@
     "grunt": "^1.1.0",
     "libumd": "^0.7.0",
     "underscore": "^1.8.3"
+  },
+  "dependencies": {
+    "package-lock.json": "^1.0.0"
   }
 }

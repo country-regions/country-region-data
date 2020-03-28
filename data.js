@@ -8557,7 +8557,7 @@ return [
     ]
   },
   {
-    "countryName": "Macedonia, Republic of",
+    "countryName": "North Macedonia, Republic of",
     "countryShortCode": "MK",
     "regions": [
       {

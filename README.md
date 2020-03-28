@@ -35,6 +35,10 @@ source of truth for the data set.
 
 ### Contribute
 
+**IMPORTANT**: make your changes to the `data.json` file, not the `data.js` file. The JS file is generated automatically out of
+the `data.json` file by running `grunt umdify` on the command line. So if you add your change to the JS file only, they
+will get overwritten next time that command is run.
+
 Updates and fixes to the data is much appreciated! The state/prov abbreviations in particular are not yet complete, so
 the more contributors the better. Regions that need ISO3166-2 codes can be identified by having a missing `shortCode` 
 property for each region. You can find them by cloning the repo, then running:
@@ -46,10 +50,6 @@ grunt findIncomplete
 
 That'll list all countries with regions that are missing region short codes. Wikipedia has a lot of the data listed here:
 https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2
-
-**Please note**: you should edit the `data.json` file, not the `data.js` file. The JS file is generated automatically out of
-the `data.json` file by running `grunt umdify` on the command line. So if you add your change to the JS file only, they
-will get overwritten next time that command is run.
  
 
 ### Data Validation

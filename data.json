@@ -4638,29 +4638,82 @@
     {
         "countryName": "Finland",
         "countryShortCode": "FI",
-        "regions": [{
-                "name": "Ahvenanmaan lääni",
-                "shortCode": "AL"
+        "regions": [
+            {
+                "name": "Ahvenanmaan maakunta",
+                "shortCode": "FI-01"
             },
             {
-                "name": "Etelä-Suomen lääni",
-                "shortCode": "ES"
+                "name": "Etelä-Karjala",
+                "shortCode": "FI-02"
             },
             {
-                "name": "Itä-Suomen lääni",
-                "shortCode": "IS"
+                "name": "Etelä-Pohjanmaa",
+                "shortCode": "FI-03"
             },
             {
-                "name": "Länsi-Suomen lääni",
-                "shortCode": "LS"
+                "name": "Etelä-Savo",
+                "shortCode": "FI-04"
             },
             {
-                "name": "Lapin lääni",
-                "shortCode": "LL"
+                "name": "Kainuu",
+                "shortCode": "FI-05"
             },
             {
-                "name": "Oulun lääni",
-                "shortCode": "OL"
+                "name": "Kanta-Häme",
+                "shortCode": "FI-06"
+            },
+            {
+                "name": "Keski-Pohjanmaa",
+                "shortCode": "FI-07"
+            },
+            {
+                "name": "Keski-Suomi",
+                "shortCode": "FI-08"
+            },
+            {
+                "name": "Kymenlaakso",
+                "shortCode": "FI-09"
+            },
+            {
+                "name": "Lappi",
+                "shortCode": "FI-10"
+            },
+            {
+                "name": "Pirkanmaa",
+                "shortCode": "FI-11"
+            },
+            {
+                "name": "Pohjanmaa",
+                "shortCode": "FI-12"
+            },
+            {
+                "name": "Pohjois-Karjala",
+                "shortCode": "FI-13"
+            },
+            {
+                "name": "Pohjois-Pohjanmaa",
+                "shortCode": "FI-14"
+            },
+            {
+                "name": "Pohjois-Savo",
+                "shortCode": "FI-15"
+            },
+            {
+                "name": "Päijät-Häme",
+                "shortCode": "FI-16"
+            },
+            {
+                "name": "Satakunta",
+                "shortCode": "FI-17"
+            },
+            {
+                "name": "Uusimaa",
+                "shortCode": "FI-18"
+            },
+            {
+                "name": "Varsinais-Suomi",
+                "shortCode": "FI-19"
             }
         ]
     },

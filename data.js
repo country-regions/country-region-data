@@ -7530,6 +7530,40 @@ return [
     ]
   },
   {
+    "countryName": "Kosovo",
+    "countryShortCode": "KS",
+    "regions": [
+      {
+        "name": "Farizaj",
+        "shortCode": "FZ"
+      },
+      {
+        "name": "Gjakova",
+        "shortCode": "GK"
+      },
+      {
+        "name": "Gjilan",
+        "shortCode": "GL"
+      },
+      {
+        "name": "Mitrovica",
+        "shortCode": "MI"
+      },
+      {
+        "name": "Peja/Peć",
+        "shortCode": "PE"
+      },
+      {
+        "name": "Pristina",
+        "shortCode": "PS"
+      },
+      {
+        "name": "Prizren",
+        "shortCode": "PZ"
+      }
+    ]
+  },
+  {
     "countryName": "Kuwait",
     "countryShortCode": "KW",
     "regions": [

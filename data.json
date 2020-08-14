@@ -3644,15 +3644,15 @@
         "countryName": "Croatia",
         "countryShortCode": "HR",
         "regions": [{
-                "name": "Bjelovarsko-Bilogorska Županija",
+                "name": "Bjelovarsko-bilogorska županija",
                 "shortCode": "07"
             },
             {
-                "name": "Brodsko-Posavska Županija",
+                "name": "Brodsko-posavska županija",
                 "shortCode": "12"
             },
             {
-                "name": "Dubrovačko-Neretvanska Županija",
+                "name": "Dubrovačko-neretvanska županija",
                 "shortCode": "19"
             },
             {
@@ -3660,71 +3660,71 @@
                 "shortCode": "21"
             },
             {
-                "name": "Istarska Županija",
+                "name": "Istarska županija",
                 "shortCode": "18"
             },
             {
-                "name": "Karlovačka Županija",
+                "name": "Karlovačka županija",
                 "shortCode": "04"
             },
             {
-                "name": "Koprivničko-Krizevačka Županija",
+                "name": "Koprivničko-križevačka županija",
                 "shortCode": "06"
             },
             {
-                "name": "Krapinsko-Zagorska Županija",
+                "name": "Krapinsko-zagorska županija",
                 "shortCode": "02"
             },
             {
-                "name": "Ličko-Senjska Županija",
+                "name": "Ličko-senjska županija",
                 "shortCode": "09"
             },
             {
-                "name": "Međimurska Županija",
+                "name": "Međimurska županija",
                 "shortCode": "20"
             },
             {
-                "name": "Osječko-Baranjska Županija",
+                "name": "Osječko-baranjska županija",
                 "shortCode": "14"
             },
             {
-                "name": "Požeško-Slavonska Županija",
+                "name": "Požeško-slavonska županija",
                 "shortCode": "11"
             },
             {
-                "name": "Primorsko-Goranska Županija",
+                "name": "Primorsko-goranska županija",
                 "shortCode": "08"
             },
             {
-                "name": "Sisačko-Moslavačka Županija",
+                "name": "Sisačko-moslavačka županija",
                 "shortCode": "03"
             },
             {
-                "name": "Splitsko-Dalmatinska Županija",
+                "name": "Splitsko-dalmatinska županija",
                 "shortCode": "17"
             },
             {
-                "name": "Sibensko-Kninska Županija",
+                "name": "Šibensko-kninska županija",
                 "shortCode": "15"
             },
             {
-                "name": "Varaždinska Županija",
+                "name": "Varaždinska županija",
                 "shortCode": "05"
             },
             {
-                "name": "Virovitičko-Podravska Županija",
+                "name": "Virovitičko-podravska županija",
                 "shortCode": "10"
             },
             {
-                "name": "Vukovarsko-Srijemska Županija",
+                "name": "Vukovarsko-srijemska županija",
                 "shortCode": "16"
             },
             {
-                "name": "Zadarska Županija",
+                "name": "Zadarska županija",
                 "shortCode": "13"
             },
             {
-                "name": "Zagrebacka Zupanija",
+                "name": "Zagrebačka županija",
                 "shortCode": "01"
             }
         ]

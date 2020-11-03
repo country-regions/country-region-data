@@ -3722,15 +3722,15 @@ return [
     "countryShortCode": "HR",
     "regions": [
       {
-        "name": "Bjelovarsko-Bilogorska Županija",
+        "name": "Bjelovarsko-bilogorska županija",
         "shortCode": "07"
       },
       {
-        "name": "Brodsko-Posavska Županija",
+        "name": "Brodsko-posavska županija",
         "shortCode": "12"
       },
       {
-        "name": "Dubrovačko-Neretvanska Županija",
+        "name": "Dubrovačko-neretvanska županija",
         "shortCode": "19"
       },
       {
@@ -3738,71 +3738,71 @@ return [
         "shortCode": "21"
       },
       {
-        "name": "Istarska Županija",
+        "name": "Istarska županija",
         "shortCode": "18"
       },
       {
-        "name": "Karlovačka Županija",
+        "name": "Karlovačka županija",
         "shortCode": "04"
       },
       {
-        "name": "Koprivničko-Krizevačka Županija",
+        "name": "Koprivničko-križevačka županija",
         "shortCode": "06"
       },
       {
-        "name": "Krapinsko-Zagorska Županija",
+        "name": "Krapinsko-zagorska županija",
         "shortCode": "02"
       },
       {
-        "name": "Ličko-Senjska Županija",
+        "name": "Ličko-senjska županija",
         "shortCode": "09"
       },
       {
-        "name": "Međimurska Županija",
+        "name": "Međimurska županija",
         "shortCode": "20"
       },
       {
-        "name": "Osječko-Baranjska Županija",
+        "name": "Osječko-baranjska županija",
         "shortCode": "14"
       },
       {
-        "name": "Požeško-Slavonska Županija",
+        "name": "Požeško-slavonska županija",
         "shortCode": "11"
       },
       {
-        "name": "Primorsko-Goranska Županija",
+        "name": "Primorsko-goranska županija",
         "shortCode": "08"
       },
       {
-        "name": "Sisačko-Moslavačka Županija",
+        "name": "Sisačko-moslavačka županija",
         "shortCode": "03"
       },
       {
-        "name": "Splitsko-Dalmatinska Županija",
+        "name": "Splitsko-dalmatinska županija",
         "shortCode": "17"
       },
       {
-        "name": "Sibensko-Kninska Županija",
+        "name": "Šibensko-kninska županija",
         "shortCode": "15"
       },
       {
-        "name": "Varaždinska Županija",
+        "name": "Varaždinska županija",
         "shortCode": "05"
       },
       {
-        "name": "Virovitičko-Podravska Županija",
+        "name": "Virovitičko-podravska županija",
         "shortCode": "10"
       },
       {
-        "name": "Vukovarsko-Srijemska Županija",
+        "name": "Vukovarsko-srijemska županija",
         "shortCode": "16"
       },
       {
-        "name": "Zadarska Županija",
+        "name": "Zadarska županija",
         "shortCode": "13"
       },
       {
-        "name": "Zagrebacka Zupanija",
+        "name": "Zagrebačka županija",
         "shortCode": "01"
       }
     ]
@@ -8557,7 +8557,7 @@ return [
     ]
   },
   {
-    "countryName": "North Macedonia, Republic of",
+    "countryName": "Macedonia, Republic of",
     "countryShortCode": "MK",
     "regions": [
       {
@@ -10371,64 +10371,52 @@ return [
     "countryShortCode": "MA",
     "regions": [
       {
-        "name": "Chaouia-Ouardigha",
-        "shortCode": "09"
+        "name": "Tanger-Tétouan-Al Hoceïma",
+        "code": "MA-01"
       },
       {
-        "name": "Doukhala-Abda",
-        "shortCode": "10"
+        "name": "L'Oriental",
+        "code": "MA-02"
       },
       {
-        "name": "Fès-Boulemane",
-        "shortCode": "05"
+        "name": "Fès-Meknès",
+        "code": "MA-03"
       },
       {
-        "name": "Gharb-Chrarda-Beni Hssen",
-        "shortCode": "02"
+        "name": "Rabat-Salé-Kénitra",
+        "code": "MA-04"
       },
       {
-        "name": "Grand Casablanca",
-        "shortCode": "08"
+        "name": "Béni Mellal-Khénifra",
+        "code": "MA-05"
       },
       {
-        "name": "Guelmim-Es Semara",
-        "shortCode": "14"
+        "name": "Casablanca-Settat",
+        "code": "MA-06"
       },
       {
-        "name": "Laâyoune-Boujdour-Sakia el Hamra",
-        "shortCode": "15"
+        "name": "Marrakech-Safi",
+        "code": "MA-07"
       },
       {
-        "name": "Marrakech-Tensift-Al Haouz",
-        "shortCode": "11"
+        "name": "Drâa-Tafilalet",
+        "code": "MA-08"
       },
       {
-        "name": "Meknès-Tafilalet",
-        "shortCode": "06"
+        "name": "Souss-Massa",
+        "code": "MA-09"
       },
       {
-        "name": "Oriental",
-        "shortCode": "04"
+        "name": "Guelmim-Oued Noun",
+        "code": "MA-10"
       },
       {
-        "name": "Oued ed Dahab-Lagouira",
-        "shortCode": "16"
+        "name": "Laâyoune-Sakia El Hamra",
+        "code": "MA-11"
       },
       {
-        "name": "Souss-Massa-Drâa",
-        "shortCode": "13"
-      },
-      {
-        "name": "Tadla-Azilal",
-        "shortCode": "12"
-      },
-      {
-        "name": "Tanger-Tétouan",
-        "shortCode": "01"
-      },
-      {
-        "name": "Taza-Al Hoceima-Taounate",
-        "shortCode": "03"
+        "name": "Dakhla-Oued Ed-Dahab",
+        "code": "MA-12"
       }
     ]
   },
@@ -11692,6 +11680,10 @@ return [
       {
         "name": "Cordillera",
         "shortCode": "3"
+      },
+      {
+        "name": "Boqueron",
+        "shortCode": "17"
       },
       {
         "name": "Guaira",
@@ -14900,11 +14892,11 @@ return [
     "regions": [
       {
         "name": "Albacete",
-        "shortCode": "CM"
+        "shortCode": "AB"
       },
       {
         "name": "Alicante",
-        "shortCode": "VC"
+        "shortCode": "A"
       },
       {
         "name": "Almería",
@@ -14951,12 +14943,12 @@ return [
         "shortCode": "S"
       },
       {
-        "name": "Castellón",
+        "name": "Castellón/Castelló",
         "shortCode": "CS"
       },
       {
-        "name": "Cueta",
-        "shortCode": "CU"
+        "name": "Ceuta",
+        "shortCode": "CE"
       },
       {
         "name": "Ciudad Real",
@@ -15035,7 +15027,7 @@ return [
         "shortCode": "MU"
       },
       {
-        "name": "Navarre",
+        "name": "Navarra/Nafarroa",
         "shortCode": "NA"
       },
       {
@@ -15091,7 +15083,7 @@ return [
         "shortCode": "TO"
       },
       {
-        "name": "Valencia",
+        "name": "Valencia/València",
         "shortCode": "V"
       },
       {
@@ -15611,8 +15603,8 @@ return [
         "shortCode": "NWT"
       },
       {
-        "name": "P'ing-chung",
-        "shortCode": "PIF"
+        "name": "P'ing-tung",
+        "shortCode": "PING"
       },
       {
         "name": "T'ai-chung",

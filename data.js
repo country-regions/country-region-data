@@ -10405,64 +10405,52 @@ return [
     "countryShortCode": "MA",
     "regions": [
       {
-        "name": "Chaouia-Ouardigha",
-        "shortCode": "09"
+        "name": "Tanger-Tétouan-Al Hoceïma",
+        "code": "MA-01"
       },
       {
-        "name": "Doukhala-Abda",
-        "shortCode": "10"
+        "name": "L'Oriental",
+        "code": "MA-02"
       },
       {
-        "name": "Fès-Boulemane",
-        "shortCode": "05"
+        "name": "Fès-Meknès",
+        "code": "MA-03"
       },
       {
-        "name": "Gharb-Chrarda-Beni Hssen",
-        "shortCode": "02"
+        "name": "Rabat-Salé-Kénitra",
+        "code": "MA-04"
       },
       {
-        "name": "Grand Casablanca",
-        "shortCode": "08"
+        "name": "Béni Mellal-Khénifra",
+        "code": "MA-05"
       },
       {
-        "name": "Guelmim-Es Semara",
-        "shortCode": "14"
+        "name": "Casablanca-Settat",
+        "code": "MA-06"
       },
       {
-        "name": "Laâyoune-Boujdour-Sakia el Hamra",
-        "shortCode": "15"
+        "name": "Marrakech-Safi",
+        "code": "MA-07"
       },
       {
-        "name": "Marrakech-Tensift-Al Haouz",
-        "shortCode": "11"
+        "name": "Drâa-Tafilalet",
+        "code": "MA-08"
       },
       {
-        "name": "Meknès-Tafilalet",
-        "shortCode": "06"
+        "name": "Souss-Massa",
+        "code": "MA-09"
       },
       {
-        "name": "Oriental",
-        "shortCode": "04"
+        "name": "Guelmim-Oued Noun",
+        "code": "MA-10"
       },
       {
-        "name": "Oued ed Dahab-Lagouira",
-        "shortCode": "16"
+        "name": "Laâyoune-Sakia El Hamra",
+        "code": "MA-11"
       },
       {
-        "name": "Souss-Massa-Drâa",
-        "shortCode": "13"
-      },
-      {
-        "name": "Tadla-Azilal",
-        "shortCode": "12"
-      },
-      {
-        "name": "Tanger-Tétouan",
-        "shortCode": "01"
-      },
-      {
-        "name": "Taza-Al Hoceima-Taounate",
-        "shortCode": "03"
+        "name": "Dakhla-Oued Ed-Dahab",
+        "code": "MA-12"
       }
     ]
   },

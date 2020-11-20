@@ -68,6 +68,17 @@ are pretty clear, I think.
 
 ### Changelog
 
+Note that this repo does _not_ use semantic versioning. I realize that's pretty non-standard, but every change
+to this repo is a dataset change which is technically backward incompatible. So although we could be bumping
+the major version with each release, I think that that would be more problematic: apps can no longer use the `~` and 
+`^` chars in their package.json files to get the latest content so updates would be manual and frequent. If people
+disagree about this let me know. 
+
+- `1.7.0` - Nov 20, 2020. Data updates: France, Norway, Mali, Croatia, Paraguau, Taiwan, Kosovo, Morocco. 
+Thanks [mohouyizme](https://github.com/mohouyizme), [fabrice102](https://github.com/fabrice102), 
+[nicoepp](https://github.com/nicoepp), [sc0Vu](https://github.com/sc0Vu), [ibravoh149](https://github.com/ibravoh149) and
+[EPRenaud](https://github.com/EPRenaud)
+- `1.6.0` - Mar 28, 2020. Data updates. Spain data updated. Thanks [gui64](https://github.com/gui64).
 - `1.5.1` - Nov 14, 2019. Data updates. Polish and UK data updated. Thanks [nguyennghi3489](https://github.com/nguyennghi3489).
 - `1.5.0` - Sept 22, 2019. Data updates. All versions changes on github will now be listed in milestones.
 - `1.4.7` - Aug 26, 2019. Data updates. Ghana regions updated. 

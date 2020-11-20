@@ -9223,6 +9223,14 @@ return [
       {
         "name": "Tombouctou",
         "shortCode": "6"
+      },
+      {
+        "name": "Taoudénit",
+        "shortCode": "9"
+      },
+      {
+        "name": "Ménaka",
+        "shortCode": "10"
       }
     ]
   },

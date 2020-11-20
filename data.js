@@ -3722,15 +3722,15 @@ return [
     "countryShortCode": "HR",
     "regions": [
       {
-        "name": "Bjelovarsko-Bilogorska Županija",
+        "name": "Bjelovarsko-bilogorska županija",
         "shortCode": "07"
       },
       {
-        "name": "Brodsko-Posavska Županija",
+        "name": "Brodsko-posavska županija",
         "shortCode": "12"
       },
       {
-        "name": "Dubrovačko-Neretvanska Županija",
+        "name": "Dubrovačko-neretvanska županija",
         "shortCode": "19"
       },
       {
@@ -3738,71 +3738,71 @@ return [
         "shortCode": "21"
       },
       {
-        "name": "Istarska Županija",
+        "name": "Istarska županija",
         "shortCode": "18"
       },
       {
-        "name": "Karlovačka Županija",
+        "name": "Karlovačka županija",
         "shortCode": "04"
       },
       {
-        "name": "Koprivničko-Krizevačka Županija",
+        "name": "Koprivničko-križevačka županija",
         "shortCode": "06"
       },
       {
-        "name": "Krapinsko-Zagorska Županija",
+        "name": "Krapinsko-zagorska županija",
         "shortCode": "02"
       },
       {
-        "name": "Ličko-Senjska Županija",
+        "name": "Ličko-senjska županija",
         "shortCode": "09"
       },
       {
-        "name": "Međimurska Županija",
+        "name": "Međimurska županija",
         "shortCode": "20"
       },
       {
-        "name": "Osječko-Baranjska Županija",
+        "name": "Osječko-baranjska županija",
         "shortCode": "14"
       },
       {
-        "name": "Požeško-Slavonska Županija",
+        "name": "Požeško-slavonska županija",
         "shortCode": "11"
       },
       {
-        "name": "Primorsko-Goranska Županija",
+        "name": "Primorsko-goranska županija",
         "shortCode": "08"
       },
       {
-        "name": "Sisačko-Moslavačka Županija",
+        "name": "Sisačko-moslavačka županija",
         "shortCode": "03"
       },
       {
-        "name": "Splitsko-Dalmatinska Županija",
+        "name": "Splitsko-dalmatinska županija",
         "shortCode": "17"
       },
       {
-        "name": "Sibensko-Kninska Županija",
+        "name": "Šibensko-kninska županija",
         "shortCode": "15"
       },
       {
-        "name": "Varaždinska Županija",
+        "name": "Varaždinska županija",
         "shortCode": "05"
       },
       {
-        "name": "Virovitičko-Podravska Županija",
+        "name": "Virovitičko-podravska županija",
         "shortCode": "10"
       },
       {
-        "name": "Vukovarsko-Srijemska Županija",
+        "name": "Vukovarsko-srijemska županija",
         "shortCode": "16"
       },
       {
-        "name": "Zadarska Županija",
+        "name": "Zadarska županija",
         "shortCode": "13"
       },
       {
-        "name": "Zagrebacka Zupanija",
+        "name": "Zagrebačka županija",
         "shortCode": "01"
       }
     ]
@@ -7530,6 +7530,40 @@ return [
     ]
   },
   {
+    "countryName": "Kosovo",
+    "countryShortCode": "KS",
+    "regions": [
+      {
+        "name": "Farizaj",
+        "shortCode": "FZ"
+      },
+      {
+        "name": "Gjakova",
+        "shortCode": "GK"
+      },
+      {
+        "name": "Gjilan",
+        "shortCode": "GL"
+      },
+      {
+        "name": "Mitrovica",
+        "shortCode": "MI"
+      },
+      {
+        "name": "Peja/Peć",
+        "shortCode": "PE"
+      },
+      {
+        "name": "Pristina",
+        "shortCode": "PR"
+      },
+      {
+        "name": "Prizren",
+        "shortCode": "PZ"
+      }
+    ]
+  },
+  {
     "countryName": "Kuwait",
     "countryShortCode": "KW",
     "regions": [
@@ -8557,7 +8591,7 @@ return [
     ]
   },
   {
-    "countryName": "North Macedonia, Republic of",
+    "countryName": "Macedonia, Republic of",
     "countryShortCode": "MK",
     "regions": [
       {
@@ -11692,6 +11726,10 @@ return [
       {
         "name": "Cordillera",
         "shortCode": "3"
+      },
+      {
+        "name": "Boqueron",
+        "shortCode": "17"
       },
       {
         "name": "Guaira",
@@ -14900,11 +14938,11 @@ return [
     "regions": [
       {
         "name": "Albacete",
-        "shortCode": "CM"
+        "shortCode": "AB"
       },
       {
         "name": "Alicante",
-        "shortCode": "VC"
+        "shortCode": "A"
       },
       {
         "name": "Almería",
@@ -14951,12 +14989,12 @@ return [
         "shortCode": "S"
       },
       {
-        "name": "Castellón",
+        "name": "Castellón/Castelló",
         "shortCode": "CS"
       },
       {
-        "name": "Cueta",
-        "shortCode": "CU"
+        "name": "Ceuta",
+        "shortCode": "CE"
       },
       {
         "name": "Ciudad Real",
@@ -15035,7 +15073,7 @@ return [
         "shortCode": "MU"
       },
       {
-        "name": "Navarre",
+        "name": "Navarra/Nafarroa",
         "shortCode": "NA"
       },
       {
@@ -15091,7 +15129,7 @@ return [
         "shortCode": "TO"
       },
       {
-        "name": "Valencia",
+        "name": "Valencia/València",
         "shortCode": "V"
       },
       {
@@ -15611,8 +15649,8 @@ return [
         "shortCode": "NWT"
       },
       {
-        "name": "P'ing-chung",
-        "shortCode": "PIF"
+        "name": "P'ing-tung",
+        "shortCode": "PING"
       },
       {
         "name": "T'ai-chung",

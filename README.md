@@ -88,7 +88,7 @@ disagree about this let me know.
 - `1.7.0` - Nov 20, 2020. Data updates: France, Norway, Mali, Croatia, Paraguau, Taiwan, Kosovo, Morocco. 
 Thanks [mohouyizme](https://github.com/mohouyizme), [fabrice102](https://github.com/fabrice102), 
 [nicoepp](https://github.com/nicoepp), [sc0Vu](https://github.com/sc0Vu), [ibravoh149](https://github.com/ibravoh149) and
-[EPRenaud](https://github.com/EPRenaud)
+[EPRenaud](https://github.com/EPRenaud).
 - `1.6.0` - Mar 28, 2020. Data updates. Spain data updated. Thanks [gui64](https://github.com/gui64).
 - `1.5.1` - Nov 14, 2019. Data updates. Polish and UK data updated. Thanks [nguyennghi3489](https://github.com/nguyennghi3489).
 - `1.5.0` - Sept 22, 2019. Data updates. All versions changes on github will now be listed in milestones.

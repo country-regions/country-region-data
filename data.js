@@ -7531,7 +7531,7 @@ return [
   },
   {
     "countryName": "Kosovo",
-    "countryShortCode": "KS",
+    "countryShortCode": "XK",
     "regions": [
       {
         "name": "Farizaj",

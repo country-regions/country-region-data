@@ -10,6 +10,17 @@ I created this repo to house the raw data used for the [country-region-selector]
 [react-country-region-selector](https://github.com/country-regions/react-country-region-selector) scripts. I didn't want to 
 duplicate it in multiple places and hey, it seemed like this could be useful as a standalone repo.
 
+### Install
+
+This package is available as an npm package. You can install via npm or yarn:
+
+```
+npm install country-region-data
+yarn add country-region-data
+```
+
+### Structure
+
 See the `data.json` file for the data. The JSON is of the form:
 
 ```javascript

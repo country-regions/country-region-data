@@ -3897,7 +3897,7 @@ return [
       },
       {
         "name": "Keryneia",
-        "shortCode": "05"
+        "shortCode": "06"
       },
       {
         "name": "Larnaka",
@@ -4143,7 +4143,7 @@ return [
       },
       {
         "name": "Nordeste",
-        "shortCode": "34"
+        "shortCode": "33"
       },
       {
         "name": "Noroeste",
@@ -4323,7 +4323,7 @@ return [
       },
       {
         "name": "Giza",
-        "shortCode": "SUZ"
+        "shortCode": "GZ"
       },
       {
         "name": "Helwan",
@@ -4677,7 +4677,7 @@ return [
       },
       {
         "name": "Bua",
-        "shortCode": "01"
+        "shortCode": "02"
       },
       {
         "name": "Cakaudrove",
@@ -4713,7 +4713,7 @@ return [
       },
       {
         "name": "Ra",
-        "shortCode": "011"
+        "shortCode": "11"
       },
       {
         "name": "Rewa",
@@ -4725,7 +4725,7 @@ return [
       },
       {
         "name": "Serua",
-        "shortCode": "12"
+        "shortCode": "13"
       },
       {
         "name": "Tailevu",
@@ -7489,7 +7489,7 @@ return [
       },
       {
         "name": "Kwangju-Kwangyokshi",
-        "shortCode": "28"
+        "shortCode": "29"
       },
       {
         "name": "Kyonggi-do",
@@ -8355,7 +8355,7 @@ return [
       },
       {
         "name": "Al Jafārah",
-        "shortCode": "JA"
+        "shortCode": "JI"
       },
       {
         "name": "Al Jufrah",
@@ -8628,7 +8628,7 @@ return [
       },
       {
         "name": "Čaška",
-        "shortCode": "08"
+        "shortCode": "80"
       },
       {
         "name": "Češinovo-Obleševo",
@@ -9140,7 +9140,7 @@ return [
       },
       {
         "name": "Kaafu",
-        "shortCode": "29"
+        "shortCode": "26"
       },
       {
         "name": "Laamu",
@@ -10239,7 +10239,7 @@ return [
       },
       {
         "name": "Dzavhan",
-        "shortCode": "065"
+        "shortCode": "057"
       },
       {
         "name": "Govi-Altay",
@@ -11445,7 +11445,7 @@ return [
       },
       {
         "name": "Sonsoral",
-        "shortCode": "350"
+        "shortCode": "370"
       }
     ]
   },
@@ -14074,7 +14074,7 @@ return [
       },
       {
         "name": "Izola",
-        "shortCode": "040s"
+        "shortCode": "040"
       },
       {
         "name": "Jesenice",
@@ -14170,7 +14170,7 @@ return [
       },
       {
         "name": "Litija",
-        "shortCode": "068"
+        "shortCode": "060"
       },
       {
         "name": "Ljubljana",
@@ -14562,7 +14562,7 @@ return [
       },
       {
         "name": "Tisina",
-        "shortCode": "128"
+        "shortCode": "010"
       },
       {
         "name": "Tolmin",
@@ -15972,7 +15972,7 @@ return [
       },
       {
         "name": "Phetchabun",
-        "shortCode": "76"
+        "shortCode": "67"
       },
       {
         "name": "Phetchaburi",

@@ -52,6 +52,10 @@ module.exports = function (grunt) {
 			if (duplicateRegionNames.length > 0) {
 				grunt.fail.fatal('The region names for ' + countryData.countryName + ' are not unique - duplicates: ' + duplicateRegionNames);
 			}
+			var duplicateRegionShortCodes = findDuplicates(countryData.regions, 'shortCode');
+			if (duplicateRegionShortCodes.length > 0) {
+				grunt.fail.fatal('The region names for ' + countryData.countryName + ' are not unique - duplicates: ' + duplicateRegionShortCodes);
+			}
 		});
 		console.log("PASS!");
 	}

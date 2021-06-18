@@ -10414,51 +10414,51 @@ return [
     "regions": [
       {
         "name": "Tanger-Tétouan-Al Hoceïma",
-        "code": "MA-01"
+        "shortCode": "MA-01"
       },
       {
         "name": "L'Oriental",
-        "code": "MA-02"
+        "shortCode": "MA-02"
       },
       {
         "name": "Fès-Meknès",
-        "code": "MA-03"
+        "shortCode": "MA-03"
       },
       {
         "name": "Rabat-Salé-Kénitra",
-        "code": "MA-04"
+        "shortCode": "MA-04"
       },
       {
         "name": "Béni Mellal-Khénifra",
-        "code": "MA-05"
+        "shortCode": "MA-05"
       },
       {
         "name": "Casablanca-Settat",
-        "code": "MA-06"
+        "shortCode": "MA-06"
       },
       {
         "name": "Marrakech-Safi",
-        "code": "MA-07"
+        "shortCode": "MA-07"
       },
       {
         "name": "Drâa-Tafilalet",
-        "code": "MA-08"
+        "shortCode": "MA-08"
       },
       {
         "name": "Souss-Massa",
-        "code": "MA-09"
+        "shortCode": "MA-09"
       },
       {
         "name": "Guelmim-Oued Noun",
-        "code": "MA-10"
+        "shortCode": "MA-10"
       },
       {
         "name": "Laâyoune-Sakia El Hamra",
-        "code": "MA-11"
+        "shortCode": "MA-11"
       },
       {
         "name": "Dakhla-Oued Ed-Dahab",
-        "code": "MA-12"
+        "shortCode": "MA-12"
       }
     ]
   },

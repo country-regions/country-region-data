@@ -5921,6 +5921,10 @@
                 "shortCode": "HP"
             },
             {
+                "name": "Ladakh",
+                "shortCode": "LA"
+            },       
+            {
                 "name": "Jammu and Kashmir",
                 "shortCode": "JK"
             },
@@ -5990,7 +5994,7 @@
             },
             {
                 "name": "Telangana",
-                "shortCode": "TG"
+                "shortCode": "TS"
             },
             {
                 "name": "Tripura",

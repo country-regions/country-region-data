@@ -3060,135 +3060,135 @@
         "countryShortCode": "CN",
         "regions": [{
                 "name": "Anhui",
-                "shortCode": "34"
+                "shortCode": "AH"
             },
             {
                 "name": "Beijing",
-                "shortCode": "11"
+                "shortCode": "BJ"
             },
             {
                 "name": "Chongqing",
-                "shortCode": "50"
+                "shortCode": "CQ"
             },
             {
                 "name": "Fujian",
-                "shortCode": "35"
+                "shortCode": "FJ"
             },
             {
                 "name": "Gansu",
-                "shortCode": "62"
+                "shortCode": "GS"
             },
             {
                 "name": "Guangdong",
-                "shortCode": "44"
+                "shortCode": "GD"
             },
             {
                 "name": "Guangxi",
-                "shortCode": "45"
+                "shortCode": "GX"
             },
             {
                 "name": "Guizhou",
-                "shortCode": "52"
+                "shortCode": "GZ"
             },
             {
                 "name": "Hainan",
-                "shortCode": "46"
+                "shortCode": "HI"
             },
             {
                 "name": "Hebei",
-                "shortCode": "13"
+                "shortCode": "HE"
             },
             {
                 "name": "Heilongjiang",
-                "shortCode": "23"
+                "shortCode": "HL"
             },
             {
                 "name": "Henan",
-                "shortCode": "41"
+                "shortCode": "HA"
             },
             {
                 "name": "Hong Kong",
-                "shortCode": "91"
+                "shortCode": "HK"
             },
             {
                 "name": "Hubei",
-                "shortCode": "42"
+                "shortCode": "HB"
             },
             {
                 "name": "Hunan",
-                "shortCode": "43"
+                "shortCode": "HN"
             },
             {
                 "name": "Inner Mongolia",
-                "shortCode": "15"
+                "shortCode": "NM"
             },
             {
                 "name": "Jiangsu",
-                "shortCode": "32"
+                "shortCode": "JS"
             },
             {
                 "name": "Jiangxi",
-                "shortCode": "36"
+                "shortCode": "JX"
             },
             {
                 "name": "Jilin",
-                "shortCode": "22"
+                "shortCode": "JL"
             },
             {
                 "name": "Liaoning",
-                "shortCode": "21"
+                "shortCode": "LN"
             },
             {
                 "name": "Macau",
-                "shortCode": "92"
+                "shortCode": "MO"
             },
             {
                 "name": "Ningxia",
-                "shortCode": "64"
+                "shortCode": "NX"
             },
             {
                 "name": "Qinghai",
-                "shortCode": "63"
+                "shortCode": "QH"
             },
             {
                 "name": "Shaanxi",
-                "shortCode": "61"
+                "shortCode": "SN"
             },
             {
                 "name": "Shandong",
-                "shortCode": "37"
+                "shortCode": "SD"
             },
             {
                 "name": "Shanghai",
-                "shortCode": "31"
+                "shortCode": "SH"
             },
             {
                 "name": "Shanxi",
-                "shortCode": "14"
+                "shortCode": "SX"
             },
             {
                 "name": "Sichuan",
-                "shortCode": "51"
+                "shortCode": "SC"
             },
             {
                 "name": "Tianjin",
-                "shortCode": "12"
+                "shortCode": "TJ"
             },
             {
                 "name": "Tibet",
-                "shortCode": "54"
+                "shortCode": "XZ"
             },
             {
                 "name": "Xinjiang",
-                "shortCode": "65"
+                "shortCode": "XJ"
             },
             {
                 "name": "Yunnan",
-                "shortCode": "53"
+                "shortCode": "YN"
             },
             {
                 "name": "Zhejiang",
-                "shortCode": "33"
+                "shortCode": "ZJ"
             }
         ]
     },

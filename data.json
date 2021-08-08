@@ -10512,61 +10512,34 @@
     {
         "countryName": "Nepal",
         "countryShortCode": "NP",
-        "regions": [{
-                "name": "Bagmati",
-                "shortCode": "BA"
+        "regions": [
+            {
+                "name": "Province No. 1",
+                "shortCode": "1"
             },
             {
-                "name": "Bheri",
-                "shortCode": "BH"
+                "name": "Province No. 2",
+                "shortCode": "2"
             },
             {
-                "name": "Dhawalagiri",
-                "shortCode": "DH"
+                "name": "Bagmati Province",
+                "shortCode": "3"
             },
             {
-                "name": "Gandaki",
-                "shortCode": "GA"
+                "name": "Gandaki Province",
+                "shortCode": "4"
             },
             {
-                "name": "Janakpur",
-                "shortCode": "JA"
+                "name": "Lumbini Province",
+                "shortCode": "5"
             },
             {
-                "name": "Karnali",
-                "shortCode": "KA"
+                "name": "Karnali Province",
+                "shortCode": "6"
             },
             {
-                "name": "Kosi",
-                "shortCode": "KO"
-            },
-            {
-                "name": "Lumbini",
-                "shortCode": "LU"
-            },
-            {
-                "name": "Mahakali",
-                "shortCode": "MA"
-            },
-            {
-                "name": "Mechi",
-                "shortCode": "ME"
-            },
-            {
-                "name": "Narayani",
-                "shortCode": "NA"
-            },
-            {
-                "name": "Rapti",
-                "shortCode": "RA"
-            },
-            {
-                "name": "Sagarmatha",
-                "shortCode": "SA"
-            },
-            {
-                "name": "Seti",
-                "shortCode": "SE"
+                "name": "Sudurpashchim",
+                "shortCode": "7"
             }
         ]
     },

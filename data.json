@@ -5893,12 +5893,8 @@
                 "shortCode": "CT"
             },
             {
-                "name": "Dadra and Nagar Haveli",
-                "shortCode": "DN"
-            },
-            {
-                "name": "Daman and Diu",
-                "shortCode": "DD"
+                "name": "Dadra and Nagar Haveli and Daman and Diu",
+                "shortCode": "DH"
             },
             {
                 "name": "Delhi",
@@ -5919,11 +5915,7 @@
             {
                 "name": "Himachal Pradesh",
                 "shortCode": "HP"
-            },
-            {
-                "name": "Ladakh",
-                "shortCode": "LA"
-            },       
+            },    
             {
                 "name": "Jammu and Kashmir",
                 "shortCode": "JK"
@@ -5940,6 +5932,10 @@
                 "name": "Kerala",
                 "shortCode": "KL"
             },
+            {
+                "name": "Ladakh",
+                "shortCode": "LA"
+            },         
             {
                 "name": "Lakshadweep",
                 "shortCode": "LD"
@@ -5986,7 +5982,7 @@
             },
             {
                 "name": "Sikkim",
-                "shortCode": "WK"
+                "shortCode": "SK"
             },
             {
                 "name": "Tamil Nadu",
@@ -5994,7 +5990,7 @@
             },
             {
                 "name": "Telangana",
-                "shortCode": "TS"
+                "shortCode": "TG"
             },
             {
                 "name": "Tripura",

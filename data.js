@@ -3127,135 +3127,135 @@ return [
     "regions": [
       {
         "name": "Anhui",
-        "shortCode": "34"
+        "shortCode": "AH"
       },
       {
         "name": "Beijing",
-        "shortCode": "11"
+        "shortCode": "BJ"
       },
       {
         "name": "Chongqing",
-        "shortCode": "50"
+        "shortCode": "CQ"
       },
       {
         "name": "Fujian",
-        "shortCode": "35"
+        "shortCode": "FJ"
       },
       {
         "name": "Gansu",
-        "shortCode": "62"
+        "shortCode": "GS"
       },
       {
         "name": "Guangdong",
-        "shortCode": "44"
+        "shortCode": "GD"
       },
       {
         "name": "Guangxi",
-        "shortCode": "45"
+        "shortCode": "GX"
       },
       {
         "name": "Guizhou",
-        "shortCode": "52"
+        "shortCode": "GZ"
       },
       {
         "name": "Hainan",
-        "shortCode": "46"
+        "shortCode": "HI"
       },
       {
         "name": "Hebei",
-        "shortCode": "13"
+        "shortCode": "HE"
       },
       {
         "name": "Heilongjiang",
-        "shortCode": "23"
+        "shortCode": "HL"
       },
       {
         "name": "Henan",
-        "shortCode": "41"
+        "shortCode": "HA"
       },
       {
         "name": "Hong Kong",
-        "shortCode": "91"
+        "shortCode": "HK"
       },
       {
         "name": "Hubei",
-        "shortCode": "42"
+        "shortCode": "HB"
       },
       {
         "name": "Hunan",
-        "shortCode": "43"
+        "shortCode": "HN"
       },
       {
         "name": "Inner Mongolia",
-        "shortCode": "15"
+        "shortCode": "NM"
       },
       {
         "name": "Jiangsu",
-        "shortCode": "32"
+        "shortCode": "JS"
       },
       {
         "name": "Jiangxi",
-        "shortCode": "36"
+        "shortCode": "JX"
       },
       {
         "name": "Jilin",
-        "shortCode": "22"
+        "shortCode": "JL"
       },
       {
         "name": "Liaoning",
-        "shortCode": "21"
+        "shortCode": "LN"
       },
       {
         "name": "Macau",
-        "shortCode": "92"
+        "shortCode": "MO"
       },
       {
         "name": "Ningxia",
-        "shortCode": "64"
+        "shortCode": "NX"
       },
       {
         "name": "Qinghai",
-        "shortCode": "63"
+        "shortCode": "QH"
       },
       {
         "name": "Shaanxi",
-        "shortCode": "61"
+        "shortCode": "SN"
       },
       {
         "name": "Shandong",
-        "shortCode": "37"
+        "shortCode": "SD"
       },
       {
         "name": "Shanghai",
-        "shortCode": "31"
+        "shortCode": "SH"
       },
       {
         "name": "Shanxi",
-        "shortCode": "14"
+        "shortCode": "SX"
       },
       {
         "name": "Sichuan",
-        "shortCode": "51"
+        "shortCode": "SC"
       },
       {
         "name": "Tianjin",
-        "shortCode": "12"
+        "shortCode": "TJ"
       },
       {
         "name": "Tibet",
-        "shortCode": "54"
+        "shortCode": "XZ"
       },
       {
         "name": "Xinjiang",
-        "shortCode": "65"
+        "shortCode": "XJ"
       },
       {
         "name": "Yunnan",
-        "shortCode": "53"
+        "shortCode": "YN"
       },
       {
         "name": "Zhejiang",
-        "shortCode": "33"
+        "shortCode": "ZJ"
       }
     ]
   },
@@ -5731,7 +5731,7 @@ return [
         "shortCode": "EP"
       },
       {
-        "name": "Francisco Morazan",
+        "name": "Francisco Morazán",
         "shortCode": "FM"
       },
       {
@@ -5973,7 +5973,7 @@ return [
         "shortCode": "7"
       },
       {
-        "name": "Höfuðborgarsvæði utan Reykjavíkur",
+        "name": "Höfuðborgarsvæði",
         "shortCode": "1"
       },
       {
@@ -6035,12 +6035,8 @@ return [
         "shortCode": "CT"
       },
       {
-        "name": "Dadra and Nagar Haveli",
-        "shortCode": "DN"
-      },
-      {
-        "name": "Daman and Diu",
-        "shortCode": "DD"
+        "name": "Dadra and Nagar Haveli and Daman and Diu",
+        "shortCode": "DH"
       },
       {
         "name": "Delhi",
@@ -6077,6 +6073,10 @@ return [
       {
         "name": "Kerala",
         "shortCode": "KL"
+      },
+      {
+        "name": "Ladakh",
+        "shortCode": "LA"
       },
       {
         "name": "Lakshadweep",
@@ -6124,7 +6124,7 @@ return [
       },
       {
         "name": "Sikkim",
-        "shortCode": "WK"
+        "shortCode": "SK"
       },
       {
         "name": "Tamil Nadu",
@@ -10106,7 +10106,7 @@ return [
         "shortCode": "SO"
       },
       {
-        "name": "Stînga Nistrului",
+        "name": "Stânga Nistrului",
         "shortCode": "SN"
       },
       {
@@ -10707,60 +10707,32 @@ return [
     "countryShortCode": "NP",
     "regions": [
       {
-        "name": "Bagmati",
-        "shortCode": "BA"
+        "name": "Province No. 1",
+        "shortCode": "1"
       },
       {
-        "name": "Bheri",
-        "shortCode": "BH"
+        "name": "Province No. 2",
+        "shortCode": "2"
       },
       {
-        "name": "Dhawalagiri",
-        "shortCode": "DH"
+        "name": "Bagmati Province",
+        "shortCode": "3"
       },
       {
-        "name": "Gandaki",
-        "shortCode": "GA"
+        "name": "Gandaki Province",
+        "shortCode": "4"
       },
       {
-        "name": "Janakpur",
-        "shortCode": "JA"
+        "name": "Lumbini Province",
+        "shortCode": "5"
       },
       {
-        "name": "Karnali",
-        "shortCode": "KA"
+        "name": "Karnali Province",
+        "shortCode": "6"
       },
       {
-        "name": "Kosi",
-        "shortCode": "KO"
-      },
-      {
-        "name": "Lumbini",
-        "shortCode": "LU"
-      },
-      {
-        "name": "Mahakali",
-        "shortCode": "MA"
-      },
-      {
-        "name": "Mechi",
-        "shortCode": "ME"
-      },
-      {
-        "name": "Narayani",
-        "shortCode": "NA"
-      },
-      {
-        "name": "Rapti",
-        "shortCode": "RA"
-      },
-      {
-        "name": "Sagarmatha",
-        "shortCode": "SA"
-      },
-      {
-        "name": "Seti",
-        "shortCode": "SE"
+        "name": "Sudurpashchim",
+        "shortCode": "7"
       }
     ]
   },

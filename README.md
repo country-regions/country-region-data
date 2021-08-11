@@ -85,6 +85,7 @@ the major version with each release, I think that that would be more problematic
 `^` chars in their package.json files to get the latest content so updates would be manual and frequent. If people
 disagree about this let me know. 
 
+- `1.10.0` - Aug 10, 2021. Data updates: India, Nepal, Moldova regions. Thanks all!
 - `1.9.0` - July 26, 2021. Data updates: China regions. Thanks [jshenk](https://github.com/jshenk)
 - `1.8.0` - July 25, 2021. Data updates: Morocco, India, Iceland, Honduras. Thanks all!  
 - `1.7.0` - Nov 20, 2020. Data updates: France, Norway, Mali, Croatia, Paraguau, Taiwan, Kosovo, Morocco. 

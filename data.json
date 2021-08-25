@@ -10100,6 +10100,10 @@
             {
                 "name": "Uvs",
                 "shortCode": "046"
+            },
+            {
+                "name": "Erdenet",
+                "shortCode": "074"
             }
         ]
     },

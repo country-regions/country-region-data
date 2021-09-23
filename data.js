@@ -10292,6 +10292,10 @@ return [
       {
         "name": "Uvs",
         "shortCode": "046"
+      },
+      {
+        "name": "Erdenet",
+        "shortCode": "074"
       }
     ]
   },
@@ -18728,6 +18732,70 @@ return [
     "countryName": "Vietnam",
     "countryShortCode": "VN",
     "regions": [
+      {
+        "name": "An Giang",
+        "shortCode": "44"
+      },
+      {
+        "name": "Bà Rịa - Vũng Tàu",
+        "shortCode": "43"
+      },
+      {
+        "name": "Bình Dương",
+        "shortCode": "57"
+      },
+      {
+        "name": "Bình Phước",
+        "shortCode": "58"
+      },
+      {
+        "name": "Bình Định",
+        "shortCode": "31"
+      },
+      {
+        "name": "Bình Thuận",
+        "shortCode": "40"
+      },
+      {
+        "name": "Bạc Liêu",
+        "shortCode": "55"
+      },
+      {
+        "name": "Bắc Giang",
+        "shortCode": "54"
+      },
+      {
+        "name": "Bắc Kạn",
+        "shortCode": "53"
+      },
+      {
+        "name": "Bắc Ninh",
+        "shortCode": "56"
+      },
+      {
+        "name": "Bến Tre",
+        "shortCode": "50"
+      },
+      {
+        "name": "Cao Bằng",
+        "shortCode": "04"
+      },
+      {
+        "name": "Cà Mau",
+        "shortName": "59"
+      },
+      {
+        "name": "Đắk Lắk",
+        "shortCode": "33"
+      },
+      {
+        "name": "Đắk Nông",
+        "shortCode": "72"
+      },
+      {
+        "name": "Điện Biên",
+        "shortCode": "71"
+      },
       {
         "name": "Đồng Nai",
         "shortCode": "39"

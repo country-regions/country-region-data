@@ -1863,39 +1863,39 @@
         "countryShortCode": "BO",
         "regions": [{
                 "name": "Beni",
-                "shortCode": "B"
+                "shortCode": "BE"
             },
             {
                 "name": "Chuquisaca",
-                "shortCode": "H"
+                "shortCode": "CH"
             },
             {
                 "name": "Cochabamba",
-                "shortCode": "C"
+                "shortCode": "CB"
             },
             {
                 "name": "La Paz",
-                "shortCode": "L"
+                "shortCode": "LP"
             },
             {
                 "name": "Oruro",
-                "shortCode": "O"
+                "shortCode": "OR"
             },
             {
                 "name": "Pando",
-                "shortCode": "N"
+                "shortCode": "PD"
             },
             {
                 "name": "Potosí",
-                "shortCode": "P"
+                "shortCode": "PT"
             },
             {
                 "name": "Santa Cruz",
-                "shortCode": "S"
+                "shortCode": "SC"
             },
             {
                 "name": "Tarija",
-                "shortCode": "T"
+                "shortCode": "TJ"
             }
         ]
     },

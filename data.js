@@ -18782,7 +18782,7 @@ return [
       },
       {
         "name": "Cà Mau",
-        "shortName": "59"
+        "shortCode": "59"
       },
       {
         "name": "Đắk Lắk",

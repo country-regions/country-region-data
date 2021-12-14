@@ -15409,7 +15409,7 @@ return [
         "shortCode": "AR"
       },
       {
-        "name": "Appenzell Innerhoden",
+        "name": "Appenzell Innerrhoden",
         "shortCode": "AI"
       },
       {

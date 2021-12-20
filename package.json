@@ -1,11 +1,13 @@
 {
   "name": "country-region-data",
-  "version": "1.11.0",
+  "version": "2.0.0-beta.0",
   "description": "List of countries, regions, and their shortcodes.",
-  "main": "data.json",
+  "main": "dist/data.js",
+  "module": "dist/data-es6.js",
   "types": "./index.d.ts",
   "scripts": {
-    "test": "grunt validate"
+    "test": "grunt validate",
+    "build": "grunt build"
   },
   "repository": {
     "type": "git",

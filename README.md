@@ -1,5 +1,8 @@
 # country-region-data 
 
+> This repo will be in limbo for a few days. I'll update the doc and release a new version when we're good to go. Keep
+> you posted.
+
 [![Build Status](https://travis-ci.com/country-regions/country-region-data.svg?branch=master)](https://travis-ci.org/country-regions/country-region-data)
 
 This repo contains a static JSON file of country names, country short codes, country regions, and country region short 

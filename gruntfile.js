@@ -90,29 +90,8 @@ module.exports = function (grunt) {
 			indent: 2
 		});
 
-		const file = 'dist/data.js';
+		const file = 'dist/data-umd.js';
 		grunt.file.write(file, output);
-
-		const typingsOutput = `declare module 'country-region-data' {
-	export interface Region {
-		name: string;
-		shortCode: string;
-	}
-
-	export interface Country {
-		countryName: string;
-		countryShortCode: string;
-		regions: Region[];
-	}
-
-	const countryRegionData: Country[];
-
-	export default countryRegionData;
-}
-`;
-
-		const typingsFile = 'dist/data.d.ts';
-		grunt.file.write(typingsFile, typingsOutput);
 
 		console.log(`UMD module created: ${file}`);
 	}
@@ -133,33 +112,35 @@ module.exports = function (grunt) {
 
 		output += `export const allCountries = [${countryShortCodes.join(",")}];\n`;
 
-		const file = 'dist/data-es6.js';
+		const file = 'dist/data.js';
 		grunt.file.write(file, output);
 
 		// now generate the corresponding typings file
-		let typingsOutput = `export type CountryName = "${countryNames.join('" | "')}";\n`;
-		typingsOutput += `export type CountrySlug = "${countryShortCodes.join('" | "')}";\n`;
-		typingsOutput += `export type RegionName = string;
-export type RegionSlug = string;
+		let typingsOutput = `declare module 'country-region-data' {
+	export type CountryName = "${countryNames.join('" | "')}";\n`;
+		typingsOutput += `\texport type CountrySlug = "${countryShortCodes.join('" | "')}";\n`;
+		typingsOutput += `\texport type RegionName = string;
+	export type RegionSlug = string;
 
-export const countryNames: CountryName[];
-export const countryShortCodes: CountrySlug[];
-export type Region = [RegionName, RegionSlug];
-
-export type CountryData = [
-	CountryName,
-	CountrySlug,
-	Region[]
-];
-
-export const allCountries: CountryData[];
-
-export default allCountries;
+	export const countryNames: CountryName[];
+	export const countryShortCodes: CountrySlug[];
+	export type Region = [RegionName, RegionSlug];
+	
+	export type CountryData = [
+		CountryName,
+		CountrySlug,
+		Region[]
+	];
+	
+	export const allCountries: CountryData[];
+	
+	export default allCountries;
 
 `;
 		typingsOutput += countryShortCodes.map((shortCode) => `export const ${shortCode}: CountryData;`).join("\n");
+		typingsOutput += '\n}\n';
 
-		const typingsFile = 'dist/data-es6.d.ts';
+		const typingsFile = 'dist/data.d.ts';
 		grunt.file.write(typingsFile, typingsOutput);
 
 		console.log(`ES6 module created: ${file}`);

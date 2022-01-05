@@ -1,11 +1,9 @@
 # country-region-data 
 
-> Dec 20th, 2021: this repo will be in limbo for a few days. I'll update the doc and release a new version when we're good to go. Keep
-> you posted.
-
 [![Build Status](https://travis-ci.com/country-regions/country-region-data.svg?branch=master)](https://travis-ci.org/country-regions/country-region-data)
 
-This repo contains a static JSON file of country names, country short codes, country regions, and country region short 
+This repo provides country and region data in three different formats: es6, UMD (Unified Module Definition) and
+plain JSON. The data contains country names, country short codes, country regions, and country region short 
 codes. All country names and short codes are guaranteed to be unique. Similarly, all regions and region short
 codes *within a single country* are guaranteed to be unique.
 
@@ -24,7 +22,7 @@ yarn add country-region-data
 
 ### Structure
 
-See the `data.json` file for the data. The JSON is of the form:
+See the `data.json` file in the root folder for the raw data. The JSON is of the form:
 
 ```javascript
 [
@@ -37,29 +35,68 @@ See the `data.json` file for the data. The JSON is of the form:
         "shortCode":"A"
       },
       ...
-    }
+    ]
   },
   ... 
 ]
 ```
 
-Note: the `data.js` file is an UMD version of the data.json file, generated automatically. The `data.json` file is the
-source of truth for the data set.
+The `data.json` file is the source of truth for the data set, but the generated build artifacts (not seen the repo -
+only in the npm package) are:
+
+```
+dist/data.js
+dist/data-umd.js
+```
+
+The first one is an es6 file containing all the data in tree-shakeable format; the second is an UMD file containing the 
+entire content. Up until v2 of this repo, UMD was the default. Now
+
+### How to use
+
+The es6 file can be imported like so:
+
+```jsx harmony
+import { allCountries } from 'country-region-data';
+```
+
+If you're using typescript you'll get all the typings and see the structure of the exported data in your IDE. If not, 
+check your node_modules/country-region-data/dist folder and look at the `data.d.ts` file to get the full list of exported 
+information. 
+
+The UMD file can be used like this:
+
+```
+import countryRegionData from 'country-region-data/dist/data-umd';
+```
+
+The raw JSON like this:
+
+```
+import json from 'country-region-data/data.json';
+```
+
+### Typings 
+
+So this bit I'm not sure about... so ping me if I'm wrong or if there's a better way to do it. There are three
+different formats for the repo data: JSON, UMD and ES6. I figure es6 is going to be the most likely used format, so the
+generated typings file (data.d.ts) is referenced in the "typings" property in the package.json file and should be picked 
+up by your IDEs. 
+
+There are no typings for the UMD or JSON format. 
 
 
 ### Contribute
 
-**IMPORTANT**: make your changes to the `data.json` file, not the `data.js` file. The JS file is generated automatically out of
-the `data.json` file by running `grunt umdify` on the command line. So if you add your change to the JS file only, they
-will get overwritten next time that command is run.
+Make your changes to the `data.json` file.
 
 Updates and fixes to the data is much appreciated! The state/prov abbreviations in particular are not yet complete, so
 the more contributors the better. Regions that need ISO3166-2 codes can be identified by having a missing `shortCode` 
 property for each region. You can find them by cloning the repo, then running:
 
 ```
-npm install
-grunt findIncomplete
+yarn install
+npx grunt findIncomplete
 ```
 
 That'll list all countries with regions that are missing region short codes. Wikipedia has a lot of the data listed here:
@@ -72,8 +109,8 @@ Before contributing a PR, please validate the JSON content (if you don't, Travis
 run the following on your command line:
 
 ```
-npm install
-grunt validate
+yarn install
+npx grunt validate
 ```
 
 That'll throw an error if the JSON is invalid or if some duplicate names were accidentally introduced. The error messages 
@@ -88,6 +125,9 @@ the major version with each release, I think that that would be more problematic
 `^` chars in their package.json files to get the latest content so updates would be manual and frequent. If people
 disagree about this let me know. 
 
+- `2.0.0` - Jan 4, 2022.
+    - New export formats: es6 (default) as well as the old UMD and JSON.
+    - Data updates for France, Bolivia, Vietnam. 
 - `1.11.0` - Sept 22, 2021. Data updates: Vietnam. Thanks [barnett](https://github.com/barnett)!
 - `1.10.0` - Aug 10, 2021. Data updates: India, Nepal, Moldova regions. Thanks all!
 - `1.9.0` - July 26, 2021. Data updates: China regions. Thanks [jshenk](https://github.com/jshenk)

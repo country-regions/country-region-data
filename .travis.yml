@@ -1,5 +1,13 @@
 language: node_js
 node_js:
-  - "8.10.0"
-before_script:
+  - "16.13.1"
+
+install:
+  - nvm install 12
   - yarn install
+
+jobs:
+  include:
+    - stage: validate
+      node_js: node
+      script: npx grunt validate

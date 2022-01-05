@@ -137,7 +137,7 @@ module.exports = function (grunt) {
 	export default allCountries;
 
 `;
-		typingsOutput += countryShortCodes.map((shortCode) => `export const ${shortCode}: CountryData;`).join("\n");
+		typingsOutput += countryShortCodes.map((shortCode) => `\texport const ${shortCode}: CountryData;`).join("\n");
 		typingsOutput += '\n}\n';
 
 		const typingsFile = 'dist/data.d.ts';

@@ -15557,23 +15557,23 @@
     "countryShortCode": "TW",
     "regions": [
       {
-        "name": "Chang-hua",
+        "name": "Changhua",
         "shortCode": "CHA"
       },
       {
-        "name": "Chia-i",
+        "name": "Chiayi",
         "shortCode": "CYQ"
       },
       {
-        "name": "Hsin-chu",
+        "name": "Hsinchu",
         "shortCode": "HSQ"
       },
       {
-        "name": "Hua-lien",
+        "name": "Hualien",
         "shortCode": "HUA"
       },
       {
-        "name": "Kao-hsiung",
+        "name": "Kaohsiung",
         "shortCode": "KHH"
       },
       {
@@ -15589,15 +15589,15 @@
         "shortCode": "LIE"
       },
       {
-        "name": "Miao-li",
+        "name": "Miaoli",
         "shortCode": "MIA"
       },
       {
-        "name": "Nan-t'ou",
+        "name": "Nantou",
         "shortCode": "NAN"
       },
       {
-        "name": "P'eng-hu",
+        "name": "Penghu",
         "shortCode": "PEN"
       },
       {
@@ -15605,35 +15605,35 @@
         "shortCode": "NWT"
       },
       {
-        "name": "P'ing-tung",
-        "shortCode": "PING"
+        "name": "Pingtung",
+        "shortCode": "PIF"
       },
       {
-        "name": "T'ai-chung",
+        "name": "Taichung",
         "shortCode": "TXG"
       },
       {
-        "name": "T'ai-nan",
+        "name": "Tainan",
         "shortCode": "TNN"
       },
       {
-        "name": "T'ai-pei",
+        "name": "Taipei",
         "shortCode": "TPE"
       },
       {
-        "name": "T'ai-tung",
+        "name": "Taitung",
         "shortCode": "TTT"
       },
       {
-        "name": "T'ao-yuan",
+        "name": "Taoyuan",
         "shortCode": "TAO"
       },
       {
-        "name": "Yi-lan",
+        "name": "Yilan",
         "shortCode": "ILA"
       },
       {
-        "name": "Yun-lin",
+        "name": "Yunlin",
         "shortCode": "YUN"
       }
     ]

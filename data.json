@@ -11956,6 +11956,10 @@
         "shortCode": "DAO"
       },
       {
+        "name": "Davao de Oro",
+        "shortCode": "COM"
+      },
+      {
         "name": "Dinagat Islands",
         "shortCode": "DIN"
       },
@@ -12014,6 +12018,10 @@
       {
         "name": "Maguindanao",
         "shortCode": "MAG"
+      },
+      {
+        "name": "Marinduque",
+        "shortCode": "MAD"
       },
       {
         "name": "Masbate",
@@ -12106,6 +12114,10 @@
       {
         "name": "Sorsogon",
         "shortCode": "SOR"
+      },
+      {
+        "name": "South Cotabato",
+        "shortCode": "SCO"
       },
       {
         "name": "Southern Leyte",

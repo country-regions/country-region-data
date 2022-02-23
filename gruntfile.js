@@ -112,6 +112,9 @@ module.exports = function (grunt) {
 
 		output += `export const allCountries = [${countryShortCodes.join(",")}];\n`;
 
+		const countryTuples = content.map(({ countryName, countryShortCode }) => [countryName, countryShortCode]);
+		output += `export const countryTuples = ${JSON.stringify(countryTuples)};\n`;
+
 		const file = 'dist/data.js';
 		grunt.file.write(file, output);
 
@@ -124,6 +127,7 @@ module.exports = function (grunt) {
 
 	export const countryNames: CountryName[];
 	export const countryShortCodes: CountrySlug[];
+	export const countryTuples: [CountryName, CountrySlug][];
 	export type Region = [RegionName, RegionSlug];
 	
 	export type CountryData = [
@@ -132,10 +136,8 @@ module.exports = function (grunt) {
 		Region[]
 	];
 	
-	export const allCountries: CountryData[];
-	
+	export const allCountries: CountryData[];	
 	export default allCountries;
-
 `;
 		typingsOutput += countryShortCodes.map((shortCode) => `\texport const ${shortCode}: CountryData;`).join("\n");
 		typingsOutput += '\n}\n';

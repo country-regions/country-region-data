@@ -1,7 +1,7 @@
 {
   "name": "country-region-data",
-  "version": "2.0.0",
-  "description": "List of countries, regions, and their shortcodes.",
+  "version": "2.1.0",
+  "description": "List of countries, regions, and their short-codes.",
   "main": "dist/data.js",
   "typings": "dist/data.d.ts",
   "scripts": {

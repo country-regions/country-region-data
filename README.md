@@ -50,7 +50,8 @@ dist/data-umd.js
 ```
 
 The first one is an es6 file containing all the data in tree-shakeable format; the second is an UMD file containing the 
-entire content. Up until v2 of this repo, UMD was the default. Now
+entire content. Up until v2 of this repo, UMD was the default. Now the es6 export is the default and the typings reflects
+the content of that file, not UMD.
 
 ### How to use
 
@@ -62,7 +63,7 @@ import { allCountries } from 'country-region-data';
 
 If you're using typescript you'll get all the typings and see the structure of the exported data in your IDE. If not, 
 check your node_modules/country-region-data/dist folder and look at the `data.d.ts` file to get the full list of exported 
-information. 
+information.
 
 The UMD file can be used like this:
 
@@ -125,6 +126,9 @@ the major version with each release, I think that that would be more problematic
 `^` chars in their package.json files to get the latest content so updates would be manual and frequent. If people
 disagree about this let me know. 
 
+- `2.1.0` - Feb 22, 2022.
+    - `countryTuples` named export added to es6 bundle.
+    - Data updates for Philippines, Taiwan, Nepal  
 - `2.0.0` - Jan 4, 2022.
     - New export formats: es6 (default) as well as the old UMD and JSON.
     - Data updates for France, Bolivia, Vietnam. 

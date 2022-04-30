@@ -1,9 +1,9 @@
 language: node_js
 node_js:
-  - "16.13.1"
+  - 17
 
 install:
-  - nvm install 12
+  - nvm install
   - yarn install
 
 jobs:

@@ -3969,63 +3969,23 @@
     "regions": [
       {
         "name": "Hovedstaden",
-        "shortCode": "84"
-      },
-      {
-        "name": "Kujalleq",
-        "shortCode": "GL-KU"
+        "shortCode": "DK-84"
       },
       {
         "name": "Midtjylland",
-        "shortCode": "82"
-      },
-      {
-        "name": "Norderøerne",
-        "shortCode": "FO-01"
+        "shortCode": "DK-82"
       },
       {
         "name": "Nordjylland",
-        "shortCode": "81"
-      },
-      {
-        "name": "Østerø",
-        "shortCode": "FO-06"
-      },
-      {
-        "name": "Qaasuitsup",
-        "shortCode": "GL-QA"
-      },
-      {
-        "name": "Qeqqata",
-        "shortCode": "GL-QE"
-      },
-      {
-        "name": "Sandø",
-        "shortCode": "FO-02"
-      },
-      {
-        "name": "Sermersooq",
-        "shortCode": "GL-SM"
+        "shortCode": "DK-81"
       },
       {
         "name": "Sjælland",
-        "shortCode": "85"
-      },
-      {
-        "name": "Strømø",
-        "shortCode": "FO-03"
-      },
-      {
-        "name": "Suderø",
-        "shortCode": "FO-04"
+        "shortCode": "DK-85"
       },
       {
         "name": "Syddanmark",
-        "shortCode": "83"
-      },
-      {
-        "name": "Vågø",
-        "shortCode": "FO-05"
+        "shortCode": "DK-83"
       }
     ]
   },

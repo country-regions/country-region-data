@@ -17251,7 +17251,7 @@
         "shortCode": "AGB"
       },
       {
-        "name": "Armagh, Banbridge and Craigavon",
+        "name": "Armagh City, Banbridge and Craigavon",
         "shortCode": "ABC"
       },
       {
@@ -17275,7 +17275,7 @@
         "shortCode": "BDF"
       },
       {
-        "name": "Belfast",
+        "name": "Belfast City",
         "shortCode": "BFS"
       },
       {
@@ -17303,8 +17303,8 @@
         "shortCode": "BOL"
       },
       {
-        "name": "Bournemouth",
-        "shortCode": "BMH"
+        "name": "Bournemouth, Christchurch and Poole",
+        "shortCode": "BCP"
       },
       {
         "name": "Bracknell Forest",
@@ -17455,7 +17455,7 @@
         "shortCode": "DND"
       },
       {
-        "name": "Durham County",
+        "name": "Durham, County",
         "shortCode": "DUR"
       },
       {
@@ -17699,7 +17699,7 @@
         "shortCode": "MEA"
       },
       {
-        "name": "Mid Ulster",
+        "name": "Mid-Ulster",
         "shortCode": "MUL"
       },
       {
@@ -17819,10 +17819,6 @@
         "shortCode": "PLY"
       },
       {
-        "name": "Poole",
-        "shortCode": "POL"
-      },
-      {
         "name": "Portsmouth",
         "shortCode": "POR"
       },
@@ -17847,7 +17843,7 @@
         "shortCode": "RFW"
       },
       {
-        "name": "Rhondda, Cynon, Taff",
+        "name": "Rhondda Cynon Taff",
         "shortCode": "RCT"
       },
       {
@@ -17867,10 +17863,6 @@
         "shortCode": "RUT"
       },
       {
-        "name": "St. Helens",
-        "shortCode": "SHN"
-      },
-      {
         "name": "Salford",
         "shortCode": "SLF"
       },
@@ -17879,7 +17871,7 @@
         "shortCode": "SAW"
       },
       {
-        "name": "Scottish Borders, The",
+        "name": "Scottish Borders",
         "shortCode": "SCB"
       },
       {
@@ -17937,6 +17929,10 @@
       {
         "name": "Southwark",
         "shortCode": "SWK"
+      },
+      {
+        "name": "St. Helens",
+        "shortCode": "SHN"
       },
       {
         "name": "Staffordshire",

@@ -126,6 +126,7 @@ the major version with each release, I think that that would be more problematic
 `^` chars in their package.json files to get the latest content so updates would be manual and frequent. If people
 disagree about this let me know. 
 
+- `2.4.0` - Jun 2, 2022 - UK regions updated.
 - `2.3.0` - Apr 29, 2022.
   - Denmark, Eswatini data updated.
 - `2.2.0` - Mar 12, 2022.

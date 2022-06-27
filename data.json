@@ -7404,71 +7404,71 @@
     "countryShortCode": "KR",
     "regions": [
       {
-        "name": "Ch'ungch'ongbuk-do",
+        "name": "Chungcheongbuk-do",
         "shortCode": "43"
       },
       {
-        "name": "Ch'ungch'ongnam-do",
+        "name": "Chungcheongnam-do",
         "shortCode": "44"
       },
       {
-        "name": "Cheju-do",
+        "name": "Jeju-teukbyeoljachido",
         "shortCode": "49"
       },
       {
-        "name": "Chollabuk-do",
+        "name": "Jeollabuk-do",
         "shortCode": "45"
       },
       {
-        "name": "Chollanam-do",
+        "name": "Jeollanam-do",
         "shortCode": "46"
       },
       {
-        "name": "Inch'on-Kwangyokhi",
+        "name": "Incheon-gwangyeoksi",
         "shortCode": "28"
       },
       {
-        "name": "Kang-won-do",
+        "name": "Gangwon-do",
         "shortCode": "42"
       },
       {
-        "name": "Kwangju-Kwangyokshi",
+        "name": "Gwangju-gwangyeoksi",
         "shortCode": "29"
       },
       {
-        "name": "Kyonggi-do",
+        "name": "Gyeonggi-do",
         "shortCode": "41"
       },
       {
-        "name": "Kyongsangbuk-do",
+        "name": "Gyeongsangbuk-do",
         "shortCode": "47"
       },
       {
-        "name": "Kyongsangnam-do",
+        "name": "Gyeongsangnam-do",
         "shortCode": "48"
       },
       {
-        "name": "Pusan-Kwangyokshi",
+        "name": "Busan-gwangyeoksi",
         "shortCode": "26"
       },
       {
-        "name": "Seoul-T'ukpyolshi",
+        "name": "Seoul-teukbyeolsi",
         "shortCode": "11"
       },
       {
-        "name": "Sejong",
+        "name": "Sejong-teukbyeoljachisi",
         "shortCode": "50"
       },
       {
-        "name": "Taegu-Kwangyokshi",
+        "name": "Daegu-gwangyeoksi",
         "shortCode": "27"
       },
       {
-        "name": "Taejon-Kwangyokshi",
+        "name": "Daejeon-gwangyeoksi",
         "shortCode": "30"
       },
       {
-        "name": "Ulsan-Kwangyokshi",
+        "name": "Ulsan-gwangyeoksi",
         "shortCode": "31"
       }
     ]

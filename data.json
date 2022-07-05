@@ -12136,67 +12136,67 @@
     "regions": [
       {
         "name": "Dolnośląskie",
-        "shortCode": "DS"
+        "shortCode": "02"
       },
       {
         "name": "Kujawsko-pomorskie",
-        "shortCode": "KP"
+        "shortCode": "04"
       },
       {
         "name": "Łódzkie",
-        "shortCode": "LD"
+        "shortCode": "10"
       },
       {
         "name": "Lubelskie",
-        "shortCode": "LU"
+        "shortCode": "06"
       },
       {
         "name": "Lubuskie",
-        "shortCode": "LB"
+        "shortCode": "08"
       },
       {
         "name": "Małopolskie",
-        "shortCode": "MA"
+        "shortCode": "12"
       },
       {
         "name": "Mazowieckie",
-        "shortCode": "MZ"
+        "shortCode": "14"
       },
       {
         "name": "Opolskie",
-        "shortCode": "OP"
+        "shortCode": "16"
       },
       {
         "name": "Podkarpackie",
-        "shortCode": "PK"
+        "shortCode": "18"
       },
       {
         "name": "Podlaskie",
-        "shortCode": "PD"
+        "shortCode": "20"
       },
       {
         "name": "Pomorskie",
-        "shortCode": "PM"
+        "shortCode": "22"
       },
       {
         "name": "Śląskie",
-        "shortCode": "SL"
+        "shortCode": "24"
       },
       {
         "name": "Świętokrzyskie",
-        "shortCode": "SK"
+        "shortCode": "26"
       },
       {
         "name": "Warmińsko-mazurskie",
-        "shortCode": "WN"
+        "shortCode": "28"
       },
       {
         "name": "Wielkopolskie",
-        "shortCode": "WP"
+        "shortCode": "30"
       },
       {
         "name": "Zachodniopomorskie",
-        "shortCode": "ZP"
+        "shortCode": "32"
       }
     ]
   },

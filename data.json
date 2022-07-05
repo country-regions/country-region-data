@@ -3907,59 +3907,59 @@
     "regions": [
       {
         "name": "Hlavní město Praha",
-        "shortCode": "PR"
+        "shortCode": "10"
       },
       {
         "name": "Jihočeský kraj",
-        "shortCode": "JC"
+        "shortCode": "31"
       },
       {
         "name": "Jihomoravský kraj",
-        "shortCode": "JM"
+        "shortCode": "64"
       },
       {
         "name": "Karlovarský kraj",
-        "shortCode": "KA"
+        "shortCode": "41"
       },
       {
         "name": "Královéhradecký kraj",
-        "shortCode": "KR"
+        "shortCode": "52"
       },
       {
         "name": "Liberecký kraj",
-        "shortCode": "LI"
+        "shortCode": "51"
       },
       {
         "name": "Moravskoslezský kraj",
-        "shortCode": "MO"
+        "shortCode": "80"
       },
       {
         "name": "Olomoucký kraj",
-        "shortCode": "OL"
+        "shortCode": "71"
       },
       {
         "name": "Pardubický kraj",
-        "shortCode": "PA"
+        "shortCode": "53"
       },
       {
         "name": "Plzeňský kraj",
-        "shortCode": "PL"
+        "shortCode": "32"
       },
       {
         "name": "Středočeský kraj",
-        "shortCode": "ST"
+        "shortCode": "20"
       },
       {
         "name": "Ústecký kraj",
-        "shortCode": "US"
+        "shortCode": "42"
       },
       {
         "name": "Vysočina",
-        "shortCode": "VY"
+        "shortCode": "63"
       },
       {
         "name": "Zlínský kraj",
-        "shortCode": "ZL"
+        "shortCode": "72"
       }
     ]
   },

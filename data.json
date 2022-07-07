@@ -3907,59 +3907,59 @@
     "regions": [
       {
         "name": "Hlavní město Praha",
-        "shortCode": "PR"
+        "shortCode": "10"
       },
       {
         "name": "Jihočeský kraj",
-        "shortCode": "JC"
+        "shortCode": "31"
       },
       {
         "name": "Jihomoravský kraj",
-        "shortCode": "JM"
+        "shortCode": "64"
       },
       {
         "name": "Karlovarský kraj",
-        "shortCode": "KA"
+        "shortCode": "41"
       },
       {
         "name": "Královéhradecký kraj",
-        "shortCode": "KR"
+        "shortCode": "52"
       },
       {
         "name": "Liberecký kraj",
-        "shortCode": "LI"
+        "shortCode": "51"
       },
       {
         "name": "Moravskoslezský kraj",
-        "shortCode": "MO"
+        "shortCode": "80"
       },
       {
         "name": "Olomoucký kraj",
-        "shortCode": "OL"
+        "shortCode": "71"
       },
       {
         "name": "Pardubický kraj",
-        "shortCode": "PA"
+        "shortCode": "53"
       },
       {
         "name": "Plzeňský kraj",
-        "shortCode": "PL"
+        "shortCode": "32"
       },
       {
         "name": "Středočeský kraj",
-        "shortCode": "ST"
+        "shortCode": "20"
       },
       {
         "name": "Ústecký kraj",
-        "shortCode": "US"
+        "shortCode": "42"
       },
       {
         "name": "Vysočina",
-        "shortCode": "VY"
+        "shortCode": "63"
       },
       {
         "name": "Zlínský kraj",
-        "shortCode": "ZL"
+        "shortCode": "72"
       }
     ]
   },
@@ -12136,67 +12136,67 @@
     "regions": [
       {
         "name": "Dolnośląskie",
-        "shortCode": "DS"
+        "shortCode": "02"
       },
       {
         "name": "Kujawsko-pomorskie",
-        "shortCode": "KP"
+        "shortCode": "04"
       },
       {
         "name": "Łódzkie",
-        "shortCode": "LD"
+        "shortCode": "10"
       },
       {
         "name": "Lubelskie",
-        "shortCode": "LU"
+        "shortCode": "06"
       },
       {
         "name": "Lubuskie",
-        "shortCode": "LB"
+        "shortCode": "08"
       },
       {
         "name": "Małopolskie",
-        "shortCode": "MA"
+        "shortCode": "12"
       },
       {
         "name": "Mazowieckie",
-        "shortCode": "MZ"
+        "shortCode": "14"
       },
       {
         "name": "Opolskie",
-        "shortCode": "OP"
+        "shortCode": "16"
       },
       {
         "name": "Podkarpackie",
-        "shortCode": "PK"
+        "shortCode": "18"
       },
       {
         "name": "Podlaskie",
-        "shortCode": "PD"
+        "shortCode": "20"
       },
       {
         "name": "Pomorskie",
-        "shortCode": "PM"
+        "shortCode": "22"
       },
       {
         "name": "Śląskie",
-        "shortCode": "SL"
+        "shortCode": "24"
       },
       {
         "name": "Świętokrzyskie",
-        "shortCode": "SK"
+        "shortCode": "26"
       },
       {
         "name": "Warmińsko-mazurskie",
-        "shortCode": "WN"
+        "shortCode": "28"
       },
       {
         "name": "Wielkopolskie",
-        "shortCode": "WP"
+        "shortCode": "30"
       },
       {
         "name": "Zachodniopomorskie",
-        "shortCode": "ZP"
+        "shortCode": "32"
       }
     ]
   },

@@ -6744,191 +6744,191 @@
     "countryShortCode": "JP",
     "regions": [
       {
-        "name": "Aichi",
+        "name": "愛知県",
         "shortCode": "23"
       },
       {
-        "name": "Akita",
+        "name": "秋田県",
         "shortCode": "05"
       },
       {
-        "name": "Aomori",
+        "name": "青森県",
         "shortCode": "02"
       },
       {
-        "name": "Chiba",
+        "name": "千葉県",
         "shortCode": "12"
       },
       {
-        "name": "Ehime",
+        "name": "愛媛県",
         "shortCode": "38"
       },
       {
-        "name": "Fukui",
+        "name": "福井県",
         "shortCode": "18"
       },
       {
-        "name": "Fukuoka",
+        "name": "福岡県",
         "shortCode": "40"
       },
       {
-        "name": "Fukushima",
+        "name": "福島県",
         "shortCode": "07"
       },
       {
-        "name": "Gifu",
+        "name": "岐阜県",
         "shortCode": "21"
       },
       {
-        "name": "Gunma",
+        "name": "群馬県",
         "shortCode": "10"
       },
       {
-        "name": "Hiroshima",
+        "name": "広島県",
         "shortCode": "34"
       },
       {
-        "name": "Hokkaido",
+        "name": "北海道",
         "shortCode": "01"
       },
       {
-        "name": "Hyogo",
+        "name": "兵庫県",
         "shortCode": "28"
       },
       {
-        "name": "Ibaraki",
+        "name": "茨城県",
         "shortCode": "08"
       },
       {
-        "name": "Ishikawa",
+        "name": "石川県",
         "shortCode": "17"
       },
       {
-        "name": "Iwate",
+        "name": "岩手県",
         "shortCode": "03"
       },
       {
-        "name": "Kagawa",
+        "name": "香川県",
         "shortCode": "37"
       },
       {
-        "name": "Kagoshima",
+        "name": "鹿児島県",
         "shortCode": "46"
       },
       {
-        "name": "Kanagawa",
+        "name": "神奈川県",
         "shortCode": "14"
       },
       {
-        "name": "Kochi",
+        "name": "高知県",
         "shortCode": "39"
       },
       {
-        "name": "Kumamoto",
+        "name": "熊本県",
         "shortCode": "43"
       },
       {
-        "name": "Kyoto",
+        "name": "京都府",
         "shortCode": "26"
       },
       {
-        "name": "Mie",
+        "name": "三重県",
         "shortCode": "24"
       },
       {
-        "name": "Miyagi",
+        "name": "宮城県",
         "shortCode": "04"
       },
       {
-        "name": "Miyazaki",
+        "name": "宮崎県",
         "shortCode": "45"
       },
       {
-        "name": "Nagano",
+        "name": "長野県",
         "shortCode": "20"
       },
       {
-        "name": "Nagasaki",
+        "name": "長崎県",
         "shortCode": "42"
       },
       {
-        "name": "Nara",
+        "name": "奈良県",
         "shortCode": "29"
       },
       {
-        "name": "Niigata",
+        "name": "新潟県",
         "shortCode": "15"
       },
       {
-        "name": "Oita",
+        "name": "大分県",
         "shortCode": "44"
       },
       {
-        "name": "Okayama",
+        "name": "岡山県",
         "shortCode": "33"
       },
       {
-        "name": "Okinawa",
+        "name": "沖縄県",
         "shortCode": "47"
       },
       {
-        "name": "Osaka",
+        "name": "大阪府",
         "shortCode": "27"
       },
       {
-        "name": "Saga",
+        "name": "佐賀県",
         "shortCode": "41"
       },
       {
-        "name": "Saitama",
+        "name": "埼玉県",
         "shortCode": "11"
       },
       {
-        "name": "Shiga",
+        "name": "滋賀県",
         "shortCode": "25"
       },
       {
-        "name": "Shimane",
+        "name": "島根県",
         "shortCode": "32"
       },
       {
-        "name": "Shizuoka",
+        "name": "静岡県",
         "shortCode": "22"
       },
       {
-        "name": "Tochigi",
+        "name": "栃木県",
         "shortCode": "09"
       },
       {
-        "name": "Tokushima",
+        "name": "徳島県",
         "shortCode": "36"
       },
       {
-        "name": "Tokyo",
+        "name": "東京都",
         "shortCode": "13"
       },
       {
-        "name": "Tottori",
+        "name": "鳥取県",
         "shortCode": "31"
       },
       {
-        "name": "Toyama",
+        "name": "富山県",
         "shortCode": "16"
       },
       {
-        "name": "Wakayama",
+        "name": "和歌山県",
         "shortCode": "30"
       },
       {
-        "name": "Yamagata",
+        "name": "山形県",
         "shortCode": "06"
       },
       {
-        "name": "Yamaguchi",
+        "name": "山口県",
         "shortCode": "35"
       },
       {
-        "name": "Yamanashi",
+        "name": "山梨県",
         "shortCode": "19"
       }
     ]

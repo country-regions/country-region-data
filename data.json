@@ -12560,171 +12560,171 @@
     "regions": [
       {
         "name": "Alba",
-        "shortCode": "AB"
+        "shortCode": "RO-AB"
       },
       {
         "name": "Arad",
-        "shortCode": "AR"
+        "shortCode": "RO-AR"
       },
       {
         "name": "Arges",
-        "shortCode": "AG"
+        "shortCode": "RO-AG"
       },
       {
         "name": "Bacau",
-        "shortCode": "BC"
+        "shortCode": "RO-BC"
       },
       {
         "name": "Bihor",
-        "shortCode": "BH"
+        "shortCode": "RO-BH"
       },
       {
         "name": "Bistrita-Nasaud",
-        "shortCode": "BN"
+        "shortCode": "RO-BN"
       },
       {
         "name": "Botosani",
-        "shortCode": "BT"
+        "shortCode": "RO-BT"
       },
       {
         "name": "Braila",
-        "shortCode": "BR"
+        "shortCode": "RO-BR"
       },
       {
         "name": "Brasov",
-        "shortCode": "BV"
+        "shortCode": "RO-BV"
       },
       {
         "name": "Bucharest",
-        "shortCode": "BU"
-      },
-      {
-        "name": "Iifov",
-        "shortCode": "B"
+        "shortCode": "RO-B"
       },
       {
         "name": "Buzau",
-        "shortCode": "BZ"
+        "shortCode": "RO-BZ"
       },
       {
         "name": "Calarasi",
-        "shortCode": "CL"
+        "shortCode": "RO-CL"
       },
       {
         "name": "Caras-Severin",
-        "shortCode": "CS"
+        "shortCode": "RO-CS"
       },
       {
         "name": "Cluj",
-        "shortCode": "CJ"
+        "shortCode": "RO-CJ"
       },
       {
         "name": "Constanta",
-        "shortCode": "CT"
+        "shortCode": "RO-CT"
       },
       {
         "name": "Covasna",
-        "shortCode": "CV"
+        "shortCode": "RO-CV"
       },
       {
         "name": "Dambovita",
-        "shortCode": "DB"
+        "shortCode": "RO-DB"
       },
       {
         "name": "Dolj",
-        "shortCode": "DJ"
+        "shortCode": "RO-DJ"
       },
       {
         "name": "Galati",
-        "shortCode": "GL"
+        "shortCode": "RO-GL"
       },
       {
         "name": "Giurgiu",
-        "shortCode": "GR"
+        "shortCode": "RO-GR"
       },
       {
         "name": "Gorj",
-        "shortCode": "GJ"
+        "shortCode": "RO-GJ"
       },
       {
         "name": "Harghita",
-        "shortCode": "HR"
+        "shortCode": "RO-HR"
       },
       {
         "name": "Hunedoara",
-        "shortCode": "HD"
+        "shortCode": "RO-HD"
       },
       {
         "name": "Ialomita",
-        "shortCode": "IL"
+        "shortCode": "RO-IL"
       },
       {
         "name": "Iasi",
-        "shortCode": "IS"
+        "shortCode": "RO-IS"
+      },
+      {
+        "name": "Iifov",
+        "shortCode": "RO-IF"
       },
       {
         "name": "Maramures",
-        "shortCode": "MM"
+        "shortCode": "RO-MM"
       },
       {
         "name": "Mehedinti",
-        "shortCode": "MH"
+        "shortCode": "RO-MH"
       },
       {
         "name": "Mures",
-        "shortCode": "MS"
+        "shortCode": "RO-MS"
       },
       {
         "name": "Neamt",
-        "shortCode": "NT"
+        "shortCode": "RO-NT"
       },
       {
         "name": "Olt",
-        "shortCode": "OT"
+        "shortCode": "RO-OT"
       },
       {
         "name": "Prahova",
-        "shortCode": "PH"
+        "shortCode": "RO-PH"
       },
       {
         "name": "Salaj",
-        "shortCode": "SJ"
+        "shortCode": "RO-SJ"
       },
       {
         "name": "Satu Mare",
-        "shortCode": "SM"
+        "shortCode": "RO-SM"
       },
       {
         "name": "Sibiu",
-        "shortCode": "SB"
+        "shortCode": "RO-SB"
       },
       {
         "name": "Suceava",
-        "shortCode": "SV"
+        "shortCode": "RO-SV"
       },
       {
         "name": "Teleorman",
-        "shortCode": "TR"
+        "shortCode": "RO-TR"
       },
       {
         "name": "Timis",
-        "shortCode": "TM"
+        "shortCode": "RO-TM"
       },
       {
         "name": "Tulcea",
-        "shortCode": "TL"
+        "shortCode": "RO-TL"
       },
       {
         "name": "Valcea",
-        "shortCode": "VL"
+        "shortCode": "RO-VL"
       },
       {
         "name": "Vaslui",
-        "shortCode": "VS"
+        "shortCode": "RO-VS"
       },
       {
         "name": "Vrancea",
-        "shortCode": "VN"
+        "shortCode": "RO-VN"
       }
     ]
   },

@@ -67,13 +67,13 @@ information.
 
 The UMD file can be used like this:
 
-```
+```jsx harmony
 import countryRegionData from 'country-region-data/dist/data-umd';
 ```
 
 The raw JSON like this:
 
-```
+```jsx harmony
 import json from 'country-region-data/data.json';
 ```
 
@@ -125,7 +125,8 @@ to this repo is a dataset change which is technically backward incompatible. So 
 the major version with each release, I think that that would be more problematic: apps can no longer use the `~` and 
 `^` chars in their package.json files to get the latest content so updates would be manual and frequent. If people
 disagree about this let me know. 
-- 
+
+- `2.7.0` - Dec 28, 2022 - Romanian regions and shortcodes updated.
 - `2.6.0` - July 28, 2022 - UK counties updated.
 - `2.5.0` - July 12, 2022 - Czech Republic regions updated. 
 - `2.4.0` - Jun 2, 2022 - UK regions updated.

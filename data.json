@@ -4814,58 +4814,6 @@
       {
         "name": "Provence-Alpes-Cote d'Azur",
         "shortCode": "PAC"
-      },
-      {
-        "name": "Clipperton",
-        "shortCode": "CP"
-      },
-      {
-        "name": "Guadeloupe",
-        "shortCode": "GP"
-      },
-      {
-        "name": "Guyane",
-        "shortCode": "GF"
-      },
-      {
-        "name": "Martinique",
-        "shortCode": "MQ"
-      },
-      {
-        "name": "Mayotte",
-        "shortCode": "YT"
-      },
-      {
-        "name": "Nouvelle-Calédonie",
-        "shortCode": "NC"
-      },
-      {
-        "name": "Polynésie",
-        "shortCode": "PF"
-      },
-      {
-        "name": "Saint-Pierre-et-Miquelon",
-        "shortCode": "PM"
-      },
-      {
-        "name": "Saint Barthélemy",
-        "shortCode": "BL"
-      },
-      {
-        "name": "Saint Martin",
-        "shortCode": "MF"
-      },
-      {
-        "name": "Réunion",
-        "shortCode": "RE"
-      },
-      {
-        "name": "Terres Australes Françaises",
-        "shortCode": "TF"
-      },
-      {
-        "name": "Wallis-et-Futuna",
-        "shortCode": "WF"
       }
     ]
   },
@@ -7654,60 +7602,16 @@
     "countryShortCode": "LV",
     "regions": [
       {
-        "name": "Aglona",
-        "shortCode": "001"
-      },
-      {
         "name": "Aizkraukle",
         "shortCode": "002"
-      },
-      {
-        "name": "Aizpute",
-        "shortCode": "003"
-      },
-      {
-        "name": "Aknīste",
-        "shortCode": "004"
-      },
-      {
-        "name": "Aloja",
-        "shortCode": "005"
-      },
-      {
-        "name": "Alsunga",
-        "shortCode": "06"
       },
       {
         "name": "Alūksne",
         "shortCode": "007"
       },
       {
-        "name": "Amata",
-        "shortCode": "008"
-      },
-      {
-        "name": "Ape",
-        "shortCode": "009"
-      },
-      {
-        "name": "Auce",
-        "shortCode": "010"
-      },
-      {
         "name": "Ādaži",
         "shortCode": "011"
-      },
-      {
-        "name": "Babīte",
-        "shortCode": "012"
-      },
-      {
-        "name": "Baldone",
-        "shortCode": "013"
-      },
-      {
-        "name": "Baltinava",
-        "shortCode": "014"
       },
       {
         "name": "Balvi",
@@ -7718,188 +7622,44 @@
         "shortCode": "016"
       },
       {
-        "name": "Beverīna",
-        "shortCode": "017"
-      },
-      {
-        "name": "Brocēni",
-        "shortCode": "018"
-      },
-      {
-        "name": "Burtnieki",
-        "shortCode": "019"
-      },
-      {
-        "name": "Carnikava",
-        "shortCode": "020"
-      },
-      {
-        "name": "Cesvaine",
-        "shortCode": "021"
-      },
-      {
         "name": "Cēsis",
         "shortCode": "022"
-      },
-      {
-        "name": "Cibla",
-        "shortCode": "023"
-      },
-      {
-        "name": "Dagda",
-        "shortCode": "024"
-      },
-      {
-        "name": "Daugavpils",
-        "shortCode": "025"
-      },
-      {
-        "name": "Daugavpils (City)",
-        "shortCode": "DGV"
       },
       {
         "name": "Dobele",
         "shortCode": "026"
       },
       {
-        "name": "Dundaga",
-        "shortCode": "027"
-      },
-      {
-        "name": "Durbe",
-        "shortCode": "028"
-      },
-      {
-        "name": "Engure",
-        "shortCode": "029"
-      },
-      {
-        "name": "Ērgļi",
-        "shortCode": "030"
-      },
-      {
-        "name": "Garkalne",
-        "shortCode": "031"
-      },
-      {
-        "name": "Grobiņa",
-        "shortCode": "032"
-      },
-      {
         "name": "Gulbene",
         "shortCode": "033"
-      },
-      {
-        "name": "Iecava",
-        "shortCode": "034"
-      },
-      {
-        "name": "Ikšķile",
-        "shortCode": "035"
-      },
-      {
-        "name": "Ilūkste",
-        "shortCode": "036"
-      },
-      {
-        "name": "Inčukalns",
-        "shortCode": "037"
-      },
-      {
-        "name": "Jaunjelgava",
-        "shortCode": "038"
-      },
-      {
-        "name": "Jaunpiebalga",
-        "shortCode": "039"
-      },
-      {
-        "name": "Jaunpils",
-        "shortCode": "040"
       },
       {
         "name": "Jelgava",
         "shortCode": "041"
       },
       {
-        "name": "Jelgava (City)",
-        "shortCode": "JEL"
-      },
-      {
         "name": "Jēkabpils",
         "shortCode": "042"
-      },
-      {
-        "name": "Jēkabpils (City)",
-        "shortCode": "JKB"
-      },
-      {
-        "name": "Jūrmala (City)",
-        "shortCode": "JUR"
-      },
-      {
-        "name": "Kandava",
-        "shortCode": "043"
-      },
-      {
-        "name": "Kārsava",
-        "shortCode": "044"
-      },
-      {
-        "name": "Kocēni",
-        "shortCode": "045"
-      },
-      {
-        "name": "Koknese",
-        "shortCode": "046"
       },
       {
         "name": "Krāslava",
         "shortCode": "047"
       },
       {
-        "name": "Krimulda",
-        "shortCode": "048"
-      },
-      {
-        "name": "Krustpils",
-        "shortCode": "049"
-      },
-      {
         "name": "Kuldīga",
         "shortCode": "050"
-      },
-      {
-        "name": "Ķegums",
-        "shortCode": "051"
       },
       {
         "name": "Ķekava",
         "shortCode": "052"
       },
       {
-        "name": "Lielvārde",
-        "shortCode": "053"
-      },
-      {
-        "name": "Liepāja",
-        "shortCode": "LPX"
-      },
-      {
         "name": "Limbaži",
         "shortCode": "054"
       },
       {
-        "name": "Līgatne",
-        "shortCode": "055"
-      },
-      {
         "name": "Līvāni",
         "shortCode": "056"
-      },
-      {
-        "name": "Lubāna",
-        "shortCode": "057"
       },
       {
         "name": "Ludza",
@@ -7910,32 +7670,8 @@
         "shortCode": "059"
       },
       {
-        "name": "Mazsalaca",
-        "shortCode": "060"
-      },
-      {
-        "name": "Mālpils",
-        "shortCode": "061"
-      },
-      {
         "name": "Mārupe",
         "shortCode": "062"
-      },
-      {
-        "name": "Mērsrags",
-        "shortCode": "063"
-      },
-      {
-        "name": "Naukšēni",
-        "shortCode": "064"
-      },
-      {
-        "name": "Nereta",
-        "shortCode": "065"
-      },
-      {
-        "name": "Nīca",
-        "shortCode": "066"
       },
       {
         "name": "Ogre",
@@ -7946,84 +7682,16 @@
         "shortCode": "068"
       },
       {
-        "name": "Ozolnieki",
-        "shortCode": "069"
-      },
-      {
-        "name": "Pārgauja",
-        "shortCode": "070"
-      },
-      {
-        "name": "Pāvilosta",
-        "shortCode": "071"
-      },
-      {
-        "name": "Pļaviņas",
-        "shortCode": "072"
-      },
-      {
         "name": "Preiļi",
         "shortCode": "073"
-      },
-      {
-        "name": "Priekule",
-        "shortCode": "074"
-      },
-      {
-        "name": "Priekuļi",
-        "shortCode": "075"
-      },
-      {
-        "name": "Rauna",
-        "shortCode": "076"
       },
       {
         "name": "Rēzekne",
         "shortCode": "077"
       },
       {
-        "name": "Rēzekne (City)",
-        "shortCode": "REZ"
-      },
-      {
-        "name": "Riebiņi",
-        "shortCode": "078"
-      },
-      {
-        "name": "Rīga",
-        "shortCode": "RIX"
-      },
-      {
-        "name": "Roja",
-        "shortCode": "079"
-      },
-      {
         "name": "Ropaži",
         "shortCode": "080"
-      },
-      {
-        "name": "Rucava",
-        "shortCode": "081"
-      },
-      {
-        "name": "Rugāji",
-        "shortCode": "082"
-      },
-      {
-        "name": "Rundāle",
-        "shortCode": "083"
-      },
-      {
-        "name": "Rūjiena",
-        "shortCode": "084"
-      },
-      {
-        "name": "Sala",
-        "shortCode": "085"
-      },
-      {
-        "name": "Salacgrīva",
-        "shortCode": "086"
       },
       {
         "name": "Salaspils",
@@ -8038,96 +7706,72 @@
         "shortCode": "089"
       },
       {
-        "name": "Sēja",
-        "shortCode": "090"
-      },
-      {
         "name": "Sigulda",
         "shortCode": "091"
-      },
-      {
-        "name": "Skrīveri",
-        "shortCode": "092"
-      },
-      {
-        "name": "Skrunda",
-        "shortCode": "093"
       },
       {
         "name": "Smiltene",
         "shortCode": "094"
       },
       {
-        "name": "Stopiņi",
-        "shortCode": "095"
-      },
-      {
-        "name": "Strenči",
-        "shortCode": "096"
-      },
-      {
         "name": "Talsi",
         "shortCode": "097"
-      },
-      {
-        "name": "Tērvete",
-        "shortCode": "098"
       },
       {
         "name": "Tukums",
         "shortCode": "099"
       },
       {
-        "name": "Vaiņode",
-        "shortCode": "100"
-      },
-      {
         "name": "Valka",
         "shortCode": "101"
-      },
-      {
-        "name": "Valmiera",
-        "shortCode": "VMR"
       },
       {
         "name": "Varakļāni",
         "shortCode": "102"
       },
       {
-        "name": "Vārkava",
-        "shortCode": "103"
-      },
-      {
-        "name": "Vecpiebalga",
-        "shortCode": "104"
-      },
-      {
-        "name": "Vecumnieki",
-        "shortCode": "105"
-      },
-      {
         "name": "Ventspils",
         "shortCode": "106"
       },
       {
+        "name": "Augšdaugava",
+        "shortCode": "111"
+      },
+      {
+        "name": "Augšdaugava",
+        "shortCode": "112"
+      },
+      {
+        "name": "Valmiera",
+        "shortCode": "113"
+      },
+      {
+        "name": "Daugavpils (City)",
+        "shortCode": "DGV"
+      },
+      {
+        "name": "Jelgava (City)",
+        "shortCode": "JEL"
+      },
+      {
+        "name": "Jūrmala (City)",
+        "shortCode": "JUR"
+      },
+      {
+        "name": "Liepāja",
+        "shortCode": "LPX"
+      },
+      {
+        "name": "Rēzekne (City)",
+        "shortCode": "REZ"
+      },
+      {
+        "name": "Rīga",
+        "shortCode": "RIX"
+      },
+      {
         "name": "Ventspils (City)",
         "shortCode": "VEN"
-      },
-      {
-        "name": "Viesīte",
-        "shortCode": "107"
-      },
-      {
-        "name": "Viļaka",
-        "shortCode": "108"
-      },
-      {
-        "name": "Viļāni",
-        "shortCode": "109"
-      },
-      {
-        "name": "Zilupe",
-        "shortCode": "110"
       }
     ]
   },

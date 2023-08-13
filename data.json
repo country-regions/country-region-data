@@ -2838,28 +2838,28 @@
     "countryShortCode": "KY",
     "regions": [
       {
-        "name": "Creek"
+        "name": "Bodden Town",
+        "shortCode": "BT"
       },
       {
-        "name": "Eastern"
+        "name": "East End",
+        "shortCode": "EE"
       },
       {
-        "name": "Midland"
+        "name": "George Town",
+        "shortCode": "GT"
       },
       {
-        "name": "South Town"
+        "name": "North Side",
+        "shortCode": "NS"
       },
       {
-        "name": "Spot Bay"
+        "name": "Sister Islands",
+        "shortCode": "SI"
       },
       {
-        "name": "Stake Bay"
-      },
-      {
-        "name": "West End"
-      },
-      {
-        "name": "Western"
+        "name": "West Bay",
+        "shortCode": "WB"
       }
     ]
   },

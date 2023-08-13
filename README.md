@@ -1,23 +1,26 @@
 # country-region-data 
 
-[![Build Status](https://travis-ci.com/country-regions/country-region-data.svg?branch=master)](https://travis-ci.org/country-regions/country-region-data)
-
 This repo provides country and region data in three different formats: es6, UMD (Unified Module Definition) and
 plain JSON. The data contains country names, country short codes, country regions, and country region short 
 codes. All country names and short codes are guaranteed to be unique. Similarly, all regions and region short
 codes *within a single country* are guaranteed to be unique.
 
-I created this repo to house the raw data used for the [country-region-selector](https://github.com/country-regions/country-region-selector),
-[react-country-region-selector](https://github.com/country-regions/react-country-region-selector) scripts. I didn't want to 
-duplicate it in multiple places and hey, it seemed like this could be useful as a standalone repo.
+Countries can subdivide themselves in all sorts of different ways, often overlapping. They may have states, provinces, 
+regions, districts, municipalities, and more. The goal of this repo was to house whatever subdivisions makes sense from
+the viewpoint of _addressing_, and for that we use [ISO-3166-2](https://en.wikipedia.org/wiki/ISO_3166-2).
+
+The raw data here is used for the [country-region-selector](https://github.com/country-regions/country-region-selector),
+[react-country-region-selector](https://github.com/country-regions/react-country-region-selector) scripts but can be used
+independently for whatever you want.
 
 ### Install
 
-This package is available as an npm package. You can install via npm or yarn:
+This package is available as an npm package. Install with your package manager of choice:
 
 ```
-npm install country-region-data
+pnpm install country-region-data
 yarn add country-region-data
+npm install country-region-data
 ```
 
 ### Structure
@@ -27,12 +30,12 @@ See the `data.json` file in the root folder for the raw data. The JSON is of the
 ```javascript
 [
   {
-    "countryName":"Ecuador",
-    "countryShortCode":"EC",
-    "regions":[
+    "countryName": "Ecuador",
+    "countryShortCode": "EC",
+    "regions": [
       {
-        "name":"Azuay",
-        "shortCode":"A"
+        "name": "Azuay",
+        "shortCode": "A"
       },
       ...
     ]
@@ -49,9 +52,9 @@ dist/data.js
 dist/data-umd.js
 ```
 
-The first one is an es6 file containing all the data in tree-shakeable format; the second is an UMD file containing the 
-entire content. Up until v2 of this repo, UMD was the default. Now the es6 export is the default and the typings reflects
-the content of that file, not UMD.
+The first one is an es6 file containing all the data in tree-shakeable format; the second is a UMD file containing the 
+entire content. As of 3.0.0, the `main` package.json entry links to the UMD format and the `module` entry 
+links to the es6 format. 
 
 ### How to use
 
@@ -74,25 +77,27 @@ import countryRegionData from 'country-region-data/dist/data-umd';
 The raw JSON like this:
 
 ```jsx harmony
-import json from 'country-region-data/data.json';
+const json = require('country-region-data/data.json');
 ```
+
+Note I slipped into CJS there - node lets you read JSON files by default, so if you want in es6 format (`import json from X`),
+you'll need to configure your system (webpack, rollup etc.) with a loader/plugin to let it read JSON directly.
 
 ### Typings 
 
-So this bit I'm not sure about... so ping me if I'm wrong or if there's a better way to do it. There are three
-different formats for the repo data: JSON, UMD and ES6. I figure es6 is going to be the most likely used format, so the
-generated typings file (data.d.ts) is referenced in the "typings" property in the package.json file and should be picked 
-up by your IDEs. 
+There are three different formats for the repo data: JSON, UMD and ES6. I figure es6 is going to be the most likely
+used format, so the generated typings file (`dist/data.d.ts`) is for the es6 version, and referenced in the "typings"
+property in the package.json file. It should be automatically picked up by your IDEs. 
 
 There are no typings for the UMD or JSON format. 
 
 
 ### Contribute
 
-Make your changes to the `data.json` file.
+Make your changes to the `data.json` file in the root folder.
 
-Updates and fixes to the data is much appreciated! The state/prov abbreviations in particular are not yet complete, so
-the more contributors the better. Regions that need ISO3166-2 codes can be identified by having a missing `shortCode` 
+Updates and fixes to the data is much appreciated! The region abbreviations in particular are not yet complete, so
+the more contributors the better. Regions that need ISO-3166-2 codes can be identified by having a missing `shortCode` 
 property for each region. You can find them by cloning the repo, then running:
 
 ```
@@ -126,6 +131,9 @@ the major version with each release, I think that that would be more problematic
 `^` chars in their package.json files to get the latest content so updates would be manual and frequent. If people
 disagree about this let me know. 
 
+- `3.0.0` - Aug 13, 2023 - Spain, Cayman Islands, Zambia, Romania, Nigeria, Philippines, Pakistan regions and shortcode updates.
+  - **Breaking change**: the package.json file for this repo now added a `module` entry to link to the es6 format; the older
+   `main` entry links to the older UMD format. This should work for all bundlers, but let us know if you encounter problems.
 - `2.7.0` - Dec 28, 2022 - Romanian regions and shortcodes updated.
 - `2.6.0` - July 28, 2022 - UK counties updated.
 - `2.5.0` - July 12, 2022 - Czech Republic regions updated. 

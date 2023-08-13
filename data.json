@@ -11792,332 +11792,80 @@
     "countryShortCode": "PH",
     "regions": [
       {
-        "name": "Abra",
-        "shortCode": "ABR"
+        "name": "Autonomous Region in Muslim Mindanao",
+        "shortCode": "PH-14"
       },
       {
-        "name": "Agusan del Norte",
-        "shortCode": "AGN"
+        "name": "Bicol",
+        "shortCode": "PH-05"
       },
       {
-        "name": "Agusan del Sur",
-        "shortCode": "AGS"
+        "name": "Cagayan Valley",
+        "shortCode": "PH-02"
       },
       {
-        "name": "Aklan",
-        "shortCode": "AKL"
+        "name": "Calabarzon",
+        "shortCode": "PH-40"
       },
       {
-        "name": "Albay",
-        "shortCode": "ALB"
+        "name": "Caraga",
+        "shortCode": "PH-13"
       },
       {
-        "name": "Antique",
-        "shortCode": "ANT"
+        "name": "Central Luzon",
+        "shortCode": "PH-03"
       },
       {
-        "name": "Apayao",
-        "shortCode": "APA"
+        "name": "Central Visayas",
+        "shortCode": "PH-07"
       },
       {
-        "name": "Aurora",
-        "shortCode": "AUR"
+        "name": "Cordillera Administrative Region",
+        "shortCode": "PH-15"
       },
       {
-        "name": "Basilan",
-        "shortCode": "BAS"
+        "name": "Davao",
+        "shortCode": "PH-11"
       },
       {
-        "name": "Bataan",
-        "shortCode": "BAN"
+        "name": "Eastern Visayas",
+        "shortCode": "PH-08"
       },
       {
-        "name": "Batanes",
-        "shortCode": "BTN"
+        "name": "Ilocos",
+        "shortCode": "PH-01"
       },
       {
-        "name": "Batangas",
-        "shortCode": "BTG"
+        "name": "Mimaropa",
+        "shortCode": "PH-41"
       },
       {
-        "name": "Benguet",
-        "shortCode": "BEN"
+        "name": "National Capital Region",
+        "shortCode": "PH-00"
       },
       {
-        "name": "Biliran",
-        "shortCode": "BIL"
+        "name": "National Capital Region",
+        "shortCode": "PH-00"
       },
       {
-        "name": "Bohol",
-        "shortCode": "BOH"
+        "name": "Northern Mindanao",
+        "shortCode": "PH-10"
       },
       {
-        "name": "Bukidnon",
-        "shortCode": "BUK"
+        "name": "Northern Mindanao",
+        "shortCode": "PH-10"
       },
       {
-        "name": "Bulacan",
-        "shortCode": "BUL"
+        "name": "Soccsksargen",
+        "shortCode": "PH-12"
       },
       {
-        "name": "Cagayan",
-        "shortCode": "CAG"
+        "name": "Western Visayas",
+        "shortCode": "PH-06"
       },
       {
-        "name": "Camarines Norte",
-        "shortCode": "CAN"
-      },
-      {
-        "name": "Camarines Sur",
-        "shortCode": "CAS"
-      },
-      {
-        "name": "Camiguin",
-        "shortCode": "CAM"
-      },
-      {
-        "name": "Capiz",
-        "shortCode": "CAP"
-      },
-      {
-        "name": "Catanduanes",
-        "shortCode": "CAT"
-      },
-      {
-        "name": "Cavite",
-        "shortCode": "CAV"
-      },
-      {
-        "name": "Cebu",
-        "shortCode": "CEB"
-      },
-      {
-        "name": "Cotabato",
-        "shortCode": "NCO"
-      },
-      {
-        "name": "Davao del Norte",
-        "shortCode": "DAV"
-      },
-      {
-        "name": "Davao del Sur",
-        "shortCode": "DAS"
-      },
-      {
-        "name": "Davao Occidental",
-        "shortCode": "DVO"
-      },
-      {
-        "name": "Davao Oriental",
-        "shortCode": "DAO"
-      },
-      {
-        "name": "Davao de Oro",
-        "shortCode": "COM"
-      },
-      {
-        "name": "Dinagat Islands",
-        "shortCode": "DIN"
-      },
-      {
-        "name": "Eastern Samar",
-        "shortCode": "EAS"
-      },
-      {
-        "name": "Guimaras",
-        "shortCode": "GUI"
-      },
-      {
-        "name": "Ifugao",
-        "shortCode": "IFU"
-      },
-      {
-        "name": "Ilocos Norte",
-        "shortCode": "ILN"
-      },
-      {
-        "name": "Ilocos Sur",
-        "shortCode": "ILS"
-      },
-      {
-        "name": "Iloilo",
-        "shortCode": "ILI"
-      },
-      {
-        "name": "Isabela",
-        "shortCode": "ISA"
-      },
-      {
-        "name": "Kalinga",
-        "shortCode": "KAL"
-      },
-      {
-        "name": "La Union",
-        "shortCode": "LUN"
-      },
-      {
-        "name": "Laguna",
-        "shortCode": "LAG"
-      },
-      {
-        "name": "Lanao del Norte",
-        "shortCode": "LAN"
-      },
-      {
-        "name": "Lanao del Sur",
-        "shortCode": "LAS"
-      },
-      {
-        "name": "Leyte",
-        "shortCode": "LEY"
-      },
-      {
-        "name": "Maguindanao",
-        "shortCode": "MAG"
-      },
-      {
-        "name": "Marinduque",
-        "shortCode": "MAD"
-      },
-      {
-        "name": "Masbate",
-        "shortCode": "MAS"
-      },
-      {
-        "name": "Metro Manila",
-        "shortCode": "00"
-      },
-      {
-        "name": "Mindoro Occidental",
-        "shortCode": "MDC"
-      },
-      {
-        "name": "Mindoro Oriental",
-        "shortCode": "MDR"
-      },
-      {
-        "name": "Misamis Occidental",
-        "shortCode": "MSC"
-      },
-      {
-        "name": "Misamis Oriental",
-        "shortCode": "MSR"
-      },
-      {
-        "name": "Mountain Province",
-        "shortCode": "MOU"
-      },
-      {
-        "name": "Negros Occidental",
-        "shortCode": "NEC"
-      },
-      {
-        "name": "Negros Oriental",
-        "shortCode": "NER"
-      },
-      {
-        "name": "Northern Samar",
-        "shortCode": "NSA"
-      },
-      {
-        "name": "Nueva Ecija",
-        "shortCode": "NUE"
-      },
-      {
-        "name": "Nueva Vizcaya",
-        "shortCode": "NUV"
-      },
-      {
-        "name": "Palawan",
-        "shortCode": "PLW"
-      },
-      {
-        "name": "Pampanga",
-        "shortCode": "PAM"
-      },
-      {
-        "name": "Pangasinan",
-        "shortCode": "PAN"
-      },
-      {
-        "name": "Quezon",
-        "shortCode": "QUE"
-      },
-      {
-        "name": "Quirino",
-        "shortCode": "QUI"
-      },
-      {
-        "name": "Rizal",
-        "shortCode": "RIZ"
-      },
-      {
-        "name": "Romblon",
-        "shortCode": "ROM"
-      },
-      {
-        "name": "Samar",
-        "shortCode": "WSA"
-      },
-      {
-        "name": "Sarangani",
-        "shortCode": "SAR"
-      },
-      {
-        "name": "Siquijor",
-        "shortCode": "SIG"
-      },
-      {
-        "name": "Sorsogon",
-        "shortCode": "SOR"
-      },
-      {
-        "name": "South Cotabato",
-        "shortCode": "SCO"
-      },
-      {
-        "name": "Southern Leyte",
-        "shortCode": "SLE"
-      },
-      {
-        "name": "Sultan Kudarat",
-        "shortCode": "AUK"
-      },
-      {
-        "name": "Sulu",
-        "shortCode": "SLU"
-      },
-      {
-        "name": "Surigao del Norte",
-        "shortCode": "SUN"
-      },
-      {
-        "name": "Surigao del Sur",
-        "shortCode": "SUR"
-      },
-      {
-        "name": "Tarlac",
-        "shortCode": "TAR"
-      },
-      {
-        "name": "Tawi-Tawi",
-        "shortCode": "TAW"
-      },
-      {
-        "name": "Zambales",
-        "shortCode": "ZMB"
-      },
-      {
-        "name": "Zamboanga del Norte",
-        "shortCode": "ZAN"
-      },
-      {
-        "name": "Zamboanga del Sur",
-        "shortCode": "ZAS"
-      },
-      {
-        "name": "Zamboanga Sibugay",
-        "shortCode": "ZSI"
+        "name": "Zamboanga Peninsula",
+        "shortCode": "PH-09"
       }
     ]
   },

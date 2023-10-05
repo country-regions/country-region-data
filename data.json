@@ -11844,14 +11844,6 @@
         "shortCode": "PH-00"
       },
       {
-        "name": "National Capital Region",
-        "shortCode": "PH-00"
-      },
-      {
-        "name": "Northern Mindanao",
-        "shortCode": "PH-10"
-      },
-      {
         "name": "Northern Mindanao",
         "shortCode": "PH-10"
       },
@@ -14613,6 +14605,10 @@
     "countryShortCode": "ES",
     "regions": [
       {
+        "name": "Andalucìa",
+        "shortCode": "AN"
+      },
+      {
         "name": "Albacete",
         "shortCode": "AB"
       },
@@ -14637,6 +14633,10 @@
         "shortCode": "AV"
       },
       {
+        "name": "Aragòn",
+        "shortCode": "AR"
+      },
+      {
         "name": "Badajoz",
         "shortCode": "BA"
       },
@@ -14659,6 +14659,10 @@
       {
         "name": "Cádiz",
         "shortCode": "CA"
+      },
+      {
+        "name": "Canarias",
+        "shortCode": "CN"
       },
       {
         "name": "Cantabria",

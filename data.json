@@ -5118,17 +5118,20 @@
     "countryShortCode": "GH",
     "regions": [
       {
-        "name": "Ahafo"
+        "name": "Ahafo",
+        "shortCode": "AF"
       },
       {
         "name": "Ashanti",
         "shortCode": "AH"
       },
       {
-        "name": "Bono"
+        "name": "Bono",
+        "shortCode": "BO"
       },
       {
-        "name": "Bono East"
+        "name": "Bono East",
+        "shortCode": "BE"
       },
       {
         "name": "Central",
@@ -5147,13 +5150,16 @@
         "shortCode": "NP"
       },
       {
-        "name": "North East"
+        "name": "North East",
+        "shortCode": "NE"
       },
       {
-        "name": "Oti"
+        "name": "Oti",
+        "shortCode": "OT"
       },
       {
-        "name": "Savannah"
+        "name": "Savannah",
+        "shortCode": "SV"
       },
       {
         "name": "Upper East",
@@ -5172,7 +5178,8 @@
         "shortCode": "WP"
       },
       {
-        "name": "Western North"
+        "name": "Western North",
+        "shortCode": "WN"
       }
     ]
   },

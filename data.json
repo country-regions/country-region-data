@@ -1498,6 +1498,30 @@
       {
         "name": "West Grand Bahama",
         "shortCode": "39"
+      },
+      {
+        "name": "Central Andros",
+        "shortCode": "43"
+      },
+      {
+        "name": "Central Eleuthera",
+        "shortCode": "44"
+      },
+      {
+        "name": "Grand Cay",
+        "shortCode": "45"
+      },
+      {
+        "name": "Hope Town",
+        "shortCode": "46"
+      },
+      {
+        "name": "Mangrove Cay",
+        "shortCode": "47"
+      },
+      {
+        "name": "Spanish Wells",
+        "shortCode": "48"
       }
     ]
   },

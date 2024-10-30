@@ -1,6 +1,6 @@
 {
   "name": "country-region-data",
-  "version": "3.0.0",
+  "version": "3.1.0",
   "description": "List of countries, regions, and their shortcodes.",
   "main": "dist/data-umd.js",
   "module": "dist/data.js",

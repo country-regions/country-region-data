@@ -5774,11 +5774,7 @@
         "shortCode": "BE"
       },
       {
-        "name": "Békéscsaba",
-        "shortCode": "BC"
-      },
-      {
-        "name": "Borsod-Abauj-Zemplen",
+        "name": "Borsod-Abaúj-Zemplén",
         "shortCode": "BZ"
       },
       {
@@ -5786,32 +5782,12 @@
         "shortCode": "BU"
       },
       {
-        "name": "Csongrád",
+        "name": "Csongrád-Csanád",
         "shortCode": "CS"
-      },
-      {
-        "name": "Debrecen",
-        "shortCode": "DE"
-      },
-      {
-        "name": "Dunaújváros",
-        "shortCode": "DU"
-      },
-      {
-        "name": "Eger",
-        "shortCode": "EG"
-      },
-      {
-        "name": "Érd",
-        "shortCode": "ER"
       },
       {
         "name": "Fejér",
         "shortCode": "FE"
-      },
-      {
-        "name": "Győr",
-        "shortCode": "GY"
       },
       {
         "name": "Győr-Moson-Sopron",
@@ -5826,88 +5802,24 @@
         "shortCode": "HE"
       },
       {
-        "name": "Hódmezővásárhely",
-        "shortCode": "HV"
-      },
-      {
         "name": "Jász-Nagykun-Szolnok",
         "shortCode": "JN"
-      },
-      {
-        "name": "Kaposvár",
-        "shortCode": "KV"
-      },
-      {
-        "name": "Kecskemét",
-        "shortCode": "KM"
       },
       {
         "name": "Komárom-Esztergom",
         "shortCode": "KE"
       },
       {
-        "name": "Miskolc",
-        "shortCode": "MI"
-      },
-      {
-        "name": "Nagykanizsa",
-        "shortCode": "NK"
-      },
-      {
-        "name": "Nógrád",
-        "shortCode": "NO"
-      },
-      {
-        "name": "Nyíregyháza",
-        "shortCode": "NY"
-      },
-      {
-        "name": "Pécs",
-        "shortCode": "PS"
-      },
-      {
         "name": "Pest",
         "shortCode": "PE"
-      },
-      {
-        "name": "Salgótarján",
-        "shortCode": "ST"
       },
       {
         "name": "Somogy",
         "shortCode": "SO"
       },
       {
-        "name": "Sopron",
-        "shortCode": "SN"
-      },
-      {
-        "name": "Szabolcs-á-Bereg",
+        "name": "Szabolcs-Szatmár-Bereg",
         "shortCode": "SZ"
-      },
-      {
-        "name": "Szeged",
-        "shortCode": "SD"
-      },
-      {
-        "name": "Székesfehérvár",
-        "shortCode": "SF"
-      },
-      {
-        "name": "Szekszárd",
-        "shortCode": "SS"
-      },
-      {
-        "name": "Szolnok",
-        "shortCode": "SK"
-      },
-      {
-        "name": "Szombathely",
-        "shortCode": "SH"
-      },
-      {
-        "name": "Tatabánya",
-        "shortCode": "TB"
       },
       {
         "name": "Tolna",
@@ -5922,16 +5834,8 @@
         "shortCode": "VE"
       },
       {
-        "name": "Veszprém (City)",
-        "shortCode": "VM"
-      },
-      {
         "name": "Zala",
         "shortCode": "ZA"
-      },
-      {
-        "name": "Zalaegerszeg",
-        "shortCode": "ZE"
       }
     ]
   },

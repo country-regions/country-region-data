@@ -125,9 +125,9 @@ are pretty clear, I think.
 Note that this repo does _not_ use semantic versioning. I realize that's pretty non-standard, but every change
 to this repo is a dataset change which is technically backward incompatible. So although we could be bumping
 the major version with each release, I think that that would be more problematic: apps can no longer use the `~` and
-`^` chars in their package.json files to get the latest content so updates would be manual and frequent. If people
-disagree about this let me know.
+`^` chars in their package.json files to get the latest content so updates would be manual and frequent.
 
+- `3.2.0` - Oct 22, 2025 - Hungary, UK, Chile, Norway data updated.
 - `3.1.0` - Oct 29, 2024 - Bahamas, France, Ghana, Palestine and Spain data updated.
 - `3.0.0` - Aug 13, 2023 - Spain, Cayman Islands, Zambia, Romania, Nigeria, Philippines, Pakistan regions and shortcode updates.
   - **Breaking change**: the package.json file for this repo now added a `module` entry to link to the es6 format; the older

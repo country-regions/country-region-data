@@ -5752,8 +5752,76 @@
     "countryShortCode": "HK",
     "regions": [
       {
-        "name": "Hong Kong",
-        "shortCode": "HK"
+        "name": "Central and Western District",
+        "shortCode": "CW"
+      },
+      {
+        "name": "Eastern District",
+        "shortCode": "EST"
+      },
+      {
+        "name": "Islands District",
+        "shortCode": "ILD"
+      },
+      {
+        "name": "Kowloon City District",
+        "shortCode": "KLC"
+      },
+      {
+        "name": "Kwai Tsing District",
+        "shortCode": "KC"
+      },
+      {
+        "name": "Kwun Tong District",
+        "shortCode": "KT"
+      },
+      {
+        "name": "North District",
+        "shortCode": "NTH"
+      },
+      {
+        "name": "Sai Kung District",
+        "shortCode": "SK"
+      },
+      {
+        "name": "Sha Tin District",
+        "shortCode": "ST"
+      },
+      {
+        "name": "Sham Shui Po District",
+        "shortCode": "SSP"
+      },
+      {
+        "name": "Southern District",
+        "shortCode": "STH"
+      },
+      {
+        "name": "Tai Po District",
+        "shortCode": "TP"
+      },
+      {
+        "name": "Tsuen Wan District",
+        "shortCode": "TW"
+      },
+      {
+        "name": "Tuen Mun District",
+        "shortCode": "TM"
+      },
+      {
+        "name": "Wan Chai District",
+        "shortCode": "WC"
+      },
+      {
+        "name": "Wong Tai Sin District",
+        "shortCode": "WTS"
+      },
+      {
+        "name": "Yau Tsim Mong District",
+        "shortCode": "YTM"
+      },
+      {
+        "name": "Yuen Long District",
+        "shortCode": "YL"
       }
     ]
   },

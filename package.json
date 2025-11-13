@@ -7,6 +7,11 @@
   "main": "dist/data-umd.js",
   "module": "dist/data.js",
   "typings": "dist/data.d.ts",
+  "exports": {
+    "types": "./dist/data.d.ts",
+    "import": "./dist/data.js",
+    "require": "./dist/data-umd.js"
+  },
   "scripts": {
     "test": "grunt validate",
     "build": "grunt build"

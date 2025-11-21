@@ -109,12 +109,11 @@ https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2
 
 ### Data Validation
 
-Before contributing a PR, please validate the JSON content (if you don't, Travis will catch it for you!). To do that,
-run the following on your command line:
+Before contributing a PR, please validate the JSON content. To do that, run the following on your command line:
 
 ```
 yarn install
-npx grunt validate
+yarn validate
 ```
 
 That'll throw an error if the JSON is invalid or if some duplicate names were accidentally introduced. The error messages
@@ -122,10 +121,12 @@ are pretty clear, I think.
 
 ### Changelog
 
-Note that this repo does _not_ use semantic versioning. I realize that's pretty non-standard, but every change
+Note that this repo does _not_ use strict semantic versioning. I realize that's non-standard, but every change
 to this repo is a dataset change which is technically backward incompatible. So although we could be bumping
-the major version with each release, I think that that would be more problematic: apps can no longer use the `~` and
-`^` chars in their package.json files to get the latest content so updates would be manual and frequent.
+the major version with each release, I think that that would be more problematic: apps can no longer use wildcards (~/^)
+in their package.json files to get the latest content so updates would be manual and frequent. So instead I'm
+reserving major version changes for breaking changes in the exported data model, or anything that would (or may) require
+refactoring how the data is consumed.
 
 - `3.2.0` - Oct 22, 2025 - Hungary, UK, Chile, Norway data updated.
 - `3.1.0` - Oct 29, 2024 - Bahamas, France, Ghana, Palestine and Spain data updated.
@@ -136,10 +137,8 @@ the major version with each release, I think that that would be more problematic
 - `2.6.0` - July 28, 2022 - UK counties updated.
 - `2.5.0` - July 12, 2022 - Czech Republic regions updated.
 - `2.4.0` - Jun 2, 2022 - UK regions updated.
-- `2.3.0` - Apr 29, 2022.
-  - Denmark, Eswatini data updated.
-- `2.2.0` - Mar 12, 2022.
-  - Ukraine, Romania, Mexico data updated.
+- `2.3.0` - Apr 29, 2022 - Denmark, Eswatini data updated.
+- `2.2.0` - Mar 12, 2022 - Ukraine, Romania, Mexico data updated.
 - `2.1.0` - Feb 22, 2022.
   - `countryTuples` named export added to es6 bundle.
   - Data updates for Philippines, Taiwan, Nepal

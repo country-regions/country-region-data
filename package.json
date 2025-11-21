@@ -1,6 +1,6 @@
 {
   "name": "country-region-data",
-  "version": "3.2.0",
+  "version": "4.0.0-rc1",
   "description": "List of countries, regions, and their shortcodes.",
   "author": "Ben Keen",
   "license": "MIT",
@@ -14,7 +14,8 @@
   },
   "scripts": {
     "test": "grunt validate",
-    "build": "grunt build"
+    "build": "grunt build",
+    "findIncomplete": "grunt findIncomplete"
   },
   "repository": {
     "type": "git",

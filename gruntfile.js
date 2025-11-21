@@ -1,5 +1,4 @@
 const _ = require('underscore');
-const libumd = require('libumd');
 
 const findDuplicates = (sourceArray, prop) => {
   const duplicates = [];
@@ -20,6 +19,14 @@ const findDuplicates = (sourceArray, prop) => {
 
 const getCountryNames = (content) =>
   content.map(({ countryName }) => countryName);
+const getCountryShortCodes = (content) =>
+  content.map(({ countryShortCode }) => countryShortCode);
+const getCountryTuples = (content) => {
+  return content.map(({ countryName, countryShortCode }) => [
+    countryName,
+    countryShortCode,
+  ]);
+};
 
 const getJSON = (grunt) => {
   let content = '';
@@ -106,47 +113,70 @@ module.exports = (grunt) => {
     }
   };
 
-  const umdify = () => {
+  const generateJS = (format) => {
     const content = getJSON(grunt);
+    const countryNames = getCountryNames(content);
+    const countryShortCodes = getCountryShortCodes(content);
+    const countryTuples = getCountryTuples(content);
 
-    const output = libumd('return ' + JSON.stringify(content, null, 2) + ';', {
-      globalAlias: 'countryRegionData',
-      indent: 2,
+    const prefix = format === 'esm' ? 'export const' : '    var';
+
+    let jsString = `${prefix} countryNames = ${JSON.stringify(countryNames)};\n`;
+    jsString += `${prefix} countryShortCodes = ${JSON.stringify(countryShortCodes)};\n`;
+    jsString += `${prefix} countryTuples = ${JSON.stringify(countryTuples)};\n`;
+
+    content.map(({ countryName, countryShortCode, regions }) => {
+      jsString += `${prefix} ${countryShortCode} = [\n\t"${countryName}",\n\t"${countryShortCode}",\n\t[\n${regions.map(({ name, shortCode }) => `\t\t["${name}", "${shortCode}"]`).join(',\n')}\n\t]\n];\n`;
     });
 
+    jsString += `${prefix} allCountries = [${countryShortCodes.join(',')}];\n`;
+
+    return { jsString, countryShortCodes };
+  };
+
+  const generateUmdFile = () => {
+    const { jsString, countryShortCodes } = generateJS('umd');
+
+    const fullContent =
+      `(function (root, factory) {
+  if (root === undefined && window !== undefined) root = window;
+  if (typeof define === 'function' && define.amd) {
+    // AMD. Register as an anonymous module unless amdModuleId is set
+    define([], function () {
+      return (root['countryRegionData'] = factory());
+    });
+  } else if (typeof module === 'object' && module.exports) {
+    // Node. Does not work with strict CommonJS, but
+    // only CommonJS-like environments that support module.exports
+    module.exports = factory();
+  } else {
+    root['countryRegionData'] = factory();
+  }
+}(this, function () {\n` +
+      jsString +
+      `\n\nreturn { countryShortCodes, countryNames, countryTuples, allCountries, ${countryShortCodes.join(', ')} };\n\n` +
+      '}));';
+
     const file = 'dist/data-umd.js';
-    grunt.file.write(file, output);
+    grunt.file.write(file, fullContent);
 
     console.log(`UMD module created: ${file}`);
   };
 
-  const es6ify = () => {
-    const content = getJSON(grunt);
-    const countryNames = content.map(({ countryName }) => countryName);
-
-    let output = `export const countryNames = ${JSON.stringify(countryNames)};\n`;
-
-    const countryShortCodes = content.map(
-      ({ countryShortCode }) => countryShortCode
-    );
-    output += `export const countryShortCodes = ${JSON.stringify(countryShortCodes)};\n`;
-
-    content.map(({ countryName, countryShortCode, regions }) => {
-      output += `export const ${countryShortCode} = [\n\t"${countryName}",\n\t"${countryShortCode}",\n\t[\n${regions.map(({ name, shortCode }) => `\t\t["${name}", "${shortCode}"]`).join(',\n')}\n\t]\n];\n`;
-    });
-
-    output += `export const allCountries = [${countryShortCodes.join(',')}];\n`;
-
-    const countryTuples = content.map(({ countryName, countryShortCode }) => [
-      countryName,
-      countryShortCode,
-    ]);
-    output += `export const countryTuples = ${JSON.stringify(countryTuples)};\n`;
+  const generateEsmFile = () => {
+    const { jsString } = generateJS('esm');
 
     const file = 'dist/data.js';
-    grunt.file.write(file, output);
+    grunt.file.write(file, jsString);
 
-    // now generate the corresponding typings file
+    console.log(`ES6 module created: ${file}`);
+  };
+
+  const generateTypings = () => {
+    const content = getJSON(grunt);
+    const countryNames = getCountryNames(content);
+    const countryShortCodes = getCountryShortCodes(content);
+
     let typingsOutput = `declare module 'country-region-data' {
 	export type CountryName = "${countryNames.join('" | "')}";\n`;
     typingsOutput += `\texport type CountrySlug = "${countryShortCodes.join('" | "')}";\n`;
@@ -174,14 +204,17 @@ module.exports = (grunt) => {
 
     const typingsFile = 'dist/data.d.ts';
     grunt.file.write(typingsFile, typingsOutput);
-
-    console.log(`ES6 module created: ${file}`);
   };
 
   grunt.registerTask('default', ['validate']);
   grunt.registerTask('validate', validate);
   grunt.registerTask('findIncomplete', findIncomplete);
-  grunt.registerTask('build', ['umdify', 'es6ify']);
-  grunt.registerTask('umdify', umdify);
-  grunt.registerTask('es6ify', es6ify);
+  grunt.registerTask('build', [
+    'generateUmdFile',
+    'generateEsmFile',
+    'generateTypings',
+  ]);
+  grunt.registerTask('generateUmdFile', generateUmdFile);
+  grunt.registerTask('generateEsmFile', generateEsmFile);
+  grunt.registerTask('generateTypings', generateTypings);
 };

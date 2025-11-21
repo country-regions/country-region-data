@@ -1,128 +1,156 @@
-var _ = require('underscore');
-var libumd = require('libumd');
+const _ = require('underscore');
+const libumd = require('libumd');
 
-var findDuplicates = function (sourceArray, prop) {
-	var duplicates = [];
-	var groupedByCount = _.countBy(sourceArray, function (item) {
-		return item[prop];
-	});
+const findDuplicates = (sourceArray, prop) => {
+  const duplicates = [];
+  const groupedByCount = _.countBy(sourceArray, (item) => item[prop]);
 
-	for (var name in groupedByCount) {
-		if (groupedByCount[name] > 1) {
-			var whereClause = [];
-			whereClause[prop] = name;
-			_.where(sourceArray, whereClause).map(function (item) {
-				duplicates.push(item);
-			});
-		}
-	}
+  for (var name in groupedByCount) {
+    if (groupedByCount[name] > 1) {
+      const whereClause = [];
+      whereClause[prop] = name;
+      _.where(sourceArray, whereClause).map((item) => {
+        duplicates.push(item);
+      });
+    }
+  }
 
-	return _.uniq(_.pluck(duplicates, prop));
+  return _.uniq(_.pluck(duplicates, prop));
 };
 
-var getJSON = function (grunt) {
-	var content = '';
-	try {
-		content = grunt.file.readJSON('data.json');
-	} catch (e) {
-		grunt.fail.fatal('data.json is not valid JSON. Error: ' + e);
-	}
-	return content;
+const getCountryNames = (content) =>
+  content.map(({ countryName }) => countryName);
+
+const getJSON = (grunt) => {
+  let content = '';
+  try {
+    content = grunt.file.readJSON('data.json');
+  } catch (e) {
+    grunt.fail.fatal('data.json is not valid JSON. Error: ' + e);
+  }
+  return content;
 };
 
+module.exports = (grunt) => {
+  const validate = () => {
+    const content = getJSON(grunt);
 
-module.exports = function (grunt) {
+    // check country names and country shortcodes are unique
+    const duplicateCountryNames = findDuplicates(content, 'countryName');
+    if (duplicateCountryNames.length > 0) {
+      grunt.fail.fatal(
+        'The country names are not unique - duplicates: ' +
+          duplicateCountryNames
+      );
+    }
+    const duplicateCountryShortCodes = findDuplicates(
+      content,
+      'countryShortCode'
+    );
+    if (duplicateCountryShortCodes.length > 0) {
+      grunt.fail.fatal(
+        'The country short codes are not unique - duplicates: ' +
+          duplicateCountryShortCodes
+      );
+    }
 
-	function validate () {
-		var content = getJSON(grunt);
+    // now check region names and short codes are unique for each country
+    content.forEach((countryData) => {
+      const duplicateRegionNames = findDuplicates(countryData.regions, 'name');
 
-		// check country names and country shortcodes are unique
-		var duplicateCountryNames = findDuplicates(content, 'countryName');
-		if (duplicateCountryNames.length > 0) {
-			grunt.fail.fatal('The country names are not unique - duplicates: ' + duplicateCountryNames);
-		}
-		var duplicateCountryShortCodes = findDuplicates(content, 'countryShortCode');
-		if (duplicateCountryShortCodes.length > 0) {
-			grunt.fail.fatal('The country short codes are not unique - duplicates: ' + duplicateCountryShortCodes);
-		}
+      if (duplicateRegionNames.length > 0) {
+        grunt.fail.fatal(
+          'The region names for ' +
+            countryData.countryName +
+            ' are not unique - duplicates: ' +
+            duplicateRegionNames
+        );
+      }
+      const duplicateRegionShortCodes = findDuplicates(
+        countryData.regions,
+        'shortCode'
+      );
+      if (duplicateRegionShortCodes.length > 0) {
+        grunt.fail.fatal(
+          'The region names for ' +
+            countryData.countryName +
+            ' are not unique - duplicates: ' +
+            duplicateRegionShortCodes
+        );
+      }
+    });
+    console.log('PASS!');
+  };
 
-		// now check region names and short codes are unique for each country
-		content.forEach(function (countryData) {
-			var duplicateRegionNames = findDuplicates(countryData.regions, 'name');
-			if (duplicateRegionNames.length > 0) {
-				grunt.fail.fatal('The region names for ' + countryData.countryName + ' are not unique - duplicates: ' + duplicateRegionNames);
-			}
-			var duplicateRegionShortCodes = findDuplicates(countryData.regions, 'shortCode');
-			if (duplicateRegionShortCodes.length > 0) {
-				grunt.fail.fatal('The region names for ' + countryData.countryName + ' are not unique - duplicates: ' + duplicateRegionShortCodes);
-			}
-		});
-		console.log('PASS!');
-	}
+  const findIncomplete = () => {
+    const content = getJSON(grunt);
+    const incompleteCountries = [];
 
+    content.forEach((countryData) => {
+      for (var i = 0; i < countryData.regions.length; i++) {
+        if (!_.has(countryData.regions[i], 'shortCode')) {
+          incompleteCountries.push(countryData.countryName);
+          break;
+        }
+      }
+    });
 
-	function findIncomplete () {
-		var content = getJSON(grunt);
+    if (incompleteCountries.length > 0) {
+      console.log(
+        '\nThe following countries are missing region short codes: \n-',
+        incompleteCountries.join('\n- ')
+      );
+      console.log('\n(' + incompleteCountries.length + ' countries)');
+    } else {
+      console.log('All regions now have short codes. Nice!');
+    }
+  };
 
-		var incompleteCountries = [];
-		content.forEach(function (countryData) {
-			for (var i = 0; i < countryData.regions.length; i++) {
-				if (!_.has(countryData.regions[i], 'shortCode')) {
-					incompleteCountries.push(countryData.countryName);
-					break;
-				}
-			}
-		});
+  const umdify = () => {
+    const content = getJSON(grunt);
 
-		if (incompleteCountries.length > 0) {
-			console.log('\nThe following countries are missing region short codes: \n-', incompleteCountries.join('\n- '));
-			console.log('\n(' + incompleteCountries.length + ' countries)');
-		} else {
-			console.log('All regions now have short codes. Nice!');
-		}
-	}
+    const output = libumd('return ' + JSON.stringify(content, null, 2) + ';', {
+      globalAlias: 'countryRegionData',
+      indent: 2,
+    });
 
-	function umdify() {
-		var content = getJSON(grunt);
+    const file = 'dist/data-umd.js';
+    grunt.file.write(file, output);
 
-		var output = libumd('return ' + JSON.stringify(content, null, 2) + ';', {
-			globalAlias: 'countryRegionData',
-			indent: 2
-		});
+    console.log(`UMD module created: ${file}`);
+  };
 
-		const file = 'dist/data-umd.js';
-		grunt.file.write(file, output);
+  const es6ify = () => {
+    const content = getJSON(grunt);
+    const countryNames = content.map(({ countryName }) => countryName);
 
-		console.log(`UMD module created: ${file}`);
-	}
+    let output = `export const countryNames = ${JSON.stringify(countryNames)};\n`;
 
+    const countryShortCodes = content.map(
+      ({ countryShortCode }) => countryShortCode
+    );
+    output += `export const countryShortCodes = ${JSON.stringify(countryShortCodes)};\n`;
 
-	function es6ify() {
-		var content = getJSON(grunt);
+    content.map(({ countryName, countryShortCode, regions }) => {
+      output += `export const ${countryShortCode} = [\n\t"${countryName}",\n\t"${countryShortCode}",\n\t[\n${regions.map(({ name, shortCode }) => `\t\t["${name}", "${shortCode}"]`).join(',\n')}\n\t]\n];\n`;
+    });
 
-		const countryNames = content.map(({ countryName }) => countryName);
-		let output = `export const countryNames = ${JSON.stringify(countryNames)};\n`;
+    output += `export const allCountries = [${countryShortCodes.join(',')}];\n`;
 
-		const countryShortCodes = content.map(({ countryShortCode }) => countryShortCode);
-		output += `export const countryShortCodes = ${JSON.stringify(countryShortCodes)};\n`;
+    const countryTuples = content.map(({ countryName, countryShortCode }) => [
+      countryName,
+      countryShortCode,
+    ]);
+    output += `export const countryTuples = ${JSON.stringify(countryTuples)};\n`;
 
-		content.map(({ countryName, countryShortCode, regions }) => {
-			output += `export const ${countryShortCode} = [\n\t"${countryName}",\n\t"${countryShortCode}",\n\t[\n${regions.map(({ name, shortCode }) => `\t\t["${name}", "${shortCode}"]`).join(",\n")}\n\t]\n];\n`;
-		});
+    const file = 'dist/data.js';
+    grunt.file.write(file, output);
 
-		output += `export const allCountries = [${countryShortCodes.join(",")}];\n`;
-
-		const countryTuples = content.map(({ countryName, countryShortCode }) => [countryName, countryShortCode]);
-		output += `export const countryTuples = ${JSON.stringify(countryTuples)};\n`;
-
-		const file = 'dist/data.js';
-		grunt.file.write(file, output);
-
-		// now generate the corresponding typings file
-		let typingsOutput = `declare module 'country-region-data' {
+    // now generate the corresponding typings file
+    let typingsOutput = `declare module 'country-region-data' {
 	export type CountryName = "${countryNames.join('" | "')}";\n`;
-		typingsOutput += `\texport type CountrySlug = "${countryShortCodes.join('" | "')}";\n`;
-		typingsOutput += `\texport type RegionName = string;
+    typingsOutput += `\texport type CountrySlug = "${countryShortCodes.join('" | "')}";\n`;
+    typingsOutput += `\texport type RegionName = string;
 	export type RegionSlug = string;
 
 	export const countryNames: CountryName[];
@@ -139,19 +167,21 @@ module.exports = function (grunt) {
 	export const allCountries: CountryData[];	
 	export default allCountries;
 `;
-		typingsOutput += countryShortCodes.map((shortCode) => `\texport const ${shortCode}: CountryData;`).join("\n");
-		typingsOutput += '\n}\n';
+    typingsOutput += countryShortCodes
+      .map((shortCode) => `\texport const ${shortCode}: CountryData;`)
+      .join('\n');
+    typingsOutput += '\n}\n';
 
-		const typingsFile = 'dist/data.d.ts';
-		grunt.file.write(typingsFile, typingsOutput);
+    const typingsFile = 'dist/data.d.ts';
+    grunt.file.write(typingsFile, typingsOutput);
 
-		console.log(`ES6 module created: ${file}`);
-	}
+    console.log(`ES6 module created: ${file}`);
+  };
 
-	grunt.registerTask('default', ['validate']);
-	grunt.registerTask('validate', validate);
-	grunt.registerTask('findIncomplete', findIncomplete);
-	grunt.registerTask('build', ['umdify', 'es6ify']);
-	grunt.registerTask('umdify', umdify);
-	grunt.registerTask('es6ify', es6ify);
+  grunt.registerTask('default', ['validate']);
+  grunt.registerTask('validate', validate);
+  grunt.registerTask('findIncomplete', findIncomplete);
+  grunt.registerTask('build', ['umdify', 'es6ify']);
+  grunt.registerTask('umdify', umdify);
+  grunt.registerTask('es6ify', es6ify);
 };

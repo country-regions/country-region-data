@@ -307,7 +307,7 @@ grunt-legacy-util@~2.0.1:
     underscore.string "~3.3.5"
     which "~2.0.2"
 
-grunt@^1.1.0:
+grunt@^1.6.1:
   version "1.6.1"
   resolved "https://registry.yarnpkg.com/grunt/-/grunt-1.6.1.tgz#0b4dd1524f26676dcf45d8f636b8d9061a8ede16"
   integrity sha512-/ABUy3gYWu5iBmrUSRBP97JLpQUm0GgVveDCp6t3yRNIoltIYw7rEj3g5y1o2PGPR2vfTRGa7WC/LZHLTXnEzA==
@@ -473,10 +473,10 @@ kind-of@^6.0.2:
   resolved "https://registry.yarnpkg.com/kind-of/-/kind-of-6.0.3.tgz#07c05034a6c349fa06e24fa35aa76db4580ce4dd"
   integrity sha512-dcS1ul+9tmeD95T+x28/ehLgd9mENa3LsvDTtzm3vyBEO7RPptvAD+t44WVXaUjTBRcrpFeFlC8WCruUR456hw==
 
-libumd@^0.7.0:
-  version "0.7.0"
-  resolved "https://registry.yarnpkg.com/libumd/-/libumd-0.7.0.tgz#f43efae6ad984ce4928c1f356f519d12ec8f9b76"
-  integrity sha512-4LW+Phke45d0V2rsQ7BfL4MaLWSsjRRLB7zLRxKnEo9ptM1ho1vvWZuvX060T92xDuvEDpG88nDci29T4PYVIA==
+libumd@^0.9.0:
+  version "0.9.0"
+  resolved "https://registry.yarnpkg.com/libumd/-/libumd-0.9.0.tgz#393451f27524d92a68a9df2d4a4303294d561ad8"
+  integrity sha512-PU5h//kVK280bmayTQiuD2uxG9qY6DOk2zx/9xi93vhC5zCqow5mQn9wUSCBIUqycKFAUrk7T1sEC4wlxACtMQ==
   dependencies:
     alphabet "^1.0.0"
     annois "^0.3.2"
@@ -747,7 +747,7 @@ underscore.string@~3.3.5:
     sprintf-js "^1.1.1"
     util-deprecate "^1.0.2"
 
-underscore@^1.8.3:
+underscore@^1.13.7:
   version "1.13.7"
   resolved "https://registry.yarnpkg.com/underscore/-/underscore-1.13.7.tgz#970e33963af9a7dda228f17ebe8399e5fbe63a10"
   integrity sha512-GMXzWtsc57XAtguZgaQViUOzs0KTkk8ojr3/xAxXLITqf/3EMwxC0inyETfDFjH/Krbhuep0HNbbjI9i/q3F3g==

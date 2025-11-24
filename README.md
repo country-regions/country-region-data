@@ -1,6 +1,6 @@
 # country-region-data
 
-This repo provides country and region data in three different formats: es6, UMD (Unified Module Definition) and
+This repo provides country and region data in three different formats: ESM, UMD (Unified Module Definition) and
 plain JSON. The data contains country names, country short codes, country regions, and country region short
 codes. All country names and short codes are guaranteed to be unique. Similarly, all regions and region short
 codes _within a single country_ are guaranteed to be unique.
@@ -52,13 +52,13 @@ dist/data.js
 dist/data-umd.js
 ```
 
-The first one is an es6 file containing all the data in tree-shakeable format; the second is a UMD file containing the
-entire content. As of 3.0.0, the `main` package.json entry links to the UMD format and the `module` entry
-links to the es6 format.
+The first one is an ESM file containing all the data in tree-shakeable format; the second is a UMD file containing the
+same content. As of 3.0.0, the `main` package.json entry links to the UMD format and the `module` entry
+links to the ESM format.
 
 ### How to use
 
-The es6 file can be imported like so:
+The ESM file can be imported like so:
 
 ```jsx harmony
 import { allCountries } from 'country-region-data';
@@ -80,13 +80,13 @@ The raw JSON like this:
 const json = require('country-region-data/data.json');
 ```
 
-Note I slipped into CJS there - node lets you read JSON files by default, so if you want in es6 format (`import json from X`),
+Note I slipped into CJS there - node lets you read JSON files by default, so if you want in ESM format (`import json from X`),
 you'll need to configure your system (webpack, rollup etc.) with a loader/plugin to let it read JSON directly.
 
 ### Typings
 
-There are three different formats for the repo data: JSON, UMD and ES6. I figure es6 is going to be the most likely
-used format, so the generated typings file (`dist/data.d.ts`) is for the es6 version, and referenced in the "typings"
+There are three different formats for the repo data: JSON, UMD and ESM. I figure ESM is going to be the most likely
+used format, so the generated typings file (`dist/data.d.ts`) is for the ESM version, and referenced in the "typings"
 property in the package.json file. It should be automatically picked up by your IDEs.
 
 There are no typings for the UMD or JSON format.
@@ -128,10 +128,13 @@ in their package.json files to get the latest content so updates would be manual
 reserving major version changes for breaking changes in the exported data model, or anything that would (or may) require
 refactoring how the data is consumed.
 
+- `4.0.0` - Nov 23, 2025 - Thanks [mattrubin](https://github.com/mattrubin)!
+- **Breaking change**: the UMD export format has now been standardized to the same as ESM. This was incorrect in v3.x, so the
+  typings for the UMD version were previously incorrect.
 - `3.2.0` - Oct 22, 2025 - Hungary, UK, Chile, Norway data updated.
 - `3.1.0` - Oct 29, 2024 - Bahamas, France, Ghana, Palestine and Spain data updated.
 - `3.0.0` - Aug 13, 2023 - Spain, Cayman Islands, Zambia, Romania, Nigeria, Philippines, Pakistan regions and shortcode updates.
-  - **Breaking change**: the package.json file for this repo now added a `module` entry to link to the es6 format; the older
+  - **Breaking change**: the package.json file for this repo now added a `module` entry to link to the ESM format; the older
     `main` entry links to the older UMD format. This should work for all bundlers, but let us know if you encounter problems.
 - `2.7.0` - Dec 28, 2022 - Romanian regions and shortcodes updated.
 - `2.6.0` - July 28, 2022 - UK counties updated.
@@ -140,10 +143,10 @@ refactoring how the data is consumed.
 - `2.3.0` - Apr 29, 2022 - Denmark, Eswatini data updated.
 - `2.2.0` - Mar 12, 2022 - Ukraine, Romania, Mexico data updated.
 - `2.1.0` - Feb 22, 2022.
-  - `countryTuples` named export added to es6 bundle.
+  - `countryTuples` named export added to ESM bundle.
   - Data updates for Philippines, Taiwan, Nepal
 - `2.0.0` - Jan 4, 2022.
-  - New export formats: es6 (default) as well as the old UMD and JSON.
+  - New export formats: ESM (default) as well as the old UMD and JSON.
   - Data updates for France, Bolivia, Vietnam.
 - `1.11.0` - Sept 22, 2021. Data updates: Vietnam. Thanks [barnett](https://github.com/barnett)!
 - `1.10.0` - Aug 10, 2021. Data updates: India, Nepal, Moldova regions. Thanks all!

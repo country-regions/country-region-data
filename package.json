@@ -1,6 +1,6 @@
 {
   "name": "country-region-data",
-  "version": "4.0.0-rc2",
+  "version": "4.0.0",
   "description": "List of countries, regions, and their shortcodes.",
   "author": "Ben Keen",
   "license": "MIT",
@@ -12,7 +12,7 @@
     ".": {
       "types": "./dist/data.d.ts",
       "require": "./dist/data-umd.js",
-      "import": "./dist/index.js"
+      "import": "./dist/data.js"
     }
   },
   "scripts": {

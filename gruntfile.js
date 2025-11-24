@@ -169,7 +169,7 @@ module.exports = (grunt) => {
     const file = 'dist/data.js';
     grunt.file.write(file, jsString);
 
-    console.log(`ES6 module created: ${file}`);
+    console.log(`ESM module created: ${file}`);
   };
 
   const generateTypings = () => {

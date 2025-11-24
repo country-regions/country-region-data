@@ -68,20 +68,15 @@ If you're using typescript you'll get all the typings and see the structure of t
 check your node_modules/country-region-data/dist folder and look at the `data.d.ts` file to get the full list of exported
 information.
 
-The UMD file can be used like this:
-
-```jsx harmony
-import countryRegionData from 'country-region-data/dist/data-umd';
-```
-
-The raw JSON like this:
+The raw JSON can be used like this:
 
 ```jsx harmony
 const json = require('country-region-data/data.json');
 ```
 
-Note I slipped into CJS there - node lets you read JSON files by default, so if you want in ESM format (`import json from X`),
-you'll need to configure your system (webpack, rollup etc.) with a loader/plugin to let it read JSON directly.
+Note I slipped into CJS there - node lets you read JSON files by default, so if you want in ESM to import the file
+you'll need to configure your system (webpack, rollup etc.) with a loader/plugin to let it read JSON directly. Or for TS,
+ensure your tsconfig.json file permits it.
 
 ### Typings
 

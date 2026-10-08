@@ -4576,8 +4576,16 @@
         "shortCode": "OR"
       },
       {
+        "name": "Sidama",
+        "shortCode": "SI"
+      },
+      {
         "name": "Somali",
         "shortCode": "SO"
+      },
+      {
+        "name": "South West Ethiopia Peoples",
+        "shortCode": "SW"
       },
       {
         "name": "Southern Nations Nationalities and People's Region",
@@ -6932,67 +6940,84 @@
     "countryShortCode": "KZ",
     "regions": [
       {
+        "name": "Abay",
+        "shortCode": "10"
+      },
+      {
         "name": "Almaty",
-        "shortCode": "ALA"
+        "shortCode": "75"
+      },
+      {
+        "name": "Almaty oblysy",
+        "shortCode": "19"
       },
       {
         "name": "Aqmola",
-        "shortCode": "AKM"
+        "shortCode": "11"
       },
       {
         "name": "Aqtobe",
-        "shortCode": "AKT"
+        "shortCode": "15"
       },
       {
         "name": "Astana",
-        "shortCode": "AST"
+        "shortCode": "71"
       },
       {
         "name": "Atyrau",
-        "shortCode": "ATY"
+        "shortCode": "23"
       },
       {
         "name": "Batys Qazaqstan",
-        "shortCode": "ZAP"
-      },
-      {
-        "name": "Bayqongyr"
+        "shortCode": "27"
       },
       {
         "name": "Mangghystau",
-        "shortCode": "MAN"
-      },
-      {
-        "name": "Ongtustik Qazaqstan",
-        "shortCode": "YUZ"
+        "shortCode": "47"
       },
       {
         "name": "Pavlodar",
-        "shortCode": "PAV"
+        "shortCode": "55"
       },
       {
         "name": "Qaraghandy",
-        "shortCode": "KAR"
+        "shortCode": "35"
       },
       {
         "name": "Qostanay",
-        "shortCode": "KUS"
+        "shortCode": "39"
       },
       {
         "name": "Qyzylorda",
-        "shortCode": "KZY"
+        "shortCode": "43"
       },
       {
         "name": "Shyghys Qazaqstan",
-        "shortCode": "VOS"
+        "shortCode": "63"
+      },
+      {
+        "name": "Shymkent",
+        "shortCode": "79"
       },
       {
         "name": "Soltustik Qazaqstan",
-        "shortCode": "SEV"
+        "shortCode": "59"
+      },
+      {
+        "name": "Turkistan",
+        "shortCode": "61"
+      },
+      {
+        "name": "Ulytau",
+        "shortCode": "62"
       },
       {
         "name": "Zhambyl",
-        "shortCode": "ZHA"
+        "shortCode": "31"
+      },
+      {
+        "name": "Zhetisu",
+        "shortCode": "33"
       }
     ]
   },
@@ -8466,7 +8491,7 @@
     ]
   },
   {
-    "countryName": "Macedonia, Republic of",
+    "countryName": "North Macedonia",
     "countryShortCode": "MK",
     "regions": [
       {
@@ -11066,7 +11091,7 @@
     "regions": [
       {
         "name": "Agder",
-        "shortCode": "09"
+        "shortCode": "42"
       },
       {
         "name": "Innlandet",

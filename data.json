@@ -85,7 +85,7 @@
       },
       {
         "name": "Logar",
-        "shortCode": "LOW"
+        "shortCode": "LOG"
       },
       {
         "name": "Maidan Wardak",
@@ -133,7 +133,7 @@
       },
       {
         "name": "Urozgan",
-        "shortCode": "ORU"
+        "shortCode": "URU"
       },
       {
         "name": "Zabul",
@@ -294,6 +294,10 @@
         "shortCode": "05"
       },
       {
+        "name": "Bordj Badji Mokhtar",
+        "shortCode": "50"
+      },
+      {
         "name": "Béchar",
         "shortCode": "08"
       },
@@ -322,6 +326,10 @@
         "shortCode": "35"
       },
       {
+        "name": "Béni Abbès",
+        "shortCode": "52"
+      },
+      {
         "name": "Chlef",
         "shortCode": "02"
       },
@@ -330,12 +338,24 @@
         "shortCode": "25"
       },
       {
+        "name": "Djanet",
+        "shortCode": "56"
+      },
+      {
         "name": "Djelfa",
         "shortCode": "17"
       },
       {
         "name": "El Bayadh",
         "shortCode": "32"
+      },
+      {
+        "name": "El Meghaier",
+        "shortCode": "57"
+      },
+      {
+        "name": "El Meniaa",
+        "shortCode": "58"
       },
       {
         "name": "El Oued",
@@ -356,6 +376,14 @@
       {
         "name": "Illizi",
         "shortCode": "33"
+      },
+      {
+        "name": "In Guezzam",
+        "shortCode": "54"
+      },
+      {
+        "name": "In Salah",
+        "shortCode": "53"
       },
       {
         "name": "Jijel",
@@ -402,6 +430,10 @@
         "shortCode": "30"
       },
       {
+        "name": "Ouled Djellal",
+        "shortCode": "51"
+      },
+      {
         "name": "Oum el Bouaghi",
         "shortCode": "04"
       },
@@ -432,6 +464,14 @@
       {
         "name": "Tamanghasset",
         "shortCode": "11"
+      },
+      {
+        "name": "Timimoun",
+        "shortCode": "49"
+      },
+      {
+        "name": "Touggourt",
+        "shortCode": "55"
       },
       {
         "name": "Tébessa",
@@ -1119,7 +1159,7 @@
       },
       {
         "name": "Bakı",
-        "shortCode": "BAK"
+        "shortCode": "BA"
       },
       {
         "name": "Babək",
@@ -1542,10 +1582,6 @@
         "shortCode": "15"
       },
       {
-        "name": "Al Wusţá",
-        "shortCode": "16"
-      },
-      {
         "name": "Ash Shamālīyah",
         "shortCode": "17"
       }
@@ -1573,7 +1609,7 @@
       },
       {
         "name": "Mymensingh",
-        "shortCode": "M"
+        "shortCode": "H"
       },
       {
         "name": "Rajshahi",
@@ -2556,6 +2592,10 @@
         "shortCode": "NG"
       },
       {
+        "name": "Rumonge",
+        "shortCode": "RM"
+      },
+      {
         "name": "Rutana",
         "shortCode": "RT"
       },
@@ -2929,7 +2969,7 @@
       },
       {
         "name": "Nana-Grebizi",
-        "shortCode": "10"
+        "shortCode": "KB"
       },
       {
         "name": "Nana-Mambéré",
@@ -3014,8 +3054,12 @@
         "shortCode": "LR"
       },
       {
-        "name": "Mondoul",
+        "name": "Mandoul",
         "shortCode": "MA"
+      },
+      {
+        "name": "Mayo-Kébbi-Ouest",
+        "shortCode": "MO"
       },
       {
         "name": "Mayo-Kébbi-Est",
@@ -4026,6 +4070,10 @@
         "shortCode": "DI"
       },
       {
+        "name": "Djibouti",
+        "shortCode": "DJ"
+      },
+      {
         "name": "Obock",
         "shortCode": "OB"
       },
@@ -4290,10 +4338,6 @@
         "shortCode": "GZ"
       },
       {
-        "name": "Helwan",
-        "shortCode": "HU"
-      },
-      {
         "name": "Kafr El Sheikh",
         "shortCode": "KFS"
       },
@@ -4332,10 +4376,6 @@
       {
         "name": "Sharqia",
         "shortCode": "SHR"
-      },
-      {
-        "name": "Sixth of October",
-        "shortCode": "SU"
       },
       {
         "name": "Sohag",
@@ -5915,7 +5955,7 @@
       },
       {
         "name": "Chhattisgarh",
-        "shortCode": "CT"
+        "shortCode": "CG"
       },
       {
         "name": "Dadra and Nagar Haveli and Daman and Diu",
@@ -5991,7 +6031,7 @@
       },
       {
         "name": "Odisha",
-        "shortCode": "OR"
+        "shortCode": "OD"
       },
       {
         "name": "Puducherry",
@@ -6015,7 +6055,7 @@
       },
       {
         "name": "Telangana",
-        "shortCode": "TG"
+        "shortCode": "TS"
       },
       {
         "name": "Tripura",
@@ -6023,7 +6063,7 @@
       },
       {
         "name": "Uttarakhand",
-        "shortCode": "UT"
+        "shortCode": "UK"
       },
       {
         "name": "Uttar Pradesh",
@@ -6179,39 +6219,39 @@
     "regions": [
       {
         "name": "Alborz",
-        "shortCode": "32"
+        "shortCode": "30"
       },
       {
         "name": "Ardabīl",
-        "shortCode": "03"
+        "shortCode": "24"
       },
       {
         "name": "Āz̄arbāyjān-e Gharbī",
-        "shortCode": "02"
-      },
-      {
-        "name": "Āz̄arbāyjān-e Sharqī",
-        "shortCode": "01"
-      },
-      {
-        "name": "Būshehr",
-        "shortCode": "06"
-      },
-      {
-        "name": "Chahār Maḩāl va Bakhtīārī",
-        "shortCode": "08"
-      },
-      {
-        "name": "Eşfahān",
         "shortCode": "04"
       },
       {
-        "name": "Fārs",
+        "name": "Āz̄arbāyjān-e Sharqī",
+        "shortCode": "03"
+      },
+      {
+        "name": "Būshehr",
+        "shortCode": "18"
+      },
+      {
+        "name": "Chahār Maḩāl va Bakhtīārī",
         "shortCode": "14"
       },
       {
+        "name": "Eşfahān",
+        "shortCode": "10"
+      },
+      {
+        "name": "Fārs",
+        "shortCode": "07"
+      },
+      {
         "name": "Gīlān",
-        "shortCode": "19"
+        "shortCode": "01"
       },
       {
         "name": "Golestān",
@@ -6219,23 +6259,23 @@
       },
       {
         "name": "Hamadān",
-        "shortCode": "24"
+        "shortCode": "13"
       },
       {
         "name": "Hormozgān",
-        "shortCode": "23"
+        "shortCode": "22"
       },
       {
         "name": "Īlām",
-        "shortCode": "05"
+        "shortCode": "16"
       },
       {
         "name": "Kermān",
-        "shortCode": "15"
+        "shortCode": "08"
       },
       {
         "name": "Kermānshāh",
-        "shortCode": "17"
+        "shortCode": "05"
       },
       {
         "name": "Khorāsān-e Jonūbī",
@@ -6243,63 +6283,63 @@
       },
       {
         "name": "Khorāsān-e Raẕavī",
-        "shortCode": "30"
+        "shortCode": "09"
       },
       {
         "name": "Khorāsān-e Shomālī",
-        "shortCode": "61"
-      },
-      {
-        "name": "Khūzestān",
-        "shortCode": "10"
-      },
-      {
-        "name": "Kohgīlūyeh va Bowyer Aḩmad",
-        "shortCode": "18"
-      },
-      {
-        "name": "Kordestān",
-        "shortCode": "16"
-      },
-      {
-        "name": "Lorestān",
-        "shortCode": "20"
-      },
-      {
-        "name": "Markazi",
-        "shortCode": "22"
-      },
-      {
-        "name": "Māzandarān",
-        "shortCode": "21"
-      },
-      {
-        "name": "Qazvīn",
         "shortCode": "28"
       },
       {
-        "name": "Qom",
-        "shortCode": "26"
+        "name": "Khūzestān",
+        "shortCode": "06"
       },
       {
-        "name": "Semnān",
+        "name": "Kohgīlūyeh va Bowyer Aḩmad",
+        "shortCode": "17"
+      },
+      {
+        "name": "Kordestān",
         "shortCode": "12"
       },
       {
-        "name": "Sīstān va Balūchestān",
-        "shortCode": "13"
+        "name": "Lorestān",
+        "shortCode": "15"
       },
       {
-        "name": "Tehrān",
-        "shortCode": "07"
+        "name": "Markazi",
+        "shortCode": "00"
       },
       {
-        "name": "Yazd",
+        "name": "Māzandarān",
+        "shortCode": "02"
+      },
+      {
+        "name": "Qazvīn",
+        "shortCode": "26"
+      },
+      {
+        "name": "Qom",
         "shortCode": "25"
       },
       {
-        "name": "Zanjān",
+        "name": "Semnān",
+        "shortCode": "20"
+      },
+      {
+        "name": "Sīstān va Balūchestān",
         "shortCode": "11"
+      },
+      {
+        "name": "Tehrān",
+        "shortCode": "23"
+      },
+      {
+        "name": "Yazd",
+        "shortCode": "21"
+      },
+      {
+        "name": "Zanjān",
+        "shortCode": "19"
       }
     ]
   },
@@ -7330,8 +7370,16 @@
         "shortCode": "05"
       },
       {
+        "name": "Kaeseong",
+        "shortCode": "15"
+      },
+      {
         "name": "Kangwon-do (Kangwon Province)",
         "shortCode": "07"
+      },
+      {
+        "name": "Nampho",
+        "shortCode": "14"
       },
       {
         "name": "Nasŏn (Najin-Sŏnbong)",
@@ -8263,7 +8311,7 @@
       },
       {
         "name": "Al Kufrah",
-        "shortCode": "FK"
+        "shortCode": "KF"
       },
       {
         "name": "Al Marj",
@@ -8295,7 +8343,7 @@
       },
       {
         "name": "Ghāt",
-        "shortCode": "GH"
+        "shortCode": "GT"
       },
       {
         "name": "Mişrātah",
@@ -10158,6 +10206,10 @@
         "shortCode": "064"
       },
       {
+        "name": "Hentiy",
+        "shortCode": "039"
+      },
+      {
         "name": "Hovd",
         "shortCode": "043"
       },
@@ -10194,8 +10246,8 @@
         "shortCode": "046"
       },
       {
-        "name": "Erdenet",
-        "shortCode": "074"
+        "name": "Orhon",
+        "shortCode": "035"
       }
     ]
   },
@@ -10278,6 +10330,14 @@
       {
         "name": "Rožaje",
         "shortCode": "17"
+      },
+      {
+        "name": "Tuzi",
+        "shortCode": "24"
+      },
+      {
+        "name": "Zeta",
+        "shortCode": "25"
       },
       {
         "name": "Šavnik",
@@ -11224,10 +11284,6 @@
       {
         "name": "Sindh",
         "shortCode": "SD"
-      },
-      {
-        "name": "Federally Administered Tribal Areas",
-        "shortCode": "TA"
       }
     ]
   },
@@ -11412,6 +11468,10 @@
         "shortCode": "7"
       },
       {
+        "name": "Naso Tjër Di",
+        "shortCode": "NT"
+      },
+      {
         "name": "Ngäbe-Buglé",
         "shortCode": "NB"
       },
@@ -11475,7 +11535,7 @@
       },
       {
         "name": "Madang",
-        "shortCode": "MOM"
+        "shortCode": "MPM"
       },
       {
         "name": "Manus",
@@ -11569,7 +11629,7 @@
       },
       {
         "name": "Boqueron",
-        "shortCode": "17"
+        "shortCode": "19"
       },
       {
         "name": "Guaira",
@@ -12200,6 +12260,10 @@
         "shortCode": "MS"
       },
       {
+        "name": "Ash Shīḩānīyah",
+        "shortCode": "SH"
+      },
+      {
         "name": "Az̧ Za̧`āyin",
         "shortCode": "ZA"
       },
@@ -12470,7 +12534,7 @@
       },
       {
         "name": "Jewish Autonomous Oblast",
-        "shortCode": "JEW"
+        "shortCode": "YEV"
       },
       {
         "name": "Kabardino-Balkar Republic",
@@ -12478,7 +12542,7 @@
       },
       {
         "name": "Kaliningrad Oblast",
-        "shortCode": "KLN"
+        "shortCode": "KGD"
       },
       {
         "name": "Republic of Kalmykia",
@@ -12574,7 +12638,7 @@
       },
       {
         "name": "Murmansk Oblast",
-        "shortCode": "MU"
+        "shortCode": "MUR"
       },
       {
         "name": "Nenets Autonomous Okrug",
@@ -12650,7 +12714,7 @@
       },
       {
         "name": "Republic of North Ossetia-Alania",
-        "shortCode": "NOA"
+        "shortCode": "SE"
       },
       {
         "name": "Smolensk Oblast",
@@ -12678,7 +12742,7 @@
       },
       {
         "name": "Tuva Republic",
-        "shortCode": "TU"
+        "shortCode": "TY"
       },
       {
         "name": "Tula Oblast",
@@ -13312,6 +13376,14 @@
         "shortCode": "14"
       },
       {
+        "name": "Ile Perseverance I",
+        "shortCode": "26"
+      },
+      {
+        "name": "Ile Perseverance II",
+        "shortCode": "27"
+      },
+      {
         "name": "La Digue",
         "shortCode": "15"
       },
@@ -13364,6 +13436,10 @@
       {
         "name": "Eastern",
         "shortCode": "E"
+      },
+      {
+        "name": "North Western",
+        "shortCode": "NW"
       },
       {
         "name": "Northern",
@@ -13459,6 +13535,10 @@
       {
         "name": "Ajdovscina",
         "shortCode": "001"
+      },
+      {
+        "name": "Ankaran",
+        "shortCode": "213"
       },
       {
         "name": "Apace",
@@ -13685,6 +13765,10 @@
         "shortCode": "041"
       },
       {
+        "name": "Jezersko",
+        "shortCode": "163"
+      },
+      {
         "name": "Jursinci",
         "shortCode": "042"
       },
@@ -13889,6 +13973,10 @@
         "shortCode": "080"
       },
       {
+        "name": "Muta",
+        "shortCode": "081"
+      },
+      {
         "name": "Naklo",
         "shortCode": "082"
       },
@@ -13907,6 +13995,10 @@
       {
         "name": "Odranci",
         "shortCode": "086"
+      },
+      {
+        "name": "Oplotnica",
+        "shortCode": "171"
       },
       {
         "name": "Ormoz",
@@ -13945,6 +14037,10 @@
         "shortCode": "200"
       },
       {
+        "name": "Polzela",
+        "shortCode": "173"
+      },
+      {
         "name": "Postojna",
         "shortCode": "094"
       },
@@ -13963,6 +14059,10 @@
       {
         "name": "Ptuj",
         "shortCode": "096"
+      },
+      {
+        "name": "Puconci",
+        "shortCode": "097"
       },
       {
         "name": "Race-Fram",
@@ -14484,7 +14584,7 @@
     "regions": [
       {
         "name": "Central Equatoria",
-        "shortCode": "CE"
+        "shortCode": "EC"
       },
       {
         "name": "Eastern Equatoria",
@@ -15329,12 +15429,20 @@
         "shortCode": "03"
       },
       {
+        "name": "Geita",
+        "shortCode": "27"
+      },
+      {
         "name": "Iringa",
         "shortCode": "04"
       },
       {
         "name": "Kagera",
         "shortCode": "05"
+      },
+      {
+        "name": "Katavi",
+        "shortCode": "28"
       },
       {
         "name": "Kigoma",
@@ -15373,6 +15481,10 @@
         "shortCode": "18"
       },
       {
+        "name": "Njombe",
+        "shortCode": "29"
+      },
+      {
         "name": "Pemba North",
         "shortCode": "06"
       },
@@ -15393,8 +15505,16 @@
         "shortCode": "22"
       },
       {
+        "name": "Simiyu",
+        "shortCode": "30"
+      },
+      {
         "name": "Singida",
         "shortCode": "23"
+      },
+      {
+        "name": "Songwe",
+        "shortCode": "31"
       },
       {
         "name": "Tabora",
@@ -15972,6 +16092,10 @@
         "shortCode": "33"
       },
       {
+        "name": "La Manouba",
+        "shortCode": "14"
+      },
+      {
         "name": "Mahdia",
         "shortCode": "53"
       },
@@ -16424,7 +16548,7 @@
       },
       {
         "name": "Vaitupu",
-        "shortCode": "VAU"
+        "shortCode": "VAI"
       }
     ]
   },
@@ -18453,10 +18577,6 @@
         "shortCode": "63"
       },
       {
-        "name": "Hà Tây",
-        "shortCode": "15"
-      },
-      {
         "name": "Hà Tĩnh",
         "shortCode": "23"
       },
@@ -18721,6 +18841,10 @@
       {
         "name": "'Adan",
         "shortCode": "AD"
+      },
+      {
+        "name": "Arkhabīl Suquţrá",
+        "shortCode": "SU"
       },
       {
         "name": "Aḑ Ḑāli'",

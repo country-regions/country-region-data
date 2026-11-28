@@ -6176,12 +6176,32 @@
         "shortCode": "PB"
       },
       {
+        "name": "Papua Barat Daya",
+        "shortCode": "PD"
+      },
+      {
+        "name": "Papua Pegunungan",
+        "shortCode": "PE"
+      },
+      {
+        "name": "Papua Selatan",
+        "shortCode": "PS"
+      },
+      {
+        "name": "Papua Tengah",
+        "shortCode": "PT"
+      },
+      {
         "name": "Riau",
         "shortCode": "RI"
       },
       {
-        "name": "Sulawesi Selatan",
+        "name": "Sulawesi Barat",
         "shortCode": "SR"
+      },
+      {
+        "name": "Sulawesi Selatan",
+        "shortCode": "SN"
       },
       {
         "name": "Sulawesi Tengah",
